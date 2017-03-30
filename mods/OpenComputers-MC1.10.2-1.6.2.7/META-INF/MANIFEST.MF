@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePlugin: li.cil.oc.common.launch.TransformerLoader
+FMLCorePluginContainsFMLMod: true
+FMLAT: oc_at.cfg
+

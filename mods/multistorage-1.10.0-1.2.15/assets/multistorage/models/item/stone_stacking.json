@@ -1,0 +1,11 @@
+{
+    "parent": "multistorage:block/stacking_inv",
+    "textures": {
+        "particle": "multistorage:blocks/stacking/stone_back_single",
+        "top": "multistorage:blocks/stacking/stone_top-bottom",
+        "front": "multistorage:blocks/stacking/stone_front_single",
+        "back": "multistorage:blocks/stacking/stone_back_single",
+        "side": "multistorage:blocks/stacking/stone_side_single",
+        "doors": "multistorage:blocks/stacking/stone_doors_single"
+    }
+}

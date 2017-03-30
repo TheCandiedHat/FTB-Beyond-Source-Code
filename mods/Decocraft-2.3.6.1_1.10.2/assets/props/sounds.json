@@ -1,0 +1,38 @@
+{
+  "deco_baconsizzle": {
+    "category": "decocraft",
+    "sounds": [
+      {
+        "name": "props:SizzlingBacon",
+        "stream": true
+      }
+    ]
+  },
+  "deco_firealarm": {
+    "category": "decocraft",
+    "sounds": [
+      {
+        "name": "props:firealarm",
+        "stream": true
+      }
+    ]
+  },
+  "deco_heartmon": {
+    "category": "decocraft",
+    "sounds": [
+      {
+        "name": "props:HeartMonitor",
+        "stream": true
+      }
+    ]
+  },
+  "deco_iseethelight": {
+    "category": "decocraft",
+    "sounds": [
+      {
+        "name": "props:ISeeTheLight",
+        "stream": true
+      }
+    ]
+  }
+}

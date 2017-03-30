@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=normal": { "model": "environmentaltech:alabaster_normal" },
+        "type=paver": { "model": "environmentaltech:alabaster_paver" },
+        "type=bricks": { "model": "environmentaltech:alabaster_bricks" },
+        "type=tiles": { "model": "environmentaltech:alabaster_tiles" }
+    }
+}

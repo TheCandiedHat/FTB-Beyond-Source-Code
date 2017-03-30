@@ -1,0 +1,8 @@
+{
+    "id": "minecraft:diorite",
+    "blocks": {
+        "stairs": "quark:stone_diorite_stairs",
+        "slab": "quark:stone_diorite_slab",
+        "wall": { "id": "quark:stone_diorite_wall", "meta": 0 }
+    }
+}

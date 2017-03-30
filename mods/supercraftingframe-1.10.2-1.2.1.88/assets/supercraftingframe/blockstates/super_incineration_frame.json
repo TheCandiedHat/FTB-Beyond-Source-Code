@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=east,placement=wall":  { "model": "supercraftingframe:incineration_frame", "y": 90 },
+    "facing=west,placement=wall":  { "model": "supercraftingframe:incineration_frame", "y": 270 },
+    "facing=south,placement=wall": { "model": "supercraftingframe:incineration_frame", "y": 180 },
+    "facing=north,placement=wall": { "model": "supercraftingframe:incineration_frame" },
+    "facing=east,placement=ceiling":  { "model": "supercraftingframe:incineration_frame", "x": 270, "y": 90 },
+    "facing=west,placement=ceiling":  { "model": "supercraftingframe:incineration_frame", "x": 270, "y": 270 },
+    "facing=south,placement=ceiling": { "model": "supercraftingframe:incineration_frame", "x": 270, "y": 180 },
+    "facing=north,placement=ceiling": { "model": "supercraftingframe:incineration_frame", "x": 270 },
+    "facing=east,placement=floor":  { "model": "supercraftingframe:incineration_frame", "x": 90, "y": 90 },
+    "facing=west,placement=floor":  { "model": "supercraftingframe:incineration_frame", "x": 90, "y": 270 },
+    "facing=south,placement=floor": { "model": "supercraftingframe:incineration_frame", "x": 90, "y": 180 },
+    "facing=north,placement=floor": { "model": "supercraftingframe:incineration_frame", "x": 90 },
+    "inventory": { "model": "supercraftingframe:incineration_frame" }
+  }
+}

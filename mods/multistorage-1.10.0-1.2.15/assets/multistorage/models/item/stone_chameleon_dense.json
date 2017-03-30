@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "multistorage:blocks/chameleon_stone_dense"
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Carved Oak Wood",
+	"id": "quark:carved_oak_wood",
+	"type": "wood",
+	"hardness": 2.0,
+	"resistance": 5.0,
+	"textures": "quark:blocks/carved_oak_wood",
+	"blocks": {
+		"full": { "id": "quark:carved_wood", "meta": 0 }
+	}
+}

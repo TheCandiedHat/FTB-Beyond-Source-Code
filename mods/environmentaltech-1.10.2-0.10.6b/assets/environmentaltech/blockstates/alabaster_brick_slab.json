@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+	"parent": "block/cube_all",
+    "model": "minecraft:half_slab",
+    "textures": {
+      "all": "environmentaltech:blocks/alabaster_bricks",
+      "bottom": "environmentaltech:blocks/alabaster_bricks",
+      "top": "environmentaltech:blocks/alabaster_bricks",
+      "side": "environmentaltech:blocks/alabaster_bricks"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "half=top,prop=normal": [{
+      "x": 180,
+      "uvlock": true
+    }],
+    "half=bottom,prop=normal": [{}],
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: HelpFixer
+Implementation-Version: 1.4.15
+Minecraft-Version: 1.10.2
+Built-By: Matthew
+Forge-Version: 12.18.1.2045
+Created-By: 1.8.0_92 + (Oracle Corporation)
+

@@ -1,0 +1,21 @@
+[
+{
+  "modid": "quantumstorage",
+  "name": "QuantumStorage",
+  "description": "",
+  "version": "3.2.19",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Gigabit101"
+    
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

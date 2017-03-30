@@ -1,0 +1,19 @@
+[
+{
+  "modId": "unidict",
+  "name": "UniDict",
+  "description": "a mod about unifying all the things.",
+  "version": "2.7",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com/projects/unidict",
+  "updateUrl": "",
+  "authorList": ["WanionCane"],
+  "credits": "Mojang for creating Minecraft.
+Forge/FML for creating this awesome modding platform.
+The creators of every mod that UniDict interacts.
+All the users of UniDict.",
+  "logoFile": "UniDictLogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

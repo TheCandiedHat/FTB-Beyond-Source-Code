@@ -1,0 +1,14 @@
+[
+{
+  "modid": "zerocore",
+  "name": "Zero CORE",
+  "version": "1.10.2-0.1.0.4",
+  "mcversion": "1.10.2",
+  "url": "http://zerono.it/",
+  "updateUrl": "",
+  "authorList": ["ZeroNoRyouki"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

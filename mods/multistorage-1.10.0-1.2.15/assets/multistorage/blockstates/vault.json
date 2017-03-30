@@ -1,0 +1,198 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+    },
+    "variants": {
+        "normal": [{}],
+        "invdoor": [{
+            "model": "multistorage:vault/door.obj",
+            "custom": { "flip-v": true },
+            "transform": {
+                "ground": {
+                    "translation": [ 0.06, 0.0, 0.0 ],
+                    "scale": 0.12
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [ { "x": 75 }, { "y": -45 }, { "z": 0 } ],
+                    "translation": [ -0.16, 0.2, 0.12 ],
+                    "scale": 0.165
+                },
+                "thirdperson_righthand": {
+                    "rotation": [ { "x": 75 }, { "y": -45 }, { "z": 0 } ],
+                    "translation": [ -0.06, 0.08, 0.12 ],
+                    "scale": 0.165
+                },
+                "firstperson_lefthand": {
+                    "rotation": { "y": -45 },
+                    "translation": [ 0.0, 0.14, -0.11 ],
+                    "scale": 0.15
+                },
+                "firstperson_righthand": {
+                    "rotation": { "y": -45 },
+                    "translation": [ 0.0, 0.14, 0.12 ],
+                    "scale": 0.15
+                },
+                "gui": {
+                    "rotation": [ { "x": 30 }, { "y": -45 } ],
+                    "translation": [ 0.1, 0.08, 0.0 ],
+                    "scale": 0.30
+                },
+                "fixed": {
+                    "rotation": { "y": 180 },
+                    "translation": [ -0.15, 0.15, -0.15 ],
+                    "scale": 0.25
+                }
+            }
+        }],
+        "invcorer": [{
+            "model": "multistorage:vaultcorer.obj",
+            "custom": { "flip-v": true },
+            "transform": {
+                "ground": {
+                    "translation": [ 0.06, 0.0, 0.0 ],
+                    "scale": 0.12
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [ { "x": 75 }, { "y": -45 }, { "z": 0 } ],
+                    "translation": [ -0.14, 0.2, 0.12 ],
+                    "scale": 0.20
+                },
+                "thirdperson_righthand": {
+                    "rotation": [ { "x": 75 }, { "y": -45 }, { "z": 0 } ],
+                    "translation": [ 0.0, 0.08, 0.12 ],
+                    "scale": 0.20
+                },
+                "firstperson_lefthand": {
+                    "rotation": { "y": -45 },
+                    "translation": [ 0.0, 0.14, -0.11 ],
+                    "scale": 0.20
+                },
+                "firstperson_righthand": {
+                    "rotation": { "y": -45 },
+                    "translation": [ 0.0, 0.14, 0.12 ],
+                    "scale": 0.20
+                },
+                "gui": {
+                    "rotation": [ { "x": 30 }, { "y": -45 } ],
+                    "translation": [ 0.0, 0.08, 0.0 ],
+                    "scale": 0.35
+                },
+                "fixed": {
+                    "rotation": { "y": 180 },
+                    "translation": [ -0.15, 0.15, -0.15 ],
+                    "scale": 0.25
+                }
+            }
+        }],
+        "variant": {
+            "door": { "model": "multistorage:vaultdoor.obj", "custom": { "flip-v": true, "ambient": true } },
+            "wall_normal": { "model": "cube_all", "textures": { "all": "multistorage:blocks/vaultwall" } },
+            "wall_item": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item" }
+            },
+            "wall_item_down": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item_dir" }
+            },
+            "wall_item_up": { "x": 180,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item_dir" }
+            },
+            "wall_item_north": { "x": 90, "y": 180,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item_dir" }
+            },
+            "wall_item_south": { "x": 90,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item_dir" }
+            },
+            "wall_item_west": { "x": 90, "y": 90,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item_dir" }
+            },
+            "wall_item_east": { "x": 90, "y": 270,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_item_dir" }
+            },
+            "wall_redstone": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_redstone" }
+            },
+            "wall_fluid": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid" }
+            },
+            "wall_fluid_down": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid_dir" }
+            },
+            "wall_fluid_up": { "x": 180,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid_dir" }
+            },
+            "wall_fluid_north": { "x": 90, "y": 180,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid_dir" }
+            },
+            "wall_fluid_south": { "x": 90,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid_dir" }
+            },
+            "wall_fluid_west": { "x": 90, "y": 90,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid_dir" }
+            },
+            "wall_fluid_east": { "x": 90, "y": 270,
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_fluid_dir" }
+            },
+            "wall_power_eu": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_power_eu" }
+            },
+            "wall_power_rf": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_power_rf" }
+            },
+            "wall_power_caps": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal", "Solid": "multistorage:vault#variant=wall_normal", "Cutout": "multistorage:vault#overlay_power_caps" }
+            },
+            "wall_normal_broken": { "model": "multistorage:vaultwall_broken", "textures": { "all": "multistorage:blocks/vaultwall_broken" } },
+            "wall_item_broken": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal_broken", "Solid": "multistorage:vault#variant=wall_normal_broken", "Cutout": "multistorage:vault#overlay_item" }
+            },
+            "wall_redstone_broken": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal_broken", "Solid": "multistorage:vault#variant=wall_normal_broken", "Cutout": "multistorage:vault#overlay_redstone" }
+            },
+            "wall_fluid_broken": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal_broken", "Solid": "multistorage:vault#variant=wall_normal_broken", "Cutout": "multistorage:vault#overlay_fluid" }
+            },
+            "wall_power_eu_broken": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal_broken", "Solid": "multistorage:vault#variant=wall_normal_broken", "Cutout": "multistorage:vault#overlay_power_eu" }
+            },
+            "wall_power_rf_broken": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal_broken", "Solid": "multistorage:vault#variant=wall_normal_broken", "Cutout": "multistorage:vault#overlay_power_rf" }
+            },
+            "wall_power_caps_broken": {
+                "model": "forge:multi-layer",
+                "custom": { "base": "multistorage:vault#variant=wall_normal_broken", "Solid": "multistorage:vault#variant=wall_normal_broken", "Cutout": "multistorage:vault#overlay_power_caps" }
+            },
+            "corer": { "model": "multistorage:vaultcorer.obj", "custom": { "flip-v": true, "ambient": true } }
+        },
+        "overlay_item": [ { "model": "multistorage:vaultwall_passthrough", "textures": { "overlay": "multistorage:blocks/vaultwall_item" } } ],
+        "overlay_item_dir": [ { "model": "multistorage:vaultwall_passthrough_directional", "textures": { "overlay": "multistorage:blocks/vaultwall_item", "direction": "multistorage:blocks/vaultwall_item_out" } } ],
+        "overlay_redstone": [ { "model": "multistorage:vaultwall_passthrough", "textures": { "overlay": "multistorage:blocks/vaultwall_redstone" } } ],
+        "overlay_fluid": [ { "model": "multistorage:vaultwall_passthrough", "textures": { "overlay": "multistorage:blocks/vaultwall_liquid" } } ],
+        "overlay_fluid_dir": [ { "model": "multistorage:vaultwall_passthrough_directional", "textures": { "overlay": "multistorage:blocks/vaultwall_liquid", "direction": "multistorage:blocks/vaultwall_liquid_out" } } ],
+        "overlay_power_eu": [ { "model": "multistorage:vaultwall_passthrough", "textures": { "overlay": "multistorage:blocks/vaultwall_power_eu" } } ],
+        "overlay_power_rf": [ { "model": "multistorage:vaultwall_passthrough", "textures": { "overlay": "multistorage:blocks/vaultwall_power_rf" } } ],
+        "overlay_power_caps": [ { "model": "multistorage:vaultwall_passthrough", "textures": { "overlay": "multistorage:blocks/vaultwall_power_caps" } } ]
+    }
+}

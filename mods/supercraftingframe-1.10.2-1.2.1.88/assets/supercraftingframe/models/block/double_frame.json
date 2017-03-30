@@ -1,0 +1,7 @@
+{
+    "parent": "supercraftingframe:block/frame",
+    "textures": {
+        "particle": "supercraftingframe:blocks/crafting_frame_block",
+        "1": "supercraftingframe:blocks/double_crafting_frame_block"
+    }
+}

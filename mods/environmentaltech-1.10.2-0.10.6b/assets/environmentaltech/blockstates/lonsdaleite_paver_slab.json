@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+	"parent": "block/cube_all",
+    "model": "minecraft:half_slab",
+    "textures": {
+      "all": "environmentaltech:blocks/lonsdaleite_paver",
+      "bottom": "environmentaltech:blocks/lonsdaleite_paver",
+      "top": "environmentaltech:blocks/lonsdaleite_paver",
+      "side": "environmentaltech:blocks/lonsdaleite_paver_slab_side"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "half=top,prop=normal": [{
+      "x": 180,
+      "uvlock": true
+    }],
+    "half=bottom,prop=normal": [{}],
+    "inventory": [{}]
+  }
+}

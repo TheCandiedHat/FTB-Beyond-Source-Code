@@ -1,0 +1,41 @@
+# gui - config - categories
+
+# gui - config - general
+
+# gui - config - alignment
+
+# gui - tag list
+
+# gui - tag list - categories
+
+# gui - tag list - formatting tags
+
+# gui - tag list - misc
+
+# gui - tag list - mouse over
+
+# gui - tag list - nearby player
+
+# gui - tag list - player equipment
+
+# gui - tag list - player general
+
+# gui - tag list - player position
+
+# gui - tag list - player potion
+
+# gui - tag list - riding
+
+# gui - tag list - time
+
+# gui - tag list - world
+
+# keys
+
+# commands
+commands.ingameinfoxml.usage=/igi <reload|load|save|enable|disable|taglist|config> [имя файла]
+commands.ingameinfoxml.reload=Перегрузка...
+commands.ingameinfoxml.load=Загрузка %s...
+commands.ingameinfoxml.save=Сохранение %s...
+commands.ingameinfoxml.enable=Оверлей InGame Info XML включен.
+commands.ingameinfoxml.disable=Оверлей InGame Info XML отключен.

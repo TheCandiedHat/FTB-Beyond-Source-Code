@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "multistorage:items/enderbag_closed",
+        "layer1": "multistorage:items/enderbag_pocketicon"
+    }
+}

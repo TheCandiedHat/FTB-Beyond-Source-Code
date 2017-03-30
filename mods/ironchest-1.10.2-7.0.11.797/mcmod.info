@@ -1,0 +1,20 @@
+[
+{
+  "modid": "ironchest",
+  "name": "Iron Chest",
+  "description": "New chests with larger sizes, with in-place upgrade items.
+The feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest",
+  "version": "1.10.2-7.0.11.797",
+  "mcversion": "1.10.2",
+  "url": "http://www.minecraftforum.net/topic/981855-",
+  "updateUrl": "",
+  "authorList": ["cpw"],
+  "credits": "By cpw, based on an original idea by Lishid",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

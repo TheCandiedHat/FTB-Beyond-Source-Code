@@ -1,0 +1,32 @@
+{
+    "elements": [
+        {
+            "name": "Door-W",
+            "from": [ 0.0, 0.0, 13.0 ], 
+            "to": [ 8.0, 16.0, 16.0 ],
+            "rotation": { "origin": [ 0.0, 0.0, 0.0 ], "axis": "y", "angle": 0 },
+            "faces": {
+                "north": { "texture": "#doors", "uv": [ 8.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#side", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#doors", "uv": [ 0.0, 0.0, 8.0, 16.0 ] },
+                "west": { "texture": "#side", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#top", "uv": [ 0.0, 13.0, 8.0, 16.0 ] },
+                "down": { "texture": "#top", "uv": [ 0.0, 13.0, 8.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "Door-E",
+            "from": [ 8.0, 0.0, 13.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ],
+            "rotation": { "origin": [ 0.0, 0.0, 0.0 ], "axis": "y", "angle": 0 },
+            "faces": {
+                "north": { "texture": "#doors", "uv": [ 0.0, 0.0, 8.0, 16.0 ] },
+                "east": { "texture": "#side", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#doors", "uv": [ 8.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#side", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#top", "uv": [ 8.0, 13.0, 16.0, 16.0 ] },
+                "down": { "texture": "#top", "uv": [ 8.0, 13.0, 16.0, 16.0 ] }
+            }
+        }
+    ]
+}

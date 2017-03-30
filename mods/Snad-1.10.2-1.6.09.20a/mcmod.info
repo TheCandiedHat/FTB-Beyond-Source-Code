@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "snad",
+    "name": "Snad",
+    "version": "1.10.2-1.6.09.20a",
+    "mcversion": "1.10.2",
+    "description": "You're finally able to have your sugarcane grow faster. What could possibly be better than that?",
+    "credits": "",
+    "url": "www.robrit.com",
+    "updateUrl": "",
+    "authorList": ["TheRoBrit"],
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": ["mod_MinecraftForge"]
+  }
+]

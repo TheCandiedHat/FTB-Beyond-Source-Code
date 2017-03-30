@@ -1,0 +1,19 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "journeymap",
+    "name": "JourneyMap",
+    "description": "JourneyMap: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.10.2-1.3. Built: 2017-02-18-00:15:25.",
+    "version": "1.10.2-5.4.6",
+    "mcversion": "1.10.2",
+    "url": "http://journeymap.info",
+    "updateUrl": "",
+    "authorList": ["techbrew", "mysticdrew"],
+    "logoFile": "assets/journeymap/ui/img/ico/journeymap144.png",
+    "screenshots": [],
+    "dependants":[],
+    "dependencies": ["Forge@[12.18.3.2185,)"],
+    "requiredMods": ["Forge@[12.18.3.2185,)"],
+    "useDependencyInformation": true
+  }]
+}

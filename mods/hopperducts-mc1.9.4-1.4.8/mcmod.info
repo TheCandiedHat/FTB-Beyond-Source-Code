@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hopperducts",
+  "name": "Hopper Ducts",
+  "description": "Adds hopper ducts, which are item transport blocks functionally similar to hoppers, but capable of sending items in any direction.",
+  "version": "mc1.9.4-1.4.8",
+  "mcversion": "1.9.4",
+  "url": "http://www.fybertech.net/minecraft",
+  "updateUrl": "",
+  "authorList": ["FyberOptic"],
+  "credits": "By FyberOptic",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

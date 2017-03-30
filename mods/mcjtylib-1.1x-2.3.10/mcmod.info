@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcjtylib_ng",
+  "name": "McJtyLib",
+  "description": "McJtyLib library for RFTools, Deep Resonance, ...",
+  "version": "1.1x-2.3.10-SNAPSHOT",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["McJty"],
+  "credits": "diesieben07, for being of constant assistance with my questions on modding and Forge in specific",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

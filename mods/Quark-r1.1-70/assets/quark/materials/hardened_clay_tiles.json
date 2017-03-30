@@ -1,0 +1,13 @@
+{
+	"name": "Hardened Clay Tiles",
+	"id": "quark:hardened_clay_tiles",
+	"type": "rock",
+	"hardness": 1.25,
+	"resistance": 7.0,
+	"textures": "quark:blocks/hardened_clay_tiles",
+	"blocks": {
+		"full": "quark:hardened_clay_tiles",
+		"stairs": "quark:hardened_clay_tiles_stairs",
+		"slab": { "id": "quark:hardened_clay_tiles_slab", "meta": 0 }
+	}
+}

@@ -1,0 +1,31 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "signals:rail_link"
+    },
+    "variants": {
+       "connected":{
+            "true":{
+                "textures": {
+                	"housing_top":"signals:blocks/rail_link_top",
+                    "housing":"signals:blocks/rail_link_side",
+                    "middle":"signals:blocks/lamp_green"
+                }
+            },
+            "false":{
+                "textures": {
+                	"housing_top":"signals:blocks/rail_link_top",
+                    "housing":"signals:blocks/rail_link_side",
+                    "middle":"signals:blocks/lamp_red"
+                }
+            }
+       },
+       "inventory": [{
+            "textures": {
+            	"housing_top":"signals:blocks/rail_link_top",
+                "housing":"signals:blocks/rail_link_side",
+                "middle":"signals:blocks/lamp_green"
+            }
+        }]
+    }
+}

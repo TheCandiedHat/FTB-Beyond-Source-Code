@@ -1,0 +1,14 @@
+[{
+  "modid": "ArchitectureCraft",
+  "name": "ArchitectureCraft",
+  "description": "Distinguished architectural features for your Minecraft buildings.",
+  "version": "1.7.1-mc1.10.2",
+  "mcversion": "1.10.2",
+  "url": "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/ArchitectureCraft/",
+  "updateUrl": "",
+  "authors": ["Greg Ewing"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]

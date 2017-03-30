@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePlugin: reborncore.mixin.implementations.forge.MixinForgeLoadin
+ gCore
+FMLCorePluginContainsFMLMod: true
+

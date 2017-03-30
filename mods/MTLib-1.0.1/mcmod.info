@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mtlib",
+    "name": "MTLib",
+    "description": "",
+    "version": "1.0.1",
+    "mcversion": "1.10.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Jaredlll08"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

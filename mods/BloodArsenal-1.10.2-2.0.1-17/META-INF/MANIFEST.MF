@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: jenkins
+Created-By: 25.101-b13 + (Oracle Corporation)
+Implementation-Title: BloodArsenal
+Implementation-Version: 1.10.2-2.0.1-17
+Git-Hash: 9b9e7ee
+Built-On: 1.10.2-12.18.2.2107
+

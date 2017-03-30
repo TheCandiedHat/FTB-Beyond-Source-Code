@@ -1,0 +1,11 @@
+newmtl mat_vault
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+map_Ka multistorage:models/mat_vault1
+map_Kd multistorage:models/mat_vault1
+
+newmtl mat_vault2
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+map_Ka multistorage:models/mat_vault2
+map_Kd multistorage:models/mat_vault2

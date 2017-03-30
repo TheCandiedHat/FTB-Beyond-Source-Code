@@ -1,0 +1,17 @@
+{
+    "elements": [
+        {
+            "name": "Body",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 13.0 ], 
+            "faces": {
+                "north": { "texture": "#back", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "cullface": "north" },
+                "east": { "texture": "#side", "uv": [ 0.0, 0.0, 13.0, 16.0 ], "cullface": "east" },
+                "south": { "texture": "#front", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#side", "uv": [ 0.0, 0.0, 13.0, 16.0 ], "cullface": "west" },
+                "up": { "texture": "#top", "uv": [ 0.0, 0.0, 16.0, 13.0 ], "cullface": "up" },
+                "down": { "texture": "#top", "uv": [ 0.0, 0.0, 16.0, 13.0 ], "cullface": "down" }
+            }
+        }
+    ]
+}

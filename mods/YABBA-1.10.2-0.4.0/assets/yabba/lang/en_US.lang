@@ -1,0 +1,35 @@
+# Creative Tabs
+itemGroup.yabba=YABBA
+itemGroup.yabba.all_models=All YABBA Barrels
+
+# Items
+item.yabba.upgrade.name=Barrel Upgrade
+item.yabba.upgrade.blank=Blank
+item.yabba.upgrade.iron_upgrade=Wooden to Iron
+item.yabba.upgrade.gold_upgrade=Iron to Gold
+item.yabba.upgrade.diamond_upgrade=Gold to Diamond
+item.yabba.upgrade.nether_star_upgrade=Infinite Capacity
+item.yabba.upgrade.creative=Creative Barrel
+item.yabba.upgrade.obsidian_shell=Obsidian Shell
+item.yabba.upgrade.redstone_out=Redstone Output
+item.yabba.upgrade.hopper=Hopper
+item.yabba.upgrade.void=Void Items
+
+item.yabba.painter.name=Barrel Painter
+item.yabba.hammer.name=Barrel Hammer
+
+# Blocks
+tile.yabba.barrel.name=Item Barrel
+tile.yabba.antibarrel.name=AntiBarrel
+
+# Guide
+yabba.guide=YABBA
+
+# Models
+yabba.model.barrel=Barrel
+yabba.model.crate=Crate
+yabba.model.solid=Solid Block
+yabba.model.solid_borders=Solid Bordered Block
+yabba.model.cover=Cover
+yabba.model.panel=Panel
+yabba.model.slab=Slab

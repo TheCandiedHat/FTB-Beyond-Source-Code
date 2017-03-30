@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+
+Name: reauth/GuiHandler$1.class
+SHA-256-Digest: QxsFYKoKTQUTNouh1rqMKZdnfYF8eZnP9dgSTZacblg=
+
+Name: reauth/Secure$Sessionutil.class
+SHA-256-Digest: 3klUJLo6Tn5jalRoSMwJ4Hw4V13mODRVX8t8aziEalg=
+
+Name: reauth/GuiHandler.class
+SHA-256-Digest: tmrZs8GpIt7KTtMnrftbO7T8/BKeaVBLLQcvHa8AI1Q=
+
+Name: reauth/GuiPasswordField.class
+SHA-256-Digest: mEKeziq0uakWvWjtBIeRylMABmpM4JLxV06b8lKXItc=
+
+Name: reauth/ConfigGUI.class
+SHA-256-Digest: RHkRCNFI0roCZQsMts5Xi888jyQbU6TyJmzP/0qJ0gQ=
+
+Name: reauth/VersionChecker.class
+SHA-256-Digest: H3FtWTzN/heWoR0XXU2XBR5dowM1TSykAdQKwHdDSdY=
+
+Name: reauth/GuiLogin.class
+SHA-256-Digest: XlCcH5sSXc/e0QbN3kBtqwxOk8+upIQYEOMg3fhhmQE=
+
+Name: reauth/GuiFactory.class
+SHA-256-Digest: SGDuyGixqzbO+BZMsCwrAtI3o4ZzQpvfl28V3heVI0A=
+
+Name: reauth/Main.class
+SHA-256-Digest: 2/hPKNp9FN20XwTFib+YhINQYJIWVUwdvKUmHn8TEJM=
+
+Name: mcmod.info
+SHA-256-Digest: s6hJTQGfmaUh5sZKq3VABuoe7nc7YVea60HbO0FqmKk=
+
+Name: reauth/Secure.class
+SHA-256-Digest: 0h8Bb38Ynff6KP6ERJl2tNJA7UXfmXz0KaRLfrhA5G0=
+

@@ -1,0 +1,20 @@
+{
+  "jetpack": {
+    "category": "player",
+    "sounds": [
+      "simplyjetpacks:jetpack"
+    ]
+  },
+  "jetpack_other": {
+    "category": "player",
+    "sounds": [
+      "simplyjetpacks:jetpack_other"
+    ]
+  },
+  "rocket": {
+    "category": "player",
+    "sounds": [
+      "simplyjetpacks:rocket"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "funkylocomotion",
+  "name": "Funky Locomotion",
+  "description": "The world in a grove",
+  "version": "0.0.3",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RWTema"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

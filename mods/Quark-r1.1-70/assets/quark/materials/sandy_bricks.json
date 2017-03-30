@@ -1,0 +1,14 @@
+{
+	"name": "Sandy Bricks",
+	"id": "quark:sandy_bricks",
+	"type": "rock",
+	"hardness": 2.0,
+	"resistance": 10.0,
+	"textures": "quark:blocks/sandy_bricks",
+	"blocks": {
+		"full": "quark:sandy_bricks",
+		"stairs": "quark:sandy_bricks_stairs",
+		"slab": { "id": "quark:sandy_bricks_slab", "meta": 0 },
+		"wall": { "id": "quark:sandy_bricks_wall", "meta": 0 }
+	}
+}

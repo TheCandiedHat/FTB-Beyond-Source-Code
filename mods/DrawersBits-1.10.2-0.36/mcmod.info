@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bitdrawers",
+  "name": "Drawers & Bits",
+  "description": "Specialized storage drawers for Chisels & Bits.",
+  "version": "1.10.2-0.36",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/Belgabor/BitDrawers",
+  "updateUrl": "",
+  "authorList": ["Belgabor"],
+  "credits": "AlgorithmX2 for Chisels & Bits, jaquadro for Storage Drawers, Vexatos for a much better name =)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

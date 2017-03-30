@@ -1,0 +1,32 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"type": {
+			"rotary_macerator": { "model": "advanced_machines:rotary_macerator" },
+			"rotary_macerator_active": { "model": "advanced_machines:rotary_macerator_active" },
+			"singularity_compressor": { "model": "advanced_machines:singularity_compressor" },
+			"singularity_compressor_active": { "model": "advanced_machines:singularity_compressor_active" },
+			"centrifuge_extractor": { "model": "advanced_machines:centrifuge_extractor" },
+			"centrifuge_extractor_active": { "model": "advanced_machines:centrifuge_extractor_active" },
+			"compacting_recycler": { "model": "advanced_machines:compacting_recycler" },
+			"compacting_recycler_active": { "model": "advanced_machines:compacting_recycler_active" },
+			"liquescent_extruder": { "model": "advanced_machines:liquescent_extruder" },
+			"liquescent_extruder_active": { "model": "advanced_machines:liquescent_extruder_active" },
+			"impellerized_roller": { "model": "advanced_machines:impellerized_roller" },
+			"impellerized_roller_active": { "model": "advanced_machines:impellerized_roller_active" },
+			"water_jet_cutter": { "model": "advanced_machines:water_jet_cutter" },
+			"water_jet_cutter_active": { "model": "advanced_machines:water_jet_cutter_active" },
+			"thermal_washer": { "model": "advanced_machines:thermal_washer" },
+			"thermal_washer_active": { "model": "advanced_machines:thermal_washer_active" }
+		},
+		"facing": {
+			"down": { "x": 90 },
+			"up": { "x": 270 },
+			"north": { "transform": "forge:default-block" },
+			"south": { "y": 180 },
+			"west": { "y": 270 },
+			"east": { "y": 90 }
+		},
+		"inventory": [{}]
+	}
+}

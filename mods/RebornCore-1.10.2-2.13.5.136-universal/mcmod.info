@@ -1,0 +1,21 @@
+[
+{
+  "modid": "reborncore",
+  "name": "RebornCore",
+  "description": "RebornCore, A core set of classes.",
+  "version": "2.8.2.69",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/TechReborn/RebornCore",
+  "updateUrl": "",
+  "authorList": [
+    "modmuss50", "Gigabit101"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

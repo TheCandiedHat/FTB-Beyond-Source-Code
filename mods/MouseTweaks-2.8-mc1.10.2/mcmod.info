@@ -1,0 +1,14 @@
+[
+{
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "description": "A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons.",
+    "version": "2.8",
+    "mcversion": "1.10.2",
+    "url": "http://www.minecraftforum.net/topic/1518185-",
+    "authorList": [ "YaLTeR" ],
+    "credits": "Various open-source mods from where I learned.",
+    "logoFile": "mousetweaks_logo.png",
+    "updateJSON": "http://play.sourceruns.org/yalter/MouseTweaks/update.json"
+}
+]

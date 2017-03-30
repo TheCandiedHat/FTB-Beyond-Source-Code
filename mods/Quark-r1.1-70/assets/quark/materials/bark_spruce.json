@@ -1,0 +1,12 @@
+{
+	"name": "Spruce Bark",
+	"id": "quark:bark_spruce",
+	"type": "wood",
+	"hardness": 2.0,
+	"resistance": 5.0,
+	"textures": "minecraft:blocks/log_spruce",
+	"blocks": {
+		"full": { "id": "quark:bark", "meta": 1 },
+		"wall": { "id": "quark:bark_spruce_wall", "meta": 0 }
+	}
+}

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: IronBackpacks-1.10
+Implementation-Version: 1.10.2-2.2.23
+Built-By: Max
+Git-Hash: b897c7d
+Created-By: 25.92-b14 + (Oracle Corporation)
+

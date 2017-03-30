@@ -1,0 +1,19 @@
+[
+{
+  "modid": "EnderIO",
+  "name": "Ender IO",
+  "description": "Compact conduits, painted things and all sorts of stuff and bling.",
+  "version": "1.10.2-3.1.156",
+  "mcversion": "1.10.2",
+  "url": "http://enderio.com",
+  "updateUrl": "",
+  "authorList": [ "CrazyPants", "tterrag", "HenryLoenwind", "MatthiasM" , "CyanideX"],
+  "credits": "By CrazyPants, with the help of many",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

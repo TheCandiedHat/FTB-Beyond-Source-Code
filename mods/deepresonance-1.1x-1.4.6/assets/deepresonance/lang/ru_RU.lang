@@ -1,0 +1,32 @@
+item.deepresonance.DeepResonanceManual.name=Руководство по Deep Resonance
+item.deepresonance.RadiationMonitor.name=Дозиметр
+item.deepresonance.ResonatingPlate.name=Резонирующая пластина
+item.deepresonance.FilterMaterial.name=Отфильтрованный материал
+item.deepresonance.SpentFilterMaterial.name=Использованные отфильтрованный материал
+item.deepresonance.helmet.name=Шлем радиационно-защитного костюма (WIP)
+item.deepresonance.chest.name=Кираса радиационно-защитного костюма (WIP)
+item.deepresonance.leggings.name=Поножи радиационно-защитного костюма (WIP)
+item.deepresonance.boots.name=Ботинки радиационно-защитного костюма (WIP)
+
+tile.deepresonance.oreResonating.name=Резонирующая руда
+tile.deepresonance.blockResonating.name=Resonating Plate Block
+tile.deepresonance.denseObsidian.name=Плотный обсидиан
+tile.deepresonance.denseGlass.name=Плотное стекло
+tile.deepresonance.poisonedDirt.name=Отравленная земля
+tile.deepresonance.resonatingCrystalBlock.name=Резонирующий кристалл
+tile.deepresonance.generatorBlock.name=Генератор
+tile.deepresonance.generatorControllerBlock.name=Контроллер генератора
+tile.deepresonance.energyCollectorBlock.name=Сборщик энергии
+tile.deepresonance.machineFrame.name=Каркас механизма
+tile.deepresonance.tankBlock.name=Цистерна
+tile.deepresonance.crystalizerBlock.name=Кристаллизатор
+tile.deepresonance.smelterBlock.name=Плавильня
+tile.deepresonance.purifierBlock.name=Очиститель
+tile.deepresonance.pedestalBlock.name=Пьедестал
+tile.deepresonance.valveBlock.name=Вентиль
+tile.deepresonance.lensBlock.name=Lens
+tile.deepresonance.laserBlock.name=Laser
+
+itemGroup.DeepResonance=Deep Resonance
+
+message.shiftMessage=Нажмите Shift

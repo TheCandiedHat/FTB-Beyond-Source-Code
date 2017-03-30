@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north,half=bottom,open=false": { "model": "trapdoor_bottom", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=south,half=bottom,open=false": { "model": "trapdoor_bottom", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=east,half=bottom,open=false": { "model": "trapdoor_bottom", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=west,half=bottom,open=false": { "model": "trapdoor_bottom", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=north,half=top,open=false": { "model": "trapdoor_top", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=south,half=top,open=false": { "model": "trapdoor_top", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=east,half=top,open=false": { "model": "trapdoor_top", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=west,half=top,open=false": { "model": "trapdoor_top", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=north,half=bottom,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=south,half=bottom,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"}, "y": 180 },
+        "facing=east,half=bottom,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"}, "y": 90 },
+        "facing=west,half=bottom,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"}, "y": 270 },
+        "facing=north,half=top,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"} },
+        "facing=south,half=top,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"}, "y": 180 },
+        "facing=east,half=top,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"}, "y": 90 },
+        "facing=west,half=top,open=true": { "model": "trapdoor_open", "textures": {"texture": "quark:blocks/trapdoor_birch"}, "y": 270 }
+    }
+}

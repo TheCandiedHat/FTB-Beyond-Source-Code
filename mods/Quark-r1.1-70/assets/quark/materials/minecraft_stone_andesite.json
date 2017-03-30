@@ -1,0 +1,8 @@
+{
+    "id": "minecraft:andesite",
+    "blocks": {
+        "stairs": "quark:stone_andesite_stairs",
+        "slab": "quark:stone_andesite_slab",
+        "wall": { "id": "quark:stone_andesite_wall", "meta": 0 }
+    }
+}

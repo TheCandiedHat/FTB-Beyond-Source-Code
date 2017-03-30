@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "advanced_machines:blocks/compressor_back",
+		"down": "advanced_machines:blocks/compressor_bottom",
+		"up": "advanced_machines:blocks/compressor_top",
+		"north": "advanced_machines:blocks/compressor_front",
+		"east": "advanced_machines:blocks/compressor_side",
+		"south": "advanced_machines:blocks/compressor_back",
+		"west": "advanced_machines:blocks/compressor_side"
+	}
+}

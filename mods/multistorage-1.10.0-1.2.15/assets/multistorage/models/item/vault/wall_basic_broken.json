@@ -1,0 +1,94 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "multistorage:blocks/vaultwall_broken",
+        "all": "multistorage:blocks/vaultwall_broken"
+    },
+    "elements": [
+        {
+            "name": "NS-UD",
+            "from": [ 3.0, 2.0, 0.0 ],
+            "to": [ 13.0, 14.0, 16.0 ],
+            "faces": {
+                "north": { "texture": "#all", "uv": [ 3.0, 2.0, 13.0, 14.0 ] },
+                "east": { "texture": "#all", "uv": [ 0.0, 2.0, 16.0, 14.0 ] },
+                "south": { "texture": "#all", "uv": [ 3.0, 2.0, 13.0, 14.0 ] },
+                "west": { "texture": "#all", "uv": [ 0.0, 2.0, 16.0, 14.0 ] },
+                "up": { "texture": "#all", "uv": [ 3.0, 0.0, 13.0, 16.0 ] },
+                "down": { "texture": "#all", "uv": [ 3.0, 0.0, 13.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "UD-NS",
+            "from": [ 3.0, 0.0, 2.0 ],
+            "to": [ 13.0, 16.0, 14.0 ],
+            "faces": {
+                "north": { "texture": "#all", "uv": [ 3.0, 0.0, 13.0, 16.0 ] },
+                "east": { "texture": "#all", "uv": [ 2.0, 0.0, 14.0, 16.0 ] },
+                "south": { "texture": "#all", "uv": [ 3.0, 0.0, 13.0, 16.0 ] },
+                "west": { "texture": "#all", "uv": [ 2.0, 0.0, 14.0, 16.0 ] },
+                "up": { "texture": "#all", "uv": [ 3.0, 2.0, 13.0, 14.0 ] },
+                "down": { "texture": "#all", "uv": [ 3.0, 2.0, 13.0, 14.0 ] }
+            }
+        },
+        {
+            "name": "EW-UD",
+            "from": [ 0.0, 2.0, 3.0 ],
+            "to": [ 16.0, 14.0, 13.0 ],
+            "faces": {
+                "north": { "texture": "#all", "uv": [ 0.0, 2.0, 16.0, 14.0 ] },
+                "east": { "texture": "#all", "uv": [ 3.0, 2.0, 13.0, 14.0 ] },
+                "south": { "texture": "#all", "uv": [ 0.0, 2.0, 16.0, 14.0 ] },
+                "west": { "texture": "#all", "uv": [ 3.0, 2.0, 13.0, 14.0 ] },
+                "up": { "texture": "#all", "uv": [ 0.0, 3.0, 16.0, 13.0 ] },
+                "down": { "texture": "#all", "uv": [ 0.0, 3.0, 16.0, 13.0 ] }
+            }
+        },
+        {
+            "name": "UD-EW",
+            "from": [ 2.0, 0.0, 3.0 ],
+            "to": [ 14.0, 16.0, 13.0 ],
+            "faces": {
+                "north": { "texture": "#all", "uv": [ 2.0, 0.0, 14.0, 16.0 ] },
+                "east": { "texture": "#all", "uv": [ 3.0, 0.0, 13.0, 16.0 ] },
+                "south": { "texture": "#all", "uv": [ 2.0, 0.0, 14.0, 16.0 ] },
+                "west": { "texture": "#all", "uv": [ 3.0, 0.0, 13.0, 16.0 ] },
+                "up": { "texture": "#all", "uv": [ 2.0, 3.0, 14.0, 13.0 ] },
+                "down": { "texture": "#all", "uv": [ 2.0, 3.0, 14.0, 13.0 ] }
+            }
+        },
+        {
+            "name": "NS-EW",
+            "from": [ 2.0, 3.0, 0.0 ],
+            "to": [ 14.0, 13.0, 16.0 ],
+            "faces": {
+                "north": { "texture": "#all", "uv": [ 2.0, 3.0, 14.0, 13.0 ] },
+                "east": { "texture": "#all", "uv": [ 0.0, 3.0, 16.0, 13.0 ] },
+                "south": { "texture": "#all", "uv": [ 2.0, 3.0, 14.0, 13.0 ] },
+                "west": { "texture": "#all", "uv": [ 0.0, 3.0, 16.0, 13.0 ] },
+                "up": { "texture": "#all", "uv": [ 2.0, 0.0, 14.0, 16.0 ] },
+                "down": { "texture": "#all", "uv": [ 2.0, 0.0, 14.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "EW-NS",
+            "from": [ 0.0, 3.0, 2.0 ],
+            "to": [ 16.0, 13.0, 14.0 ],
+            "faces": {
+                "north": { "texture": "#all", "uv": [ 0.0, 3.0, 16.0, 13.0 ] },
+                "east": { "texture": "#all", "uv": [ 2.0, 3.0, 14.0, 13.0 ] },
+                "south": { "texture": "#all", "uv": [ 0.0, 3.0, 16.0, 13.0 ] },
+                "west": { "texture": "#all", "uv": [ 2.0, 3.0, 14.0, 13.0 ] },
+                "up": { "texture": "#all", "uv": [ 0.0, 2.0, 16.0, 14.0 ] },
+                "down": { "texture": "#all", "uv": [ 0.0, 2.0, 16.0, 14.0 ] }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson": {
+            "rotation": [ 10, -45, 170 ],
+            "translation": [ 0, 1.5, -2.75 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    }
+}

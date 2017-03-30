@@ -1,0 +1,113 @@
+tile.super_crafting_frame.name=Super Crafting Frame
+tile.super_crafting_frame.mode.both=Both
+tile.super_crafting_frame.mode.inventory=Inventory Only
+tile.super_crafting_frame.mode.player=Player Only
+tile.super_crafting_frame.recipe.invalid=Crafting Error: [ Recipe Not Valid ]
+tile.super_crafting_frame.recipe.missing_ingredient=Missing ingredient: %s [ %d ]
+tile.super_crafting_frame.recipe.invalid_output=Crafting Error: Recipe output does not match [%s : %s].
+item.super_crafting_frame.single.tooltip.subheader=§8§oPunch frame craft stuff
+item.super_crafting_frame.tooltip.recipe.none=Recipe: §8None
+item.super_crafting_frame.tooltip.recipe.invalid=Recipe: §4Invalid
+item.super_crafting_frame.tooltip.recipe=Recipe: §3%s (%d)
+item.super_crafting_frame.tooltip.shift=Hold §e§oShift §r§7For More Info
+item.super_crafting_frame.tooltip.recipe.ingredient.header=Ingredients:
+item.super_crafting_frame.tooltip.recipe.ingredient=§8- %s: %d
+item.super_crafting_frame.tooltip.recipe.ingredient.none=§8- None
+item.super_crafting_frame.tooltip.mode=Mode: §8%s
+item.super_crafting_frame.tooltip.settings.header=§9§oSettings
+tile.super_crafting_frame_double.name=Double Super Crafting Frame
+item.super_crafting_frame.double.tooltip.subheader=§8§oDouble the pleasure, double the fun
+tile.super_crafting_frame_triple.name=Triple Super Crafting Frame
+item.super_crafting_frame.triple.tooltip.subheader=§8§oOh baby a triple!
+tile.super_crafting_frame_quad.name=Quad Super Crafting Frame
+item.super_crafting_frame.quad.tooltip.subheader=§8§oI'm the craftmaster! Only quads can kill me
+tile.super_crafting_frame.gui.recipe.next.tooltip=Next Recipe
+tile.super_crafting_frame.gui.recipe.prev.tooltip=Previous Recipe
+
+tile.super_item_frame.name=Super Item Frame
+tile.super_item_frame_double.name=Double Super Item Frame
+tile.super_item_frame_triple.name=Triple Super Item Frame
+tile.super_item_frame_quad.name=Quad Super Item Frame
+item.super_item_frame.single.tooltip.subheader=§8§oPunch frame insert stuff
+item.super_item_frame.double.tooltip.subheader=§8§oPunch frame insert stuff
+item.super_item_frame.triple.tooltip.subheader=§8§oPunch frame insert stuff
+item.super_item_frame.quad.tooltip.subheader=§8§oPunch frame insert stuff
+item.super_item_frame.tooltip.filter.none=Filter: §8None
+item.super_item_frame.tooltip.filter=Filter: §3%s
+
+tile.super_teleportation_frame.name=Super Teleportation Frame
+tile.super_teleportation_frame_double.name=Double Super Teleportation Frame
+tile.super_teleportation_frame_triple.name=Triple Super Teleportation Frame
+tile.super_teleportation_frame_quad.name=Quad Super Teleportation Frame
+tile.super_teleportation_frame.error.out_of_range=Teleportation Error: Destination out of range
+tile.super_teleportation_frame.error.destination_not_set=Teleportation Error: Destination not set
+item.super_teleportation_frame.single.tooltip.subheader=§8§oPunch frame teleport elsewhere
+item.super_teleportation_frame.double.tooltip.subheader=§8§oPunch frame teleport elsewhere
+item.super_teleportation_frame.triple.tooltip.subheader=§8§oPunch frame teleport elsewhere
+item.super_teleportation_frame.quad.tooltip.subheader=§8§oPunch frame teleport elsewhere
+item.super_teleportation_frame.tooltip.destination.none=Destination: §8None
+item.super_teleportation_frame.tooltip.destination.name=Destination: §3%s
+item.super_teleportation_frame.tooltip.destination.coords=§8[ %s, %s, %s ]
+item.super_teleportation_frame.tooltip.destination=Destination: §3%s
+
+item.destination_marker.name=Destination Marker
+item.destination_marker.tooltip.subheader=§8§oMarker of destinations
+item.destination_marker.tooltip.destination.none=Destination: §8None
+item.destination_marker.tooltip.destination.coords=Destination: §3[ %s, %s, %s ]
+
+tile.super_xp_frame.name=Super XP Frame
+tile.super_xp_frame.single.tooltip.subheader=§8§oPunch frame store xp
+tile.super_xp_frame.error.insufficient_xp=Insufficient Experience.
+tile.super_xp_frame.tooltip.line_success=§7Exp: %s / %s
+tile.super_xp_frame.tooltip.line_fail=§cExp: %s / %s
+tile.super_xp_frame.tooltip.line_bottles=§8%s bottles
+tile.super_xp_frame.tooltip.line_bottle=§8%s bottle
+item.super_xp_bottle.name=Super Bottle o' Enchanting
+item.super_xp_bottle.tooltip.capacity=§8§oStores %s experience
+
+tile.super_breeding_frame.name=Super Breeding Frame
+tile.super_breeding_frame.single.tooltip.subheader=§8§oPunch frame make babies
+tile.super_breeding_frame.single.tooltip.size=Size: %s x %s x %s
+tile.super_breeding_frame.resize=Resize: %s x %s x %s
+
+tile.super_incineration_frame.name=Super Incineration Frame
+tile.super_incineration_frame.single.tooltip.subheader=§8§oPunch frame burn stuff
+
+waila.super_crafting_frame.shift_for_more_info=Show Detailed
+
+config.super_crafting_frame.gui.header=Super Crafting Frame Settings
+config.super_crafting_frame.crafting_frame.gui.header=Crafting Frame Settings
+config.super_crafting_frame.actions.right_click=Right Click
+config.super_crafting_frame.actions.right_click.tooltip=Action to perform on Right Click
+config.super_crafting_frame.actions.sneak_right_click=Sneak Right Click
+config.super_crafting_frame.actions.sneak_right_click.tooltip=Action to perform on Sneak+Right Click
+config.super_crafting_frame.actions.left_click=Left Click
+config.super_crafting_frame.actions.left_click.tooltip=Action to perform on Left Click
+config.super_crafting_frame.actions.sneak_left_click=Sneak Left Click
+config.super_crafting_frame.actions.sneak_left_click.tooltip=Action to perform on Sneak+Left Click
+config.menu.crafting_frame.button=Crafting Frame Settings
+config.menu.crafting_frame.button.tooltip=Action settings for the Super Crafting Frame.
+
+config.super_crafting_frame.item_frame.gui.header=Super Item Frame Settings
+config.menu.item_frame.button=Item Frame Settings
+config.menu.item_frame.button.tooltip=Action settings for the Super Item Frame.
+config.super_item_frame.actions.right_click=Right Click
+config.super_item_frame.actions.right_click.tooltip=Action to perform on Right Click
+config.super_item_frame.actions.sneak_right_click=Sneak Right Click
+config.super_item_frame.actions.sneak_right_click.tooltip=Action to perform on Sneak+Right Click
+config.super_item_frame.actions.left_click=Left Click
+config.super_item_frame.actions.left_click.tooltip=Action to perform on Left Click
+config.super_item_frame.actions.sneak_left_click=Sneak Left Click
+config.super_item_frame.actions.sneak_left_click.tooltip=Action to perform on Sneak+Left Click
+
+config.menu.server_settings.button=Server Settings
+config.menu.server_settings.button.tooltip=Server side settings.
+config.super_crafting_frame.server_settings.gui.header=Server Settings
+config.super_teleportation_frame.server.max_distance=Teleportation: Max Distance
+config.super_teleportation_frame.server.max_distance.tooltip=Max distance the frame can teleport to; set to '0' for no maximum.
+config.super_teleportation_frame.server.ignore_y_axis=Teleportation: Ignore Y Axis
+config.super_teleportation_frame.server.ignore_y_axis.tooltip=Ignore the y axis in distance checks.
+config.super_xp_frame.server.xp_bottle_capacity=Experience Bottle Capacity
+config.super_xp_frame.server.xp_bottle_capacity.tooltip=Experience capacity for the Super Bottle o' Enchanting
+
+itemGroup.tabSuperCraftingFrame=Super Crafting Frame

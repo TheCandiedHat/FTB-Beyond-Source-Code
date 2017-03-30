@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when three adjacent sides are connected.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "environmentaltech:blocks/glass_clear/glass_clear0C",
+        "down": "environmentaltech:blocks/glass_clear/glass_clear2C_ue",
+		"up": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"north": "environmentaltech:blocks/glass_clear/glass_clear2C_uw",
+		"south": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"west": "environmentaltech:blocks/glass_clear/glass_clear2C_ue",
+		"east": "environmentaltech:blocks/glass_clear/glass_clear4C"
+    }
+}

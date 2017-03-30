@@ -1,0 +1,14 @@
+{
+	"name": "Basalt",
+	"id": "quark:stone_basalt",
+	"type": "rock",
+	"hardness": 1.5,
+	"resistance": 10.0,
+	"textures": "quark:blocks/stone_basalt",
+	"blocks": {
+		"full": { "id": "quark:basalt", "meta": 0 },
+		"stairs": "quark:stone_basalt_stairs",
+		"slab": { "id": "quark:stone_basalt_slab", "meta": 0 },
+		"wall": { "id": "quark:stone_basalt_wall", "meta": 0 }
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "valkyrielib",
+  "name": "Valkyrie Lib",
+  "description": "",
+  "version": "1.10.2-0.10.6",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com/projects/valkyrielib",
+  "updateUrl": "",
+  "authorList": ["ValkyrieofNight"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

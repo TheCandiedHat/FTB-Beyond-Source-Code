@@ -1,0 +1,14 @@
+{
+	"name": "Stained Clay Tiles",
+	"id": "quark:stained_clay_tiles",
+	"meta": "dye",
+	"type": "rock",
+	"hardness": 1.25,
+	"resistance": 7.0,
+	"textures": "quark:blocks/stained_clay_tiles",
+	"blocks": {
+		"full": { "id": "quark:stained_clay_tiles", "meta": -1 },
+		"stairs": "quark:stained_clay_tiles_white_stairs",
+		"slab": { "id": "quark:stained_clay_tiles_white_slab", "meta": -1 }
+	}
+}

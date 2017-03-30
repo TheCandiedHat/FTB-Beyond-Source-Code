@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: jenkins
+Created-By: 25.101-b13 + (Oracle Corporation)
+Implementation-Title: LaunchGui
+Implementation-Version: 1.9.4-2.0.3-23
+Git-Hash: unknown
+

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "topaddons",
+  "name": "TOP Addons",
+  "description": "TheOneProbe support for some mods.",
+  "version": "1.10.2-0.9.1c",
+  "mcversion": "1.10.2",
+  "url": "drmanganese.github.io",
+  "updateUrl": "https://minecraft.curseforge.com/projects/top-addons",
+  "authorList": ["DrManganese"],
+  "credits": "McJty, for making TheOneProbe",
+  "logoFile": "/TOPAddonslogo.png",
+  "screenshots": [],
+  "dependencies": ["theoneprobe"]
+}
+]

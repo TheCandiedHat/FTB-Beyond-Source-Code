@@ -1,0 +1,11 @@
+{
+"forge_marker": 1,
+"defaults": {
+	"model": "minecraft:cube_all",
+	"transform": "forge:default-block"
+},
+	"variants": {
+		"half=top,prop=normal": [{ "textures": { "all": "environmentaltech:blocks/hardened_stone_bricks" } }],
+		"half=bottom,prop=normal": [{ "textures": { "all": "environmentaltech:blocks/hardened_stone_bricks" } }]
+	}
+}

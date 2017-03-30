@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wcg",
+  "name": "Wireless Crafting Grid",
+  "description": "Refined Storage addons that adds a wireless version of the crafting grid",
+  "version": "1.10.2-1.0.0",
+  "mcversion": "1.10.2",
+  "url": "http://p455w0rd.net/",
+  "updateUrl": "",
+  "authorList": ["TheRealp455w0rd"],
+  "credits": "TheRealp455w0rd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

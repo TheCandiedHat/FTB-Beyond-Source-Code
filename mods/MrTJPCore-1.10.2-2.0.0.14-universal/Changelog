@@ -1,0 +1,32 @@
+v1.0.6
+- FIX: Sky block updating for tiles
+- FIX: Volcano generator skipping chunks
+
+v1.0.5
+- ADDED: Utility class for configs
+- ADDED: Block library
+- ADDED: mcmeta file
+
+v1.0.4
+- ADDED: Weighted Random resolver
+- ADDED: Crude cubemap rendering
+- ADDED: New world helper functions
+- ADDED: Model parsing helpder functions
+- ADDED: World generation and retrogen handler
+- ADDED: World generators
+- ADDED: Plant helper classes
+- ADDED: Perlin Noise Generator
+
+v1.0.3
+- ADDED: Containerless GUI compatibility
+- ADDED: Implicit ItemKey-ItemStack conversions
+
+v1.0.2
+- FIX: Item copy crash
+
+v1.0.1
+- FIX: Update checker
+- ADDED: Inventory trait
+
+v1.0.0
+- Initial release

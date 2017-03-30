@@ -1,0 +1,16 @@
+[
+{
+  "modid": "props",
+  "name": "Decocraft",
+  "description": "Adds 500+ models to decorate your Minecraft world.",
+  "version": "2.3.6.1_1.10.2",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2",
+  "updateUrl": "",
+  "authorList": ["RazzleberryFox"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

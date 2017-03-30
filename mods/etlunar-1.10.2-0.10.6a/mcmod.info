@@ -1,0 +1,18 @@
+[
+{
+	"modid": "etlunar",
+	"name": "ET Lunar",
+	"description": "ET Lunar is an addon for Environmental Tech adding some lunar themed multiblocks.",
+	"version": "1.10.2-0.10.6a",
+	"mcversion": "1.10.2",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["ValkyrieofNight"],
+	"credits": "",
+	"logoFile": "logo_mcmod.png",
+	"screenshots": [],
+	"requiredMods": [ "environmentaltech" ],
+	"dependencies": [],
+	"useDependencyInformation": true
+}
+]

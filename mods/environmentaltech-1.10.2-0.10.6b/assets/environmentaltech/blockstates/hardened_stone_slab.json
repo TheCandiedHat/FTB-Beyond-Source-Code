@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+	"parent": "block/cube_all",
+    "model": "minecraft:half_slab",
+    "textures": {
+      "all": "environmentaltech:blocks/hardened_stone_normal",
+      "bottom": "environmentaltech:blocks/hardened_stone_normal",
+      "top": "environmentaltech:blocks/hardened_stone_normal",
+      "side": "environmentaltech:blocks/hardened_stone_normal"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "half=top,prop=normal": [{
+      "x": 180,
+      "uvlock": true
+    }],
+    "half=bottom,prop=normal": [{}],
+    "inventory": [{}]
+  }
+}

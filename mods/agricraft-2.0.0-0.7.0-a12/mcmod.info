@@ -1,0 +1,22 @@
+[
+	{
+		"modid": "agricraft",
+		"name": "AgriCraft",
+
+		"version": "2.0.0-0.7.0-a12",
+		"mcversion": "${mod.mcversion}",
+
+		"logoFile": "assets/agricraft/textures/logo.png",
+		"screenshots": [],
+
+		"parent":"",
+		"dependencies": [],
+
+		"authorList": [ "\n    - InfinityRaider" ],
+		"credits": "\n  Author:\n    - InfinityRaider\n  Code Help:\n    - Imasius\n    - RlonRyan\n  API:\n    - HenryLoenwind\n    - Textures:\n    - MechWarrior99\n    - SkullyGamingMC\n    - VapourDrive\n    - SkeletonPunk",
+
+		"url": "http://minecraft.curseforge.com/mc-mods/225635-agricraft",
+
+		"description": "Agricultural farming extended."
+	}
+]

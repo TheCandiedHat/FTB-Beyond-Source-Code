@@ -1,0 +1,195 @@
+Manifest-Version: 1.0
+CCTransformerExclusions: codechicken.core.launch.FingerprintChecker
+FMLCorePluginContainsFMLMod: true
+FMLAT: ccc_at.cfg
+
+Name: codechicken/core/fluid/FluidUtils.class
+SHA-256-Digest: PvVEMESp/7exdw44jq7+u0wqK7hRtxHXJONbZ+n763c=
+
+Name: codechicken/obfuscator/IHeirachyEvaluator.class
+SHA-256-Digest: icg0rt4FxfVfjWsNjg3jyTYEPunWDgivvlA7TTGVxRc=
+
+Name: codechicken/core/inventory/ContainerSynchronised.class
+SHA-256-Digest: 6MVvnoVnM1zK35zosgZN27uTOHW1XEdQ5OHDPdPIs5A=
+
+Name: codechicken/core/inventory/IntegerSync.class
+SHA-256-Digest: O+IFfwyKue765ey0yLhs0BYsYspBz8ju48LlXDxjsJ0=
+
+Name: codechicken/obfuscator/ObfuscationMap$ClassEntry.class
+SHA-256-Digest: q71H8bjhLdCVrImG6uNdhzUUkGxZ4VTmRSpMhVZa6IM=
+
+Name: codechicken/core/launch/DepLoader$IDownloadDisplay.class
+SHA-256-Digest: 4T+9V9sKYBT5hefD79gHaTehER9HSRd4xK6/rYJe6Q0=
+
+Name: codechicken/obfuscator/ObfuscationMap.class
+SHA-256-Digest: hnEereR9EeJnjxc26HKDDKRjzRW4UVCQ8SUJwf8QjU8=
+
+Name: codechicken/core/CCUpdateChecker$ThreadUpdateCheck.class
+SHA-256-Digest: Yw4s+/J31Xs1367VmjQCgYjJE85re9JSy6EnVjDjVuk=
+
+Name: codechicken/core/internal/CCCEventHandler.class
+SHA-256-Digest: OQl2bvQoVm9iPrQDPBytKFviR8HSkckprr4c3hepvDk=
+
+Name: codechicken/core/inventory/GuiContainerWidget.class
+SHA-256-Digest: DLWHzaVWFQG//fQh/O1T3azfsx7/U+dbrGBul+PkmPA=
+
+Name: codechicken/obfuscator/ObfuscationMap$ObfuscationEntry.class
+SHA-256-Digest: hgUypPXz+BReJXbT496lG6jpL7O21rID7I6FVsufDuo=
+
+Name: codechicken/core/commands/PlayerCommand.class
+SHA-256-Digest: IQc9SzvkayatQD7oXEUpMmqFgrBjYWDXC6ZhJIyZ1Qg=
+
+Name: codechicken/core/gui/GuiCCTextField.class
+SHA-256-Digest: m2APbRkVYdefBdLU0+1G/X3nYDD7Ij/605SQLy01pJM=
+
+Name: codechicken/core/inventory/SlotHandleClicks.class
+SHA-256-Digest: UO/d1Q5h6aATxRMHWheMwpK+TJTnFEIyCQZg6czjh84=
+
+Name: codechicken/core/launch/CodeChickenCorePlugin.class
+SHA-256-Digest: CDBFburqnU1ZUu6cghTJI98vGNpOCG0D/eOP1YJXPO0=
+
+Name: codechicken/core/launch/DepLoader$Downloader$3.class
+SHA-256-Digest: wT0GsYh1r6EtDolwTcdwmurU5gtePBKhP+Ovn+LXDAs=
+
+Name: codechicken/obfuscator/ILogStreams.class
+SHA-256-Digest: hhl7V4qBpAG93e+qdIkRykQifvSRXrOgKe+7lJ9tTjU=
+
+Name: codechicken/core/inventory/MappedInventoryAccess$InventoryAccess
+ or.class
+SHA-256-Digest: c8DF6YCZyJOqjDBa8kNR9RXTGut1v5w8wqIs2hVXdqc=
+
+Name: codechicken/obfuscator/ObfDirection.class
+SHA-256-Digest: xjPZRAbEizUcLvLuayrsGCjhRl1ECa8+wbIfyGmowwM=
+
+Name: codechicken/core/launch/DepLoader$VersionedFile.class
+SHA-256-Digest: Ce2ChOQ5LrpBGZfc7DTfTrcEisr0gFvbcFDxptlnwaY=
+
+Name: codechicken/core/ModDescriptionEnhancer.class
+SHA-256-Digest: LyOSLNubM1V8GgsCY0klnpRYPuv5nYSRv16WD4Phxo8=
+
+Name: codechicken/core/launch/DepLoader$Dependency.class
+SHA-256-Digest: 3YYYlv70CDyo+aBZoGUpExAbiHfeEMd+L8vANF22op8=
+
+Name: codechicken/core/launch/DepLoader$DummyDownloader.class
+SHA-256-Digest: TcTbDqFdAJZWredoLBVsQ+9ZzkXtLUaiphFQkWYRgaU=
+
+Name: codechicken/obfuscator/ConstantObfuscator.class
+SHA-256-Digest: B0WpF4FXv6qxNNMXK6my72GC8yod4SJM6eQk+XkUfW8=
+
+Name: codechicken/obfuscator/ObfRemapper.class
+SHA-256-Digest: 2oq4nRrwuHR7TgxUaHIDC5pvYmvv87cvZ3uviiXO4yk=
+
+Name: codechicken/core/CCUpdateChecker$1.class
+SHA-256-Digest: qnRbzA2Gp1mh6DP46fr1TGaXuWOmctbp0HajXI0aXFU=
+
+Name: codechicken/obfuscator/ObfuscationMap$1.class
+SHA-256-Digest: vSvvsRNQLpZ2DWsYF2DjdzE3OV0C8LlzMeRUkf1fTYE=
+
+Name: codechicken/core/launch/DepLoader$Downloader$2.class
+SHA-256-Digest: GuFI/5vqI1uIeK6U2SoxUdfBt3LOQ653KBwCc98U38M=
+
+Name: META-INF/ccc_at.cfg
+SHA-256-Digest: TigA/EuEW+cTLYkr0MoVo7gA7lnWmSZl2voTbzRJI6w=
+
+Name: codechicken/core/gui/ClickCounter$ClickCount.class
+SHA-256-Digest: VzUdMAeLoIIzZhFD/l0rIkBbx49W/HGs2DUuvVKu2QY=
+
+Name: codechicken/core/gui/GuiWidget.class
+SHA-256-Digest: pGFFlhFY3z/L4iv0rO1EKsj+Iq0ZOhex+yqtFPpYLos=
+
+Name: codechicken/obfuscator/SystemLogStreams.class
+SHA-256-Digest: /5X/Os/qsa9pdWu2daHPCR9O50AhoGXexAMhtlVaBzI=
+
+Name: codechicken/obfuscator/DummyOutputStream.class
+SHA-256-Digest: fmDUnqYTJfVcIgjdrBar9ogr3PTNXMk6NcObmnLjCWg=
+
+Name: codechicken/core/gui/GuiScreenWidget.class
+SHA-256-Digest: x22YiBOfNaYj077qS9pcWntxCrsIN+ZsxUcb9JOEfwc=
+
+Name: codechicken/core/fluid/ExtendedFluidTank.class
+SHA-256-Digest: cEb40toUAGFB78OMwFCPxlNemDX1WOGUvM3zobHhZZk=
+
+Name: codechicken/core/gui/GuiScrollSlot.class
+SHA-256-Digest: OCwmdQ1ZloJLSD1x1XjdbEaky1YOblPomLkW0QXFyYU=
+
+Name: codechicken/core/fluid/TankAccess.class
+SHA-256-Digest: SpsucxCU8LRlI1RM2esF8+HsdN040wnCQ5wbllcrkY8=
+
+Name: codechicken/core/launch/DepLoader.class
+SHA-256-Digest: DVvmHn1uQ5A6fxujyTmiqTIVSerM9+3dysQZJzrwLQU=
+
+Name: codechicken/core/inventory/IContainerSyncVar.class
+SHA-256-Digest: iODyZj9RknakQutfqFbNfmfcluRLp9chC+5klgxrsGk=
+
+Name: codechicken/core/launch/DepLoader$Downloader.class
+SHA-256-Digest: Z0CjwVg6/0VEfGYy7hb+TuFoU7HDycUCoFk8NxlGfLY=
+
+Name: codechicken/core/launch/DepLoader$YellServer.class
+SHA-256-Digest: fNmZ38IJ7R9Lc50cOIj71mAUQGkfjsoVMhjP15/ykz0=
+
+Name: assets/codechickencore/asm/tweaks.asm
+SHA-256-Digest: T5vM76hFUT2Fw+rZKoTyzWC8kSB8dnYa4d9XQogsi8s=
+
+Name: codechicken/core/launch/DepLoader$Downloader$1.class
+SHA-256-Digest: jX1Rmy/68axSmMfGvFSqMdF5uPkSBF2yS7idMliBAfQ=
+
+Name: codechicken/core/inventory/SlotDummyOutput.class
+SHA-256-Digest: 2CTynWvR2aOOt05854Xk39TW/dUkc3samAV0N0KBPsM=
+
+Name: codechicken/core/gui/GuiScrollPane.class
+SHA-256-Digest: SMCpx2/WH+qJiXV6YHW5iiPbXuKgO9UVfNi1HUijyuQ=
+
+Name: codechicken/core/launch/DepLoader$DepLoadInst.class
+SHA-256-Digest: kz+S+PYrA/5rs3ozFz2RqBzsN8Q1q1zK3ogXpZA1Pa8=
+
+Name: codechicken/obfuscator/ObfuscationMap$2.class
+SHA-256-Digest: 71g/lZnivYM60MqD3E9KofD4x6dRDb2wp3uk30Pn/Gc=
+
+Name: codechicken/obfuscator/ObfuscationRun.class
+SHA-256-Digest: wGD1NwSbaqOfYw2g95Yh9SKgIZVhZHhhN6zLSgVY7Qo=
+
+Name: codechicken/core/inventory/ContainerExtended.class
+SHA-256-Digest: DlQVuxLKhDzqE+z2V9a+A3r7lO2RxzHyzOvngoDQwdE=
+
+Name: codechicken/core/gui/ClickCounter.class
+SHA-256-Digest: fmpmQKxL976uAybKljIfGLwu075Ir8wIsjhBoAQizOY=
+
+Name: codechicken/core/launch/DepLoader$IYellAtPeople.class
+SHA-256-Digest: IQkXzer634eRSV9bZ7Fa0QivRgYZOoFZpiw3YFedoC4=
+
+Name: codechicken/core/gui/IGuiActionListener.class
+SHA-256-Digest: JnTmW1/q5rWaqUPYPWYdll/jWbBDhKyxCDIFvd53ZRY=
+
+Name: codechicken/core/gui/GuiCCButton.class
+SHA-256-Digest: h6a7VgNWOdQmWZYPslHI8rtPonf7O0hhEqEK71l/rzI=
+
+Name: codechicken/core/launch/FingerprintChecker.class
+SHA-256-Digest: x3yLwgTq8iYQhmLi1ZhfZA/RTvrJG+QiE1nb9NqXxaw=
+
+Name: codechicken/core/commands/ServerCommand.class
+SHA-256-Digest: pe5N/IYuGWhULps4S2qnpmklRbudyrKlAIc3EJt7yz4=
+
+Name: codechicken/core/CCUpdateChecker.class
+SHA-256-Digest: e4ki86njE+EdRZdioE4uQsghIPHK4RgMxGwybaP/bhg=
+
+Name: codechicken/core/inventory/MappedInventoryAccess$1.class
+SHA-256-Digest: hT/G0suJMbipdGQs/CrtkqxBG//Xv5hix8m2Y60+Bng=
+
+Name: codechicken/core/launch/DepLoader$YellGui$1.class
+SHA-256-Digest: QHlx3qbIOjDjQX1IOewGCY4WMiEX6lb29BVNS0PxZ20=
+
+Name: codechicken/core/inventory/MappedInventoryAccess.class
+SHA-256-Digest: MvgId0aTk4zRuxO3dcPkNSKSANx5UFj5kbWGIEjyAVs=
+
+Name: codechicken/core/commands/CoreCommand.class
+SHA-256-Digest: 2At+om6Qm+l6eGJFPfxYMtEidpPrjl4URXHNzRRZ3No=
+
+Name: codechicken/core/launch/DepLoader$YellGui.class
+SHA-256-Digest: J2VQBILV4bUjLZbYYknz8wlRwX3KVPCa0Ub0oUmwyB8=
+
+Name: mcmod.info
+SHA-256-Digest: Ro2rA7g5UPXPRI+wLbUQEJdtGHFE8mv3clwevXeCsmc=
+
+Name: codechicken/core/inventory/SlotDummy.class
+SHA-256-Digest: qEQOCbw94YlfWyntAqtAVM0kawpmkySQMWWsJ7ZXZAc=
+

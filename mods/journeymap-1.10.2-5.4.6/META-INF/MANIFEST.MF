@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: JourneyMap
+Implementation-Version: 1.10.2-5.4.6
+Implementation-URL: http://journeymap.info
+

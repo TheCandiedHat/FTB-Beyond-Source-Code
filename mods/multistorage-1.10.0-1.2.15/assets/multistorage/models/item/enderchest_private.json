@@ -1,0 +1,12 @@
+{
+    "parent": "multistorage:block/enderchest_inv",
+    "textures": {
+        "particle": "spcommon:space",
+        "stars": "spcommon:space",
+        "band": "multistorage:blocks/enderlink/bands",
+        "top": "multistorage:blocks/enderlink/top",
+        "middle": "multistorage:blocks/enderlink/middle",
+        "side": "multistorage:blocks/enderlink/side",
+        "type": "multistorage:blocks/enderlink/type_private"
+    }
+}

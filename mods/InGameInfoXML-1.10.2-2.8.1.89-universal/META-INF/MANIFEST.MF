@@ -1,0 +1,916 @@
+Manifest-Version: 1.0
+FMLAT: igi_at.cfg
+
+Name: com/github/lunatrius/ingameinfo/client/gui/overlay/InfoItem.clas
+ s
+SHA-256-Digest: /0/0erQg1b9Mz7fE6ldEAz/o8S15Lx2hRl0+kdmVX0I=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Config$Category.
+ class
+SHA-256-Digest: PpECrzns+Q15T0BDohBdaUA3Y3VlxKmT3/iXqM/LXoY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagRiding$HorseHealth.class
+SHA-256-Digest: igQuRh2aV5qSQx22B/4IRM0Egrn5JWo2VQuV/5dhtgo=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$GameModeId.
+ class
+SHA-256-Digest: aN2RLgvVx4DyDv2wIP4eJ5kGjnrWBQI/h6/trCIvTV0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$LightSun.cl
+ ass
+SHA-256-Digest: Pa0zFpTfLrpsaZJ9D3ZYUm5KAeWPbfRn76XHOTLnGNU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPotion$DurationTick
+ s.class
+SHA-256-Digest: ohXDCFB8zX2WrlMjcgm7d4maMnbKQn4AqL+kQvjP7Ao=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$InWater.cla
+ ss
+SHA-256-Digest: rABwgf2nURAZutTKhA6QZmKyRxEK0vNDYhUy1r7uMHs=
+
+Name: assets/ingameinfo/lang/zh_TW.lang
+SHA-256-Digest: WC9wdtw7tdeQ5SbTKNmvRcCCGisZsGjJX/40zowkkGc=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/Tokenizer.class
+SHA-256-Digest: E85xgxX3qn982haKIj87EcS67Y3u0/H4CS9+7yU/xGU=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Files.class
+SHA-256-Digest: ipIdzoS2G4Ghq3sjeKEdMmNyJ3xG/ngVP1NTznNcr4o=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/tag/GuiTagList$Catego
+ ryEntry.class
+SHA-256-Digest: H4lIbhHsGnfagaF40p6B9ukm5XvEVAeBL59xBLS0/9o=
+
+Name: assets/ingameinfo/lang/ru_RU.lang
+SHA-256-Digest: gSzyk4qaxbtINA7BquWvrJK2Ln2tjWxnByIfhYOsvvQ=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagNearbyPlayer.class
+SHA-256-Digest: 5/AFKdLuXMclmESWL0+sXjCWIwMm13LcdhyHogNwE00=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Config.class
+SHA-256-Digest: R5iuAaSWCh/bXNwcV1Nn3JKGke/3wXOTLeOGUdbWFzM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$YEyei.clas
+ s
+SHA-256-Digest: vioZw6nsqr2Sebz4SH25XUmVeUID0SZ32nbSD8jn5Xc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver.class
+SHA-256-Digest: mUxLyo4kpdXKXjnlZGysFSBuslfIsdB8OLD1EJAqG78=
+
+Name: com/github/lunatrius/ingameinfo/tag/Tag.class
+SHA-256-Digest: oQx5XRP3CFnFlPUZqhnND+cDH36R4U8wN2ZZR4cpV8w=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/overlay/InfoText.clas
+ s
+SHA-256-Digest: 3o05SkZO5Ph5bfSlmW1wHH2voiLjONpgoMohioBrr1k=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Humidity.class
+SHA-256-Digest: ECZf6biq0tR+YkvVii3kc4itIpzMSjQl2ZZ112uIKa4=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Keys.class
+SHA-256-Digest: r04nyPMcbImywbdrZlZJROvBBK1Y6rffu8ElnJzJsJg=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$SpeedXZ.cl
+ ass
+SHA-256-Digest: 3Uz1jVIdUK75WKWhSGvVfY3fV15W6d1wCDpiuDCFsJQ=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPotion$Duration.cla
+ ss
+SHA-256-Digest: NzRBUorPegu8+7b54Za6uwg+q+RKhwN8/CuH+ZEevvc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$PowerWeak.class
+SHA-256-Digest: Ytses5GSMXmrqyaDFo3993hTCM1SHNjnhk7CzzCw3A0=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath.class
+SHA-256-Digest: fi5Wa6KMGTQL9jWqYWupY6H7LOowoqokDH3Ud0eFFRQ=
+
+Name: com/github/lunatrius/ingameinfo/proxy/ServerProxy.class
+SHA-256-Digest: 7szQCp/RW+rCNMtcls+gwde1As82vjd1lqprIb6jQ0A=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$Server.class
+SHA-256-Digest: 6pxSCtJzl++VEBgdihCEU7DNhQ1GUdYKS2KonB4rA4k=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$SlimeChunk.class
+SHA-256-Digest: FrrgDqcvemLC0HYX0XwnmzE2KZMJhpUvTd+ZWpooWBo=
+
+Name: com/github/lunatrius/ingameinfo/proxy/CommonProxy.class
+SHA-256-Digest: AKqFf+J5Vr+ufx/0XEAycmG6fElq+47ksUEOhlR/yqM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$ChunkX.cla
+ ss
+SHA-256-Digest: 5g+VwhmYmB5HfS0+oIby/HzjKQvvdR1wMZX8WaVrrp0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagNearbyPlayer$Name.class
+SHA-256-Digest: ZY2o8haT9XialTfZ5u1+iB66Gsmy4aeh6e0D0DjJg54=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Abbreviate
+ dRoughDirection.class
+SHA-256-Digest: fmTa+oS46toYIZh8i3zVfgHg4KumTrx9YhayenwOOHQ=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Yellow.class
+SHA-256-Digest: G7bPsbEGr8cOmYNz3LHryDHVcizefl9yiEejcQAIKf0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$MoonPhase.class
+SHA-256-Digest: CF/1XUERn9jJ9ansCeiT5DOJuE8g5cXJiiWfVlt3haU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$LocalTemperature.cl
+ ass
+SHA-256-Digest: b81Ed3Jd89Sm6j2CR3CKIp05+1bPFzSEGVwuTkvwjM4=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Light.class
+SHA-256-Digest: 1yaSJzU+rWQcDqwrtwIgDCqvPHRzh6+r5lCSkDpr3kk=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/Location.class
+SHA-256-Digest: Ehh0+xCKGCPC49/ipzzKsBSekoIs692FbOzpfAzbnd0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$DimensionId.class
+SHA-256-Digest: yh2mX2FM3CpdeckC3cLZpT3ChU6n1hyODsQ3/gE67Zs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Strikethrough.
+ class
+SHA-256-Digest: ItxprJF92HnWeScbQkL+PdykZ3xCXMfdgK1tM6ywVas=
+
+Name: com/github/lunatrius/ingameinfo/value/registry/ValueRegistry.cla
+ ss
+SHA-256-Digest: X3gncGd0IZBQ6narsbIjmZu5fLF6H9Zf7oCUTj9/v3o=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$MaximumDa
+ mage.class
+SHA-256-Digest: uOLjJon9Dgqprbo0Kdg4afgPeJ+ewhcjdyX3g7hDUSQ=
+
+Name: assets/ingameinfo/InGameInfo.xml
+SHA-256-Digest: Q+jL4m5G/KTaeUUAPnLdxh/XhKNDKeSpzApFKepYgrE=
+
+Name: mcmod.info
+SHA-256-Digest: sO5vOC3Tb4bpJjO71wzFzAF1ud/4WHHnS3uumH8azE0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$DarkBlue.class
+SHA-256-Digest: A+NRq6luI1hCE97XCrgQEjm4XGkNYol7JjnWWQBUqR0=
+
+Name: com/github/lunatrius/ingameinfo/printer/IPrinter.class
+SHA-256-Digest: flMehL977g0WwyG+qht+ZtBtBGFXFyRMCz5QiXYXbvU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$Ping.class
+SHA-256-Digest: j3zUq4rb5R92ZJRgFldTkO7M0lj46fu9rLIcSkojWPI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$Icon.clas
+ s
+SHA-256-Digest: 9cDz8gNx1PjWPPLFUIYIBtMAYVGNEBY7DlTtwze+2PY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPotion$Negative.cla
+ ss
+SHA-256-Digest: 5EMDXaCQ3OakIxROYIg/fthX63oUPNNW/x61UbvRpGI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Sneaking.cl
+ ass
+SHA-256-Digest: uyF9beq0WDJQrvepMb+An8yb5q0XQElVEeabInGd4IU=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Command.class
+SHA-256-Digest: CvORxO8xk0dyitw/yCNEpxzlYfzy4F6Z4FMebC90kmo=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueAdd.class
+SHA-256-Digest: n4Nx70BWqnzWQbwtBUR5QLE/9Be7wxV5q6YT+hMM1Xs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Gray.class
+SHA-256-Digest: i5li2nTjPHpVOY0f27loJn56ZwGTRXuKjqwsgVJYXQU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Snowing.class
+SHA-256-Digest: ZOBIW2GA/OXZZn4tZ5vhX4wcnjwVBBkzRhr+uzEvuEs=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueSimple$ValueString.cl
+ ass
+SHA-256-Digest: I4fXdKfOcb62aZaBgFPXr0262YEplUAD+2bau0lL/AM=
+
+Name: com/github/lunatrius/ingameinfo/command/InGameInfoCommand$1.clas
+ s
+SHA-256-Digest: QPt5ye/8JN4EuZp0XfufTGXOdOR93ZL4ELz28MjHXEA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$ServerIP.class
+SHA-256-Digest: x22Gm2hpyBL5L2y3bxupSNRT2aH+X1rJLgaN+qcTXOs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$DarkGray.class
+SHA-256-Digest: DPl4wWaCFW3WDCTLNwBZIbUnYgP5VIBKORaSurXQwZc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$LoadedChunks.class
+SHA-256-Digest: F3l1v7rxtp9DLlgnFQ2JPl9o3ihMJlkgScTPzJOHdYQ=
+
+Name: com/github/lunatrius/ingameinfo/parser/xml/XmlParser.class
+SHA-256-Digest: 41rnOksqHPU+PYTB+xeLuiMixc1Ld4Q+yRP6H8M26is=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$Minecraft12.class
+SHA-256-Digest: +Tsjh29nTkd8G5k9DVD5y3xA/LLNRNEucHugfoQcWbc=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueMul.class
+SHA-256-Digest: /N5tjjsZop/0HZPnxQSnD38MEryzYBfxvSERCtQzDxo=
+
+Name: assets/ingameinfo/lang/en_US.lang
+SHA-256-Digest: kfrG5E8yxf/zItUVTrzMIQAFoMZOREzSLJemaAsLJEM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Blue.class
+SHA-256-Digest: gYSoTfOgMbKN1foEVykMqzi9gk84utzaAjc0v5ITCJA=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/overlay/InfoIcon.clas
+ s
+SHA-256-Digest: hcHW9b7P8VtehG2XUfhxECdPOfpEe5xZXy+ZdNYN8VA=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueOr.class
+SHA-256-Digest: AFohoG6FB4S61OKFwpMTVqJMO6W8SkafLSzufIfVi2w=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagRiding$HorseJump.class
+SHA-256-Digest: iGdvZvDc9sx3FH4H42OuE9F3Ug3I51e/U8DwKV+6PpI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Y.class
+SHA-256-Digest: Xa6oJI0xuzJ2IZeo96nFe8oUmh0bsGVyLrl0UyfaUdw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Biome.class
+SHA-256-Digest: 8Kjj9IqsXQ7+gBAB7/3R9o3mBpLeuL/mlb9U3+b8XHk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Direction.
+ class
+SHA-256-Digest: x9Je1roRxuJUGtt6oMcPeABvotSSUMy5uu0ZYLNDpo8=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/AlignmentException.c
+ lass
+SHA-256-Digest: MaoDJhtOlKJJwcz8N0kpM4TMVAWdf1b/fexOICocRe4=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$SpeedX.cla
+ ss
+SHA-256-Digest: oKMi8BA97fGCpAOrxsfqf1qf6DS1x+exLexWi+uykBw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$DifficultyId.class
+SHA-256-Digest: jzmz5/wA9it2G1nNiNVjwLzCkVLn8aavepYitHymwLU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$ChunkZ.cla
+ ss
+SHA-256-Digest: fAoOkt55nk2ovkkn3tpidBf362X8Y2JBZHFRfh1Epvw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Difficulty.class
+SHA-256-Digest: EsaTTAODWoFcgObSeSmInzOThNm1dB6vYmpkdUto1vw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Speed.clas
+ s
+SHA-256-Digest: wWG1Ay0C8ptV6hStsC/jHphbG8+IwZqohXwbBKUR7FY=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueMod.class
+SHA-256-Digest: DVwHd1w7087ArW2xFqCild6mBkX1aErXK35YyJGmYog=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueItemQuan
+ tity.class
+SHA-256-Digest: ewQPDzlYdQPwC6zpVxQa9mLKDxuWgxJvJ7DxyvC23YI=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/Token.class
+SHA-256-Digest: 2i/LCpgwxNXN61+l43j8mpASd3UwbF3/278u9Tr1PWA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$RoughDirec
+ tion.class
+SHA-256-Digest: EsuYIyX4P2nHTcJPUE+P2lx20DWFIhZnxJrqsV39MRE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$SpeedY.cla
+ ss
+SHA-256-Digest: coaqqEjEQva/+2sYzRg/duJTsOPnkTmMrrRNJbh+Hcs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$Quantity.
+ class
+SHA-256-Digest: 6kqZwA9trI2pofGPQfUxpxqUV/U9r7IYo/Hksi95PPA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$Name.class
+SHA-256-Digest: JaDwktBku5nIAeaD4btMZnMg13TF67RLs4H8ptuPhBM=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/config/GuiFactory$Gui
+ ModConfig.class
+SHA-256-Digest: B5Zayp4NzEqSg7W80Lc1Z6pAbU5ecDiqr+rHfY6RkqU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Invisible.c
+ lass
+SHA-256-Digest: R8gBcE6eMghHN/qhOKHgyKwzUOORkx1obVGwAVrbows=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Wet.class
+SHA-256-Digest: VqN5+SH8Oknh1ZEa5sfeMwGifIPNHOIh3dyKimPedKk=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueMin.clas
+ s
+SHA-256-Digest: MAkgefNUluNYRY1M8z5pwykgBKPbvS5VCHs4S+xu/tI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Obfuscated.cla
+ ss
+SHA-256-Digest: OsULLWpmJadRRz6vF4dnOSMtk1Qg7sVCD90cYTLb9hg=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic.class
+SHA-256-Digest: nZ8e4G2yOFRs5ClZijzgvfU7ugkKVllal1iPGj+OZGM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Username.cl
+ ass
+SHA-256-Digest: LywzkxXc/ZivpM0kvOu/JFtuf4RMfjkD3QcXQlJFTlI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Red.class
+SHA-256-Digest: WZJFrbHmkL0N6CHDTncTaWPtksNorhVUt2LtGwwkMlc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$DarkAqua.class
+SHA-256-Digest: XS9zsFfaAbuEc8td0884iYQDezACoCG89Efpe3Sy+Nw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Black.class
+SHA-256-Digest: F/YMw4fcu2KmAZ+oiUmaxON0HiectXbJOCd7HOz8BnA=
+
+Name: com/github/lunatrius/ingameinfo/handler/Ticker.class
+SHA-256-Digest: hsTcaAtYZAY+nmMXfmg8V2OuqWxPJ8DjmAXHe3GfwVg=
+
+Name: com/github/lunatrius/ingameinfo/value/Value.class
+SHA-256-Digest: s7/4zc2Pz2m8Ge7pCsvg57a3HF9Y762q/r56aEfPFl4=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$LightNoSun.
+ class
+SHA-256-Digest: ESY/psijp67/71Sf7beJfJGct77VNGL4mvs+2HAJV0w=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$LocalDifficulty.cla
+ ss
+SHA-256-Digest: 2nsweHlLDv9DcNBZTOIZAS5jp8aJDbJgWcz3ujuMGAs=
+
+Name: com/github/lunatrius/ingameinfo/command/InGameInfoCommand.class
+SHA-256-Digest: 3CNCRxPQxes58ThazlJrPiCTXnRlf/NV0Anv0Bshr0M=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$X.class
+SHA-256-Digest: khimR0La6RUVBY4U3ebDpWVWmUJwRF82Oot/vUHFR5s=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagRiding.class
+SHA-256-Digest: Eo4dgStmN9AWmxEWIhmDzsvY5EDnjpNlEUIQEJEBH0g=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueGreater.cl
+ ass
+SHA-256-Digest: 58FKbq7qGUF3fW6iIMLbc6YoLZCtH8isCJ/5VuetnOk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$ChunkOffse
+ tZ.class
+SHA-256-Digest: zUIblq1d/EEPq7OgPsagQxdewfELJwvIS0gLzQ9W8j8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$LightPurple.cl
+ ass
+SHA-256-Digest: V1eD+Ii/NmOjUlGztlLP/7laMb/CJeTsQSgXoAkoVOU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$DirectionH
+ ud.class
+SHA-256-Digest: zku7tZUEJEl9qq3hsOuEJi0uFQuYcjhqytcLpXNHHF4=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Reset.class
+SHA-256-Digest: XplG1T2YYZJLnoQENmdVaEHCNvg0Oar+2aOTYs/yIaA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagRiding$HorseSpeed.class
+SHA-256-Digest: fvphEbbag85HB4lKLer4koc2+VyNBpcxx5YHvxrUV50=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$NextWeatherChange.c
+ lass
+SHA-256-Digest: WKXHrAjLUYHInF5wWsKzZZaF0S9gH+oOBtyak0WYwdY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$UniqueNam
+ e.class
+SHA-256-Digest: Q8QX7n0yAPEn1xRvJBfUmkHFe+WG1OzLpbNXt+Le5fw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Exhaustion.
+ class
+SHA-256-Digest: Efn1ZNwpdt4WkTOj851brwhS0+Z0wrh8eMfHhGZciYM=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValuePercent.cla
+ ss
+SHA-256-Digest: mCKO1UCIP22ZTguZOkCVApy8uyBCR/w0AXKx9qmJe0Y=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Abbreviate
+ dFineDirection.class
+SHA-256-Digest: f1NznfzowRR+6Q+Me3Ws5lc4TTZpo4CWS+nuOgyeIgI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Slimes.class
+SHA-256-Digest: Lsr4UpNCyRVkmk2f1WBmCZam7cNKRun7NoWB9Q5sPeA=
+
+Name: com/github/lunatrius/ingameinfo/reference/Reference.class
+SHA-256-Digest: x/oNelkLARa+9JeD5VsZ9GSnVejC8RYEleO5oxY6B3o=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/tag/GuiTagList.class
+SHA-256-Digest: KcGNDPHbyKoELCa1f1i1G4MM9d4Atybq6BQes71ABO4=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/tag/GuiTags.class
+SHA-256-Digest: /JiEyIbvtYZHk1blP3US3BM6y4UjXgNasDuIUqmw8jQ=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueXor.class
+SHA-256-Digest: xLEiT7thI1XJ2VXtMBfxdF4lD2HqWVbKbDEKPPMSi4c=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Xi.class
+SHA-256-Digest: jeBzVDEzOugnnxTg1iM0Advkrj/x/LXj8d/YdUSs5wc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPotion$Effect.class
+SHA-256-Digest: oZTMPJq2DWEASAD/HwTY2fNUrA3h3GLlh4W4fSkGQlI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$CurrentExpe
+ rience.class
+SHA-256-Digest: XYe1pYTcIC9iszVtBUNwdh2Bsm6Kev5VSOvFrUGAYk0=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueModi.class
+SHA-256-Digest: EF5EgK7MjUE5XyMX6iahO3b0ndWjV2T+7nPt/BIKxBs=
+
+Name: assets/ingameinfo/lang/zh_CN.lang
+SHA-256-Digest: AGHHaXcCho6bjs6VS+7/KoJUA2iRaTrXUqerFWrnOxc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$YEye.class
+SHA-256-Digest: Uvzrb5K5lqq8JdLx+sZKUO1NDcwr5j8MCMVA05b+R78=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$DarkRed.class
+SHA-256-Digest: hxPBMOf5/oGMlhgwRXJHAHIVGZ/JGKJpEAJvWmkUTSw=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$7.class
+SHA-256-Digest: Dk/t6fFDRxiE31O6VyD5zl9xkLTYk9z3IV9iZK8H7EA=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$6.class
+SHA-256-Digest: HxctRDih/QjAUfwBleCiuD03AMJiJEk2VGimga0Qbng=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$MemoryTotal.class
+SHA-256-Digest: +2v7B4GPUQxG+V+8m9XV6lFVxiroMcdMI7LY4vQviB4=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$LightEye.cl
+ ass
+SHA-256-Digest: PTxj5bQu2FhVrh1rOlhPpmdDQupp3Jhv6iNUCJUjslc=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$1.class
+SHA-256-Digest: 2D1jr9JK/aJlhm6zgf41Ynug+37F3qpNZwPgXi2KE9k=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Dimension.class
+SHA-256-Digest: EgDNM2L3QbF4+ZfnD1QEC8/uhiaq7JgMtVVxlPsLZVY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Z.class
+SHA-256-Digest: oIfVG6fobRYq2s8jq3PkzXNP/J7Kk/XB4ASrFdLpDvk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition.class
+SHA-256-Digest: 63mF73OZZmtFJMw7JFi5/EYi3vVgRgHhosKIztiW6Z8=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueIf.class
+SHA-256-Digest: QWorlDSAzK2BTkYr3tLmWbxYHRYpbJd5E+IO4yfIVbo=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$Id.class
+SHA-256-Digest: VnD7vaTHCeUq0Gy/A41Sl7jt1fPn2y1lBw8Q0wFD8ew=
+
+Name: com/github/lunatrius/ingameinfo/InGameInfoXML.class
+SHA-256-Digest: Np9JwuKyz74OjLX3/snEAi3J2f+ewxcarhZlv2jnOc8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$PowerInput.clas
+ s
+SHA-256-Digest: 8fXnlG5dofMOnOYll2LJcykroSwgTR3dvMdWkMZIpWk=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names.class
+SHA-256-Digest: mZWgrOdpVbeqBjwiv175wuusoF7rW6tAInN0MJN4ph8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$MaxAirTicks
+ .class
+SHA-256-Digest: sdsUrBD/D9LnAXC3kYDGQrkC0TEgRdBbH3g8a9frrQo=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueAnd.class
+SHA-256-Digest: DvAK/fCJmkCmFXReF2lvvmdeIgnYmVniVE2dhGb090s=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$ExperienceU
+ ntilNext.class
+SHA-256-Digest: SDTrseJm2h9uIk/q/Nk67XEM+KnCDN+KS8A2yZgXnTQ=
+
+Name: assets/ingameinfo/lang/pl_PL.lang
+SHA-256-Digest: 39i7iKTF/6ypgHNAHCAuT88FoZmlzORm+zrj/hZ9E+I=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueSimple$ValueNumber.cl
+ ass
+SHA-256-Digest: nREqxR1ZqHoZfAwlRkdw/++r7xPkTIv7YSu7rWmJW1g=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Health.clas
+ s
+SHA-256-Digest: wVzpcvgOiaAymIEczdarXL95pTOAy/gX4XPgc5Ld6nQ=
+
+Name: com/github/lunatrius/ingameinfo/handler/KeyInputHandler.class
+SHA-256-Digest: gmefHIAUUCpLh+zgGzE77HffVkuJ7nqEpM6MDMXaznI=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueFormatte
+ dTime.class
+SHA-256-Digest: g/nmWn0/3UVLweNhi5OxAEBFVaN+CFiL/FB80cjHhMo=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Score.class
+SHA-256-Digest: ryoraZLYS+R+Tzbgd8/nOHjDrXl4X5eUbbaePrf5FgY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$MinecraftHour.class
+SHA-256-Digest: JXgdusxGNYmWpukQi9iuMENLTT8cp1e55qoz8fJTpdY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Green.class
+SHA-256-Digest: 1aQZhL4/jVgnxdYYpbGnUo8NBMahsQ8LMsK4MrAoxKc=
+
+Name: com/github/lunatrius/ingameinfo/handler/PlayerHandler.class
+SHA-256-Digest: yGCq+nT76IcRVCHMEQAwxvV8kHRNXaO6nZM9sMVV9Rw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$AirTicks.cl
+ ass
+SHA-256-Digest: 5YUnaX4rnVYripGYzUesS6znr+s0n0f85ynq9o3cYHE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting.class
+SHA-256-Digest: zEzkB63NngcCtmqwGrP5nCw6m3feKNTFDgvRcY6jfBc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Pitch.clas
+ s
+SHA-256-Digest: IWkCN4qjOhtFHE4uZDSG5UHQXFgAT58FFtkXA+1AEik=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$FoodLevel.c
+ lass
+SHA-256-Digest: 5nEw/qRlHcYWcLgtEJvphYQ/47yJ+NK6zbr6uNVZlMw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$MemoryUsed.class
+SHA-256-Digest: 1fQt7N43/TngOJ2UvrBbs+Fu0EG/w0S+LWiBy2K7t2g=
+
+Name: com/github/lunatrius/ingameinfo/network/message/MessageSeed.clas
+ s
+SHA-256-Digest: jJU1tEePOWGp5KZOnI4Wt5Zh3CekZYYWWy9UwRo8+Ig=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$EntitiesRendered.cla
+ ss
+SHA-256-Digest: GoPFnQW3GGI/CBHOuH+OzHNlaflfVyIuu6wPhvPnjEk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$White.class
+SHA-256-Digest: ClzRiqjopglFNM0nGUQDkUma6Zez+XNcHdLuVoYu/zQ=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Burning.cla
+ ss
+SHA-256-Digest: XFkkYwbCbn22CP0lnCwBxGNy3dkJ4WvZdY18QEWP2B0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagRiding$IsHorse.class
+SHA-256-Digest: KPU2155vgAXT4c/v1SIxvx4OEIaZX5kFUOLi6Rkvd1Q=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Yi.class
+SHA-256-Digest: pFFOEQ0zK73RAby+Jwb2oBTT98BZGOZRixoJWq3bX1s=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueDiv.class
+SHA-256-Digest: JSQ5oQi5lH2y4jx+L/kfWG6C6UvqLjJFPo7UWxaHrQE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$MemoryFree.class
+SHA-256-Digest: muuNlKsucu0/LFUFWvw4tOIDSq7oXtzy4oimqDykxTY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Sprinting.c
+ lass
+SHA-256-Digest: HyFAre4K/hkOyL7FdMRKZWEmRoXx6B/3DdmuuSeDRRM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$MinecraftDay.class
+SHA-256-Digest: WcvVfC0Sa6uuDViBhVVAxLm9M0nJhnOfRuWQBFh2T0A=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Mods.class
+SHA-256-Digest: GnAjyAavyassEKgvY+R08YlFH2ou/Bq6bLtZVrYVunk=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueSub.class
+SHA-256-Digest: 8flc+Gnq6xwSIBYcirrh/GLF0T+CcRXsDx8to5jnsfM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$Zi.class
+SHA-256-Digest: kl1a+cO8SnzBPrNTqIVky8XBxLvsuAg3eUAc1WeQCqM=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/InvalidTokenExceptio
+ n.class
+SHA-256-Digest: mrE6W+HSLnGeUfmA0e1rD+6tEe2ZwbP850nIMg+yIeI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld.class
+SHA-256-Digest: /dOPqBM8y+tAVY64UwxIjTP9rkcOHJ2YCp9zc7MK2Qk=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueMax.clas
+ s
+SHA-256-Digest: B3/hPR55C/PyDGD2KbYYmfjLrakB6H4uGNWCHcx75Po=
+
+Name: com/github/lunatrius/ingameinfo/parser/IParser.class
+SHA-256-Digest: i8b+UGj2W5PfCP4JDpfsEQYzkGA3bhfHBVpv2xdiS8U=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex.class
+SHA-256-Digest: Hyll7f57c/XMqUj6oDvzljPRBZlvdQZF+Si7Lcj1tEU=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueSimple.class
+SHA-256-Digest: VWvO8/3mkZBO9q7fgKGynyUdOSX7P3q5hcMpff2C/6k=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$3.class
+SHA-256-Digest: 9MLVVUdq8f5adyeO9p90JMCVNdkP4mPpFFrpMx5Nbfg=
+
+Name: com/github/lunatrius/ingameinfo/parser/json/JsonParser.class
+SHA-256-Digest: w42oLty9n0NvecXVA9aBOJZEgpBLkDDdn60KlWnvLEY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Underline.clas
+ s
+SHA-256-Digest: YLNEwufcaI3HM0/oXM252YdyDkEXB3vwGDxtlvoB8Mc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Riding.clas
+ s
+SHA-256-Digest: 3UKI2eq2r5PzFJuD6bT7vM3j5MTHlJMAzO69NdU9xJ0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$GameMode.cl
+ ass
+SHA-256-Digest: Sdmtt0C9ibOktHiepaivws5QflLeylmSc32iwOwakKk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$Minecraft24.class
+SHA-256-Digest: Hi+g27jnZgQZGO5PncU0o2LYs/kVaeN6CuGVDINMleE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$DarkGreen.clas
+ s
+SHA-256-Digest: q5ZHspi0hwiC2XfMD7QNRVIfvGcEvy/SX070shmUOrU=
+
+Name: com/github/lunatrius/ingameinfo/Alignment.class
+SHA-256-Digest: jnP92zyGBfd1/6AfpY6dTCnGR2Q5qaps8cVxr1/z0g8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc.class
+SHA-256-Digest: Jop8bt4V3FKKYkEddc17GyUzBGLnacqUY+kzjt+XXzA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Eating.clas
+ s
+SHA-256-Digest: pMsj1EHcvUwlpNJ9rz1HcD1NQdhTNxDbFzTTvQGsp1I=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$MaxFoodLeve
+ l.class
+SHA-256-Digest: JBH5Ms8i9rxUvsAAvZHhQEnYH7mdNFWGNiDvjbYJ9FQ=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$ExperienceC
+ ap.class
+SHA-256-Digest: uhFG8qMhpQleMh1tsH7urWje0L9RvPLLtNAMSBAvUFE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Italic.class
+SHA-256-Digest: PEyb3BGDN4c7qn+S00tle1b8AZjnK/OtDqyKNEQMTuk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Alive.class
+SHA-256-Digest: vQ+JbB8elQA9rLmhrSbZ924/YJoyUThqkkhjmAuDCVY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$FineDirect
+ ion.class
+SHA-256-Digest: i686pRI7gpmDfL/pqHv0FxtZuvgtCV7+4EFgxk59ulc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$ServerPort.class
+SHA-256-Digest: aHZklaJ76bHJ7Oxk54LcwhyO+uOWeR9GLsUwj/hSjgY=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Name.class
+SHA-256-Digest: xDkQVVRdEoqWRL0U0Y0X5gQatawnJFqhQgbypzuamLE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$MaxHealth.c
+ lass
+SHA-256-Digest: 16p63ML43ZNvdhfLfy3STWcc31VBs8aurDqKj4GWc2I=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueTranslat
+ e.class
+SHA-256-Digest: iAdKS2O6O3tTRxaSmgbJGjuYW1T7jOeNkFqefThtPiM=
+
+Name: com/github/lunatrius/ingameinfo/proxy/ClientProxy.class
+SHA-256-Digest: V8iMrTt3CBb5INAfZLUecd69On9TPy+qUeRGcK9/VQY=
+
+Name: assets/ingameinfo/lang/no_NO.lang
+SHA-256-Digest: Mh7bVIiI5ZA3g92vvNySgI/GIK0HVjJxN7Ic71uvWI8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$BiomeId.class
+SHA-256-Digest: ZkD3xVBwM9AZG57CLGTZ5aR82BHMq5LDygAxqTzVMa8=
+
+Name: com/github/lunatrius/ingameinfo/printer/json/JsonPrinter.class
+SHA-256-Digest: RjZsfNrkrxGEmP3MP+dW0rId+8l1irDFGtP9wfeafhU=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueFormatte
+ dNumber.class
+SHA-256-Digest: LoeiAZ+6DhINlT9Yu26VAojBPH+a78fCaH8MTfQWr9c=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueConcat.c
+ lass
+SHA-256-Digest: tsrERXO2dha6q23GxRUyhb/7ZdLnZcOu3KbwnPw51ws=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$FPS.class
+SHA-256-Digest: HKJJALtuJoOGdeq6JtjKKlPVopLBh9KIMtObJXqMZas=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagNearbyPlayer$1.class
+SHA-256-Digest: /NHL2Rrjhgjj14aRcTEmXQQ07tWST90X5JUIbTnEAo8=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueMath$ValueRound.class
+SHA-256-Digest: dlEEz5syOK7la4pppHHhUqOR7kXkzboPzJ0S7k8kK6U=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$MinecraftMinute.clas
+ s
+SHA-256-Digest: 7p+Nu1V+7HkFBkftfx/t4EimqQSyEVhc/+vjUI678Ls=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueSimple$ValueVariable.
+ class
+SHA-256-Digest: yDofdXqQQ+HXoGuB2G/n2CoAr1Ff58PxiMoBCLNRt/A=
+
+Name: com/github/lunatrius/ingameinfo/reference/Names$Command$Message.
+ class
+SHA-256-Digest: 5APCef0uLwVg0UWkXATff6wYMABqeNqJCq08kzNlG6Y=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagNearbyPlayer$Icon.class
+SHA-256-Digest: ATPeXJ58T7a4qL5rTB8Rs3ibAeuuRHFvcFDJG79/qxc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$LightSunEye
+ .class
+SHA-256-Digest: 9/eMp3mA8QiQAy1rkdQBl9dr5MM7yywSfYD7p0TLpZI=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueFile.cla
+ ss
+SHA-256-Digest: 0kTEd4Dv8NnS6b53Qw3Krcxc4/PJSO0BgoPQdHwZcwU=
+
+Name: com/github/lunatrius/ingameinfo/printer/xml/XmlPrinter.class
+SHA-256-Digest: oD51pCr2pUelVn1nGhIj/ElYLZTY94r9zmFfsN5OFW8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$EntitiesTotal.class
+SHA-256-Digest: zkFmlrL7MfXYqK40yPYAdwKtSoQIizOaIdhgRBheFcs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Aqua.class
+SHA-256-Digest: Gd7DcRtbzglzMG517hxJ1w3Dc0TtRkP2c6qTSaY4pMM=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/overlay/Info.class
+SHA-256-Digest: UAAfUcoZabSj1qUSKdT0sl9jkQY669IRqTbrXA5lRUw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Thundering.class
+SHA-256-Digest: HDSQFnbnYbmZxq9IzM6mHDOIx8plI552n/oi2kXQMfs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Bold.class
+SHA-256-Digest: G7GACAJ8ymZrdPI8Rpuj7xlKcgLO9KV45jveHKNnj8g=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueIcon.cla
+ ss
+SHA-256-Digest: FySsV86QB7Wd3WerPD9LB9rdFj9U9eLozXNktZ4c/eU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Temperature.class
+SHA-256-Digest: D6wHv13zR9gjYx8Bb3IQkZ6QEaUDMWDr6ZRIWcJGabk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$Name.clas
+ s
+SHA-256-Digest: WG5zmnX8fUjLiw9LopzSw+SYFGBeyb5p8VcArdvr608=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueContains.c
+ lass
+SHA-256-Digest: OecZuA/QXcOzqQofCTv6jBUTtglkggtpUxt5hFOXEEE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Armor.class
+SHA-256-Digest: kGeewic5XDEB/38haCZs6BaWFsA4lnIM/1ongTRRn20=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueLesser.cla
+ ss
+SHA-256-Digest: +/EjWlt2DkBDoBuRV7cSXu8wrKsMYICwUnfdY9Shfcc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$ChunkOffse
+ tX.class
+SHA-256-Digest: ZjILVKoJiK47LiYw2yVv+xtABT/RO1ID8xSwpvScS4o=
+
+Name: META-INF/igi_at.cfg
+SHA-256-Digest: sB4prifPThgeRNYVWRi3+VLmK13WyEChgtjkdKuUqSE=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$MemoryMaximum.class
+SHA-256-Digest: CSF0pIQv7vQSTdwEfXFdHhm6MalPJryPTteEbTx91j4=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueEqual.clas
+ s
+SHA-256-Digest: AhmRqE5luW050hlLc0L240RdjjORdqdUTCssdwto0Aw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$PlayerLevel
+ .class
+SHA-256-Digest: lH2z1B1vCC/D3AlE4FHNYnIwffmwgkG113ZH1FiGBU8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPotion$Icon.class
+SHA-256-Digest: keZdbct5e5v40c3goFcGuURzdahbi3ARw5KjIyhxraU=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/Token$TokenType.clas
+ s
+SHA-256-Digest: upcyMF5WhSdOuN63PVSkdUMUdi8m2YwDAPDTBj0uqMo=
+
+Name: pack.mcmeta
+SHA-256-Digest: /y5P0OgybDZ8DMf8skzaS8vJAUoOTMs8fbGG2HaGEyI=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/config/GuiFactory.cla
+ ss
+SHA-256-Digest: uEgYPKFuJmyXReXYgy2LZDcWFilTmJptGlCMsxMapBk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$SizeMB.class
+SHA-256-Digest: AUTz17D3semFiFsXV+2ibELzlw4ptLjxrk+spJSt8N0=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/tag/GuiTagList$ListEn
+ try.class
+SHA-256-Digest: HdfxWjSxUe9yPuo95iO0esnI1tSuhlAEYkFD5LlGB2E=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral.class
+SHA-256-Digest: BHqjcN1G82ZFqqOOlEDyi0jcoRzMlAVSt6gepEVyugc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Size.class
+SHA-256-Digest: CmKyys70v5A8/0qk1QlDu81Fx50SZQ9rc5GJ8aH8FYE=
+
+Name: com/github/lunatrius/ingameinfo/network/PacketHandler.class
+SHA-256-Digest: PLcjZ48FipmI9NCUhnEEdJ+JKVelXBWH/1nQ/CgCt9A=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPotion.class
+SHA-256-Digest: 9+uwGq0LfpY3SRgtH+8BYLwWGMXjpzbdAzBnrL0u0XQ=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueComplex$ValueOperatio
+ n.class
+SHA-256-Digest: D8ylHtYxOk7hM7gsVlWBswK3h9omT443MO6rf1Kg8KQ=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$DamageLef
+ t.class
+SHA-256-Digest: LyfowANqh9HWU0kOLVGLfOAJj3ttWXPE0flzcisnLVc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment.class
+SHA-256-Digest: qNmqbjN7nhYOnSELFmZrNSY1uv66ji/V4JJqvcae0ok=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$UniqueName.clas
+ s
+SHA-256-Digest: uztJ1Ef4/aKtccnDOUz9v6D3ElRm+5vgj9FYcbcioYk=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$PowerStrong.cla
+ ss
+SHA-256-Digest: wG5C/Tq9bNvM8iBQ5BWd4ITFRICnE73Jdooky0pCZLs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMouseOver$Metadata.class
+SHA-256-Digest: c2JnpCAuy2HM+E5I9FsJXSjeQKWdsanX07dBSyly9IM=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime.class
+SHA-256-Digest: qQgAuBNuOMh/ZG1j48hR4y4apuDEUMuFVpTWB7LfncY=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$5.class
+SHA-256-Digest: EPCpWYMma8W93AFLLP+JVP6IpwqTfg7qLGGkTpYBwyw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$Saturation.
+ class
+SHA-256-Digest: zD3VFFSNMQcR/cGGrtu7ywHX4VkctGS2JlGwsgJAKjs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerEquipment$Damage.cl
+ ass
+SHA-256-Digest: JWHRxl9+cFcMt/x6VimalLAzZZj5jq8J3XBJACckLqU=
+
+Name: com/github/lunatrius/ingameinfo/printer/text/TextPrinter.class
+SHA-256-Digest: tNRrAu9F2WFwFtDukZtY3JbQYnMsf3MFJ2ZaJJYfVZU=
+
+Name: com/github/lunatrius/ingameinfo/tag/registry/TagRegistry.class
+SHA-256-Digest: Qtv+LjZ3BYUxKx8vjap/AXz3T04sL85UVlzJDY0+fjg=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$Real12.class
+SHA-256-Digest: YgaiIL1pYnvOnQdElFTCZVeaUzM5Qrdrw6SGIASZ2qY=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$4.class
+SHA-256-Digest: YSBf9U1GvI+lJry3+Ih9s878WDCbFpnVqjzukfEh/5g=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$ServerName.class
+SHA-256-Digest: 2i8GDjvVmya84v0ag+v4i/p6t2IzbT8ShmOtz1DDfis=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$ResourcePack.class
+SHA-256-Digest: hwj5HRaB8xegSpT9X4geP1Qf62x/zkFypg9Oy4fEdj0=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagNearbyPlayer$Distance.cla
+ ss
+SHA-256-Digest: DIO1VSGITaekGRBiA7xoSUbA1G0B3FfcY/+sfXetKD4=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerPosition$SpeedZ.cla
+ ss
+SHA-256-Digest: 8aueHf50QRVscI4U8wYQGTFka8tPcz7V+PD9uHdkVZg=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Hardcore.class
+SHA-256-Digest: IpeoZYos4OUcHEpxABxElIkEl7CUXOxDiL0OD6ax0wc=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation.class
+SHA-256-Digest: k8KHlxoJdKtrIvZEU9VlatZ5jj25CLDiASCtX+puqgU=
+
+Name: com/github/lunatrius/ingameinfo/parser/text/TextParser.class
+SHA-256-Digest: ykIZxQf1L8w9skD9X2IxafhYiUtT62FQqJiheB8EsU8=
+
+Name: assets/ingameinfo/lang/de_DE.lang
+SHA-256-Digest: QYK0qCpKuVpKWHmrk6PAoD3inleiifg3X/XMrkeVebY=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueLogic$ValueNot.class
+SHA-256-Digest: c+V0xJYvnKK/y5oJyt2rBI+zGCZNbSbuf8lgqiMW2Uc=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Raining.class
+SHA-256-Digest: dLiQohVQdW7KoJAOmNf2Q4h7qOLJjKNUWxNZvGBSNSo=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$Gold.class
+SHA-256-Digest: 866K4TUm6DoYwWoaUKp/KlVVImbhvVyzC0W3nAUH1rE=
+
+Name: assets/ingameinfo/lang/fr_FR.lang
+SHA-256-Digest: dm3kMBdcCrHs1jjANaAh5HOya2bxhZLZn0fCzbygylw=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagRiding$HorseMaxHealth.cla
+ ss
+SHA-256-Digest: KDSQY3/uS7fOSCCQXLcpGpXedMnOU9/1X3TTViJlNm8=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagTime$Real24.class
+SHA-256-Digest: FIKhBUNaEz1OwX57rYGrQSh3LKH5D9ctlQbVemAh5dA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Seed.class
+SHA-256-Digest: snrB3EP+NtXu+/mzRQP63fVNrFsdjtQPFM+nuZUV4bE=
+
+Name: com/github/lunatrius/ingameinfo/InGameInfoCore.class
+SHA-256-Digest: jOhb3fLtEuZuy8aIVgX5O8KHu94Jj/ujaD/OZehSpXs=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagMisc$PingIcon.class
+SHA-256-Digest: 6qHJA4uihvkBOwnd9OmuHpbMfjoK85Iw6NYlOg7m0ZA=
+
+Name: com/github/lunatrius/ingameinfo/value/ValueSimple$ValueInvalid.c
+ lass
+SHA-256-Digest: o1gj/QtIzVyK7dLveGVHMa3lOD21u8TVY7Xb1ZGPafI=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagPlayerGeneral$LightNoSunE
+ ye.class
+SHA-256-Digest: MiADQ3D3jgDFciaZraqEJgfysuyY2BZ+4ZOZxDCT/cc=
+
+Name: com/github/lunatrius/ingameinfo/value/Operation$2.class
+SHA-256-Digest: mBGIuo6IqP/s5PouvkG4YkLY5RNRqnp5jUXE+ndXQKU=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagFormatting$DarkPurple.cla
+ ss
+SHA-256-Digest: lBPukc+pl9wD2k/BH6XSwd4P49+QzZjQy63Swn4UamA=
+
+Name: com/github/lunatrius/ingameinfo/tag/TagWorld$Daytime.class
+SHA-256-Digest: zJRlfqS++zRofJovbL9vd1VfUWHwUQfUVntxJh60U2g=
+
+Name: com/github/lunatrius/ingameinfo/handler/ConfigurationHandler.cla
+ ss
+SHA-256-Digest: 2cJy9qdEAAA98ClU36+eiQ0tZptkq0THtMsM6aSsG9w=
+
+Name: com/github/lunatrius/ingameinfo/client/gui/tag/GuiTagList$TagEnt
+ ry.class
+SHA-256-Digest: xCf3BXgpB3SELnRcP8XcFQVLXH3s5s3snnheZhp43qM=
+

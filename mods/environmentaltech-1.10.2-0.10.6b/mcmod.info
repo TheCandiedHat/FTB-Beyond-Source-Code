@@ -1,0 +1,18 @@
+[
+{
+	"modid": "environmentaltech",
+	"name": "Environmental Tech",
+	"description": "Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come.",
+	"version": "1.10.2-0.10.6a",
+	"mcversion": "1.10.2",
+	"url": "http://minecraft.curseforge.com/projects/environmental-tech",
+	"updateUrl": "",
+	"authorList": ["ValkyrieofNight"],
+	"credits": "",
+	"logoFile": "logo_mcmod.png",
+	"screenshots": [],
+	"requiredMods": [ "Forge", "valkyrielib" ],
+	"dependencies": [ "valkyrielib" ],
+	"useDependencyInformation": false
+}
+]

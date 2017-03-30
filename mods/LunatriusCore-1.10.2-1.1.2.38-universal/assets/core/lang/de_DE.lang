@@ -1,0 +1,7 @@
+# gui - categories
+lunatriuscore.config.category.versioncheck=Version überprüfen
+lunatriuscore.config.category.tweaks=Tweaks
+
+# gui - config - update checker
+lunatriuscore.config.checkForUpdates=Nach Updates suchen
+lunatriuscore.config.checkForUpdates.tooltip=Soll die Mod auf Updates überprüfen?

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "advanced_machines:blocks/recycler_back",
+		"down": "advanced_machines:blocks/recycler_bottom",
+		"up": "advanced_machines:blocks/recycler_top",
+		"north": "advanced_machines:blocks/recycler_front",
+		"east": "advanced_machines:blocks/recycler_side",
+		"south": "advanced_machines:blocks/recycler_back",
+		"west": "advanced_machines:blocks/recycler_side"
+	}
+}

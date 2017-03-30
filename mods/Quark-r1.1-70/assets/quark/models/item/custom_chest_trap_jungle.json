@@ -1,0 +1,8 @@
+{
+	"parent": "quark:block/custom_chest",
+	"textures": {
+		"texture": "quark:blocks/chests/jungle",
+		"particle": "quark:blocks/chests/jungle",
+		"overlay": "quark:blocks/chests/trap"
+	}
+}

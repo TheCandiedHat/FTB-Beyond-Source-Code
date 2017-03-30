@@ -1,0 +1,22 @@
+[
+	{
+		"modid": "infinitylib",
+		"name": "InfinityLib",
+
+		"version": "0.7.0",
+		"mcversion": "${mod.mcversion}",
+
+		"logoFile": "assets/infinitylib/textures/logo.png",
+		"screenshots": [],
+
+		"parent":"",
+		"dependencies": [],
+
+		"authorList": [ "InfinityRaider" ],
+		"credits": "",
+
+		"url": "https://www.github.com/InfinityRaider",
+
+		"description": "Library mod for InfinityRaider's mods"
+	}
+]

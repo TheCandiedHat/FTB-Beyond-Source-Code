@@ -1,0 +1,16 @@
+[
+{
+  "modid": "immersiveengineering",
+  "name": "Immersive Engineering",
+  "description": "",
+  "version": "0.10-57",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/BluSunrize/ImmersiveEngineering",
+  "updateUrl": "",
+  "authorList": ["BluSunrize","Damien A.W. Hazard"],
+  "credits": "All the great other Git Contributors, and the nerds on IRC!",
+  "logoFile": "assets/immersiveengineering/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

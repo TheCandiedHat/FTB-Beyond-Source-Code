@@ -1,0 +1,20 @@
+[
+{
+  "modid": "ae2stuff",
+  "name": "AE2 Stuff",
+  "description": "",
+  "version": "0.6.0.9",
+  "url": "bdew.net",
+  "updateUrl": "",
+  "authorList": [
+    "bdew"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

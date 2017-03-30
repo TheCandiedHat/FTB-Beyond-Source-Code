@@ -1,0 +1,17 @@
+[
+{
+  "modid": "Baubles",
+  "name": "Baubles",
+  "description": "Adding a touch of bling to Minecraft",
+  "version": "1.10.2-1.3.9",
+  "mcversion": "1.10.2",
+  "logoFile": "BLogo.png",
+  "url": "http://www.minecraftforum.net/topic/2535073-baubles",
+  "updateUrl": "",
+  "authorList": ["Azanor"],
+  "credits": "Special thanks to chicken_bones",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,	
+	"defaults": {
+	    "parent": "block/cube_all",
+	    "textures": {
+	        "all": "props:blocks/breaktexture"
+	    }
+	},
+    "variants": {
+        "normal": { "model": "props:blockFake" }
+    }
+}

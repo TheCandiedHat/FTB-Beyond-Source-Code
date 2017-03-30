@@ -1,0 +1,16 @@
+[
+{
+  "modid": "brandonscore",
+  "name": "Brandon's Core",
+  "description": "",
+  "version": "1.10.2-2.1.4.92",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com/projects/brandons-core",
+  "updateUrl": "http://minecraft.curseforge.com/projects/brandons-core",
+  "authorList": ["brandon3055"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

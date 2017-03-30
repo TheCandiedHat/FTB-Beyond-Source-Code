@@ -1,0 +1,17 @@
+[
+    {
+        "modid":"appliedenergistics2",
+        "name":"Applied Energistics 2",
+        "description":"A Mod about Matter, Energy and using them to conquer the world..",
+        "version":"rv4-alpha-11",
+        "mcversion":"1.10.2",
+        "url":"http://ae2.ae-mod.info",
+        "updateUrl":"",
+        "authorList":[
+         "AlgorithmX2"
+        ],
+        "credits":"AlgorithmX2",
+        "logoFile":"assets/appliedenergistics2/meta/logo.png",
+        "screenshots":[]
+    }
+]

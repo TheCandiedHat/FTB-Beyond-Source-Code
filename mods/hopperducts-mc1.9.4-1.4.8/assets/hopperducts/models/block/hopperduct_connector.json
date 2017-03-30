@@ -1,0 +1,20 @@
+{
+    "ambientocclusion": false,
+    "textures": {        
+        "particle": "blocks/hopper_outside",
+        "base": "blocks/hopper_outside"
+    },
+    "elements": [ 
+        {   "from": [ 5, 5, 12 ],
+            "to": [ 11, 11, 16 ],
+            "faces": {
+                "down":  { "uv": [ 4, 4, 12, 12 ], "texture": "#base" },
+                "up":    { "uv": [ 4, 4, 12, 12 ], "texture": "#base" },
+                "north": { "uv": [ 4, 6, 12, 12 ], "texture": "#base" },
+                "south": { "uv": [ 4, 6, 12, 12 ], "texture": "#base" },
+                "west":  { "uv": [ 4, 6, 12, 12 ], "texture": "#base" },
+                "east":  { "uv": [ 4, 6, 12, 12 ], "texture": "#base" }
+            }
+        }
+    ]
+}

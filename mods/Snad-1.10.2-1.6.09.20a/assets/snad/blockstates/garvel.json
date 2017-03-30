@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "variant=garvel": { "model":"minecraft:gravel" }
+  }
+}

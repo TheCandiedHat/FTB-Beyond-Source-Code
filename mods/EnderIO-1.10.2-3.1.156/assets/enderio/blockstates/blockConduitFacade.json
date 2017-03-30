@@ -1,0 +1,41 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "textures":{
+            "all":"enderio:items/conduitFacade"
+        },
+        "model":"enderio:cube"
+   },
+    "variants":{
+        "render":{
+			"defaults":{ },
+			"auto":{ },
+            "front":{          "y":0 },
+            "front_east":{     "y":90 },
+            "front_south":{    "y":180 },
+            "front_west":{     "y":270 },
+            "front_on":{       "y":0 },
+            "front_on_east":{  "y":90 },
+            "front_on_south":{ "y":180 },
+            "front_on_west":{  "y":270 }            
+        },
+        "type":{
+            "basic":{},
+            "hardened":{
+                "textures":{ 
+                    "all":"enderio:items/conduitFacadeHardened"
+                }
+            },
+            "transparent":{
+                "textures":{ 
+                    "all":"enderio:items/conduitFacadeTransparent"
+                }
+            },
+            "transparent_hardened":{
+                "textures":{ 
+                    "all":"enderio:items/conduitFacadeTransparentHardened"
+                }
+            }
+        }
+    }
+}

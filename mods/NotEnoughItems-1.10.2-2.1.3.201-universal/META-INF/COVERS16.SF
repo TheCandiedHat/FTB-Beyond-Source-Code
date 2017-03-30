@@ -1,0 +1,863 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: x+u6lADoddr64TQzSgBrKerKCS887
+ ZqWkYHgWT37UPY=
+SHA-256-Digest-Manifest: DhL/ZT8D7rlZn+utEYhcQci3mVwAG1LtOlJsDPWuAJI=
+Created-By: 1.8.0_111 (Oracle Corporation)
+
+Name: codechicken/nei/container/ContainerCreativeInv$SlotArmor.class
+SHA-256-Digest: vEWZnSUgxj2jgyeglCK9l/FbOdAWUfAatl5mRawsMT0=
+
+Name: codechicken/nei/ItemStackSet.class
+SHA-256-Digest: slmfhVV9uFM0lXPvkA6jOBwO8FGSmE4KrWCLgtgNtJY=
+
+Name: codechicken/nei/guihook/IGuiSlotDraw.class
+SHA-256-Digest: biKiKXZd25uJ3v0Tui1M9bLMahLHorvpMEfSx0Z64Ik=
+
+Name: codechicken/nei/GuiNEIButton.class
+SHA-256-Digest: vFDZMOwFmOyU6zhinsP9Qe7WNoLLAGyLQAOEMujNSKY=
+
+Name: codechicken/nei/guihook/IGuiHandleMouseWheel.class
+SHA-256-Digest: S7FUiJuM7dNuBliqmpp9ImsPGDxF/PnNHgOTuTVFydM=
+
+Name: codechicken/nei/api/ItemInfo$2$1.class
+SHA-256-Digest: zCD1hn+yrwXz4+jwahw2j5DH+lTUkTL4ePRzsfdGeoE=
+
+Name: codechicken/nei/LayoutManager.class
+SHA-256-Digest: hTNoH6A1xEzp2Ia7BVqfgO8lThW7lMJwl7/WCKx9OaM=
+
+Name: codechicken/nei/config/GuiItemIconDumper.class
+SHA-256-Digest: TEUVsC1dLG8grJB63F4IMxfqNbBuxcipTHT9dhpSZ7o=
+
+Name: codechicken/nei/ItemList$ItemsLoadedCallback.class
+SHA-256-Digest: V9g73UTuL1dIiP7Hkx7fkxxACi33c5rNDUnANitW7u0=
+
+Name: codechicken/nei/ServerHandler.class
+SHA-256-Digest: xW/AqhkKPy2ERGxnXjlYnsquqsqXdTT+V1kJ+6za9eg=
+
+Name: codechicken/nei/config/OptionOpenGui.class
+SHA-256-Digest: +hp2f6MuzoSYEyVi5Bknorb1PWh9G2navcoQL00Qz8o=
+
+Name: codechicken/nei/layout/LayoutStyleMinecraft.class
+SHA-256-Digest: DFhuR/Yp2m436QvrNocropGRgKCAkoUcovb8rEf0NGk=
+
+Name: assets/nei/textures/gui/inv.png
+SHA-256-Digest: SWfyo2YcADhpw/jbrkqLLpa06JE71bH+CwKJtCLDFLo=
+
+Name: codechicken/nei/guihook/IGuiClientSide.class
+SHA-256-Digest: C2dsZ1netQHkv50b9ajEHmujXVYCH1aViZazQed7Ut8=
+
+Name: codechicken/nei/recipe/DefaultOverlayHandler$IngredientDistribut
+ ion.class
+SHA-256-Digest: VE1OsT4xHk3K4XGIiLnn9MLiNp/D1B4BjdTTafqPo7s=
+
+Name: codechicken/nei/ContainerPotionCreator$SlotPotion.class
+SHA-256-Digest: 65QifFgg2bH//OQoOVtotB66t4TkT711P3wWnXIny1E=
+
+Name: codechicken/nei/widget/ItemPanel.class
+SHA-256-Digest: a3Xd6rXBmxGYoSmkiVfVotyPv1UCVtfE425LCHZynLs=
+
+Name: codechicken/nei/config/GuiOptionPane.class
+SHA-256-Digest: 22A085A6rysoCAGx/7tel2hCBIhnhXljMf8FEkVS4Xk=
+
+Name: codechicken/nei/NEIClientConfig$6.class
+SHA-256-Digest: y9oHJwJsJePglfJfvTg6aWFmg+ohLsEwI/AdrXdpUCA=
+
+Name: assets/nei/lang/it_IT.lang
+SHA-256-Digest: 944YABALyw8r3opMoAksQQ5U3n5oeQgPU6ptAFKsVdU=
+
+Name: codechicken/nei/GuiEnchantmentModifier.class
+SHA-256-Digest: Tdf2HNzesxhymN5nRv9D+/m8V9inCNoYmPpRY1GFPOo=
+
+Name: assets/nei/lang/zh_TW.lang
+SHA-256-Digest: IUjdr1SFo/tB+Zp21zFpWEVIZ7OfZiboZ068ezWwTaU=
+
+Name: codechicken/nei/jei/JEIIntegrationManager.class
+SHA-256-Digest: WFjktmz9ENTKobD6KD91HfhTJWr0fIYfPllstMJ/b0Q=
+
+Name: codechicken/nei/api/IInfiniteItemHandler.class
+SHA-256-Digest: YYZqaZXN3QIB1LG5oUaUNjE0pYpufqTLZ0VmG+1Ep0Q=
+
+Name: codechicken/nei/ItemList$NothingItemFilter.class
+SHA-256-Digest: mgmMdqkEt2HxHBd7mmw1nnQuM8aJwHZn59G/BGwiCAI=
+
+Name: codechicken/nei/api/stack/PositionedStack.class
+SHA-256-Digest: tWmQNpoog9FGNw3qr+SqtdlTPb4pUsEnIH7HxgGfth0=
+
+Name: codechicken/nei/LayoutManager$4.class
+SHA-256-Digest: YXUF9QqnTswdT5/UEcqCRLTrkhdeV1IdHUh68RrLWeY=
+
+Name: codechicken/nei/api/ItemInfo$2.class
+SHA-256-Digest: kjA/v3pfi6+V+HP85upUWsfGwMbLF1rSA04+RtDeJb8=
+
+Name: codechicken/nei/recipe/ShapedRecipeHandler$CachedShapedRecipe.cl
+ ass
+SHA-256-Digest: GT9I+0aQl4HBsf+CYj3Pt8TGgwSvY4GiT3BfK/AOZGM=
+
+Name: codechicken/nei/ItemSorter$7.class
+SHA-256-Digest: tbyXmenrnDXwMnxf09zEhOV5DyoD7eD5azkoLD02xzA=
+
+Name: codechicken/nei/PlayerSave.class
+SHA-256-Digest: +21/ZfZ+ZZXcEMfpPeaRLhcaObBiVCLPXDYir1DINDk=
+
+Name: codechicken/nei/ItemStackMap.class
+SHA-256-Digest: UcPhHlThoSVKMfshfabnKscEqWQq+E79pW7cL/XIvl8=
+
+Name: codechicken/nei/ItemSorter.class
+SHA-256-Digest: 818n7omcT94uCvzR6IM7ETgN1L5+2MOPBUQc1Qnj9c8=
+
+Name: assets/nei/textures/nei_sprites.png
+SHA-256-Digest: 4O2whXrPtB1lVVG7PkpIS5Vp8SiKk5sCogMyWDA58tI=
+
+Name: codechicken/nei/SubsetWidget$SubsetState.class
+SHA-256-Digest: jots0jl5bmrkzgty7xJjuX5aSKRFL3VJ0nZa1ficAEA=
+
+Name: codechicken/nei/LayoutManager$11.class
+SHA-256-Digest: FK2KhoedYdAfvXwqqpfl6MCw1K9+OnY5gPcOI89w7SA=
+
+Name: assets/nei/lang/tr_TR.lang
+SHA-256-Digest: dGBYWZ7sEuvSk3flOsZmOMfJkmoFYaFmU/FLOk4zOWQ=
+
+Name: codechicken/nei/SearchField.class
+SHA-256-Digest: Cm5TNkBP4tg/dcUP4xeVDhI/Hibxs9Qer2lti07BaFo=
+
+Name: codechicken/nei/api/ItemInfo$8.class
+SHA-256-Digest: DlrStZ3KNytWJVcIP4HoOWG2kFerQtsOpDOnF04eH7U=
+
+Name: assets/nei/textures/gui/recipebg.png
+SHA-256-Digest: Mord9wIs2fCqqpsi1+QiW209yubYi5SocbnnYdrDAzw=
+
+Name: codechicken/nei/SubsetWidget$SubsetTag$SubsetSlot.class
+SHA-256-Digest: W7MxrSOQxbaCr9gthIbZUzEEovdf2fItNZa2DPrfPxc=
+
+Name: codechicken/nei/recipe/GuiCraftingRecipe.class
+SHA-256-Digest: K6QqsIbyaTeZPT0X7ImeJiB9DZ5SsWO0+TT3q1Yk3Vc=
+
+Name: codechicken/nei/NEIChestGuiHandler.class
+SHA-256-Digest: swQw5nWdYUPmuoMhFTOQm+KedJ/K1fYNLIApopxCc0s=
+
+Name: codechicken/nei/LayoutManager$12.class
+SHA-256-Digest: uZaUpS8UkWPonuf7Nqq3+DhS+JGlEnTgKum8j0BJbs4=
+
+Name: codechicken/nei/container/ContainerCreativeInv.class
+SHA-256-Digest: WFJdtXTQUr3/tZ0cY9PrBKrMlCAXvlZOsHJ0FtFF0z0=
+
+Name: codechicken/nei/jei/gui/ItemBrowserButton.class
+SHA-256-Digest: P1WEGsp8YsRjHCvtdTUD7fQE7Zu7/zqoIAhxkFNsPMc=
+
+Name: codechicken/nei/ItemSorter$1.class
+SHA-256-Digest: p7JoSIw6LRjdBbGQWcnQ7/lydTexYljCbLTlyF2QY6w=
+
+Name: codechicken/nei/WorldOverlayRenderer.class
+SHA-256-Digest: 9J5ZyeWQisTMMErKNbgtaLOY7CxIEj5fp0AhNvDeGi4=
+
+Name: codechicken/nei/ContainerEnchantmentModifier.class
+SHA-256-Digest: 6pClqVs4ckDqm1yEfFWZAWRqt0KEWRvzufWCFpl3u+c=
+
+Name: codechicken/nei/api/INEIGuiAdapter.class
+SHA-256-Digest: CHC3ETqJG68r+o3qfT2k3NV7lYySsiVsSVmI2ATR5jw=
+
+Name: codechicken/nei/recipe/RecipeItemInputHandler.class
+SHA-256-Digest: yU92lEl4mxxoNKQt0NuuqC/q5B8yMHxPstl7aDsVde4=
+
+Name: codechicken/nei/NEIClientConfig$1.class
+SHA-256-Digest: iNn73t5Sf2hy1nzRzxWPM/KReflrWMI1CWirZ8JQ9HY=
+
+Name: assets/nei/lang/et_EE.lang
+SHA-256-Digest: WF7cAhFGu1BRZlexdv8x8RKVEtwX/YvvQ6I65ut4kro=
+
+Name: codechicken/nei/recipe/GuiUsageRecipe.class
+SHA-256-Digest: NQrn+EW7q18xlm3gWbkRKC+170fXyRE2td50j9jp4Og=
+
+Name: codechicken/nei/api/ItemInfo$10.class
+SHA-256-Digest: dKIQmyeL0jcjxBx9sfh95il6VEqV8cLFJU0gK5qo3+c=
+
+Name: codechicken/nei/recipe/ShapelessRecipeHandler.class
+SHA-256-Digest: 2d1LwtgUOjoqYY1U/WQwN6Zkfiacmqa1oRhR94G87E0=
+
+Name: codechicken/nei/recipe/ContainerRecipe$RecipeInventory.class
+SHA-256-Digest: 5r/1bfIuWGxL/qouTTQVSyjTIliVrV5jriUh3s0Bbqc=
+
+Name: codechicken/nei/api/ItemInfo$11.class
+SHA-256-Digest: t5/dEF2aFIPzfaLJQ7s87U3md4tXCMso+idNc7RUlv0=
+
+Name: codechicken/nei/NEIActions.class
+SHA-256-Digest: 0AdFqNTuCxBzw9IJtmY52ndTRHWRko7EatExi3rqnkU=
+
+Name: assets/nei/lang/zh_CN.lang
+SHA-256-Digest: Hqr0aGFdiEk7Dx5KWaTM8E2dHvQPDdLiKN0wbIOSBgQ=
+
+Name: codechicken/nei/ButtonCycled.class
+SHA-256-Digest: 4V4oILzojGf0OFz6tFFO/cfJtvNfq9+Mn3g6w8CDUWk=
+
+Name: codechicken/nei/NEICreativeGuiHandler.class
+SHA-256-Digest: 4fWXIIS6Hud0p1nma3j8BhWUpPfMZU+0v8EJpn/C+JY=
+
+Name: codechicken/nei/recipe/potion/PotionTypeRecipe.class
+SHA-256-Digest: w9VcnqNrV+rF8EOG5Ha4/7mxUtxsFEXsa1TOPSLh1Y8=
+
+Name: codechicken/nei/api/ItemInfo$7.class
+SHA-256-Digest: PoEschSpDBmdkYzzBSo6pkpTW2w3qPChNaWpHXfoPdI=
+
+Name: codechicken/nei/api/API.class
+SHA-256-Digest: YK36CiI5aFM68Pqp7Sstyn2BkuIIfixcdtQMwXjoufM=
+
+Name: codechicken/nei/recipe/potion/PotionUpgradeRecipe.class
+SHA-256-Digest: f9J8BojlNEHu32CvTCuyRh1uLyjcW4Ffqp6A/3RurRw=
+
+Name: codechicken/nei/ItemSorter$2.class
+SHA-256-Digest: 4/DE2xYzWnevmUrc0z9r1zFOm2EeQo8bvauDoMqQMUk=
+
+Name: codechicken/nei/SearchField$1.class
+SHA-256-Digest: 79szm4lOLSwasZo2AhmS5Iy62cRlUlPZSazr8RpDE2E=
+
+Name: codechicken/nei/config/OptionToggleButton.class
+SHA-256-Digest: EPL03t3PQPceDEx7X1rk5TynHB6LdAyHq+asxqiiEHU=
+
+Name: codechicken/nei/recipe/FireworkRecipeHandler.class
+SHA-256-Digest: QmtGOwUxiCxhVNvCY5lo+0e5f3cc2p0gKBp7Q7WK+4M=
+
+Name: codechicken/nei/recipe/TemplateRecipeHandler$RecipeTransferRect.
+ class
+SHA-256-Digest: 8rCwe/KX8tBoddDehSLrXRVIAtR5XnDEwGPtJpyi79I=
+
+Name: codechicken/nei/network/NEIServerPacketHandler.class
+SHA-256-Digest: Q8yR8dBvmCd1l7T5MNPtKsKIXNbJevticEs2XP/sLTE=
+
+Name: codechicken/nei/LayoutManager$5.class
+SHA-256-Digest: MFYSl/RLW+1AkhNPgvql6UhWr7CNLNZy1LctMX8o/4M=
+
+Name: codechicken/nei/api/IOverlayHandler.class
+SHA-256-Digest: 53H3+fMEKYQjjn3qCvoSplqnn/8UgLU72MyblpfKwPU=
+
+Name: codechicken/nei/guihook/IContainerObjectHandler.class
+SHA-256-Digest: oipSslSbHM/PwUCepM6xu47duktozrmaQ/CFB1PnMoo=
+
+Name: codechicken/nei/NEIServerConfig.class
+SHA-256-Digest: GVa3Eeq5lYPOtJA4PvDNE80yIzTCqPjVIi/g78Grntw=
+
+Name: codechicken/nei/api/ItemInfo$1.class
+SHA-256-Digest: /CiZtifWiRc3w64UWKPhrnMK4Vgxpi4kJlKqmMNyc58=
+
+Name: codechicken/nei/config/dumps/ForgeRegistryDumper.class
+SHA-256-Digest: op7tRanxIHrV9HDU9qAOoU9sE7kH5+g0G3pjTTIHucs=
+
+Name: assets/nei/textures/gui/potion.png
+SHA-256-Digest: cp6QxwZWGZp3nUUhxr7k6wLK2JnnRh+nbaHbfZgRFHY=
+
+Name: codechicken/nei/ItemQuantityField.class
+SHA-256-Digest: FXRKcVLpnEGPGjWdypopj/YZ4NiMKFQwms3F/k6YUF8=
+
+Name: codechicken/nei/ItemSorter$3.class
+SHA-256-Digest: oxGNcRRrEHJePGUGiglccqd9VsMK3dKQoVgZ8lCrwJw=
+
+Name: codechicken/nei/LayoutManager$13.class
+SHA-256-Digest: 7vGx6vD3hFysFyuMR8uMQQu8lkxNXdBB2bKjXT7wI3A=
+
+Name: codechicken/nei/recipe/FurnaceRecipeHandler.class
+SHA-256-Digest: yakjl/rmRDGl+NyLVg88YDuxpiVNFlsCzPlGaJfDxLw=
+
+Name: codechicken/nei/ItemSorter$6.class
+SHA-256-Digest: YZFp8fkKGmWEn4SNUMXe4xh6ME90tux2k4XWlMBQcBU=
+
+Name: codechicken/nei/asm/NEITransformer.class
+SHA-256-Digest: hdivzaK57dhTlYdGb/CyWUBW3+nCu4PNBlC37eS2GHo=
+
+Name: codechicken/nei/recipe/ICraftingHandler.class
+SHA-256-Digest: QNIhdc5qpfEVZi4DqnOtj9/99wLNrtVAsVs6a/BTX/g=
+
+Name: codechicken/nei/FastTransferManager.class
+SHA-256-Digest: 9OUeDQu9nMGCADnTll9lp6t59xzLMSH5rEFSuEU+ZUE=
+
+Name: codechicken/nei/GuiExtendedCreativeInv.class
+SHA-256-Digest: UuvaxJD/I34Q+sme+TIv9mMzpGf/C48p/ZQUVGmskYM=
+
+Name: codechicken/nei/NEIClientConfig.class
+SHA-256-Digest: z1HyDJLBE9u0AddRV8EmNEiegn7XGyGX2s18iWi3dvY=
+
+Name: codechicken/nei/api/ItemInfo$4.class
+SHA-256-Digest: i8i1piUe+pU9jTsNyENWFKq5ks8sgnlJzQ5PBeoO/gg=
+
+Name: codechicken/nei/util/NEIServerUtils$1.class
+SHA-256-Digest: OwhC25LwlNyMahLUKCo3j0S6V2rqnb/CzX2LLh1LY/w=
+
+Name: assets/nei/textures/patreonNeon.png
+SHA-256-Digest: E+RVJhe3PpSE6+GRZkkCtvQMBHS1YFliPXUUFHaE8CU=
+
+Name: codechicken/nei/ItemList$EverythingItemFilter.class
+SHA-256-Digest: TNkT4WACpWxRP12eWXo04pAOyoxciLh2vdWo60zUYeU=
+
+Name: codechicken/nei/NEIClientConfig$2.class
+SHA-256-Digest: M5CAwQZzSNM/gOhYrOEZC+5Fb8hUCT/90r/bXWO16Wg=
+
+Name: codechicken/nei/network/NEIServerPacketHandler$3.class
+SHA-256-Digest: YddLrtZPNrj0eR7vsvG2Go3wycXWQ97LhkGFkDkaVK8=
+
+Name: codechicken/nei/GuiPotionCreator$GuiDurationField.class
+SHA-256-Digest: 4EuS8mjnLyXlJKlcGII7ItVjXxTpuChsGJsAFlGUDJs=
+
+Name: codechicken/nei/config/dumps/FluidRegistryDumper.class
+SHA-256-Digest: t9i7AYQKlWpawjBU7bmF0AINYWofXNV/LoIUxWoNKcA=
+
+Name: codechicken/nei/guihook/IContainerDrawHandler.class
+SHA-256-Digest: 7QVqK6PmdewK4KIFN//u9+CbUaKuKMnX0KQc4+vzX9E=
+
+Name: codechicken/nei/recipe/FireworkRecipeHandler$CachedFireworkRecip
+ e.class
+SHA-256-Digest: KLZ/DG2zEOWCpqZ2rskazFk6lEZGWGxXmiSFAddMBX8=
+
+Name: codechicken/nei/config/KeyBindings.class
+SHA-256-Digest: ZmPX+kp7O4oLK8WpXpnhgJX5mwz8p5t0obK2nGvHboE=
+
+Name: codechicken/nei/container/InventoryCraftingDummy$1.class
+SHA-256-Digest: ggNTCct55Ml2VpnetCLEKA2O0f+usUA12ExKBlTk+cY=
+
+Name: codechicken/nei/ItemMobSpawner.class
+SHA-256-Digest: 7CxNWanhta9if9KG+DyI7hZ1UXSFsVfg7cCdJcr0ktU=
+
+Name: codechicken/nei/ClientHandler$2.class
+SHA-256-Digest: Vi6h/ul1efbscpw+PARh8yt0EErRwSyFnE6oCV3heDU=
+
+Name: codechicken/nei/InfiniteStackSizeHandler.class
+SHA-256-Digest: c2WOieaQnma/Kc7z97icieuxDWU5rujvCTqQWJCQe48=
+
+Name: codechicken/nei/asm/NEITransformer$1.class
+SHA-256-Digest: MusNG7Jl0bfHD+OCPinb3UUTeImZvIyCngaVgNZzrC8=
+
+Name: codechicken/nei/NEIClientConfig$5.class
+SHA-256-Digest: B1F9eyhUziVZfNjk04JpaEPS3vLBKrOfxsoGbdg3fpw=
+
+Name: codechicken/nei/WidgetZOrder.class
+SHA-256-Digest: z9krUWOzLyfcEMxNNog03+wyfODaXJOBdrYS/Ld59Bk=
+
+Name: codechicken/nei/NEIDummySlotHandler.class
+SHA-256-Digest: OyTyzVM3ec3d/UMdas92boFxz0YDcquMMdwuaz+1hu0=
+
+Name: codechicken/nei/config/GuiNEIOptionList.class
+SHA-256-Digest: ZQIDgyqyqJGbISvaY6F5DWWEJWk0mASMBT30sr9OQSM=
+
+Name: codechicken/nei/ItemStackMap$DetailMap.class
+SHA-256-Digest: l7dcvYfxr+Nd5dNY4Qxa/qTzmSFLuivEog8bMUZtiuU=
+
+Name: codechicken/nei/widget/Button.class
+SHA-256-Digest: a3ofcXvVrh98rcUMKxSDQtdWU+Iy+eoxX2zhBCZdLr4=
+
+Name: codechicken/nei/ItemList$2.class
+SHA-256-Digest: U1yzaz5t4sHBN8+VlNzzG+T/4ZbFmParqJMfcH9uKA4=
+
+Name: codechicken/nei/SearchField$DefaultSearchProvider.class
+SHA-256-Digest: lxHvmkIXqSpMUIqSAPF2Y1+yywppP++OxR4xAS9x/LI=
+
+Name: codechicken/nei/config/GuiItemSorter.class
+SHA-256-Digest: yG3IXvInUJ/f4wn29OyZx/m1u0PEAoh+w4fPzMvQvdQ=
+
+Name: codechicken/nei/config/OptionGamemodes.class
+SHA-256-Digest: wEkRz3/GNZWn4rpks88jU03duG+nWKXOSVeXG5tAhbc=
+
+Name: assets/nei/lang/pl_PL.lang
+SHA-256-Digest: p9HnGjn9feXCS1CQ8BlcYovHrkSgf32P2XdPRiBq8MY=
+
+Name: codechicken/nei/recipe/FuelRecipeHandler.class
+SHA-256-Digest: pBOLfTtfF7cvkFrla0WQ9YaEtENX++wXZn4RDtl4/xw=
+
+Name: codechicken/nei/ItemList$1.class
+SHA-256-Digest: ih0TeXFT/j8T1RLKrd5ZzdBm+Vm9ca2EKTHA3TeLX40=
+
+Name: assets/nei/lang/fr_FR.lang
+SHA-256-Digest: yNGUjqzDLIlVx8qYqAqk49gB57mxO16RdqBDmNhozTo=
+
+Name: assets/nei/lang/en_US.lang
+SHA-256-Digest: K32SIBLcIdGMtWy5k8z5ilLRzqdGCxPFPXWyrHzNeb8=
+
+Name: assets/nei/lang/es_ES.lang
+SHA-256-Digest: T6/EqANG1vOwM9q546GY0Gb5Sg9LgiFdAa4TP1JOASM=
+
+Name: codechicken/nei/DefaultHighlightHandler.class
+SHA-256-Digest: YYub3jd34bEVspDS7l3+XZpnmP2fAmg/KugBEGgQNj4=
+
+Name: codechicken/nei/ContainerPotionCreator$SlotPotionStore.class
+SHA-256-Digest: PiKIkrVIM+SQd+ClnOvEv2WSMcjtAt+9v0JMzQYbsRk=
+
+Name: neimod.info
+SHA-256-Digest: UK09JvXLJX7sV9fIwAs7pktYwgY//3CCJWlG3sC0HNQ=
+
+Name: codechicken/nei/guihook/IContainerSlotClickHandler.class
+SHA-256-Digest: ANfxntO/ukbTPRWHc/UIXej5UNT5QHy3NQR45nHMqhI=
+
+Name: codechicken/nei/recipe/ContainerRecipe$1.class
+SHA-256-Digest: TvuvWYVzdLhBl4wmq+ZVAXWUEIsIsiLwuw8ia2/V2TA=
+
+Name: codechicken/nei/widget/Label.class
+SHA-256-Digest: mVCemKbCwlGxw2y/yDy5dM8+6pMINWEJRipbfamYQLc=
+
+Name: codechicken/nei/api/IHighlightHandler.class
+SHA-256-Digest: qQU3sWubsn4sQYFE6ZiS4SSuvNwEsAC8vNwGm7ECjFY=
+
+Name: codechicken/nei/container/InventoryCraftingDummy.class
+SHA-256-Digest: 85lZ6QLBHol/VQqrkeSwYX7wQEX7SOdnS33Kk/jdALE=
+
+Name: codechicken/nei/config/OptionUtilities.class
+SHA-256-Digest: 3g08YRWPfeynRWDYxxF4o7BatOGnpLKQYEIG8wmV4aw=
+
+Name: codechicken/nei/layout/LayoutStyleTMIOld.class
+SHA-256-Digest: c8VHqm/xDZBPGPgmMvZ8h30pdzS2CtSBfLGuW90Ev14=
+
+Name: codechicken/nei/LayoutManager$3.class
+SHA-256-Digest: xLjj78KTZ5Wz+cXKgF1nH7BHxfz7BEgVkLTJS8TOBQA=
+
+Name: codechicken/nei/SubsetWidget$UpdateStateTask.class
+SHA-256-Digest: VZhQHi0A3FAePoGgcs4yliYLYmv5XKEJx7MqH093k0Y=
+
+Name: codechicken/nei/config/OptionTextField.class
+SHA-256-Digest: QywIADAwUZtloTbOgw4UxZVmY4HWscH0isUZtgDdc2o=
+
+Name: assets/nei/lang/ja_JP.lang
+SHA-256-Digest: 1HCKK+ZvwJD5Qz/mdoAyqGwMKK98ySnAhdm+urZDZ4c=
+
+Name: codechicken/nei/api/IStackPositioner.class
+SHA-256-Digest: QuwPibQ50ydDtcIP6v2HZa1DyqKewQ/Ar8o6Fg1F8EU=
+
+Name: codechicken/nei/VisibilityData.class
+SHA-256-Digest: EIVNkzVp/bYz0gaXzJ/C8eubvQdgspUwq2XSTJdCMT0=
+
+Name: codechicken/nei/asm/NEITransformer$2.class
+SHA-256-Digest: PGGFBhXqF+hsNZWCsnI2UWopGefl3nv1nOzkPenWbGw=
+
+Name: assets/nei/lang/pt_BR.lang
+SHA-256-Digest: 0upCbv9Y8Uj72fjolRoxRbV0C3WUGCZ476QVaEicksM=
+
+Name: codechicken/nei/NEIClientConfig$4.class
+SHA-256-Digest: pVTmF8LXWOBQbMBQGAMjOKtytU+rZaefTwMKXw97hTA=
+
+Name: codechicken/nei/config/DataDumper.class
+SHA-256-Digest: ZrHoNIenGauKED2z5aGxfPnRv6XpXWQvACPL0GWJBVY=
+
+Name: codechicken/nei/recipe/FuelRecipeHandler$CachedFuelRecipe.class
+SHA-256-Digest: XrRCnEwjJHenb2wXJLjHz8ZvvjvjGOJ6e8HlF6liPOE=
+
+Name: codechicken/nei/KeyManager.class
+SHA-256-Digest: 4Lf+hJ5pPwlNRMNbVkmYOY8DVt5I9fFeYiHUZZbgBjg=
+
+Name: codechicken/nei/SubsetWidget.class
+SHA-256-Digest: ZIkP0gaHgoD8GK80sn0jTafByDIy0tMR6lu2O1SmSu8=
+
+Name: codechicken/nei/TextField.class
+SHA-256-Digest: IrAcEQt2PT9DAVbHyfy36YpF/lq7chhY7rstxh8y6QM=
+
+Name: codechicken/nei/jei/gui/SearchBoxButton.class
+SHA-256-Digest: JikUQG4PyES0Vw8JIO0AiABPmmPL2vgIHMI1N1ExrOg=
+
+Name: codechicken/nei/ItemList$PatternItemFilter.class
+SHA-256-Digest: IQLD5EGkQs7OcfFgtOZv59zCNAoUZBP92P9psUMQzyY=
+
+Name: assets/nei/lang/es_VE.lang
+SHA-256-Digest: 5tzpWNCsz9IxIkHOedwNPycvNhXcsRCKpuXOLXzWzcE=
+
+Name: codechicken/nei/api/ItemInfo$3.class
+SHA-256-Digest: ttfXcfLRyVqrqkOuAUJ105xZ0G7dXw6fpVWd/AZszUA=
+
+Name: codechicken/nei/config/Option.class
+SHA-256-Digest: 37kiJMUO8Ob6nU8r7a2vM7cOgtZldG6dNbNr9dyGuK0=
+
+Name: codechicken/nei/recipe/FurnaceRecipeHandler$SmeltingPair.class
+SHA-256-Digest: WlMjhUR6W8ydW9y6cU4ddQviVZuHBGNfbnqyYcZxSvQ=
+
+Name: assets/nei/lang/de_DE.lang
+SHA-256-Digest: 0TzMHrGaYQIiVRAfrQlh7QXAKvO5JIuFtaVjoFLUYxE=
+
+Name: codechicken/nei/ItemSorter$5.class
+SHA-256-Digest: By9dfloaE56MfUAvSnSJHq0StkGRCtaj+QiK14UdUcg=
+
+Name: codechicken/nei/LayoutManager$2.class
+SHA-256-Digest: 0kVq7+nQF6Cov1IPk05EtBHlaezLMR3NXg/bT6hsKpY=
+
+Name: codechicken/nei/PopupInputHandler.class
+SHA-256-Digest: +KZ+IwWbIV24wXwJyXie1jPPkJxGhot6wwIGxIMwaEM=
+
+Name: assets/nei/lang/ko_KR.lang
+SHA-256-Digest: p2OLjXE/4TtxyxMFuTFcMRUn8ilDxF6BzVTS60nB8Wk=
+
+Name: codechicken/nei/NEIClientConfig$3.class
+SHA-256-Digest: Qa1k0mZkUe4+Bl4T9DGfk6YeWTl/z9mtdBd7peRk5w0=
+
+Name: codechicken/nei/api/ItemInfo$Layout.class
+SHA-256-Digest: zMe/jvnX1x/Vv5+TZcjLUMolU1wUIfpFjDF0MUOi9pU=
+
+Name: codechicken/nei/api/ItemInfo.class
+SHA-256-Digest: hb9IWOOw5wLu9LyjK42rn8SI1meWpO70wU3ENyjjuxQ=
+
+Name: codechicken/nei/network/NEIServerPacketHandler$2.class
+SHA-256-Digest: ybg6V+WeX7BP01+Dgrpje/VNRfBpMO8nHUrC39xIw2w=
+
+Name: assets/nei/asm/blocks.asm
+SHA-256-Digest: f+K9ZP5YhvsYM8xxIUXVFsWuUT4kOkc4EA2MCI4JmCA=
+
+Name: codechicken/nei/guihook/IContainerInputHandler.class
+SHA-256-Digest: /sNI+K0Yft0ofwgLOGJbsYUHt8MLLmxVQm1jnoKGw/A=
+
+Name: codechicken/nei/SaveLoadButton.class
+SHA-256-Digest: JENGUItpP+kfOBzF5lugl3g/pnIAT2ZpL1ek3gDplSM=
+
+Name: codechicken/nei/api/IConfigureNEI.class
+SHA-256-Digest: x8qetM+fftxvVZwxlBIRvIF87asMRSCee6NRxXF+Hvc=
+
+Name: codechicken/nei/config/OptionStringSet.class
+SHA-256-Digest: XB6mNOMv02DwRo0h16EkwKkFYtVkk8advPwfdKkwiZg=
+
+Name: codechicken/nei/recipe/BrewingRecipeHandler$CachedBrewingRecipe.
+ class
+SHA-256-Digest: vnAoNW/zC6fTNeKEh5pm2XS2aMTGGymSTXVrqe/Shtg=
+
+Name: codechicken/nei/thirdparty/colossalchests/ColossalChestsConfig.c
+ lass
+SHA-256-Digest: JXb4MJwjggAn69fN+iBZhY3JqccMUt7XcgHLfpuemI0=
+
+Name: codechicken/nei/recipe/FurnaceRecipeHandler$FuelPair.class
+SHA-256-Digest: xLnDFSEq8a3q6OCuZXJra8EaQCnE/KVHCQkLM3etybI=
+
+Name: codechicken/nei/util/LogHelper.class
+SHA-256-Digest: 4pr99YNPpKoRCr3ZSwjDqsCzFpQ+F1+xvVyTcX8InPg=
+
+Name: codechicken/nei/LayoutManager$1.class
+SHA-256-Digest: h+ZYTznW6AsXomjKiao07ef43lg7XJJR/bFthoLlSiY=
+
+Name: codechicken/nei/config/GuiOptionList$OptionScrollSlot.class
+SHA-256-Digest: vLcd07gVZ/Irn8O4cXDdYq9DQjT52NCznXYeczq5xZY=
+
+Name: codechicken/nei/SpawnerRenderer.class
+SHA-256-Digest: +8AcZ+dVwmYsdqIJ1/l6E535rjsPjc3wTbMLM6YIHpc=
+
+Name: codechicken/nei/config/ItemPanelDumper.class
+SHA-256-Digest: s0iP8+MgGvd+pKx+M6uH3UPGktzIZb4Yxqwt5NF0nq8=
+
+Name: codechicken/nei/ItemStackMap$StackMetaKey.class
+SHA-256-Digest: QeoRDEf9UyA30mfybnU6f3qyYSHc5oLolWNHOJpagD0=
+
+Name: codechicken/nei/config/ArrayDumper.class
+SHA-256-Digest: StQiH3bzceWEf7sB2QTtKPDPUEEQkqVsyeLsS+ssRek=
+
+Name: codechicken/nei/FingerprintChecker.class
+SHA-256-Digest: He0AjA6yyKQNQsrIjXcL68uihtn6K+TeL3n0kthwmc0=
+
+Name: codechicken/nei/widget/ItemPanel$ItemPanelSlot.class
+SHA-256-Digest: DeCKw9ksUFgVMHil7WNbcRfSbX70yABLi7NWExVozcg=
+
+Name: codechicken/nei/ItemSorter$4.class
+SHA-256-Digest: 0WiJ09IMu3fOREeHwy1dSyDfbfKqmmzNnS3pbZ+aRZ4=
+
+Name: assets/nei/lang/es_UY.lang
+SHA-256-Digest: 51+Ke6jtRIwtLTDzMcUo83S/IeANDc0qRPNpVRBeI1c=
+
+Name: codechicken/nei/api/IRecipeOverlayRenderer.class
+SHA-256-Digest: LsmFDORauVxKvp1qDq0s8/CGYEPHv6F4MWikdFiMKHU=
+
+Name: codechicken/nei/HUDRenderer.class
+SHA-256-Digest: 44EQl/bl2Y8KFCJgWKNqBTdgrTQbSTXWLhICNlk63f0=
+
+Name: codechicken/nei/api/ItemInfo$5.class
+SHA-256-Digest: KGmR9wetP5J9HI/+ikx4mYVwYQ0Biy2FH6SNC0K5v6c=
+
+Name: codechicken/nei/recipe/DefaultOverlayHandler$DistributedIngred.c
+ lass
+SHA-256-Digest: VE5PNNxNRH+6UIXAi8zXuKhIq/pkTNWDSl0olZqXkJU=
+
+Name: codechicken/nei/config/OptionScrollPane.class
+SHA-256-Digest: LGZjExj7oX2sGi/5DUkgrWWk3Bn18c5ZrtcgJ1OrWXE=
+
+Name: codechicken/nei/config/OptionButton.class
+SHA-256-Digest: 23/Id6gxgFN0dRftKRyCXzody/IhJsuTctA5Ff/LWrs=
+
+Name: codechicken/nei/jei/EnumItemBrowser$2.class
+SHA-256-Digest: 7H7P2RYdKb/8vy6YXbyKOvC7XqO1iDigSqjF6jHpcHM=
+
+Name: codechicken/nei/config/GuiOptionList.class
+SHA-256-Digest: jgebV9xSej4urjE9b5PC/bCXFFIHOquOZKPF76evkug=
+
+Name: codechicken/nei/ContainerPotionCreator$InventoryPotionStore.clas
+ s
+SHA-256-Digest: Wsvg2jBI4PuhNmTWuwX8Hk4vj8PSd5P3BG5a62cgGX0=
+
+Name: assets/nei/lang/es_MX.lang
+SHA-256-Digest: MlcwgmxCH9JJ2563FHV2q2ILYt6mc7GsvZpYJiDwl/Y=
+
+Name: codechicken/nei/SubsetWidget$SubsetTag.class
+SHA-256-Digest: xvmarU2mpMK81tE2Ekhe6C1g5cguKLD3mJaOEf9b11Q=
+
+Name: codechicken/nei/GuiPotionCreator$GuiSlotPotionEffects.class
+SHA-256-Digest: PikirU0BpNtaXY7QauknxJeKQ6zSavAUeGbyNu9C1k4=
+
+Name: codechicken/nei/api/DefaultOverlayRenderer.class
+SHA-256-Digest: /6zXVlneAk4YE0mCtPo9uhTeld+NQXqBbGX4MfA5nKw=
+
+Name: codechicken/nei/recipe/ShapelessRecipeHandler$CachedShapelessRec
+ ipe.class
+SHA-256-Digest: FdYBqkrfioSJZOMTFN/MWPcJ/fJgGRT1g/Jyobsuqj8=
+
+Name: codechicken/nei/api/GuiInfo.class
+SHA-256-Digest: dnCbTA2T0g9weWJLUXN7aPU7+ScVDptArjZ91tGH8i8=
+
+Name: codechicken/nei/recipe/ProfilerRecipeHandler.class
+SHA-256-Digest: GE9Isvx6+KuA85nrLU100udmrxIRbGLXlabWQWMnFrc=
+
+Name: codechicken/nei/LayoutManager$7.class
+SHA-256-Digest: PMa8Uy1OdS+W8F7UVbMLe5sV+l1L1eQi4To/LQxK6L0=
+
+Name: codechicken/nei/guihook/GuiContainerManager.class
+SHA-256-Digest: FRkebLytKX2P7rTJb2X4XtbgKnx8pqQm4DacmAdxdhg=
+
+Name: codechicken/nei/api/ItemInfo$6.class
+SHA-256-Digest: QT1VhuHa7SEoVrowsoJtEM7rN/ZjgOpRvf7KcXDAB4A=
+
+Name: codechicken/nei/jei/EnumItemBrowser$1.class
+SHA-256-Digest: 3aAzT4Xi21U57M0LtSWBDwlzmxMXBE/sNVEbICzELug=
+
+Name: codechicken/nei/KeyManager$IKeyStateTracker.class
+SHA-256-Digest: PKAiQeqxCicy2YhAjp5h0Jd19efXw6dWTfSHyWOkZck=
+
+Name: codechicken/nei/config/GuiItemSorter$SortItem.class
+SHA-256-Digest: 8GSN8PWNr29fnsCWt1E0yf3grMp+TOzcN0bpvmdm+s8=
+
+Name: codechicken/nei/recipe/potion/IPotionRecipe.class
+SHA-256-Digest: 9ce3TI7jy7CvrwL+fcw9I0WLxrQQsNH59KUEY6j718Q=
+
+Name: codechicken/nei/featurehack/VanillaCreativeTabSearchHooks.class
+SHA-256-Digest: pC3yFLY5q52WKJx40nzTi0sOA49f2WueUKT2+p14CxY=
+
+Name: codechicken/nei/config/OptionCycled.class
+SHA-256-Digest: epXhWk+YITNYuC+FGITmZ6BeFVmoS9uMysbPgNrAxuM=
+
+Name: codechicken/nei/LayoutManager$6.class
+SHA-256-Digest: 0IezSn4izDX60+AbYiZJzW6WUdUpVOHQ8fjwxtvCHks=
+
+Name: codechicken/nei/util/NEIServerUtils.class
+SHA-256-Digest: 3Plf/xBcVWHIdASw//5vPIJ3UCl+47kwXRDpEHXM2RU=
+
+Name: codechicken/nei/ContainerPotionCreator.class
+SHA-256-Digest: M4hysn7lCy1HHyJNgZansXyWDjmV/Wf9bk64/fRd0xg=
+
+Name: codechicken/nei/asm/NEICorePlugin.class
+SHA-256-Digest: y1+g52YiUkh7FlDkLfI3eVOxhh+dyJk9NROLNtS2BH4=
+
+Name: codechicken/nei/config/OptionList.class
+SHA-256-Digest: l7tYlyDc3qejFieRmk2EGdHpys0rkE3teYNeYgxDjRk=
+
+Name: codechicken/nei/SearchField$ISearchProvider.class
+SHA-256-Digest: N3Lnr8KcNAD1rPdK2rAGgOdnsOM2nQZ7bGJ4PSw/muc=
+
+Name: codechicken/nei/api/INEIGuiHandler.class
+SHA-256-Digest: GIshn8r5BwU6MPykVP1PUFBALIroZ0d4ptxnUfAIgCo=
+
+Name: codechicken/nei/ItemSorter$SortEntry.class
+SHA-256-Digest: XrZEAdopOs0HoU5Ps/vzl1tULEFmkka6bow+94Y1HVU=
+
+Name: codechicken/nei/api/IGuiContainerOverlay.class
+SHA-256-Digest: ICIgElNgqLlD5dYNuhHPCjk5V4lWE+m8Z2So5crwNDI=
+
+Name: codechicken/nei/ClientHandler$1.class
+SHA-256-Digest: mOZ7GyNhy4zyov/Cg/RwughEmNhdnucHE5iXHkn19rw=
+
+Name: codechicken/nei/network/NEIServerPacketHandler$1.class
+SHA-256-Digest: RNUGVWLVkELLNJ6npG+cMGMBiuJSuRWwp57pKQWz3JI=
+
+Name: codechicken/nei/recipe/ShapedRecipeHandler.class
+SHA-256-Digest: WAoj1RS4DfyDXzj3X+nHXlII3HX/yTehaF4wYBSLWsk=
+
+Name: codechicken/nei/ItemStackMap$Entry.class
+SHA-256-Digest: qUKFcWrQri4hYWSHjxR8+cSgq9oIUk8SAIyzm9M9LE0=
+
+Name: codechicken/nei/api/NEIInfo.class
+SHA-256-Digest: wXlP6PY4BFSEV7jHuC92Gmdf8jSPI6TYz3eYx1N4XOM=
+
+Name: codechicken/nei/config/ConfigSet.class
+SHA-256-Digest: DgaKFAOKVXOy9xYWD6d7nILEuNKzBkOIuHk4az7Hv7g=
+
+Name: codechicken/nei/jei/gui/ContainerEventHandler.class
+SHA-256-Digest: kwna5l0RWgJfJObvoMvfu1OF20uEd9GvD97zzBc8d1I=
+
+Name: codechicken/nei/layout/LayoutStyleDefault.class
+SHA-256-Digest: Fe8jGnrwaoE06RO7E4t11k+uK8RomX2UPxlenvEORtA=
+
+Name: codechicken/nei/NEIController.class
+SHA-256-Digest: hnT+6zsJwzYBwasWJNRyIVIQKk2CnedsQZ5eMftTYj4=
+
+Name: codechicken/nei/OffsetPositioner.class
+SHA-256-Digest: ypUfyXSa+zfD86qq0uORrFdfpfbGCF/SMQPREhWRLzU=
+
+Name: codechicken/nei/network/NEIClientPacketHandler.class
+SHA-256-Digest: Db7hp6i1Sv1NC4gwYlUMODWLFymmXCOHSnQPLq3KdCY=
+
+Name: codechicken/nei/recipe/RecipeInfo$OverlayKey.class
+SHA-256-Digest: aMkX9/ltBJaXSvx2nSLxn5pxX1y4gIcBVHhYIoS2QJw=
+
+Name: codechicken/nei/recipe/TemplateRecipeHandler.class
+SHA-256-Digest: KD+EbJJ9jL/rHbBENLdRz4xLmsuX2TvuhpV/n/UEgJs=
+
+Name: codechicken/nei/recipe/TemplateRecipeHandler$RecipeTransferRectH
+ andler.class
+SHA-256-Digest: BC2PM37qSUaWfZ5bPk39Ui1IzMx5HxQWpqJHJidchT8=
+
+Name: codechicken/nei/LayoutManager$10.class
+SHA-256-Digest: KvRDLnpm64CP6BMHjQ0LvFa+pHno6dssVpvV1aGwLL0=
+
+Name: codechicken/nei/container/ExtendedCreativeInv.class
+SHA-256-Digest: 9Md2KCQE9YLXg8//ABbOE5zuyCrRXBevrMX7TCQTbH4=
+
+Name: codechicken/nei/recipe/ContainerRecipe.class
+SHA-256-Digest: bpWe4zgf8k1/DR/leymMqpJwompP+GKPPvoJU+fC7Ao=
+
+Name: assets/nei/lang/ru_RU.lang
+SHA-256-Digest: MfIhtF66CEt887Ig5KkzdP9svxjzbKIjtKt8fsrEIQU=
+
+Name: codechicken/nei/featurehack/VanillaCreativeTabSearchHooks$Vanill
+ aFilterTask.class
+SHA-256-Digest: Jz2GH7QQ4iISv9NnYcE4gDfD+h/+/Qr3NDwjsuukcAg=
+
+Name: codechicken/nei/recipe/TemplateRecipeHandler$CachedRecipe.class
+SHA-256-Digest: 7xXFwa6oZ06dM1n/uFTaEuBySKeL8nxiVQPBs+SU7qc=
+
+Name: codechicken/nei/LayoutManager$8.class
+SHA-256-Digest: 4Ew6kERsXQvG7EpmylYO+OkHjtJLlQY3PhDUzd0nxmc=
+
+Name: codechicken/nei/recipe/BrewingRecipeHandler.class
+SHA-256-Digest: 9FuwQRNZt411xXrIhIhFgEjmuRAgbh5bqLPVEEIyEAg=
+
+Name: codechicken/nei/NEICompatibility.class
+SHA-256-Digest: B5kJOdr0iu7EDglX9WOfPhdJxKTrmRMT4/l85ZI7RbI=
+
+Name: codechicken/nei/recipe/IRecipeHandler.class
+SHA-256-Digest: APTYl5XbNtYTJB8pik3eSQInpkheNLxtI29OilHTAtY=
+
+Name: codechicken/nei/NEIModContainer.class
+SHA-256-Digest: Yk6pS+F3J5aITDXrgnkD8GjCF5z7RExO3Aprmf96jnw=
+
+Name: codechicken/nei/featurehack/VanillaCreativeTabSearchHooks$Vanill
+ aFilter.class
+SHA-256-Digest: c39pPW7mD2NZZ44X0VrR4z7lEpGJhZmUnKIgfwfuK/4=
+
+Name: codechicken/nei/config/GuiHighlightTips.class
+SHA-256-Digest: Qkw0/IfqaTlMNoKspLN6z3t8GNo7osFtxs1W3GzAroU=
+
+Name: codechicken/nei/SlotOP.class
+SHA-256-Digest: /RfzDzJ3QaIITps9s/fP5hSWRjgzoL9A/rAI+wNfad8=
+
+Name: codechicken/nei/guihook/DefaultSlotClickHandler.class
+SHA-256-Digest: RO0ZB3A7Zk3pJs042ImV9yd94Uuhm0zZ3CQUGsP7Cjo=
+
+Name: codechicken/nei/api/INEIModeHandler.class
+SHA-256-Digest: 3PqH5oGF1Bntnn3QBxBZ1S7IfUANqS5iuVoiioF22wE=
+
+Name: codechicken/nei/FastTransferManager$SlotPositionComparator.class
+SHA-256-Digest: mGYdG9VsYmxr8zbg8LDkYjAiaJeL5hW1JEnPYcKI9O4=
+
+Name: codechicken/nei/config/OptionTextField$1.class
+SHA-256-Digest: gK4sQerETGwwqjuGJ7lm6TtIlPmVRqWHziFdGyKQW6M=
+
+Name: codechicken/nei/config/OptionIntegerField.class
+SHA-256-Digest: kJmgaZjKiyayvA/Wjm6fBzP3/icby3ULrWSgb05Btw4=
+
+Name: codechicken/nei/Image.class
+SHA-256-Digest: Trcuzj9e3IbuXiSo0Ky8Kkq/k162Y8IW3iaVNzRYTrc=
+
+Name: META-INF/nei_at.cfg
+SHA-256-Digest: G960nue2jeXWD5TayILD18as6eEXQFv8jVzS1wpFZR4=
+
+Name: codechicken/nei/GuiPotionCreator.class
+SHA-256-Digest: lQudd85Zl/TD5TwWyPeOjQ12p0oZd9qR+QlNMAx1pkQ=
+
+Name: codechicken/nei/api/layout/LayoutStyle.class
+SHA-256-Digest: RG+X4GLjAP9SQlNERdniObgei1IFtr7SsywkNwvm7Ls=
+
+Name: codechicken/nei/widget/Widget.class
+SHA-256-Digest: AaRj1ZomdnyCNdRNZ/mfZkpDfyQdQcfOYIuCOGvm3tE=
+
+Name: codechicken/nei/ClientHandler.class
+SHA-256-Digest: NP2Vvb9/e/6ES5Fu4ynHCka6MH/J7SHHNh3oFTVtHl8=
+
+Name: codechicken/nei/recipe/ProfilerRecipeHandler$1.class
+SHA-256-Digest: QLmREEdpYAZb7SfGx8W64W10aT7AZGVGYlhBm8+RuIU=
+
+Name: codechicken/nei/ContainerEnchantmentModifier$EnchantmentHash.cla
+ ss
+SHA-256-Digest: RyATmvXK4KI/vAH8qW2I2P1FN5RZb8ajEWQhHhxrAsE=
+
+Name: codechicken/nei/recipe/BrewingRecipeHandler$NEIBrewingRecipe.cla
+ ss
+SHA-256-Digest: lZviaJioWBvik9qCSPUIT1PoPex7xCyDFAh5oVSd8ac=
+
+Name: codechicken/nei/InfiniteToolHandler.class
+SHA-256-Digest: 7GbL04GPn+gfQ1qBqJAPt/OIu/E00zOj6oYj48BGZKY=
+
+Name: assets/nei/lang/cs_CZ.lang
+SHA-256-Digest: jUB/+KAxK9k8RHL2f3Jq+/U7vnC+s4KRPVGI8e7xGlk=
+
+Name: codechicken/nei/config/RegistryDumper.class
+SHA-256-Digest: NRT6LE9KHZowol+8+S20Z2CH0xDFCGM2KawfdDD9YGk=
+
+Name: codechicken/nei/config/PatreonButton.class
+SHA-256-Digest: TlpqyhgjDOrYeHcvo1o1zPmmxQnk2TOQKxH35oEDgbU=
+
+Name: codechicken/nei/util/NEIClientUtils.class
+SHA-256-Digest: 0h0NYJmLUUfjnlxgCSTGHvVTs7UM8tlemD7QRgdka2s=
+
+Name: codechicken/nei/recipe/IUsageHandler.class
+SHA-256-Digest: zWMX6N9pE7c6FHk8XVGE945ZWIyGydas9DuNwsYqVcg=
+
+Name: codechicken/nei/SubsetWidget$2.class
+SHA-256-Digest: WzC4uzmI2guLVH5S1Cj1NgzLC/yy6jefMcOdUg8KRdc=
+
+Name: codechicken/nei/config/OptionList$RootOptionList.class
+SHA-256-Digest: W9vmTiOnyr6R3rWdZWKjARuMFFzKbhdhS1Ale2IFPGg=
+
+Name: codechicken/nei/jei/proxy/JEIProxy.class
+SHA-256-Digest: OQDSMyHOXPpi9AEnBX14bx8qTcUDS5POt1U7OU0cVAk=
+
+Name: codechicken/nei/ItemList$AllMultiItemFilter.class
+SHA-256-Digest: 6T9k+4YemNvnZpjgHjg8bPGbMhlH0pMc2F3RlMUG7To=
+
+Name: codechicken/nei/ItemList$AnyMultiItemFilter.class
+SHA-256-Digest: sa1D4xXpsGL1gHDcRu99DmNjk+Hh3lsQK59hMUziFX8=
+
+Name: codechicken/nei/recipe/RecipeInfo.class
+SHA-256-Digest: ELNS+QHLMjSGuvJMLtyQxa1jTryfA7B7o5FYiyITB88=
+
+Name: codechicken/nei/recipe/potion/PotionRecipeHelper.class
+SHA-256-Digest: 8OXWi8gWe7cbT9upuSL/Ph/9A7y/88WzW/hzz49HtuY=
+
+Name: codechicken/nei/recipe/BrewingOverlayHandler.class
+SHA-256-Digest: VbIzr+ZqVW4EBq6Rj66HedEtN6JozHW9aB4wMFBLpsM=
+
+Name: codechicken/nei/api/ItemInfo$9.class
+SHA-256-Digest: M06cqiSDuqOaG0gb5nMfSJKCOkagXTarrv4OKFIys1o=
+
+Name: codechicken/nei/jei/EnumItemBrowser.class
+SHA-256-Digest: k5dEj/Ts6PbAiw5M8Q0vzHeAqz5kkBZ//Ulc2opiVnY=
+
+Name: codechicken/nei/recipe/DefaultOverlayHandler.class
+SHA-256-Digest: WWVpd/EGjHD8ADO2NILD4puVIcpaflpAxONmY/qZdLE=
+
+Name: codechicken/nei/SubsetWidget$1.class
+SHA-256-Digest: kcKiV0pwlznqh5EjBRtLD2qTuTnW4GMHfgH9P5mXdxQ=
+
+Name: codechicken/nei/ItemList.class
+SHA-256-Digest: jg8lPtfIGNOk6Mnem1XNgiCPyWr7V6CrPWllVcmQOws=
+
+Name: codechicken/nei/config/GuiOptionPane$ScrollPane.class
+SHA-256-Digest: rqoEO1Id502t5eFmgu9L6v4eP5JWDfr2rZ/+smi1iAw=
+
+Name: codechicken/nei/LayoutManager$9.class
+SHA-256-Digest: fmqqACSFOV9CfTTjUS5pYLX76eVZAFNG+4Qp9Vviytg=
+
+Name: codechicken/nei/recipe/GuiRecipe.class
+SHA-256-Digest: +LulZbr5+X6VxeKH8if2MrCVwwNdS3TQP2Y1DTWBsPQ=
+
+Name: codechicken/nei/guihook/IContainerTooltipHandler.class
+SHA-256-Digest: Lv0WPYulNn3v9Zucg05s3lFhUNAeaHkNUqqMfaZpIP0=
+
+Name: assets/nei/lang/sk_SK.lang
+SHA-256-Digest: GsNAqjA0F+1Aif0NaKC/COL+bJk0ybPu4v9C9aOnO9w=
+
+Name: codechicken/nei/api/TaggedInventoryArea.class
+SHA-256-Digest: 1vF3JyWxnIKbF5N1b3CdLbpJ7nKhrfZRNV2cF/mfjYc=
+
+Name: assets/nei/lang/es_AR.lang
+SHA-256-Digest: j/XHqOMYSmGQPxWnqunhzSxvwPdbeinuDr2449KL7VE=
+

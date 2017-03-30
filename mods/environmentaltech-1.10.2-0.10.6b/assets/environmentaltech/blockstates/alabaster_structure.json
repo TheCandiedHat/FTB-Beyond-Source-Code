@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "tier=1": { "model": "environmentaltech:alabaster_structure_1" },
+        "tier=2": { "model": "environmentaltech:alabaster_structure_2" },
+        "tier=3": { "model": "environmentaltech:alabaster_structure_3" },
+        "tier=4": { "model": "environmentaltech:alabaster_structure_4" }
+    }
+}

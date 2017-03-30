@@ -1,0 +1,14 @@
+{
+    "textures": {
+        "icon": "StorageDrawers:blocks/indicator/lock_icon"
+    },
+    "elements": [
+        {
+            "from": [ 7.5, 15, 1.005 ],
+            "to": [ 8.5, 16, 1.005 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#icon" }
+            }
+        }
+    ]
+}

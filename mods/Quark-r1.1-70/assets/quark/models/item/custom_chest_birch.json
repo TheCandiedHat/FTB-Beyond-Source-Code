@@ -1,0 +1,7 @@
+{
+	"parent": "quark:block/custom_chest",
+	"textures": {
+		"texture": "quark:blocks/chests/birch",
+		"particle": "quark:blocks/chests/birch"
+	}
+}

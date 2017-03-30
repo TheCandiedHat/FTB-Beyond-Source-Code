@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "environmentaltech:items/tool_multiblock_assembler"
+    }
+}

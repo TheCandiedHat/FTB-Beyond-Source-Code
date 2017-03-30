@@ -1,0 +1,14 @@
+[
+{
+	"modid": "Chameleon",
+	"name": "Chameleon",
+	"description": "Shared code and render support for mods.  Used by jaquadro's mods.",
+	"version": "1.10-2.2.2",
+	"credits": "By jaquadro",
+	"logoFile": "",
+	"url": "http://www.jaquadro.com/",
+	"authorList": [ "jaquadro" ],
+	"requiredMods": [ "Forge" ],
+	"useDependencyInformation": true
+}
+]

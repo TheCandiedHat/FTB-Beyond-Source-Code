@@ -1,0 +1,16 @@
+[
+	{
+	  "modid": "shadowmc",
+	  "name": "ShadowMC",
+	  "description": "A library mod required for all my other mods.",
+	  "version": "1.10.2-3.6.1",
+	  "mcversion": "1.10.2",
+	  "url": "http://github.com/shadowfacts/ShadowMC",
+	  "updateUrl": "",
+	  "authorList": ["Shadowfacts"],
+	  "credits": "",
+	  "logoFile": "",
+	  "screenshots": [],
+	  "dependencies": []
+	}
+]

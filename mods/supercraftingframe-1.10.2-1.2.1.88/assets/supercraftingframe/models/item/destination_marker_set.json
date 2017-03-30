@@ -1,0 +1,6 @@
+{
+  "parent": "supercraftingframe:item/destination_marker",
+  "textures": {
+    "layer0": "supercraftingframe:items/destination_marker_set"
+  }
+}

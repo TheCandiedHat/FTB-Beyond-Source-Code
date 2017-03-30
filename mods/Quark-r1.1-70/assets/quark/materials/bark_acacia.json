@@ -1,0 +1,12 @@
+{
+	"name": "Acacia Bark",
+	"id": "quark:bark_acacia",
+	"type": "wood",
+	"hardness": 2.0,
+	"resistance": 5.0,
+	"textures": "minecraft:blocks/log_acacia",
+	"blocks": {
+		"full": { "id": "quark:bark", "meta": 4 },
+		"wall": { "id": "quark:bark_acacia_wall", "meta": 0 }
+	}
+}

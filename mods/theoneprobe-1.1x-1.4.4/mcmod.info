@@ -1,0 +1,16 @@
+[
+{
+  "modid": "theoneprobe",
+  "name": "The One Probe",
+  "description": "A Probe to rule them all!",
+  "version": "1.1x-1.4.4",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["McJty"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

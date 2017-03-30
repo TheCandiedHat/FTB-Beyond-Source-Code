@@ -1,0 +1,6 @@
+{
+    "parent": "supercraftingframe:block/frame",
+    "textures": {
+        "1": "supercraftingframe:blocks/quad_crafting_frame_block"
+    }
+}

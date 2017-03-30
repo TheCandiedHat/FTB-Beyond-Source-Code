@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: shetiphian.core.asm.TweakPlugin
+FMLCorePluginContainsFMLMod: true
+

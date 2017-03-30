@@ -1,0 +1,14 @@
+{
+	"name": "Andesite Bricks",
+	"id": "quark:stone_andesite_bricks",
+	"type": "rock",
+	"hardness": 1.5,
+	"resistance": 10.0,
+	"textures": "quark:blocks/stone_andesite_bricks",
+	"blocks": {
+		"full": { "id": "quark:world_stone_bricks", "meta": 2 },
+		"stairs": "quark:stone_andesite_bricks_stairs",
+		"slab": "quark:stone_andesite_bricks_slab",
+		"wall": { "id": "quark:stone_andesite_bricks_wall", "meta": 0 }
+	}
+}

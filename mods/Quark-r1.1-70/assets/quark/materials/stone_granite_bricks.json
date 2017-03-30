@@ -1,0 +1,14 @@
+{
+	"name": "Granite Bricks",
+	"id": "quark:stone_granite_bricks",
+	"type": "rock",
+	"hardness": 1.5,
+	"resistance": 10.0,
+	"textures": "quark:blocks/stone_granite_bricks",
+	"blocks": {
+		"full": { "id": "quark:world_stone_bricks", "meta": 0 },
+		"stairs": "quark:stone_granite_bricks_stairs",
+		"slab": { "id": "quark:stone_granite_bricks_slab", "meta": 0 },
+		"wall": { "id": "quark:stone_granite_bricks_wall", "meta": 0 }
+	}
+}

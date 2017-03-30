@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: OpenGlider
+Implementation-Version: 1.10.2-0.2.2
+Built-By: Max
+Git-Hash: fa43cad
+Created-By: 25.92-b14 + (Oracle Corporation)
+

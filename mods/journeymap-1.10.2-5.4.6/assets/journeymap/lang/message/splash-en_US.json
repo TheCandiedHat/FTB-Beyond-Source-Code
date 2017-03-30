@@ -1,0 +1,14 @@
+/* JourneyMap 5.3.0 Splash/About Dialog - en_US */
+/* Only translate label values. Do not translate action values. */
+{
+  "lines": [
+    {
+      "label": "Performance improvements!",
+      "action": ""
+    },
+    {
+      "label": "Need help? Click to visit journeymap.info",
+      "action": "dialog.FullscreenActions#launchWebsite#Home"
+    }
+  ]
+}

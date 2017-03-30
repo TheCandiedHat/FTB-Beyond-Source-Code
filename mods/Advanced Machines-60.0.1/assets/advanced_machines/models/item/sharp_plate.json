@@ -1,0 +1,6 @@
+{
+	"parent": "ic2:item/default",
+	"textures": {
+		"layer0": "advanced_machines:items/sharp_plate"
+	}
+}

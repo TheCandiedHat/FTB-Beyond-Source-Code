@@ -1,0 +1,191 @@
+[18:26:02] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[18:26:02] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[18:26:03] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.4.6, built with Forge 12.18.3.2185
+Forge: 12.18.3.2254
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Unlimited Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.4.6, zoomLevel=5, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showBiome=true, enabled=true, showPlayerHeading=true, showVillagers=true, sizePercent=30, showLocation=true, showMobs=true, showPets=true, showFps=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Circle, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, fontScale=1}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.4.6, zoomLevel=3, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showBiome=true, enabled=true, showPlayerHeading=true, showVillagers=true, sizePercent=30, showLocation=true, showMobs=true, showPets=true, showFps=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.4.6, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.4.6, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.4.6, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.4.6, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=5.4.6, announceMod=true, colorPassive=#bbbbbb, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=7, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, radarVerticalDistance=16, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, cachePlayerData=1000, splashViewed=5.4.6, colorHostile=#ff0000, revealShape=Circle, cacheAnimalsData=3100, themeName=Victorian, alwaysMapSurface=false, colorVillager=#88e188, mapCaveLighting=true, mapPlants=false, renderDelay=2, renderOverlayPreEvent=true, colorPet=#0077ff, autoMapPoll=2000}
+[18:26:03] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.3
+[18:26:03] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[18:26:03] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
+[18:26:03] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[18:26:17] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[18:26:17] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[18:26:17] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: /Users/Ethan/Documents/Curse/Minecraft/Instances/FTB%20Beyond%20(1)/mods/journeymap-1.10.2-5.4.6.jar/assets/journeymap/icon/entity
+[18:26:17] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[18:26:17] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[18:26:17] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Victorian: /Users/Ethan/Documents/Curse/Minecraft/Instances/FTB%20Beyond%20(1)/mods/journeymap-1.10.2-5.4.6.jar/assets/journeymap/theme/Victorian
+[18:26:17] [Client thread/INFO] [ThemeFileHandler] Preloaded theme textures: 0
+[18:26:17] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r250.89§8ms§r
+[18:27:39] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[18:27:41] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
+[18:27:41] [Client thread/INFO] [ColorManager] New color palette will be created
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/futura/controllerpurple: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/futura/controllerpurple.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/glass/chinese: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=0]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/glass/chinese.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=0]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/barbedwire: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/barbedwire.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/cage: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/cage.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/fenceIronTop: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/fenceIronTop.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-thingrid: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-thingrid.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-ornatesteel: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-ornatesteel.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/bars: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/bars.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
+[18:27:41] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/spikes: Index: 0, Size: 0
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
+[18:27:41] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/spikes.png
+[18:27:41] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
+[18:27:41] [Client thread/ERROR] [JMLogger] Error calling com.rwtema.extrautils2.backend.model.PassthruModelBlock.getQuads() (SUPPRESSED)
+[18:27:41] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
+	at com.rwtema.extrautils2.backend.model.PassthruModelBlock.func_188616_a(PassthruModelBlock.java:37)
+	at journeymap.client.cartography.ColorHelper.getFirstFoundSprite(ColorHelper.java:183)
+	at journeymap.client.cartography.ColorHelper.getDirectIcon(ColorHelper.java:164)
+	at journeymap.client.cartography.ColorHelper.getTextureColor(ColorHelper.java:112)
+	at journeymap.client.model.mod.vanilla.VanillaColorHandler.getTextureColor(VanillaColorHandler.java:24)
+	at journeymap.client.model.BlockMD.ensureColor(BlockMD.java:408)
+	at journeymap.client.cartography.ColorManager.initBlockColors(ColorManager.java:192)
+	at journeymap.client.cartography.ColorManager.ensureCurrent(ColorManager.java:129)
+	at journeymap.client.task.main.EnsureCurrentColorsTask.perform(EnsureCurrentColorsTask.java:15)
+	at journeymap.client.task.main.MainTaskController.performTasks(MainTaskController.java:64)
+	at journeymap.client.JourneymapClient.performMainThreadTasks(JourneymapClient.java:571)
+	at journeymap.client.forge.event.StateTickHandler.onClientTick(StateTickHandler.java:75)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1455_StateTickHandler_onClientTick_ClientTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreClientTick(FMLCommonHandler.java:339)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1650)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1055)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:371)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[18:27:42] [Client thread/ERROR] [JMLogger] Error calling forestry.greenhouse.models.ModelGreenhouse.getQuads() (SUPPRESSED)
+[18:27:42] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
+	at forestry.greenhouse.blocks.BlockGreenhouseDoor.func_176221_a(BlockGreenhouseDoor.java:237)
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185899_b(BlockStateContainer.java:410)
+	at forestry.greenhouse.blocks.BlockGreenhouseDoor.func_185496_a(BlockGreenhouseDoor.java:96)
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185900_c(BlockStateContainer.java:443)
+	at forestry.core.models.ModelBlockDefault.bakeModel(ModelBlockDefault.java:70)
+	at forestry.core.models.ModelBlockDefault.getModel(ModelBlockDefault.java:81)
+	at forestry.core.models.ModelBlockDefault.func_188616_a(ModelBlockDefault.java:114)
+	at journeymap.client.cartography.ColorHelper.getFirstFoundSprite(ColorHelper.java:183)
+	at journeymap.client.cartography.ColorHelper.getDirectIcon(ColorHelper.java:164)
+	at journeymap.client.cartography.ColorHelper.getTextureColor(ColorHelper.java:112)
+	at journeymap.client.model.mod.vanilla.VanillaColorHandler.getTextureColor(VanillaColorHandler.java:24)
+	at journeymap.client.model.BlockMD.ensureColor(BlockMD.java:408)
+	at journeymap.client.cartography.ColorManager.initBlockColors(ColorManager.java:192)
+	at journeymap.client.cartography.ColorManager.ensureCurrent(ColorManager.java:129)
+	at journeymap.client.task.main.EnsureCurrentColorsTask.perform(EnsureCurrentColorsTask.java:15)
+	at journeymap.client.task.main.MainTaskController.performTasks(MainTaskController.java:64)
+	at journeymap.client.JourneymapClient.performMainThreadTasks(JourneymapClient.java:571)
+	at journeymap.client.forge.event.StateTickHandler.onClientTick(StateTickHandler.java:75)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1455_StateTickHandler_onClientTick_ClientTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreClientTick(FMLCommonHandler.java:339)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1650)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1055)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:371)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[18:27:42] [Client thread/ERROR] [JMLogger] Error calling blusunrize.immersiveengineering.client.models.smart.ConnModelReal.getQuads() (SUPPRESSED)
+[18:27:42] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
+	at blusunrize.immersiveengineering.client.models.IESmartObjModel.buildQuads(IESmartObjModel.java:237)
+	at blusunrize.immersiveengineering.client.models.IESmartObjModel.getQuads(IESmartObjModel.java:210)
+	at blusunrize.immersiveengineering.client.models.IESmartObjModel.func_188616_a(IESmartObjModel.java:177)
+	at blusunrize.immersiveengineering.client.models.smart.ConnModelReal.func_188616_a(ConnModelReal.java:69)
+	at journeymap.client.cartography.ColorHelper.getFirstFoundSprite(ColorHelper.java:183)
+	at journeymap.client.cartography.ColorHelper.getDirectIcon(ColorHelper.java:164)
+	at journeymap.client.cartography.ColorHelper.getTextureColor(ColorHelper.java:112)
+	at journeymap.client.model.mod.vanilla.VanillaColorHandler.getTextureColor(VanillaColorHandler.java:24)
+	at journeymap.client.model.BlockMD.ensureColor(BlockMD.java:408)
+	at journeymap.client.cartography.ColorManager.initBlockColors(ColorManager.java:192)
+	at journeymap.client.cartography.ColorManager.ensureCurrent(ColorManager.java:129)
+	at journeymap.client.task.main.EnsureCurrentColorsTask.perform(EnsureCurrentColorsTask.java:15)
+	at journeymap.client.task.main.MainTaskController.performTasks(MainTaskController.java:64)
+	at journeymap.client.JourneymapClient.performMainThreadTasks(JourneymapClient.java:571)
+	at journeymap.client.forge.event.StateTickHandler.onClientTick(StateTickHandler.java:75)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1455_StateTickHandler_onClientTick_ClientTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreClientTick(FMLCommonHandler.java:339)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1650)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1055)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:371)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[18:27:43] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for techreborn:blocks/storage/yellowGarnet_block: Index: 0, Size: 0
+[18:27:43] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [techreborn:techreborn.storage2:techreborn:techreborn.storage2[type=6]] ()
+[18:27:43] [Client thread/WARN] [TextureCache] Image not found: techreborn:textures/blocks/storage/yellowGarnet_block.png
+[18:27:43] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [techreborn:techreborn.storage2:techreborn:techreborn.storage2[type=6]] ()
+[18:27:43] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for techreborn:blocks/storage/redGarnet_block: Index: 0, Size: 0
+[18:27:43] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [techreborn:techreborn.storage2:techreborn:techreborn.storage2[type=7]] ()
+[18:27:43] [Client thread/WARN] [TextureCache] Image not found: techreborn:textures/blocks/storage/redGarnet_block.png
+[18:27:43] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [techreborn:techreborn.storage2:techreborn:techreborn.storage2[type=7]] ()
+[18:27:43] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for techreborn:blocks/storage/refinedIron_block: Index: 0, Size: 0
+[18:27:43] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [techreborn:techreborn.storage2:techreborn:techreborn.storage2[type=10]] ()
+[18:27:43] [Client thread/WARN] [TextureCache] Image not found: techreborn:textures/blocks/storage/refinedIron_block.png
+[18:27:43] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [techreborn:techreborn.storage2:techreborn:techreborn.storage2[type=10]] ()
+[18:27:43] [Client thread/INFO] [ColorManager] Cached colors from TextureAtlasSprites: 4853
+[18:27:43] [Client thread/INFO] [ColorManager] Initialized 108395 block colors from mods and resource packs in 2452ms
+[18:27:44] [Client thread/INFO] [ColorPalette] Color palette file generated with 6423 colors in 515ms for: /Users/Ethan/Documents/Curse/Minecraft/Instances/FTB Beyond (1)/journeymap/colorpalette.json
+[18:27:44] [Client thread/INFO] [ColorManager] Updated color palette file: /Users/Ethan/Documents/Curse/Minecraft/Instances/FTB Beyond (1)/journeymap/colorpalette.json
+[18:28:21] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[18:28:21] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from /Users/Ethan/Documents/Curse/Minecraft/Instances/FTB Beyond (1)/journeymap/data/sp/CandiedCraft/waypoints
+[18:28:21] [Client thread/INFO] [JourneymapClient] Mapping started in /Users/Ethan/Documents/Curse/Minecraft/Instances/FTB Beyond (1)/journeymap/data/sp/CandiedCraft/DIM0. Memory: 3746MB total, 860MB free 
+[18:28:21] [Client thread/INFO] [ChatLog] JourneyMap: Press [PERIOD]

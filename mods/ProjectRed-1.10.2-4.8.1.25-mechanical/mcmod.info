@@ -1,0 +1,33 @@
+[
+{
+  "modid": "projectred-expansion",
+  "name": "ProjectRed Expansion",
+  "parent":"projectred-core",
+  "version": "4.8.1.25",
+  "mcversion": "1.10.2",
+  "requiredMods": [
+      "projectred-core"
+  ],
+  "dependencies": [
+      "projectred-core",
+      "projectred-transmission"
+  ],
+  "dependants" : [],
+  "useDependencyInformation": true
+},
+{
+  "modid": "projectred-transportation",
+  "name": "ProjectRed Transportation",
+  "parent":"projectred-core",
+  "version": "4.8.1.25",
+  "mcversion": "1.10.2",
+  "requiredMods": [
+      "projectred-core"
+  ],
+  "dependencies": [
+      "projectred-core"
+  ],
+  "dependants" : [],
+  "useDependencyInformation": true
+}
+]

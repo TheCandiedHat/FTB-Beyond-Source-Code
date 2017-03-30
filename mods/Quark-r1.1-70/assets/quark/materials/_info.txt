@@ -1,0 +1,5 @@
+For Building Bricks compatibility
+
+http://minecraft.curseforge.com/projects/building-bricks
+
+https://github.com/hea3ven/BuildingBricks

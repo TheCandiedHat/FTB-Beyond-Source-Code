@@ -1,0 +1,66 @@
+#pl_PL
+
+enchant.cofh.holding=Trzymanie
+enchant.cofh.multishot=Multishot
+
+fluid.tile.lava=Lawa
+fluid.tile.water=Woda
+
+info.cofh.access=Dostęp
+info.cofh.accessMode=Tryb dostępu
+info.cofh.accessPrivate=Tylko właściciel
+info.cofh.accessRestricted=Ograniczony
+info.cofh.all=Wszystko
+info.cofh.amount=Ilość
+info.cofh.augmentation=Zwiększanie
+info.cofh.blank=Czyste
+info.cofh.capacity=Pojemność
+info.cofh.controlStatus=Status kontrolowania
+info.cofh.damageAttack=Obrażenia ataku
+info.cofh.damageFlux=Obrażenia flux'owe
+info.cofh.disabled=Wyłączone
+info.cofh.dry=Suche
+info.cofh.empty=Puste
+info.cofh.enable=Enable
+info.cofh.enabled=Włączone
+info.cofh.energy=Energia
+info.cofh.energyConsume=Użytek mocy
+info.cofh.energyProduce=Wyjście mocy
+info.cofh.energyStored=Przechowywana energia
+info.cofh.fluid=Ciecz
+info.cofh.forDetails=dla detali
+info.cofh.frequency=Częstotliwość
+info.cofh.hasInfo=Ma informacje
+info.cofh.high=Wysoki
+info.cofh.hold=Trzyma
+info.cofh.ignored=Ignorowane
+info.cofh.infinite=Nieskończone
+info.cofh.information=Informacje
+info.cofh.item=Przedmiot
+info.cofh.items=Przedmioty
+info.cofh.level=Przedmiot
+info.cofh.locked=Zablokowane
+info.cofh.low=Niski
+info.cofh.maxPower=Maksymalna moc
+info.cofh.none=Żadne
+info.cofh.owner=Właściciel
+info.cofh.perUse=Na użycie
+info.cofh.press=Naciśnij
+info.cofh.receive=Otrzymaj
+info.cofh.redstoneControl=Kontrola redstone'em
+info.cofh.security=Bezpieczeństwo
+info.cofh.send=Wyślij
+info.cofh.sending=Wysyłanie
+info.cofh.shift=Przesunięcie
+info.cofh.signal=Sygnał
+info.cofh.signalRequired=Sygnał wymagany
+info.cofh.soaked=Mokry
+info.cofh.source=Źródło
+info.cofh.tutorial.fluxRequired=Wymaga redstone'owego flux'u do operacji.
+info.cofh.tutorial.tabAugment=Karta powiększeń zezwala na modularne dodatki.
+info.cofh.tutorial.tabConfiguration=The Configuration tab determines input and output parameters for this block.
+info.cofh.tutorial.tabRedstone=Karta kontroli redstone'a konfiguruje to, jak to urządzenie reaguje na sygnały redstone'a.
+info.cofh.tutorial.tabSecurity=Karta bezpieczeństwa zezwala na kontrolowanie tego, kto ma prawo dostępu do tego urządzenia.
+info.cofh.unlocked=Odblokowany
+
+item.invalid.name=Niepoprawny przedmiot (zniszcz)

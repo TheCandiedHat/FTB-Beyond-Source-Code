@@ -1,0 +1,16 @@
+[
+{
+  "modid": "launchgui",
+  "name": "LaunchGUI",
+  "description": "Creates a GUI at the start to be customized how you wish.",
+  "version": "1.9.4-2.0.3-23",
+  "mcversion": "1.9.4",
+  "url": "http://tehnut.info/",
+  "updateUrl": "http://tehnut.info/",
+  "authorList": [ "TehNut" ],
+  "credits": "Kris for making me feel obligated. tterrag for some code.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

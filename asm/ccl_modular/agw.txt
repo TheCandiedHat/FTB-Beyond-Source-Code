@@ -1,0 +1,453 @@
+// class version 50.0 (50)
+// access flags 0x4031
+// signature Ljava/lang/Enum<Lagw;>;
+// declaration: agw extends java.lang.Enum<agw>
+public final enum agw extends java/lang/Enum  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x4019
+  public final static enum Lagw; a
+
+  // access flags 0x4019
+  public final static enum Lagw; b
+
+  // access flags 0x4019
+  public final static enum Lagw; c
+
+  // access flags 0x4019
+  public final static enum Lagw; d
+
+  // access flags 0x4019
+  public final static enum Lagw; e
+
+  // access flags 0x4019
+  public final static enum Lagw; f
+
+  // access flags 0x4019
+  public final static enum Lagw; g
+
+  // access flags 0x4019
+  public final static enum Lagw; h
+
+  // access flags 0x4019
+  public final static enum Lagw; i
+
+  // access flags 0x4019
+  public final static enum Lagw; j
+
+  // access flags 0x4019
+  public final static enum Lagw; k
+
+  // access flags 0x101A
+  private final static synthetic [Lagw; l
+
+  // access flags 0x9
+  public static values()[Lagw;
+   L0
+    LINENUMBER 11 L0
+    GETSTATIC agw.l : [Lagw;
+    INVOKEVIRTUAL [Lagw;.clone ()Ljava/lang/Object;
+    CHECKCAST [Lagw;
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 0
+
+  // access flags 0x9
+  public static valueOf(Ljava/lang/String;)Lagw;
+   L0
+    LINENUMBER 11 L0
+    LDC Lagw;.class
+    ALOAD 0
+    INVOKESTATIC java/lang/Enum.valueOf (Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/Enum;
+    CHECKCAST agw
+    ARETURN
+   L1
+    LOCALVARIABLE ☃ Ljava/lang/String; L0 L1 0
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x2
+  // signature ()V
+  // declaration: void <init>()
+  private <init>(Ljava/lang/String;I)V
+   L0
+    LINENUMBER 11 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    INVOKESPECIAL java/lang/Enum.<init> (Ljava/lang/String;I)V
+    RETURN
+   L1
+    LOCALVARIABLE this Lagw; L0 L1 0
+    MAXSTACK = 3
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ladx;)Z
+    ALOAD 1
+    INSTANCEOF com/brandon3055/brandonscore/asm/IEnchantmentOverride
+    IFEQ L0
+    ALOAD 1
+    ALOAD 0
+    INVOKEINTERFACE com/brandon3055/brandonscore/asm/IEnchantmentOverride.checkEnchantTypeValid (Lnet/minecraft/enchantment/EnumEnchantmentType;)Z
+    IRETURN
+   L0
+    LINENUMBER 27 L0
+   FRAME FULL [agw adx] []
+    ALOAD 0
+    GETSTATIC agw.a : Lagw;
+    IF_ACMPNE L1
+   L2
+    LINENUMBER 28 L2
+    ICONST_1
+    IRETURN
+   L1
+    LINENUMBER 30 L1
+   FRAME FULL [agw adx] []
+    ALOAD 0
+    GETSTATIC agw.j : Lagw;
+    IF_ACMPNE L3
+    ALOAD 1
+    INVOKEVIRTUAL adx.m ()Z
+    IFEQ L3
+   L4
+    LINENUMBER 31 L4
+    ICONST_1
+    IRETURN
+   L3
+    LINENUMBER 34 L3
+   FRAME FULL [agw adx] []
+    ALOAD 1
+    INSTANCEOF acf
+    IFEQ L5
+   L6
+    LINENUMBER 35 L6
+    ALOAD 0
+    GETSTATIC agw.b : Lagw;
+    IF_ACMPNE L7
+   L8
+    LINENUMBER 36 L8
+    ICONST_1
+    IRETURN
+   L7
+    LINENUMBER 38 L7
+   FRAME FULL [agw adx] []
+    ALOAD 1
+    CHECKCAST acf
+    ASTORE 2
+   L9
+    LINENUMBER 39 L9
+    ALOAD 2
+    GETFIELD acf.c : Lsb;
+    GETSTATIC sb.f : Lsb;
+    IF_ACMPNE L10
+   L11
+    LINENUMBER 40 L11
+    ALOAD 0
+    GETSTATIC agw.f : Lagw;
+    IF_ACMPNE L12
+    ICONST_1
+    GOTO L13
+   L12
+   FRAME FULL [agw adx acf] []
+    ICONST_0
+   L13
+   FRAME FULL [agw adx acf] [I]
+    IRETURN
+   L10
+    LINENUMBER 42 L10
+   FRAME FULL [agw adx acf] []
+    ALOAD 2
+    GETFIELD acf.c : Lsb;
+    GETSTATIC sb.d : Lsb;
+    IF_ACMPNE L14
+   L15
+    LINENUMBER 43 L15
+    ALOAD 0
+    GETSTATIC agw.d : Lagw;
+    IF_ACMPNE L16
+    ICONST_1
+    GOTO L17
+   L16
+   FRAME FULL [agw adx acf] []
+    ICONST_0
+   L17
+   FRAME FULL [agw adx acf] [I]
+    IRETURN
+   L14
+    LINENUMBER 45 L14
+   FRAME FULL [agw adx acf] []
+    ALOAD 2
+    GETFIELD acf.c : Lsb;
+    GETSTATIC sb.e : Lsb;
+    IF_ACMPNE L18
+   L19
+    LINENUMBER 46 L19
+    ALOAD 0
+    GETSTATIC agw.e : Lagw;
+    IF_ACMPNE L20
+    ICONST_1
+    GOTO L21
+   L20
+   FRAME FULL [agw adx acf] []
+    ICONST_0
+   L21
+   FRAME FULL [agw adx acf] [I]
+    IRETURN
+   L18
+    LINENUMBER 48 L18
+   FRAME FULL [agw adx acf] []
+    ALOAD 2
+    GETFIELD acf.c : Lsb;
+    GETSTATIC sb.c : Lsb;
+    IF_ACMPNE L22
+   L23
+    LINENUMBER 49 L23
+    ALOAD 0
+    GETSTATIC agw.c : Lagw;
+    IF_ACMPNE L24
+    ICONST_1
+    GOTO L25
+   L24
+   FRAME FULL [agw adx acf] []
+    ICONST_0
+   L25
+   FRAME FULL [agw adx acf] [I]
+    IRETURN
+   L22
+    LINENUMBER 51 L22
+   FRAME FULL [agw adx acf] []
+    ICONST_0
+    IRETURN
+   L5
+    LINENUMBER 52 L5
+   FRAME FULL [agw adx] []
+    ALOAD 1
+    INSTANCEOF afg
+    IFEQ L26
+   L27
+    LINENUMBER 53 L27
+    ALOAD 0
+    GETSTATIC agw.g : Lagw;
+    IF_ACMPNE L28
+    ICONST_1
+    GOTO L29
+   L28
+   FRAME FULL [agw adx] []
+    ICONST_0
+   L29
+   FRAME FULL [agw adx] [I]
+    IRETURN
+   L26
+    LINENUMBER 54 L26
+   FRAME FULL [agw adx] []
+    ALOAD 1
+    INSTANCEOF ada
+    IFEQ L30
+   L31
+    LINENUMBER 55 L31
+    ALOAD 0
+    GETSTATIC agw.h : Lagw;
+    IF_ACMPNE L32
+    ICONST_1
+    GOTO L33
+   L32
+   FRAME FULL [agw adx] []
+    ICONST_0
+   L33
+   FRAME FULL [agw adx] [I]
+    IRETURN
+   L30
+    LINENUMBER 56 L30
+   FRAME FULL [agw adx] []
+    ALOAD 1
+    INSTANCEOF acq
+    IFEQ L34
+   L35
+    LINENUMBER 57 L35
+    ALOAD 0
+    GETSTATIC agw.k : Lagw;
+    IF_ACMPNE L36
+    ICONST_1
+    GOTO L37
+   L36
+   FRAME FULL [agw adx] []
+    ICONST_0
+   L37
+   FRAME FULL [agw adx] [I]
+    IRETURN
+   L34
+    LINENUMBER 58 L34
+   FRAME FULL [agw adx] []
+    ALOAD 1
+    INSTANCEOF adr
+    IFEQ L38
+   L39
+    LINENUMBER 59 L39
+    ALOAD 0
+    GETSTATIC agw.i : Lagw;
+    IF_ACMPNE L40
+    ICONST_1
+    GOTO L41
+   L40
+   FRAME FULL [agw adx] []
+    ICONST_0
+   L41
+   FRAME FULL [agw adx] [I]
+    IRETURN
+   L38
+    LINENUMBER 61 L38
+   FRAME FULL [agw adx] []
+    ICONST_0
+    IRETURN
+   L42
+    LOCALVARIABLE this Lagw; L0 L42 0
+    LOCALVARIABLE ☃ Ladx; L0 L42 1
+    LOCALVARIABLE ☃ Lacf; L9 L5 2
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x8
+  static <clinit>()V
+   L0
+    LINENUMBER 12 L0
+    NEW agw
+    DUP
+    LDC "ALL"
+    ICONST_0
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.a : Lagw;
+   L1
+    LINENUMBER 14 L1
+    NEW agw
+    DUP
+    LDC "ARMOR"
+    ICONST_1
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.b : Lagw;
+   L2
+    LINENUMBER 15 L2
+    NEW agw
+    DUP
+    LDC "ARMOR_FEET"
+    ICONST_2
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.c : Lagw;
+   L3
+    LINENUMBER 16 L3
+    NEW agw
+    DUP
+    LDC "ARMOR_LEGS"
+    ICONST_3
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.d : Lagw;
+   L4
+    LINENUMBER 17 L4
+    NEW agw
+    DUP
+    LDC "ARMOR_CHEST"
+    ICONST_4
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.e : Lagw;
+   L5
+    LINENUMBER 18 L5
+    NEW agw
+    DUP
+    LDC "ARMOR_HEAD"
+    ICONST_5
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.f : Lagw;
+   L6
+    LINENUMBER 20 L6
+    NEW agw
+    DUP
+    LDC "WEAPON"
+    BIPUSH 6
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.g : Lagw;
+   L7
+    LINENUMBER 21 L7
+    NEW agw
+    DUP
+    LDC "DIGGER"
+    BIPUSH 7
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.h : Lagw;
+   L8
+    LINENUMBER 22 L8
+    NEW agw
+    DUP
+    LDC "FISHING_ROD"
+    BIPUSH 8
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.i : Lagw;
+   L9
+    LINENUMBER 23 L9
+    NEW agw
+    DUP
+    LDC "BREAKABLE"
+    BIPUSH 9
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.j : Lagw;
+   L10
+    LINENUMBER 24 L10
+    NEW agw
+    DUP
+    LDC "BOW"
+    BIPUSH 10
+    INVOKESPECIAL agw.<init> (Ljava/lang/String;I)V
+    PUTSTATIC agw.k : Lagw;
+   L11
+    LINENUMBER 11 L11
+    BIPUSH 11
+    ANEWARRAY agw
+    DUP
+    ICONST_0
+    GETSTATIC agw.a : Lagw;
+    AASTORE
+    DUP
+    ICONST_1
+    GETSTATIC agw.b : Lagw;
+    AASTORE
+    DUP
+    ICONST_2
+    GETSTATIC agw.c : Lagw;
+    AASTORE
+    DUP
+    ICONST_3
+    GETSTATIC agw.d : Lagw;
+    AASTORE
+    DUP
+    ICONST_4
+    GETSTATIC agw.e : Lagw;
+    AASTORE
+    DUP
+    ICONST_5
+    GETSTATIC agw.f : Lagw;
+    AASTORE
+    DUP
+    BIPUSH 6
+    GETSTATIC agw.g : Lagw;
+    AASTORE
+    DUP
+    BIPUSH 7
+    GETSTATIC agw.h : Lagw;
+    AASTORE
+    DUP
+    BIPUSH 8
+    GETSTATIC agw.i : Lagw;
+    AASTORE
+    DUP
+    BIPUSH 9
+    GETSTATIC agw.j : Lagw;
+    AASTORE
+    DUP
+    BIPUSH 10
+    GETSTATIC agw.k : Lagw;
+    AASTORE
+    PUTSTATIC agw.l : [Lagw;
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 0
+}

@@ -1,0 +1,151 @@
+#tr_TR
+
+death.attack.basalz=%1$s taşa döndü!
+death.attack.blitz=%1$s trajik bir biçimde aydınlandı!
+death.attack.blizz=%1$s dondurucu kaderiyle yüzyüze geldi!
+death.attack.cryotheum.player=%1$s %2$s isimli kullanıcıdan kaçarken donarak öldü!
+death.attack.cryotheum=%1$s dondu!
+death.attack.flux.player=%1$s %2$s tarafından Fluxlanarak öldü!
+death.attack.flux=%1$s gerçekliği fluxla karıştırıp öldü!
+death.attack.mana.player=%1$s %2$s isimli kullanıcıdan kaçarken maddenin başka hallerini keşfetti!
+death.attack.mana=%1$s saf Mana yüzünden öldü!
+death.attack.petrotheum.player=%1$s %2$s isimli kullanıcıdan kaçarken paramparça oldu!
+death.attack.petrotheum=%1$s şoka girdi!
+death.attack.pyrotheum.player=%1$s %2$s isimli kullanıcıdan kaçarken canlı canlı yandı!
+death.attack.pyrotheum=%1$s Pyrotheum ile suyu karıştırdı!
+
+fluid.aerotheum=Zefirimsi Aerotheum
+fluid.coal=Sıvılaştırılmış Kömür
+fluid.cryotheum=Jel Cryotheum
+fluid.ender=Rezonant Ender
+fluid.glowstone=Akımlı Işık Taşı
+fluid.mana=İlkel Mana
+fluid.petrotheum=Tektonik Petrotheum
+fluid.pyrotheum=Yanan Pyrotheum
+fluid.redstone=Kararsız Kızıltaş
+fluid.steam=Buhar
+
+gui.thermalfoundation.lexicon.study=Ansiklopedi - Bilgi
+gui.thermalfoundation.lexicon.transmute=Ansiklopedi - Dönüşüm
+
+item.thermalfoundation.material.crystalCinnabar.name=Zincifre
+
+item.thermalfoundation.material.dustAerotheum.name=Aerotheum Tozu
+item.thermalfoundation.material.dustBasalz.name=Basalz Tozu
+item.thermalfoundation.material.dustBlitz.name=Blitz Tozu
+item.thermalfoundation.material.dustBlizz.name=Blizz Tozu
+item.thermalfoundation.material.dustBronze.name=Bronz Karışımı
+item.thermalfoundation.material.dustCharcoal.name=Öğütülmüş Odun Kömürü
+item.thermalfoundation.material.dustCoal.name=Öğütülmüş Kömür
+item.thermalfoundation.material.dustCopper.name=Öğütülmüş Bakır
+item.thermalfoundation.material.dustCryotheum.name=Cryotheum Tozu
+item.thermalfoundation.material.dustElectrum.name=Elektrum Karışımı
+item.thermalfoundation.material.dustEnderium.name=Enderium Karışımı
+item.thermalfoundation.material.dustGold.name=Öğütülmüş Altın
+item.thermalfoundation.material.dustInvar.name=Invar Karışımı
+item.thermalfoundation.material.dustIron.name=Öğütülmüş Demir
+item.thermalfoundation.material.dustLead.name=Öğütülmüş Kurşun
+item.thermalfoundation.material.dustLumium.name=Lumium Karışımı
+item.thermalfoundation.material.dustMana.name=Mana Tozu
+item.thermalfoundation.material.dustMithril.name=Öğütülmüş Mana Eklenmiş Metal
+item.thermalfoundation.material.dustNickel.name=Öğütülmüş Metal
+item.thermalfoundation.material.dustNiter.name=Potasyum Nitrat
+item.thermalfoundation.material.dustObsidian.name=Öğütülmüş Obsidyen
+item.thermalfoundation.material.dustPetrotheum.name=Petrotheum Tozu
+item.thermalfoundation.material.dustPlatinum.name=Öğütülmüş Parlak Metal
+item.thermalfoundation.material.dustPyrotheum.name=Pyrotheum Tozu
+item.thermalfoundation.material.dustSignalum.name=Signalum Karışımı
+item.thermalfoundation.material.dustSilver.name=Öğütülmüş Gümüş
+item.thermalfoundation.material.dustSulfur.name=Sülfür
+item.thermalfoundation.material.dustTin.name=Öğütülmüş Kalay
+
+item.thermalfoundation.material.gearBronze.name=Bronz Dişli
+item.thermalfoundation.material.gearCopper.name=Bakır Dişli
+item.thermalfoundation.material.gearElectrum.name=Elektrum Dişli
+item.thermalfoundation.material.gearEnderium.name=Enderium Dişli
+item.thermalfoundation.material.gearGold.name=Altın Dişli
+item.thermalfoundation.material.gearInvar.name=Invar Dişli
+item.thermalfoundation.material.gearIron.name=Demir Dişli
+item.thermalfoundation.material.gearLead.name=Kurşun Dişli
+item.thermalfoundation.material.gearLumium.name=Lumium Dişli
+item.thermalfoundation.material.gearMithril.name=Mana Dişli
+item.thermalfoundation.material.gearNickel.name=Metal Parça
+item.thermalfoundation.material.gearPlatinum.name=Parlak Parça
+item.thermalfoundation.material.gearSignalum.name=Signalum Dişli
+item.thermalfoundation.material.gearSilver.name=Gümüş Dişli
+item.thermalfoundation.material.gearTin.name=Kalay Dişli
+
+item.thermalfoundation.material.ingotBronze.name=Bronz Külçesi
+item.thermalfoundation.material.ingotCopper.name=Bakır Külçesi
+item.thermalfoundation.material.ingotElectrum.name=Elektrum Külçesi
+item.thermalfoundation.material.ingotEnderium.name=Enderium Külçesi
+item.thermalfoundation.material.ingotInvar.name=Invar Külçesi
+item.thermalfoundation.material.ingotLead.name=Kurşun Külçesi
+item.thermalfoundation.material.ingotLumium.name=Lumium Külçesi
+item.thermalfoundation.material.ingotMithril.name=Mana Külçesi
+item.thermalfoundation.material.ingotNickel.name=Metal Külçe
+item.thermalfoundation.material.ingotPlatinum.name=Parlak Külçe
+item.thermalfoundation.material.ingotSignalum.name=Signalum Külçesi
+item.thermalfoundation.material.ingotSilver.name=Gümüş Külçesi
+item.thermalfoundation.material.ingotTin.name=Kalay Külçesi
+
+item.thermalfoundation.material.nuggetBronze.name=Bronz Parçası
+item.thermalfoundation.material.nuggetCopper.name=Bakır Parçası
+item.thermalfoundation.material.nuggetElectrum.name=Elektrum Parçası
+item.thermalfoundation.material.nuggetEnderium.name=Enderium Parçası
+item.thermalfoundation.material.nuggetInvar.name=Invar Parçası
+item.thermalfoundation.material.nuggetIron.name=Demir Parçası
+item.thermalfoundation.material.nuggetLead.name=Kurşun Parçası
+item.thermalfoundation.material.nuggetLumium.name=Lumium Parçası
+item.thermalfoundation.material.nuggetMithril.name=Mana Parçası
+item.thermalfoundation.material.nuggetNickel.name=Metal Parça
+item.thermalfoundation.material.nuggetPlatinum.name=Parlak Parça
+item.thermalfoundation.material.nuggetSignalum.name=Signalum Parçası
+item.thermalfoundation.material.nuggetSilver.name=Gümüş Parçası
+item.thermalfoundation.material.nuggetTin.name=Kalay Parçası
+
+item.thermalfoundation.material.rodBasalz.name=Basalz Çubuğu
+item.thermalfoundation.material.rodBlitz.name=Blitz Çubuğu
+item.thermalfoundation.material.rodBlizz.name=Blizz Çubuğu
+
+item.thermalfoundation.tome.lexicon.empowered.name=Forge Ansiklopedisi (Güçlenmiş)
+item.thermalfoundation.tome.lexicon.name=Forge Ansiklopedisi
+
+itemGroup.thermalfoundation.creativeTabArmor=Thermal Foundation: Zırh
+itemGroup.thermalfoundation.creativeTabTools=Thermal Foundation: Aletler
+
+tab.thermalfoundation.lexicon.study.0=Dünyanın bilgisine danışıp kendi kaderini değiştir.
+tab.thermalfoundation.lexicon.study.1=Dünyayı senin seçimlerine uymaya zorlamak için Ansiklopediyi geliştir.
+tab.thermalfoundation.lexicon.transmute.0=Yüksek güçler tarafından belirlenen kurallara uyarak maddeleri dönüştür.
+tab.thermalfoundation.lexicon.transmute.1=Dünyaya ustalık yaymak için Ansiklopediyi bastır.
+
+tile.thermalfoundation.fluid.aerotheum.name=Zefirimsi Aerotheum
+tile.thermalfoundation.fluid.cryotheum.name=Jel Cryotheum
+tile.thermalfoundation.fluid.ender.name=Rezonant Ender
+tile.thermalfoundation.fluid.glowstone.name=Akımlı Işık Taşı
+tile.thermalfoundation.fluid.mana.name=İlkel Mana
+tile.thermalfoundation.fluid.pyrotheum.name=Yanan Pyrotheum
+tile.thermalfoundation.fluid.redstone.name=Kararsız Kızıltaş
+
+tile.thermalfoundation.ore.copper.name=Bakır Cevheri
+tile.thermalfoundation.ore.lead.name=Kurşun Cevheri
+tile.thermalfoundation.ore.mithril.name=Mana Üflenmiş Cevher
+tile.thermalfoundation.ore.nickel.name=Nikel Cevheri
+tile.thermalfoundation.ore.platinum.name=Parlak Cevher
+tile.thermalfoundation.ore.silver.name=Gümüş Cevheri
+tile.thermalfoundation.ore.tin.name=Kalay Cevheri
+
+tile.thermalfoundation.storage.bronze.name=Bronz Bloğu
+tile.thermalfoundation.storage.copper.name=Bakır Bloğu
+tile.thermalfoundation.storage.electrum.name=Elektrum Bloğu
+tile.thermalfoundation.storage.enderium.name=Enderium Bloğu
+tile.thermalfoundation.storage.invar.name=Invar Bloğu
+tile.thermalfoundation.storage.iridium.name=Iridium Block
+tile.thermalfoundation.storage.lead.name=Kurşun Bloğu
+tile.thermalfoundation.storage.lumium.name=Lumium Bloğu
+tile.thermalfoundation.storage.mithril.name=Mana Infused Bloğu
+tile.thermalfoundation.storage.nickel.name=Nikel Bloğu
+tile.thermalfoundation.storage.platinum.name=Parlak Bloğu
+tile.thermalfoundation.storage.signalum.name=Signalum Bloğu
+tile.thermalfoundation.storage.silver.name=Gümüş Bloğu
+tile.thermalfoundation.storage.tin.name=Kalay Bloğu

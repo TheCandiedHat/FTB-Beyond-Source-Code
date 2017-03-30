@@ -1,0 +1,11 @@
+{
+	"name": "Carved Acacia Wood",
+	"id": "quark:carved_acacia_wood",
+	"type": "wood",
+	"hardness": 2.0,
+	"resistance": 5.0,
+	"textures": "quark:blocks/carved_acacia_wood",
+	"blocks": {
+		"full": { "id": "quark:carved_wood", "meta": 4 }
+	}
+}

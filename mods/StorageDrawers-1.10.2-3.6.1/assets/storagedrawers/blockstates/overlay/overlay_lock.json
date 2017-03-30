@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "StorageDrawers:overlay/overlay_lock.json" },
+        "facing=south": { "model": "StorageDrawers:overlay/overlay_lock.json", "y": 180 },
+        "facing=west": { "model": "StorageDrawers:overlay/overlay_lock.json", "y": 270 },
+        "facing=east": { "model": "StorageDrawers:overlay/overlay_lock.json", "y": 90 }
+    }
+}

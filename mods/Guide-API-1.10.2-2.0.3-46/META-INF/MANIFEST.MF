@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: jenkins
+Created-By: 25.101-b13 + (Oracle Corporation)
+Implementation-Title: Guide-API
+Implementation-Version: 1.10.2-2.0.3-46
+Git-Hash: 3773f94
+

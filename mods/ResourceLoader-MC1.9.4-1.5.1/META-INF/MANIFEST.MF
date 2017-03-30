@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+FMLCorePlugin: lumien.resourceloader.asm.LoadingPlugin
+FMLAT: ResourceLoader_At.cfg
+

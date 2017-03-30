@@ -1,0 +1,20 @@
+[
+{
+  "modid": "gendustry",
+  "name": "GenDustry",
+  "description": "",
+  "version": "1.6.5.30",
+  "url": "bdew.net/mods/",
+  "updateUrl": "",
+  "authorList": [
+    "bdew"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

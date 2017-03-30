@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+
+    <slot name="input" x="85" y="17"/>
+	<fluidtank x="60" y="15" name="tank"/>
+    <slot name="output" x="136" y="28" style="large"/>
+
+    <slot name="discharge" x="85" y="52"/>
+    <environment name="game">
+    	<slotgrid name="upgrade" x="126" y="60" rows="1"/>
+   	</environment>
+    <energygauge x="90" y="37"/>
+    <gauge name="progress" x="108" y="34" style="progressarrow"/>
+    <playerInventory x="7" y="83"/>
+
+	<text x="7" y="26">{advanced_machines.gui.pressure}</text>
+	<text x="7" y="36">%base.getHeat()%</text>
+	<text x="7" y="46">{advanced_machines.gui.pressure.unit}</text>
+</gui>

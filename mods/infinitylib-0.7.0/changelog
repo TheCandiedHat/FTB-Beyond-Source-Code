@@ -1,0 +1,38 @@
+Changelog
+---------
+0.7.0
+- FIXED: Major quad caching error that caused severe memory and performance issues.
+- ADDED: Debug information system now uses consumers instead of lists, to allow for lower memory footprint, as well as immediate returns.
+
+0.6.2
+- FIXED: NPE from baked block model.
+
+0.6.1
+- ADDED: Null pointer checks.
+
+0.6.0
+- FIXED: Incorrect version number.
+
+0.5.0
+- FIXED: NPE?
+
+0.4.0
+- FIXED: infinite loop
+- FIXED: crash when mining blocks
+- CHANGE: reworked rendering some more, fixing bugs and running optimizations
+
+0.3.0
+- FIXED: some items being skipped when registering recipes
+- ADDED: various new functionalities
+- CHANGE: overhauled the networking system
+
+0.2.1
+- CHANGE: switched to quickmod
+
+0.2
+- ADDED: IIventory <-> IItemHandler wrappers
+- ADDED: ItemStack parser (domain:id:(optional)meta -> ItemStack)
+- ADDED: Methods to (de)serialize int[] objects to MessageBase
+
+0.1
+- Initial build

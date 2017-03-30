@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rscircuits",
+  "name": "Super Circuit Maker",
+  "description": "Making big circuits tiny!",
+  "version": "1.0.4",
+  "mcversion": "1.10.2",
+  "url": "https://minecraft.curseforge.com/projects/super-circuit-maker",
+  "updateUrl": "",
+  "authorList": ["amadornes"],
+  "credits": "amadornes",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

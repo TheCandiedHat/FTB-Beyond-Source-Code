@@ -1,0 +1,38 @@
+[
+{
+  "modid": "projectred-core",
+  "name": "ProjectRed Core",
+  "description":"Redstone. The way it was meant to be. Built against Forge 12.18.1.2095.
+
+  Supporters:
+  Jacob M
+  ",
+  "version": "4.8.1.25",
+  "mcversion": "1.10.2",
+  "url": "http://projectredwiki.com",
+  "authors": [ "MrTJP", "ChickenBones"],
+  "credits": "Eloraam, GitHub contributors",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": [
+      "Forge",
+      "forgemultipartcbe",
+      "MrTJPCoreMod"
+  ],
+  "dependencies": [
+      "forgemultipartcbe",
+      "MrTJPCoreMod"
+  ],
+  "dependants" : [
+      "projectred-transmission",
+      "projectred-integration",
+      "projectred-fabrication",
+      "projectred-illumination",
+      "projectred-expansion",
+      "projectred-transportation",
+      "projectred-exploration",
+      "projectred-compatibility"
+  ],
+  "useDependencyInformation": true
+}
+]

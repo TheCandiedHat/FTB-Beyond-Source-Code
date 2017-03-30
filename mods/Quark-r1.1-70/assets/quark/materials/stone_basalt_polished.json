@@ -1,0 +1,11 @@
+{
+	"name": "Polished Basalt",
+	"id": "quark:stone_basalt_polished",
+	"type": "rock",
+	"hardness": 1.5,
+	"resistance": 10.0,
+	"textures": "quark:blocks/stone_basalt_smooth",
+	"blocks": {
+		"full": { "id": "quark:basalt", "meta": 1 }
+	}
+}

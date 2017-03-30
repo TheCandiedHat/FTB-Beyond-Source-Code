@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "color=white": { "model": "environmentaltech:lens_colored" },
+        "color=orange": { "model": "environmentaltech:lens_colored" },
+        "color=magenta": { "model": "environmentaltech:lens_colored" },
+        "color=light_blue": { "model": "environmentaltech:lens_colored" },
+        "color=yellow": { "model": "environmentaltech:lens_colored" },
+        "color=lime": { "model": "environmentaltech:lens_colored" },
+        "color=pink": { "model": "environmentaltech:lens_colored" },
+        "color=gray": { "model": "environmentaltech:lens_colored" },
+        "color=silver": { "model": "environmentaltech:lens_colored" },
+        "color=cyan": { "model": "environmentaltech:lens_colored" },
+        "color=purple": { "model": "environmentaltech:lens_colored" },
+        "color=blue": { "model": "environmentaltech:lens_colored" },
+        "color=brown": { "model": "environmentaltech:lens_colored" },
+        "color=green": { "model": "environmentaltech:lens_colored" },
+        "color=red": { "model": "environmentaltech:lens_colored" },
+        "color=black": { "model": "environmentaltech:lens_colored" }
+    }
+}

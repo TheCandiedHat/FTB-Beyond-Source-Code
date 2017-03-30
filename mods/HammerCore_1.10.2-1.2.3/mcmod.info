@@ -1,0 +1,15 @@
+[
+{
+  "modid": "hammercore",
+  "name": "Hammer Core",
+  "description": "Core used by most of MrDimka's Mods.",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrDimkas_Studio"],
+  "credits": "",
+  "logoFile": "assets/hammercore/logo.png",
+  "screenshots": [],
+  "dependencies": [],
+  "updateJSON": "https://docs.google.com/uc?authuser=0&id=0B7j4XBxPU_Fvc0FWVlEzaUk3RE0&export=download"
+}
+]

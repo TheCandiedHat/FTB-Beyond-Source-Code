@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLAT: cofh_at.cfg
+FMLCorePlugin: cofh.asm.LoadingPlugin
+FMLCorePluginContainsFMLMod: true
+

@@ -1,0 +1,11 @@
+{
+  "barreltier": {
+    "multiplier": 4,
+    "base_max_stacks": 64,
+    "infinite_capacity": 2000000000
+  },
+  "crafting": {
+    "upgrade_stack_size": 16,
+    "barrel_easy_recipe": true
+  }
+}

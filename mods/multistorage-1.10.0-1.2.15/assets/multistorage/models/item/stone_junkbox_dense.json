@@ -1,0 +1,9 @@
+{
+    "parent": "multistorage:block/junkbox_lower",
+    "textures": {
+        "bottom": "multistorage:blocks/junkbox_top_dense",
+        "top": "multistorage:blocks/junkbox_top_dense",
+        "side": "multistorage:blocks/junkbox_side_dense",
+        "front": "multistorage:blocks/junkbox_front"
+    }
+}

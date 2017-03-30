@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stevescarts",
+  "name": "Steve's Carts 2",
+  "description": "A carttastic mod adding a near infinite number of carts possible to the game, through the creation of  modular carts.",
+  "version": "2.1.4.83",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vswe"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

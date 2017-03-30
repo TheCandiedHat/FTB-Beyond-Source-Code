@@ -1,0 +1,191 @@
+Manifest-Version: 1.0
+CCTransformerExclusions: codechicken.translocator.FingerprintChecker
+
+Name: codechicken/translocator/client/gui/GuiTranslocator.class
+SHA-256-Digest: C5iSF9mF60Yg7Ci0uEMCIofFGaN4v8oUOVu54VH0oqU=
+
+Name: codechicken/translocator/reference/Reference.class
+SHA-256-Digest: Jt7L1ynF6PO3hpHeeCYj1wtEDHQfz+4/EEFVeiOS1Vo=
+
+Name: codechicken/translocator/tile/TileCraftingGrid$1.class
+SHA-256-Digest: 6yLA5iNWUW8YdZhNMSFeCAyHUKVRFCvdwgFaLQSeBPk=
+
+Name: codechicken/translocator/client/render/RenderParticle.class
+SHA-256-Digest: 0JN5UpBdrVSo8sxPdSpHoy+PNGTSSkNpCjVtPs1U/SA=
+
+Name: codechicken/translocator/client/render/ItemTranslocatorRenderer.
+ class
+SHA-256-Digest: 8j0aEHcCIyTgsDIaa3EZ0kIouTqgFR3mrbYRmeyFINY=
+
+Name: assets/translocator/lang/de_DE.lang
+SHA-256-Digest: BRy2Xt2r+FmCmRsbudTeRkLvtogoOuPPthAAhaAZk2U=
+
+Name: codechicken/translocator/tile/TileItemTranslocator$ItemAttachmen
+ t$2.class
+SHA-256-Digest: OO5RAIknn5mLkr4Q69dXOC4rXxAhJOwqExi2DFAiUbM=
+
+Name: codechicken/translocator/FingerprintChecker.class
+SHA-256-Digest: CUdb/P0vGB3bG+BHDAjQ39UX4m/bFTZy79nGIysdNAE=
+
+Name: codechicken/translocator/network/TranslocatorSPH.class
+SHA-256-Digest: h20doNBUjICxc8GVrIgdJAuOwdL2I6zrvgbywvYr4XA=
+
+Name: assets/translocator/lang/pt_PT.lang
+SHA-256-Digest: bDHZzPaMwGXxBAxSkjsVExmDyvK/B15Agjit6kvor6E=
+
+Name: codechicken/translocator/init/Recipes.class
+SHA-256-Digest: 1jlEpiFAwaZk/BHbEgxuYfzvLoIz+rQGMvgDHbu9mfs=
+
+Name: assets/translocator/textures/model/tex.png
+SHA-256-Digest: 3Ein/rn/D+YDZS/THBbnolyrBLt/h7Les5X7jDRIyWk=
+
+Name: assets/translocator/models/model.blend
+SHA-256-Digest: kD0LlKs4FSd9Mv/6KJsfmQOrZFOU/jvrbKpOXKDISv8=
+
+Name: codechicken/translocator/tile/DummyFluidCapability.class
+SHA-256-Digest: qht863YFzLNMHbtuKGoyc9vB8+wiEWTm7YZ4lV1CLNI=
+
+Name: codechicken/translocator/tile/TileItemTranslocator.class
+SHA-256-Digest: uXNghAQ3Jyg8RmQkbvprMgIFBfX37v66S0COOnjos2I=
+
+Name: codechicken/translocator/proxy/ClientProxy.class
+SHA-256-Digest: KRWPT5GBrqoT3PIsiamvU/xJHnLPruercN/En3kb0EE=
+
+Name: assets/translocator/lang/tr_TR.lang
+SHA-256-Digest: neFZbMI93Qho954l6LSlX2QCpw0G2zatKhJZtlP7EGU=
+
+Name: assets/translocator/textures/blocks/craftingGrid.png
+SHA-256-Digest: a3RIEq3aaaGLaqSy/nztExXiHexGPLIElABrmxSk9Bg=
+
+Name: codechicken/translocator/proxy/CommonProxy.class
+SHA-256-Digest: 4/hEQelB3ivAZuFL9OlwUB9YMMLdZrxDp8VDdOMK9kU=
+
+Name: codechicken/translocator/tile/TileItemTranslocator$MovingItem.cl
+ ass
+SHA-256-Digest: 1uqOJ4CrTR9IZPShH3++tn2FDtnEAX2dpJhrRI5IoPg=
+
+Name: codechicken/translocator/tile/TileTranslocator$Attachment.class
+SHA-256-Digest: Xadz7uPJWrcoqUk5aSIOY2EjnT2pQQfJ/ZK+UNzlSRA=
+
+Name: codechicken/translocator/container/ContainerItemTranslocator.cla
+ ss
+SHA-256-Digest: x5i1595vMnpCh60pz0X1LW4WfL+bjHY2M0baznT4WIQ=
+
+Name: codechicken/translocator/tile/TileItemTranslocator$ItemAttachmen
+ t$1.class
+SHA-256-Digest: 0ZT4Yv/0gqCFjcg4GY7W5SW0ppO3rIsp8bdtG8ESM1A=
+
+Name: assets/translocator/lang/ko_KR.lang
+SHA-256-Digest: +SunAOGGmZ0C5GFr7Vf2LNF8tnjV18nU3mc59IwdCcM=
+
+Name: assets/translocator/models/model.obj
+SHA-256-Digest: vdNNkBYdXa1LIW3hc93eNp2GYi57KC+2a11QoIiGLL0=
+
+Name: assets/translocator/lang/ru_RU.lang
+SHA-256-Digest: BT44D9NmAnBybqvmg9/BtNZOwM3CtzHsR3VmkyLnQgk=
+
+Name: assets/translocator/lang/pt_BR.lang
+SHA-256-Digest: bDHZzPaMwGXxBAxSkjsVExmDyvK/B15Agjit6kvor6E=
+
+Name: assets/translocator/textures/items/diamondNugget.png
+SHA-256-Digest: qXchSz9vAdfpPXX88bNfVcMVJtPFtxfmsII5vH+gsxw=
+
+Name: codechicken/translocator/reference/VariantReference.class
+SHA-256-Digest: PBPgErluijpdFGMDe88ltaeRohBWm9PdqP7P7I+Ogw0=
+
+Name: codechicken/translocator/client/render/TileTranslocatorRenderer.
+ class
+SHA-256-Digest: vvy/L9g/iolVxyKEMUJZj3J6fj+HCE7HgXUMSmTvPqI=
+
+Name: codechicken/translocator/handler/CraftingGridKeyHandler.class
+SHA-256-Digest: j6SaTDp6msWYJ9jgnRDVnIDKoNpNOy1p8TEnS5abB/E=
+
+Name: assets/translocator/lang/fr_FR.lang
+SHA-256-Digest: MLqXZNV0xMa/15VuwtLJPvu+XPZrAsUmcgm2JAKONog=
+
+Name: codechicken/translocator/tile/TileLiquidTranslocator$LiquidTrans
+ fer.class
+SHA-256-Digest: kAaK0N8tCfoWi04fYSjv9NZ+jxH1fjrQpDIvo70jMu0=
+
+Name: codechicken/translocator/tile/TileTranslocator.class
+SHA-256-Digest: zyQQUot1JekzwI+g6OJ+Yjm28bsI2/zA1udAGfKgkBw=
+
+Name: codechicken/translocator/network/TranslocatorCPH.class
+SHA-256-Digest: qXR79Ijp/tTLxgKL0aFTSc2KL6+2/OzPgDT/b8DASx0=
+
+Name: codechicken/translocator/block/BlockTranslocator.class
+SHA-256-Digest: OKqkTf8t6X48OxZon1sBIm4k+wPI4QLRGts+aXX0iFY=
+
+Name: codechicken/translocator/Translocator.class
+SHA-256-Digest: RZ66GcrHw+lbemABqWObBuYo16BljQW5Lcq1bg2+ybw=
+
+Name: codechicken/translocator/client/render/TranslocatorItemRender.cl
+ ass
+SHA-256-Digest: emojAg9qxN8zRmDx2k/7+9j2AfjlO8W4H6ts2HfmwOY=
+
+Name: codechicken/translocator/client/render/TileCraftingGridRenderer.
+ class
+SHA-256-Digest: tTNM88WlMl24EEVI6ksRxPQssFOocmaTJqdDQ1CKg7w=
+
+Name: codechicken/translocator/tile/TileLiquidTranslocator$2.class
+SHA-256-Digest: G4wAk+V4hY5cgd1AQHhmnEnfalvg66/rEV0dZ7TVZEo=
+
+Name: codechicken/translocator/init/ModItems.class
+SHA-256-Digest: wjF8bKmV1iQfBYDLXG2M36HVfMKQSEqBH98EWVH2kcs=
+
+Name: assets/translocator/textures/fx/particle.png
+SHA-256-Digest: ZJaF7J3rSv5na74ZEcMvDJerrkwD/7xQLa9gB5d8L+k=
+
+Name: assets/translocator/lang/en_US.lang
+SHA-256-Digest: Vy+zW+qxlNq8OxigPeKljsygSoBKSY1CKosfbt1aXSU=
+
+Name: codechicken/translocator/block/BlockCraftingGrid.class
+SHA-256-Digest: b2uMyZWjSPCpN7IG2jA3hUIgw3hSbUg7dWN11G23R0I=
+
+Name: codechicken/translocator/tile/TileCraftingGrid.class
+SHA-256-Digest: pY+GjWIiLpnMLAcZyc3zF7geff7pkF2QW7KryblHfXU=
+
+Name: assets/translocator/lang/it_IT.lang
+SHA-256-Digest: +/tZ5Tl/YtG9/9rY53Tdn71VrNbTW9gAWKIJZM/VpUM=
+
+Name: assets/translocator/textures/fx/grad.png
+SHA-256-Digest: 0OSFSEyEgrKajPMCmSoiDIQn2OWrmhEjeU/lw9m3wgI=
+
+Name: codechicken/translocator/handler/ConfigurationHandler.class
+SHA-256-Digest: kM05q8lJjL0gPbhxQHDvC6FHxm3fvKf/7KDU8I+doww=
+
+Name: assets/translocator/blockstates/resource.json
+SHA-256-Digest: 2fXF8Qn5QgpYBH19P+4tc0ZABXkkcFjiqMtjOrabFJs=
+
+Name: codechicken/translocator/tile/TileItemTranslocator$ItemAttachmen
+ t.class
+SHA-256-Digest: P/w8SLV8oxgJeETLLubXwSLeX/byClQTEsMa2EiRCEI=
+
+Name: codechicken/translocator/block/item/ItemTranslocator.class
+SHA-256-Digest: k1FbZ11vsTFatTYc+UJRIb3kiEG2hxFn3dEkVuv8D3M=
+
+Name: codechicken/translocator/tile/TileLiquidTranslocator.class
+SHA-256-Digest: GKksn2KsnrNrtTn7ABjd2Slv+lw6LOQyAsR1PH0Iuao=
+
+Name: assets/translocator/lang/zh_CN.lang
+SHA-256-Digest: /KCNNn2EldUGKQqRRBcaglfSSg7eWIyIr/4VNy3WJ04=
+
+Name: codechicken/translocator/init/ModBlocks.class
+SHA-256-Digest: xqmpKjEAOQZW+cdn/xtrZHMaKoVDx5riUoOwrt/htuM=
+
+Name: assets/translocator/lang/cs_CZ.lang
+SHA-256-Digest: VkqocGY1RcvTatkx/M0LD4lBXXhBzKqYZiElZFip0O8=
+
+Name: assets/translocator/lang/zh_TW.lang
+SHA-256-Digest: 3wx+qQB8hsJWufxVDX92NjCf45kE+DE4roo8Cf23+7Y=
+
+Name: codechicken/translocator/tile/TileLiquidTranslocator$1.class
+SHA-256-Digest: BWWxYYpcPCoEXyuTpll9DoR5DeOXfdL9aAnFblA+Yxk=
+
+Name: codechicken/translocator/tile/TileLiquidTranslocator$MovingLiqui
+ d.class
+SHA-256-Digest: h7vIkR8rdlQkn8JSJ7o/VrhQtud2HC+3RsQKfijTFO8=
+
+Name: mcmod.info
+SHA-256-Digest: G9dFQu6MwdwYwg3PbXw4lzI8XbfwdXCL6L73yR9Xq5Y=
+

@@ -1,0 +1,23 @@
+[
+{
+  "modid": "Aroma1997Core",
+  "name": "Aroma1997Core",
+  "description": "This is basically a library used by most my other mods.",
+  "mcversion": "1.9.4",
+  "version": "1.1.1.1",
+  "url": "http://www.minecraftforum.net/topic/1679684-",
+  "authors": ["Aroma1997, Schillaa"],
+  "credits": "Code by Aroma1997, Textures by Schillaa"
+},
+{
+  "modid": "Aroma1997CoreHelper",
+  "name": "Aroma1997Core|Helper",
+  "description": "This is a Helper mod for Aroma1997Core",
+  "mcversion": "1.9.4",
+  "version": "1.1.1.1",
+  "url": "http://www.minecraftforum.net/topic/1679684-",
+  "authors": ["Aroma1997"],
+  "credits": "Code by Aroma1997",
+  "parent": "Aroma1997Core"
+}
+]

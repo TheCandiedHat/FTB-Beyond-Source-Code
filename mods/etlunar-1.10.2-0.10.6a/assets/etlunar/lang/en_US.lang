@@ -1,0 +1,10 @@
+
+itemGroup.etlunar.creative_tab=ET Lunar
+itemgroup.etlunar.creative_tab=ET Lunar
+
+
+tile.etlunar.controller_lunar_custom.name=Lunar Panel Controller
+
+tile.etlunar.lunar_1.name=Lunar Cell
+
+item.etlunar.lunarvoltaic_cell.name=Lunarvoltaic Cell

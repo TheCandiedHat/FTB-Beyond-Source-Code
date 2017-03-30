@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=z": { "model": "aroma1997sdimension:miningPortal_ew" },
+        "axis=x": { "model": "aroma1997sdimension:miningPortal_ns"}
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cross",
+    "textures": {
+      "cross": "techreborn:blocks/rubber_sapling"
+    }
+  },
+  "variants": {
+    "stage": {
+      "0": {
+        "model": "cross"
+      },
+      "1": {
+        "model": "cross"
+      }
+    },
+    "type" : {
+      "oak": {
+        
+      }
+    },
+    "normal": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "techreborn:blocks/rubber_sapling"
+      }
+    },
+    "inventory": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "techreborn:blocks/rubber_sapling"
+      }
+    }
+  }
+}

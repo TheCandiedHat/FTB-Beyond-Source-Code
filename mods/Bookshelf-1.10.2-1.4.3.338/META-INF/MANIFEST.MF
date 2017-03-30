@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLAT: bookshelf_at.cfg
+FMLCorePlugin: net.darkhax.bookshelf.asm.BookshelfLoadingPlugin
+FMLCorePluginContainsFMLMod: true
+

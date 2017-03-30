@@ -1,0 +1,14 @@
+[
+{
+  "modid": "multistorage",
+  "name": "Multi-Storage",
+  "description": "Vaults, Hidden Chests, and Stacking Chests",
+  "version": "1.10.0-1.2.14",
+  "mcversion": "1.10.2",
+  "url": "http://tomkinsbros.blogspot.ca/",
+  "updateUrl": "",
+  "authorList": [ "ShetiPhian" ],
+  "credits": "Art: Fruzstrated",
+  "logoFile": "multistorage.png"
+}
+]

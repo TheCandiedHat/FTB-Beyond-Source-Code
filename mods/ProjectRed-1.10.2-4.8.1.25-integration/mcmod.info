@@ -1,0 +1,37 @@
+[
+{
+  "modid": "projectred-transmission",
+  "name": "ProjectRed Transmission",
+  "parent":"projectred-core",
+  "version": "4.8.1.25",
+  "mcversion": "1.10.2",
+  "requiredMods": [
+      "projectred-core"
+  ],
+  "dependencies": [
+      "projectred-core"
+  ],
+  "dependants" : [
+      "projectred-expansion",
+      "projectred-fabrication"
+  ],
+  "useDependencyInformation": true
+},
+{
+  "modid": "projectred-integration",
+  "name": "ProjectRed integration",
+  "parent":"projectred-core",
+  "version": "4.8.1.25",
+  "mcversion": "1.10.2",
+  "requiredMods": [
+      "projectred-core"
+  ],
+  "dependencies": [
+      "projectred-core"
+  ],
+  "dependants" : [
+      "projectred-fabrication"
+  ],
+  "useDependencyInformation": true
+}
+]

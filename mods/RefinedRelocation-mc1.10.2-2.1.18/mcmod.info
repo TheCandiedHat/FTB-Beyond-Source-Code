@@ -1,0 +1,16 @@
+[
+{
+  "modid": "refinedrelocation",
+  "name": "Refined Relocation",
+  "description": "Sorting Chests. More to come soon.",
+  "version": "@VERSION@",
+  "mcversion": "@MCVERSION@",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BlayTheNinth", "ZeroTheShinigami"],
+  "credits": "BlayTheNinth: developer; ZeroTheShinigami: artist; Dynious: original mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "modid": "Quark",
+  "name": "Quark",
+  "description": "Small things.",
+  "version": "r1.1-70",
+  "mcversion": "1.10.2",
+  "logoFile": "",
+  "url": "http://www.vazkii.us",
+  "updateUrl": "",
+  "authorList": ["Vazkii", "wiiv"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

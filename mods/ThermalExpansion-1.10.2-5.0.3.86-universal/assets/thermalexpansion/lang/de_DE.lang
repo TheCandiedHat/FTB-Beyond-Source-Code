@@ -1,0 +1,189 @@
+#de_DE
+
+achievement.thermalexpansion.blockGlassHardened.desc=Kombiniere Obsidian und Metall in einem Induktionsschmelzerei
+achievement.thermalexpansion.blockGlassHardened=Quasi Unzerstörbar
+
+achievement.thermalexpansion.florb.desc=Enthält eine Flüssigkeit. Du kannst ihn werfen.
+achievement.thermalexpansion.florb=Ich kann das werfen?!
+achievement.thermalexpansion.florbMagmatic.desc=Ja, er enthält Lava. Du Monster.
+achievement.thermalexpansion.florbMagmatic=Waldbrand zum Mitnehmen
+
+achievement.thermalexpansion.ingotEnderium.desc=Fertige einen Enderiumbarren.
+achievement.thermalexpansion.ingotEnderium=Raumzeitschmiede
+achievement.thermalexpansion.ingotInvar.desc=Fertige einen Invarbarren.
+achievement.thermalexpansion.ingotInvar=Geringster Koeffizient
+achievement.thermalexpansion.ingotSignalum.desc=Fertige einen Signalumbarren.
+achievement.thermalexpansion.ingotSignalum=Raffinierter Redstone
+
+achievement.thermalexpansion.machineInsolator.desc=Garantiert nicht Bio.
+achievement.thermalexpansion.machineInsolator=Künstliche Sonne
+achievement.thermalexpansion.machineTransposer.desc=Eimer per Hand zu füllen ist harte Arbeit.
+achievement.thermalexpansion.machineTransposer=Fluidynamik
+
+achievement.thermalexpansion.welcome.desc=Willkommen zu Thermal Expansion!
+achievement.thermalexpansion.welcome=Die Welt dehnt sich aus
+
+chat.thermalexpansion.augment.install.failure=Verbesserung konnte nicht installiert werden.
+chat.thermalexpansion.augment.install.success=Verbesserung erfolgreich installiert!
+chat.thermalexpansion.upgrade.install.failure=Upgrade fehlgeschlagen.
+chat.thermalexpansion.upgrade.install.success=Upgrade erfolgreich!
+
+gui.thermalexpansion.jei.category.dynamo.reactant.fluid=Reaktordynamo (Brennstoff)
+gui.thermalexpansion.jei.category.dynamo.reactant.solid=Reaktordynamo (Reaktant)
+gui.thermalexpansion.jei.compactor.modeMint=Prägen
+gui.thermalexpansion.jei.compactor.modePress=Pressen
+gui.thermalexpansion.jei.compactor.modeStorage=Lagern
+gui.thermalexpansion.jei.transposer.modeEmpty=Leeren
+gui.thermalexpansion.jei.transposer.modeFill=Füllen
+
+gui.thermalexpansion.machine.compactor.modeMint=Modus: Prägen
+gui.thermalexpansion.machine.compactor.modePress=Modus: Pressen
+gui.thermalexpansion.machine.compactor.modeStorage=Modus: Lagern
+
+gui.thermalexpansion.machine.insolator.modeLocked=Dünger-Slot Gesperrt
+gui.thermalexpansion.machine.insolator.modeUnlocked=Dünger-Slot Entsperrt
+
+gui.thermalexpansion.machine.smelter.modeLocked=Flux-Slot Gesperrt
+gui.thermalexpansion.machine.smelter.modeUnlocked=Flux-Slot Entsperrt
+
+gui.thermalexpansion.machine.transposer.modeEmpty=Modus: Leeren
+gui.thermalexpansion.machine.transposer.modeFill=Modus: Füllen
+gui.thermalexpansion.machine.transposer.modeLocked=Modus Gesperrt (Maschine Aktiv)
+
+gui.thermalexpansion.storage.cell.decRecv=Verringer RF-Input um
+gui.thermalexpansion.storage.cell.decSend=Verringert RF-Output um
+gui.thermalexpansion.storage.cell.incRecv=Erhöht RF-Input um
+gui.thermalexpansion.storage.cell.incSend=Erhöht RF-Output um
+gui.thermalexpansion.storage.cell.maxRecv=Max Input
+gui.thermalexpansion.storage.cell.maxSend=Max Output
+
+info.thermalexpansion.augment.0=Verbesserung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+item.thermalexpansion.augment.dynamoCoilDuct.name=Transmissionsspulenleitung
+item.thermalexpansion.augment.dynamoCompressionCoolant.name=Kühlung im geschlossenen Kreislauf
+item.thermalexpansion.augment.dynamoCompressionFuel.name=Zündkerze
+item.thermalexpansion.augment.dynamoEfficiency.name=Brennstoffkatalysator
+item.thermalexpansion.augment.dynamoMagmaticCoolant.name=Isentropes Reservoir
+item.thermalexpansion.augment.dynamoPower.name=Sekundärtransmissionsspule
+item.thermalexpansion.augment.dynamoSteamTurbine.name=Turbinenwandelmodul
+item.thermalexpansion.augment.dynamoThrottle.name=Exzitationsfelddrossel
+
+item.thermalexpansion.augment.machineChargerThroughput.name=Fluxlinkkonzentrator
+item.thermalexpansion.augment.machineCompactorMint.name=Numismatische Presse
+item.thermalexpansion.augment.machineFurnaceFood.name=Trivektionskammer
+item.thermalexpansion.augment.machineFurnaceOre.name=Fluxanodisator
+item.thermalexpansion.augment.machineExtruderAndesite.name=Andesitische Subduktion
+item.thermalexpansion.augment.machineExtruderBatchSize.name=Pyroklastische Injektion
+item.thermalexpansion.augment.machineExtruderDiorite.name=Dioritische Subduktion
+item.thermalexpansion.augment.machineExtruderGranite.name=Granitische Subduktion
+item.thermalexpansion.augment.machineInsolatorEnd.name=Endersubstrat
+item.thermalexpansion.augment.machineInsolatorMycelium.name=Myzelsubstrat
+item.thermalexpansion.augment.machineInsolatorNether.name=Nethersubstrat
+item.thermalexpansion.augment.machinePower.name=Sekundärempfängerspule
+item.thermalexpansion.augment.machinePrecipitatorBatchSize.name=Kältezirkulator
+item.thermalexpansion.augment.machinePulverizerGeode.name=Geodenmühle
+item.thermalexpansion.augment.machinePulverizerPetrotheum.name=Tektonischer Initiator
+item.thermalexpansion.augment.machineSawmillTapper.name=Harztrichter
+item.thermalexpansion.augment.machineSmelterPyrotheum.name=Pyrokonzentrator
+item.thermalexpansion.augment.machineSecondary.name=Sekundärsieb
+item.thermalexpansion.augment.machineSecondaryNull.name=Nullifikationskammer
+
+item.thermalexpansion.florb.florb.name=Florb
+item.thermalexpansion.florb.florbMagmatic.name=Magmatischer Florb
+
+item.thermalexpansion.frame.frameAutomaton.name=Automatonrahmen
+item.thermalexpansion.frame.frameCell.name=Energiezellenrahmen
+item.thermalexpansion.frame.frameDevice.name=Geräterahmen
+item.thermalexpansion.frame.frameLight.name=Illuminatorrahmen
+item.thermalexpansion.frame.frameMachine.name=Maschinenrahmen
+
+item.thermalexpansion.upgrade.creative.name=Kreativ-Konversionsbausatz
+item.thermalexpansion.upgrade.full1.name=Gehärteter Konversionsbausatz
+item.thermalexpansion.upgrade.full2.name=Verstärkter Konversionsbausatz
+item.thermalexpansion.upgrade.full3.name=Signalumkonversionsbausatz
+item.thermalexpansion.upgrade.full4.name=Resonanter Konversionsbausatz
+item.thermalexpansion.upgrade.incremental1.name=Gehärteter Upgrade-Bausatz
+item.thermalexpansion.upgrade.incremental2.name=Verstärkter Upgrade-Bausatz
+item.thermalexpansion.upgrade.incremental3.name=Signalum-Upgrade-Bausatz
+item.thermalexpansion.upgrade.incremental4.name=Resonanter Upgrade-Bausatz
+
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
+itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
+itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
+
+
+
+
+
+
+tile.thermalexpansion.automaton.breaker.name=Terrainzermalmer
+tile.thermalexpansion.automaton.collector.name=Akquisitionsapparat
+
+tile.thermalexpansion.device.extender.name=Oberflächenkreuzung
+tile.thermalexpansion.device.heat_sink.name=Thermalmediator
+tile.thermalexpansion.device.item_buffer.name=Item-Allokator
+tile.thermalexpansion.device.nullifier.name=Nullifizierer
+tile.thermalexpansion.device.tapper.name=Arborealextraktor
+tile.thermalexpansion.device.water_gen.name=Aqueösakkumulator
+
+tile.thermalexpansion.dynamo.compression.name=Kompressionsdynamo
+tile.thermalexpansion.dynamo.enervation.name=Enervationsdynamo
+tile.thermalexpansion.dynamo.magmatic.name=Magmatischer Dynamo
+tile.thermalexpansion.dynamo.numismatic.name=Numismatischer Dynamo
+tile.thermalexpansion.dynamo.reactant.name=Reaktordynamo
+tile.thermalexpansion.dynamo.steam.name=Dampfdynamo
+
+tile.thermalexpansion.machine.charger.name=Energieinfundierer
+tile.thermalexpansion.machine.compactor.name=Kompaktor
+tile.thermalexpansion.machine.crafter.name=Zyklischer Assembler
+tile.thermalexpansion.machine.crucible.name=Magmatiegel
+tile.thermalexpansion.machine.extruder.name=Eruptivextrudierer
+tile.thermalexpansion.machine.furnace.name=Redstone-Ofen
+tile.thermalexpansion.machine.insolator.name=Phytogeninsolator
+tile.thermalexpansion.machine.precipitator.name=Glazialpräzipitator
+tile.thermalexpansion.machine.pulverizer.name=Pulverisierer
+tile.thermalexpansion.machine.refinery.name=Fraktionierungsdestille
+tile.thermalexpansion.machine.sawmill.name=Sägewerk
+tile.thermalexpansion.machine.smelter.name=Induktionsschmelzerei
+tile.thermalexpansion.machine.transposer.name=Fluidtransposer
+
+tile.thermalexpansion.storage.cache.name=Lager
+tile.thermalexpansion.storage.cell.name=Energiezelle
+tile.thermalexpansion.storage.tank.name=Tragbarer Tank

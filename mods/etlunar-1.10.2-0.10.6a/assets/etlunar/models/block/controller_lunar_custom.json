@@ -1,0 +1,6 @@
+{
+    "parent": "environmentaltech:block/controller_solar",
+	"textures": {
+		"brain": "etlunar:blocks/solar_tex"
+	}
+}

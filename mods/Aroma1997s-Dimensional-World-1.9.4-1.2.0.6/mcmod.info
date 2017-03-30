@@ -1,0 +1,17 @@
+[
+{
+  "modid": "Aroma1997s Dimension",
+  "name": "Aroma1997's Dimensional World",
+  "description": "This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different. :-)",
+  "mcversion": "1.9.4",
+  "version": "1.2.0.6",
+  "logoFile": "",
+  "url": "http://www.minecraftforum.net/topic/1679684-",
+  "updateUrl": "http://www.minecraftforum.net/topic/1679684-",
+  "authors": ["Aroma1997", "Schillaa"],
+  "credits": "Code by Aroma1997, Textures by Schillaa",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "HelpFixer",
+    "name": "HelpFixer",
+    "version": "1.4.15",
+    "description": "Fixes the help command from mod derpyness",
+    "url": "http://minecraft.curseforge.com/mc-mods/223797-helpfixer",
+    "authorList": [
+      "matthewprenger"
+    ],
+    "credits": "Forge, FML, and MCP for making this project possible",
+    "dependencies": []
+  }
+]

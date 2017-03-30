@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "multistorage:items/enderbag_open",
+        "layer1": "multistorage:items/enderbag_linkband1",
+        "layer2": "multistorage:items/enderbag_linkband2",
+        "layer3": "multistorage:items/enderbag_linkband3"
+    }
+}

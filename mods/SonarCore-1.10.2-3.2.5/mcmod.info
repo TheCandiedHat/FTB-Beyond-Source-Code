@@ -1,0 +1,17 @@
+[
+{
+"modid": "sonarcore",
+"name": "SonarCore",
+"description": "Sonar's Modding Framework",
+"version": "1.10.2-3.2.5",
+"mcversion": "1.10.2",
+"updateUrl": "",
+"authors": ["Ollie Lansdell"],
+"credits": "Created by Ollie Lansdell",
+"logoFile": "",
+"screenshots": [],
+"dependencies": ["CoFHLib","CoFHCore","CoFHAPI","WailaAPI","ForgeMultipart"],
+"dependants": ["calculator","practicallogistics2","fluxnetworks"],
+"useDependencyInformation": true
+}
+]

@@ -1,0 +1,13 @@
+{
+	"variants": {
+	"inventory": { "model": "quark:colored_bed_foot" },
+		"facing=north,part=foot": { "model": "quark:colored_bed_foot", "y": 180 },
+		"facing=east,part=foot":  { "model": "quark:colored_bed_foot", "y": 270 },
+		"facing=south,part=foot": { "model": "quark:colored_bed_foot" },
+		"facing=west,part=foot":  { "model": "quark:colored_bed_foot", "y": 90 },
+		"facing=north,part=head": { "model": "quark:colored_bed_head", "y": 180 },
+		"facing=east,part=head":  { "model": "quark:colored_bed_head", "y": 270 },
+		"facing=south,part=head": { "model": "quark:colored_bed_head" },
+		"facing=west,part=head":  { "model": "quark:colored_bed_head", "y": 90 }
+	}
+}

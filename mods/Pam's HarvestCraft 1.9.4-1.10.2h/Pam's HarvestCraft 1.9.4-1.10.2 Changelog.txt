@@ -1,0 +1,102 @@
+HarvestCraft 1.9.4-1.10.2h Cross Compatibility - Well, Thanks for all the Fish
+- Added: Well Block (three iron ingots on each side, stone blocks down the middle)
+---Fill vanilla Minecraft buckets and glass bottles with water
+---Click on it with a Fresh Water in hand, get more Fresh Water
+- Fixed: All HC fish (anchovey, bass, trout, etc) can be put in the crafting grid to turn them into vanilla Minecraft fish
+
+HarvestCraft 1.9.4-1.10.2g Cross Compatibility - Shipping Bin
+- Changed: You can always craft the new tofu meats, no matter your config, you just can't use them in recipes if it's turned off
+- Added: Shipping Bin Block (same recipe as Market but with logs instead of wool)
+---Sell (default 32, change in config) crops for one of the currency used to buy seeds in the market, can disable selling of vanilla crops if needed
+- Added: de_DE.lang, zh_CN.lang 
+
+HarvestCraft 1.9.4-1.10.2f Cross Compatibility - Tofu Update
+- Changed: Firm/Soft Tofu no longer works as meat/eggs in recipes
+- Added: rawtofeakItem, 
+rawtofaconItem, 
+rawtofishItem, 
+rawtofeegItem, 
+rawtofuttonItem, 
+rawtofickenItem, 
+rawtofabbitItem, 
+rawtofurkeyItem, 
+rawtofenisonItem, 
+
+cookedtofeakItem, 
+cookedtofaconItem, 
+cookedtofishItem, 
+cookedtofeegItem, 
+cookedtofuttonItem, 
+cookedtofickenItem, 
+cookedtofabbitItem, 
+cookedtofurkeyItem, 
+cookedtofenisonItem
+--Note: While all raw items give the same food back as their raw meat counterparts, same for their cooked counterparts
+- Added: Cook raw tofu items in the furnace to get cooked tofu items
+- Recipes Added
+rawtofeakItem = toolCuttingboard, foodFirmtofu, listAllmushroom, foodSoysauce, foodBlackpepper, foodOliveoil
+        
+rawtofaconItem = toolCuttingboard, foodFirmtofu, foodOliveoil, foodSalt, foodFlour, listAllsugar
+        
+rawtofishItem = toolCuttingboard, foodFirmtofu, cropSeaweed, cropLemon, cropSpiceleaf
+        
+rawtofeegItem = toolCuttingboard, foodFirmtofu, dyeYellow
+        
+rawtofuttonItem = toolCuttingboard, foodFirmtofu, foodFlour, foodOliveoil, cropPotato
+        
+rawtofickenItem = toolCuttingboard, foodFirmtofu, foodFlour, foodOliveoil, cropSpiceleaf
+        
+rawtofabbitItem = toolCuttingboard, foodFirmtofu, foodFlour, foodOliveoil, cropCarrot
+        
+rawtofurkeyItem = toolCuttingboard, foodFirmtofu, foodOliveoil, Items.BREAD
+        
+rawtofenisonItem = toolCuttingboard, foodFirmtofu, foodFlour, foodOliveoil, listAllnut, foodSoysauce, listAllmushroom
+
+HarvestCraft 1.9.4-1.10.2e Cross Compatibility
+- Fixed: Candles should now show textures properly in inventory and world
+
+HarvestCraft 1.9.4-1.10.2d Cross Compatibility - Bees Update
+- Changed: Re-named Beeswax to Pressed Wax
+- Added: Recipe of eight candleberries and a pot to make Pressed Wax
+- Added: Honey Bread, Honeybun, Honey Glazed Carrots, Honey Glazed Ham, Honey Soy Ribs
+- Added: Hardened Leather (made with one Pressed Wax and Leather) and Hardened Leather Armor set (Iron strength)
+- Added: Sixteen colored candle "torch" blocks (made with one Pressed Wax and one String to get 4), dye four White Candles with one dye item
+- Added: Storage blocks for Honey, Honeycomb, Pressed Wax, and Waxcomb (make with 9, put back into crafting grid for 9)
+- 
+
+HarvestCraft 1.9.4-1.10.2c Cross Compatibility - Cakes Update
+- Added: Cake blocks - Place cake blocks with cake items (that can still be eaten themselves) that have varying slice amounts
+
+HarvestCraft 1.9.4-1.10.2b Cross Compatibility - Traps Update
+- Fixed: Texture issues of last update
+- Fixed: Rice, Cranberry, Seaweed seeds can now be crafted
+- Fixed: Mustard, Sesame Seeds being considered seeds instead of food
+- Fixed: Queen Bee (no durability) can finally be crafted into a Royal Jelly
+- Fixed: Mature fruit logs now only drop the crop and not the crop and log.
+- Config: cropsdropSeeds (default False): All crops now drop crops instead of crops and seeds by default.  Set to true to have it drop like in version a.
+- Changed: Pressing Soybean now gives Silken Tofu and Grain Bait
+- Added: Ground and Water Traps (previously Animal and Fish Traps): Add veggie, grain, or fruit bait to Ground Traps surrounded by at least 5 dirt or grass blocks on the same Y level to get items or add fishtrap bait to Water Traps surrounded by at least 5 water blocks on the same Y level to get items.
+- Added: Recipes to make grain, veggie, fruit, and fish baits (one string, three listAllgrain/listAllveggie/listAllfruit/listAllfishraw)
+- Config: grain, veggie, fruit, fish baitrecipeamount (default 4): Change to increase the amount created by the four individual recipes.
+
+HarvestCraft 1.9.4-1.10.2a Cross Compatibility 
+- Added: Sesame Oil, Hot and Sour Soup, 
+Noodles, 
+Chicken Chow Mein, Kung Pao Chicken, Hoisin Sauce
+, Five Spice
+, Char Siu
+, Sweet and Sour Sauce, 
+Sweet and Sour Chicken, 
+Bacon and Eggs, Biscuits and Gravy, Apple Fritter
+, Sweet Tea, Creeper Cookie, Patreon Pie
+- NOTE: Several of the above recipes return several items--this is intended
+- Added: Recipe to turn sesame oil into cooking oil
+- Changed: Pressing sesame seeds now produces sesame oil
+
+HarvestCraft 1.9.4c
+- Fixed: Conflict with soy items and stock recipe issue (use Presser from now on)
+- Fixed: Dupe bug with Market
+- Added: Cotton now drops from all but Arid gardens
+- Fixed: Queen bees of all durability can be crafted into Royal Jelly
+- Reminder: Sneak and left-click to pick up gardens
+- Fixed: Cranberry Juice no longer requires Sugar

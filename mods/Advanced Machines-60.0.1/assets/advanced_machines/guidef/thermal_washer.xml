@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+    
+    <slot name="input" x="103" y="16"/>
+    <fluidtank x="60" y="20" name="tank"/>
+    <slotgrid x="85" y="61" name="output" rows="1" />
+
+	<image x="80" y="33" u="80" v="33" width="43" height="28" src="ic2:textures/gui/GUIOreWashingPlant.png"/>
+    <slot name="discharge" x="150" y="61"/>
+    
+    <environment name="game">
+    	<slotgrid name="upgrade" x="132" y="16" rows="1"/>
+   	</environment>
+    <energygauge x="155" y="45"/>
+    <gauge name="progress" x="103" y="39" style="progressorewasher"/>
+    <playerInventory x="7" y="83"/>
+    
+   	<text x="7" y="26">{advanced_machines.gui.temp}</text>
+	<text x="7" y="36">%base.getHeat()%%%</text>
+</gui>

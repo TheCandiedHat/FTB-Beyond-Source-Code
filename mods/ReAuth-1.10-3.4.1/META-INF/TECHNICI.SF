@@ -1,0 +1,39 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: VmrRqAIgAm0FCZViZFzpaP8OfDbN4
+ iY0MyYFuzTMPv8=
+SHA-256-Digest-Manifest: 5jiYakXQxR++6CjKrf8GtM0ZglHuVcth0wojb4qK3+0=
+Created-By: 1.8.0_112 (Oracle Corporation)
+
+Name: reauth/GuiHandler$1.class
+SHA-256-Digest: Ol+3sCNs3M4YzJtRYCOcfqzOai83Li0Ix++xlVVanAg=
+
+Name: reauth/Secure$Sessionutil.class
+SHA-256-Digest: H0fXaZhzk3EPhzzb/dA6XMaLlAICaoQMxkfFeBODoQA=
+
+Name: reauth/GuiHandler.class
+SHA-256-Digest: jI6uMF9q8j/G8dv/ocBFLBYllZeyTMqLZdJfWneJ5sQ=
+
+Name: reauth/GuiPasswordField.class
+SHA-256-Digest: Nkn/oim4SzJ8RhGrql6dtp048lluALwHrKTTpiFMBBU=
+
+Name: reauth/ConfigGUI.class
+SHA-256-Digest: +jGLgrJ1FkWETOsLhhP1D8LbXOTYCK3e3K3DLthntqg=
+
+Name: reauth/VersionChecker.class
+SHA-256-Digest: 6LHAdBPaH8/+LWD+bhZKvfTxs3mYFBi/u6KMDMAHazk=
+
+Name: reauth/GuiLogin.class
+SHA-256-Digest: a1lGjmcQPyiDL0BZTpx1PYkeXPXXCQHPlq8Ac48fFGk=
+
+Name: reauth/GuiFactory.class
+SHA-256-Digest: F7GpZVaRaiBIoIJTrD4mxRbG1iWpcIS7+Y4nL71oM/Y=
+
+Name: reauth/Main.class
+SHA-256-Digest: JNIkgaRtUVnaePe5jfe7rIZhzdDPLccggiXUhkhc3Ik=
+
+Name: mcmod.info
+SHA-256-Digest: EWmQ3yhNt6YVm0VXwJLd/heL7EfpAFZVU9YYGq6kvNA=
+
+Name: reauth/Secure.class
+SHA-256-Digest: givCJt/ubkRYM0H+Nk/rc+oB7SXTLY9N7A9iEmWytGQ=
+

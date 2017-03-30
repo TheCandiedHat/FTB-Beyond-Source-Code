@@ -1,0 +1,6 @@
+{
+  "parent": "supercraftingframe:block/item_frame",
+  "textures": {
+    "1": "supercraftingframe:blocks/triple_item_frame_block"
+  }
+}

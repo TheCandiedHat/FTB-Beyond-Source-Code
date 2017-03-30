@@ -1,0 +1,16 @@
+[
+{
+  "modid": "endercore",
+  "name": "EnderCore",
+  "description": "Library mod used by EnderIO, EnderZoo, and others",
+  "version": "1.10.2-0.4.1.65-beta",
+  "mcversion": "1.10.2",
+  "url": "http://enderio.com",
+  "updateUrl": "http://ci.tterrag.com/job/EnderCore",
+  "authorList": ["tterrag", "CrazyPants"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,18 @@
+[
+{
+  "modid": "MrTJPCoreMod",
+  "name": "MrTJPCore",
+  "description":"Core libs and utilities",
+  "version": "2.0.0.14",
+  "mcversion": "1.10.2",
+  "url": "...",
+  "authors": [ "MrTJP" ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": [ "Forge" ],
+  "dependencies": [],
+  "dependants" : [],
+  "useDependencyInformation": true
+}
+]

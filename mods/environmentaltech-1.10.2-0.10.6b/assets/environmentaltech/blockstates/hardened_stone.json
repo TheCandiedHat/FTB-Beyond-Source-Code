@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=normal": { "model": "environmentaltech:hardened_stone_normal" },
+        "type=paver": { "model": "environmentaltech:hardened_stone_paver"},
+        "type=bricks": { "model": "environmentaltech:hardened_stone_bricks"},
+        "type=tiles": { "model": "environmentaltech:hardened_stone_tiles" }
+    }
+}

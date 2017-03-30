@@ -1,0 +1,15 @@
+[
+{
+  "modid": "betterbuilderswands",
+  "name": "Better Builder's Wands",
+  "description": "Wands that allow placing of multiple blocks at a time",
+  "version": "0.10.2",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Portablejim"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

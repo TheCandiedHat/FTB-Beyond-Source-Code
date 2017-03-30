@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "advanced_machines:blocks/former_back",
+		"down": "advanced_machines:blocks/former_bottom",
+		"up": "advanced_machines:blocks/former_top",
+		"north": "advanced_machines:blocks/former_front",
+		"east": "advanced_machines:blocks/former_side",
+		"south": "advanced_machines:blocks/former_back",
+		"west": "advanced_machines:blocks/former_side"
+	}
+}

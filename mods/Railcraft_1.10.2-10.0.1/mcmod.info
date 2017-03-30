@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "railcraft",
+    "name": "Railcraft",
+    "description": "Redefine your rails",
+    "version": "10.0.1",
+    "mcversion": "1.10.2",
+    "url": "http://railcraft.info/",
+    "updateUrl": "http://www.railcraft.info/releases/",
+    "authorList": [ "CovertJaguar" ],
+    "credits": "Created by CovertJaguar",
+    "logoFile": "assets/railcraft/logo.png",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [ "Forge" ],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
+}

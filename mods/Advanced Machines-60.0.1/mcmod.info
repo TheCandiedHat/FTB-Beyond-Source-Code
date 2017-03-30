@@ -1,0 +1,26 @@
+[
+	{
+		"authorList": [
+			"immibis", "Chocohead"
+		],
+		"credits": "Immibis for the textures and previous versions.",
+		"dependants": [],
+		"dependencies": [
+			"IC2"
+		],
+		"description": "Upgraded IC2 machines",
+		"logoFile": "",
+		"mcversion": "1.10",
+		"modid": "advanced_machines",
+		"name": "Advanced Machines",
+		"parent": "",
+		"requiredMods": [
+			"IC2"
+		],
+		"screenshots": [],
+		"updateUrl": "",
+		"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=13358",
+		"useDependencyInformation": "true",
+		"version": "60.0.1"
+	}
+]

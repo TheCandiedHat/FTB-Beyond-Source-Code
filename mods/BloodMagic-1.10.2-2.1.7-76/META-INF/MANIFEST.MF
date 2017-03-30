@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: jenkins
+Created-By: 25.101-b13 + (Oracle Corporation)
+Implementation-Title: BloodMagic
+Implementation-Version: 1.10.2-2.1.7-76
+Git-Hash: f4d1bb6
+Built-On: 1.10.2-12.18.3.2221
+

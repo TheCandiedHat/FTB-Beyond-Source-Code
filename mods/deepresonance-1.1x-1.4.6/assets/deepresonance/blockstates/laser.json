@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": { "side" : "deepresonance:blocks/laserblock", "front": "deepresonance:blocks/laserblockfront" },
+    "model": "deepresonance:laser"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90}
+    },
+    "color": {
+      "0": { },
+      "1": { "textures": { "side" : "deepresonance:blocks/laserblueblock", "front": "deepresonance:blocks/laserblockfront" } },
+      "2": { "textures": { "side" : "deepresonance:blocks/laserredblock", "front": "deepresonance:blocks/laserblockfront" } },
+      "3": { "textures": { "side" : "deepresonance:blocks/lasergreenblock", "front": "deepresonance:blocks/laserblockfront" } }
+    }
+  }
+}

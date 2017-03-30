@@ -1,0 +1,57 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "builtin/generated",
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "glassshard": {
+        "textures": {
+          "layer0": "bloodarsenal:items/GlassShard"
+        }
+      },
+      "bloodinfusedstick": {
+		"transform": "forge:default-tool",
+        "textures": {
+          "layer0": "bloodarsenal:items/BloodInfusedStick"
+        }
+      },
+	  "bloodinfusedglowstonedust": {
+        "textures": {
+          "layer0": "bloodarsenal:items/BloodInfusedGlowstoneDust"
+        }
+      },
+	  "inertbloodinfusedironingot": {
+        "textures": {
+          "layer0": "bloodarsenal:items/InertBloodInfusedIronIngot"
+        }
+      },
+      "bloodinfusedironingot": {
+        "textures": {
+          "layer0": "bloodarsenal:items/BloodInfusedIronIngot"
+        }
+      },
+	  "reagentswimming": {
+        "textures": {
+          "layer0": "bloodarsenal:items/ReagentSwimming"
+        }
+      },
+	  "reagentender": {
+        "textures": {
+          "layer0": "bloodarsenal:items/ReagentEnder"
+        }
+      },
+	  "reagentlightning": {
+        "textures": {
+          "layer0": "bloodarsenal:items/ReagentLightning"
+        }
+      },
+	  "reagentdivinity": {
+        "textures": {
+          "layer0": "bloodarsenal:items/ReagentDivinity"
+        }
+      }
+    }
+  }
+}

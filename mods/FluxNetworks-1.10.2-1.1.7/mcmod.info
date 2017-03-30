@@ -1,0 +1,17 @@
+[
+{
+"modid": "FluxNetworks",
+"name": "Flux Networks",
+"description": "Create Wireless Energy Networks",
+"version": "1.10.2-1.1.7",
+"mcversion": "1.10.2",
+"updateUrl": "http://minecraft.curseforge.com/projects/flux-networks/files/latest",
+"authors": ["Ollie Lansdell"],
+"credits": "Created by Ollie Lansdell",
+"logoFile": "",
+"screenshots": [],
+"requiredMods": [ "Forge", "sonarcore" ],
+"dependencies": ["sonarcore"],
+"useDependencyInformation": true
+}
+]

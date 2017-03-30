@@ -1,0 +1,146 @@
+#sk_SK
+
+death.attack.basalz=%1$s bol ukameňovaný!
+death.attack.blitz=%1$s bol tragicky osvietený!
+death.attack.blizz=%1$s stretol mrazivý osud!
+death.attack.cryotheum.player=%1$s zamrzol pri úteku od %2$s!
+death.attack.cryotheum=%1$s zamrzol!
+death.attack.flux.player=%2$s ufluxoval %1$s k smrti!
+death.attack.flux=%1$s mal roztrhanú realitu fluxom!
+death.attack.mana.player=%1$s zmenil skupenstvo pri úteku od %2$s!
+death.attack.mana=%1$s bol roztrhaný surovou manou!
+death.attack.petrotheum.player=%1$s sa roztrieštil pri úteku od %2$s!
+death.attack.petrotheum=%1$s bol rozložený!
+death.attack.pyrotheum.player=%1$s zhorel zaživa pri úteku od %2$s!
+death.attack.pyrotheum=%1$s si pomýlil pyroteum s vodou!
+
+fluid.aerotheum=Zafírske aeroteum
+fluid.coal=Tekuté uhlie
+fluid.cryotheum=Ľadové kryoteum
+fluid.ender=Zvučné endérium
+fluid.fuel=Refined Fuel
+fluid.glowstone=Nabitý svietivec
+fluid.mana=Mana
+fluid.petrotheum=Tektonické petroteum
+fluid.pyrotheum=Sálajúce pyroteum
+fluid.redstone=Destabilizovaný rudit
+fluid.steam=Para
+
+gui.thermalfoundation.lexicon.study=Lexikón - Znalosti
+gui.thermalfoundation.lexicon.transmute=Lexikón - Transmutácia
+
+item.thermalfoundation.material.crystalCinnabar.name=Rumelka
+
+item.thermalfoundation.material.dustAerotheum.name=Práškové aeroteum
+item.thermalfoundation.material.dustBasalz.name=Basalz Powder
+item.thermalfoundation.material.dustBlitz.name=Blitz Powder
+item.thermalfoundation.material.dustBlizz.name=Ľadový prach
+item.thermalfoundation.material.dustBronze.name=Bronzová zmes
+item.thermalfoundation.material.dustCharcoal.name=Práškové drevené uhlie
+item.thermalfoundation.material.dustCoal.name=Práškové uhlie
+item.thermalfoundation.material.dustCopper.name=Prášková meď
+item.thermalfoundation.material.dustCryotheum.name=Práškové kryoteum
+item.thermalfoundation.material.dustElectrum.name=Elektrová zmes
+item.thermalfoundation.material.dustEnderium.name=Endérová zmes
+item.thermalfoundation.material.dustGold.name=Práškové zlato
+item.thermalfoundation.material.dustInvar.name=Invarová zmes
+item.thermalfoundation.material.dustIron.name=Práškové železo
+item.thermalfoundation.material.dustLead.name=Práškové olovo
+item.thermalfoundation.material.dustLumium.name=Lumiová zmes
+item.thermalfoundation.material.dustMana.name=Práškový mithril
+item.thermalfoundation.material.dustMithril.name=Práškový mithril
+item.thermalfoundation.material.dustNickel.name=Práškový nikel
+item.thermalfoundation.material.dustNiter.name=Liadok
+item.thermalfoundation.material.dustObsidian.name=Práškový obsidián
+item.thermalfoundation.material.dustPetrotheum.name=Práškové petroteum
+item.thermalfoundation.material.dustPlatinum.name=Prášková platina
+item.thermalfoundation.material.dustPyrotheum.name=Práškové pyroteum
+item.thermalfoundation.material.dustSignalum.name=Signálová zmes
+item.thermalfoundation.material.dustSilver.name=Práškové striebro
+item.thermalfoundation.material.dustSulfur.name=Síra
+item.thermalfoundation.material.dustTin.name=Práškový cín
+
+item.thermalfoundation.material.gearBronze.name=Bronzové ozubené koleso
+item.thermalfoundation.material.gearCopper.name=Medené ozubené koleso
+item.thermalfoundation.material.gearElectrum.name=Elektrové ozubené koleso
+item.thermalfoundation.material.gearEnderium.name=Enderové ozubené koleso
+item.thermalfoundation.material.gearGold.name=Zlaté ozubené koleso
+item.thermalfoundation.material.gearInvar.name=Invarové ozubené koleso
+item.thermalfoundation.material.gearIron.name=Železné ozubené koleso
+item.thermalfoundation.material.gearLead.name=Olovené ozubené koleso
+item.thermalfoundation.material.gearLumium.name=Lumiové ozubené koleso
+item.thermalfoundation.material.gearMithril.name=Mithrilové ozubené koleso
+item.thermalfoundation.material.gearNickel.name=Nikelné ozubené koleso
+item.thermalfoundation.material.gearPlatinum.name=Platinové ozubené koleso
+item.thermalfoundation.material.gearSignalum.name=Signálové ozubené koleso
+item.thermalfoundation.material.gearSilver.name=Strieborné ozubené koleso
+item.thermalfoundation.material.gearTin.name=Cínové ozubené koleso
+
+item.thermalfoundation.material.ingotBronze.name=Bronzový ingot
+item.thermalfoundation.material.ingotCopper.name=Medený ingot
+item.thermalfoundation.material.ingotElectrum.name=Elektrový ingot
+item.thermalfoundation.material.ingotEnderium.name=Enderový ingot
+item.thermalfoundation.material.ingotInvar.name=Invarový ingot
+item.thermalfoundation.material.ingotLead.name=Olovený ingot
+item.thermalfoundation.material.ingotLumium.name=Lumiový ingot
+item.thermalfoundation.material.ingotMithril.name=Mithrilový ingot
+item.thermalfoundation.material.ingotNickel.name=Niklový ingot
+item.thermalfoundation.material.ingotPlatinum.name=Platinový ingot
+item.thermalfoundation.material.ingotSignalum.name=Signálový ingot
+item.thermalfoundation.material.ingotSilver.name=Strieborný ingot
+item.thermalfoundation.material.ingotTin.name=Cínový ingot
+
+item.thermalfoundation.material.nuggetBronze.name=Bronzový nuget
+item.thermalfoundation.material.nuggetCopper.name=Medený nuget
+item.thermalfoundation.material.nuggetDiamond.name=Diamond Nugget
+item.thermalfoundation.material.nuggetElectrum.name=Elektrový nuget
+item.thermalfoundation.material.nuggetEnderium.name=Enderový nuget
+item.thermalfoundation.material.nuggetInvar.name=Invarový nuget
+item.thermalfoundation.material.nuggetIron.name=Železný nuget
+item.thermalfoundation.material.nuggetLead.name=Olovený nuget
+item.thermalfoundation.material.nuggetLumium.name=Lumiový nuget
+item.thermalfoundation.material.nuggetMithril.name=Mithrilový nuget
+item.thermalfoundation.material.nuggetNickel.name=Nikelný nuget
+item.thermalfoundation.material.nuggetPlatinum.name=Platinový nuget
+item.thermalfoundation.material.nuggetSignalum.name=Signálový nuget
+item.thermalfoundation.material.nuggetSilver.name=Strieborný nuget
+item.thermalfoundation.material.nuggetTin.name=Cínový nuget
+
+item.thermalfoundation.material.rodBlizz.name=Ľadová tyč
+
+item.thermalfoundation.tome.lexicon.empowered.name=Forge Lexikón (Nabitý)
+item.thermalfoundation.tome.lexicon.name=Forge Lexikón
+
+itemGroup.thermalfoundation.creativeTabArmor=Thermal Foundation: Brnenia
+itemGroup.thermalfoundation.creativeTabTools=Thermal Foundation: Nástroje
+
+tile.thermalfoundation.fluid.aerotheum.name=Zafírske aeroteum
+tile.thermalfoundation.fluid.cryotheum.name=Ľadové kryoteum
+tile.thermalfoundation.fluid.ender.name=Zvučné endérium
+tile.thermalfoundation.fluid.glowstone.name=Nabitý svietivec
+tile.thermalfoundation.fluid.mana.name=Mana
+tile.thermalfoundation.fluid.petrotheum.name=Tektonické petroteum
+tile.thermalfoundation.fluid.pyrotheum.name=Sálajúce pyroteum
+tile.thermalfoundation.fluid.redstone.name=Destabilizovaný rudit
+
+tile.thermalfoundation.ore.copper.name=Medená ruda
+tile.thermalfoundation.ore.lead.name=Olovená ruda
+tile.thermalfoundation.ore.mithril.name=Mithrilová ruda
+tile.thermalfoundation.ore.nickel.name=Niklová ruda
+tile.thermalfoundation.ore.platinum.name=Platinová ruda
+tile.thermalfoundation.ore.silver.name=Strieborná ruda
+tile.thermalfoundation.ore.tin.name=Cínová ruda
+
+tile.thermalfoundation.storage.bronze.name=Bronzová kocka
+tile.thermalfoundation.storage.copper.name=Medená kocka
+tile.thermalfoundation.storage.electrum.name=Elektrová kocka
+tile.thermalfoundation.storage.enderium.name=Enderiová kocka
+tile.thermalfoundation.storage.invar.name=Invarová kocka
+tile.thermalfoundation.storage.lead.name=Olovená kocka
+tile.thermalfoundation.storage.lumium.name=Lumiová kocka
+tile.thermalfoundation.storage.mithril.name=Mithrilová kocka
+tile.thermalfoundation.storage.nickel.name=Niklová kocka
+tile.thermalfoundation.storage.platinum.name=Platinová kocka
+tile.thermalfoundation.storage.signalum.name=Signálová kocka
+tile.thermalfoundation.storage.silver.name=Strieborná kocka
+tile.thermalfoundation.storage.tin.name=Cínová kocka

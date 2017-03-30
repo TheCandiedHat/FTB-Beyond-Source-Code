@@ -1,0 +1,35 @@
+newmtl mat_coalEngine
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+map_Ka multistorage:models/mat_coalengine
+map_Kd multistorage:models/mat_coalengine
+
+newmtl mat_curcuits
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+map_Ka multistorage:models/mat_curcuit
+map_Kd multistorage:models/mat_curcuit
+
+newmtl mat_ribbonCable
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+map_Ka multistorage:models/mat_ribboncable
+map_Kd multistorage:models/mat_ribboncable
+
+newmtl mat_rustBlueChassy
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+map_Ka multistorage:models/mat_rustbluechassy
+map_Kd multistorage:models/mat_rustbluechassy
+
+newmtl mat_rustBlueDrill
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+map_Ka multistorage:models/mat_rustbluedrill
+map_Kd multistorage:models/mat_rustbluedrill
+
+newmtl mat_steel
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+map_Ka spcommon:mat_steel
+map_Kd spcommon:mat_steel

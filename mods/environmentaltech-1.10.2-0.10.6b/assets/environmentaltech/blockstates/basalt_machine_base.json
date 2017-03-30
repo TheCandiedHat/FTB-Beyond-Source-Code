@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "environmentaltech:basalt_machine_base" }
+    }
+}

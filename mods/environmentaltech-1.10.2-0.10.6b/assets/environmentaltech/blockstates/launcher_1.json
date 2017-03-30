@@ -1,0 +1,13 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"facing": {
+			"north":	{"model": "environmentaltech:launcher_1", "x": 90, "y": 0},
+			"east":		{"model": "environmentaltech:launcher_1", "x": 90, "y": 90},
+			"south":	{"model": "environmentaltech:launcher_1", "x": 90, "y": 180},
+			"west":		{"model": "environmentaltech:launcher_1", "x": 90, "y": 270},
+			"up":		{"model": "environmentaltech:launcher_1"},
+			"down":	{"model": "environmentaltech:launcher_1", "x": 180}
+		}
+	}
+}

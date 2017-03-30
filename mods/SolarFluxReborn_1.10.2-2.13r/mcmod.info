@@ -1,0 +1,15 @@
+[
+{
+  "modid": "SolarFlux",
+  "name": "Solar Flux",
+  "description": "Solar Panels producing Redstone Flux",
+  "version": "2.13r",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrDimkas_Studio"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

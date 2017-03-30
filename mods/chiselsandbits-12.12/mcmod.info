@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chiselsandbits",
+  "name": "Chisels & Bits",
+  "description": "a mod about Sculpting, Decorating and Aesthetics",
+  "version": "12.12",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com/projects/chisels-bits",
+  "updateUrl": "",
+  "authorList": ["AlgorithmX2"],
+  "credits": "AlgorithmX2",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

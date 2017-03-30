@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=down": { "model": "hopperducts:gratedhopper_down" },
+        "facing=north": { "model": "hopperducts:gratedhopper_side" },
+        "facing=south": { "model": "hopperducts:gratedhopper_side", "y": 180 },
+        "facing=west": { "model": "hopperducts:gratedhopper_side", "y": 270 },
+        "facing=east": { "model": "hopperducts:gratedhopper_side", "y": 90 }
+    }
+}

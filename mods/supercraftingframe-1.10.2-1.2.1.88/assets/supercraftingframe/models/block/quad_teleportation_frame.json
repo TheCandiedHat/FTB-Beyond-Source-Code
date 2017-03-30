@@ -1,0 +1,6 @@
+{
+  "parent": "supercraftingframe:block/teleportation_frame",
+  "textures": {
+    "1": "supercraftingframe:blocks/quad_teleportation_frame_block"
+  }
+}

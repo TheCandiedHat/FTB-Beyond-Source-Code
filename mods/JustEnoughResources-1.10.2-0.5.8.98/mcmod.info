@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jeresources",
+  "name": "Just Enough Resources",
+  "description": "Adds Resources and Mob Drops to JEI",
+  "version": "0.5.8",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["way2muchnoise"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["JEI"]
+}
+]

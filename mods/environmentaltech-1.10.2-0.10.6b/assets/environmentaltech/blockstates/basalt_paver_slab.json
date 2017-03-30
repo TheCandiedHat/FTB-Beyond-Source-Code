@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+	"parent": "block/cube_all",
+    "model": "minecraft:half_slab",
+    "textures": {
+      "all": "environmentaltech:blocks/basalt_paver",
+      "bottom": "environmentaltech:blocks/basalt_paver",
+      "top": "environmentaltech:blocks/basalt_paver",
+      "side": "environmentaltech:blocks/basalt_paver_slab_side"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "half=top,prop=normal": [{
+      "x": 180,
+      "uvlock": true
+    }],
+    "half=bottom,prop=normal": [{}],
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "chesttransporter:items/basic_drawer_full1_darkoak"
+  }
+}

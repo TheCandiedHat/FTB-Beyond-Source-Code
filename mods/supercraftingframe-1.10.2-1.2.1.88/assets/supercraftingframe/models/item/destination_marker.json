@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supercraftingframe:items/destination_marker"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "set": 1
+      },
+      "model": "supercraftingframe:item/destination_marker_set"
+    }
+  ]
+}

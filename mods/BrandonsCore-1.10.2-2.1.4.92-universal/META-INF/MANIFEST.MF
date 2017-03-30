@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+FMLCorePlugin: com.brandon3055.brandonscore.asm.LoadingPlugin
+FMLAT: BrandonsCore_at.cfg
+

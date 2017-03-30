@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: com.enderio.core.common.transform.EnderCorePlugin
+FMLCorePluginContainsFMLMod: true
+

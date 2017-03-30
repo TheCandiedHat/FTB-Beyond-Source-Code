@@ -1,0 +1,444 @@
+[AVAILABLE][CLIENT][INFO] MineTweaker: Building registry
+[AVAILABLE][CLIENT][INFO] MineTweaker: Sucessfully built item registry
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding command minetweaker
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tooltips
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command materials
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command modifiers
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tconstruct
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselGroups
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselVariations
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] 
+[SERVER_STARTING][SERVER][INFO] Initializing 'Beyond.zs'...
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Inscriber Silicon Press
+[SERVER_STARTING][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@4e9a28c6
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Inscriber Calculation Press
+[SERVER_STARTING][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@977fceb
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Inscriber Logic Press
+[SERVER_STARTING][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@700cc1cb
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Inscriber Engineering Press
+[SERVER_STARTING][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@77cb1baa
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@266ca782
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Sky Stone
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Dark Oak Bark
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Acacia Bark
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Jungle Bark
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Birch Bark
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Spruce Bark
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Oak Bark
+[SERVER_STARTING][SERVER][INFO] Translating tile.immersiveengineering.ore.aluminum.name to Aluminum Ore
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding Iron Nugget to ore dictionary entry nuggetIron
+[SERVER_STARTING][SERVER][INFO] Adding Copper Nugget to ore dictionary entry nuggetCopper
+[SERVER_STARTING][SERVER][INFO] Adding Tin Nugget to ore dictionary entry nuggetTin
+[SERVER_STARTING][SERVER][INFO] Adding Lead Nugget to ore dictionary entry nuggetLead
+[SERVER_STARTING][SERVER][INFO] Adding Silver Nugget to ore dictionary entry nuggetSilver
+[SERVER_STARTING][SERVER][INFO] Adding Nickel Nugget to ore dictionary entry nuggetNickel
+[SERVER_STARTING][SERVER][INFO] Adding Platinum Nugget to ore dictionary entry nuggetPlatinum
+[SERVER_STARTING][SERVER][INFO] Adding Emerald Nugget to ore dictionary entry nuggetEmerald
+[SERVER_STARTING][SERVER][INFO] Adding Diamond Nugget to ore dictionary entry nuggetDiamond
+[SERVER_STARTING][SERVER][INFO] Adding Osmium Nugget to ore dictionary entry nuggetOsmium
+[SERVER_STARTING][SERVER][INFO] Adding Aluminum Nugget to ore dictionary entry nuggetAluminum
+[SERVER_STARTING][SERVER][INFO] Removing Diamond Shard from ore dictionary entry nuggetDiamond
+[SERVER_STARTING][SERVER][INFO] Removing Emerald Shard from ore dictionary entry nuggetEmerald
+[SERVER_STARTING][SERVER][INFO] Adding This Item Is Disabled. to ore dictionary entry nuggetEnderpearl
+[SERVER_STARTING][SERVER][INFO] Adding Ender Pearl Powder to ore dictionary entry dustEnder
+[SERVER_STARTING][SERVER][INFO] Adding Ender Pearl Powder to ore dictionary entry dustEnderPearl
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Diamond
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Emerald
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Diamond Chip
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Diamond
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Angel Ring
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Angel Ring
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Angel Ring
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Angel Ring
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Angel Ring
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Angel Ring
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Mob Masher
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Quantum Tank
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Quantum Storage Unit
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Tin Plate
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Long Fall Boots
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 0 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Advanced Machine Block
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Advanced Machine Block
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Thick Neutron Reflector
+[SERVER_STARTING][SERVER][INFO] Adding recipe for MT Core
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <liquid:iron> * 720
+[SERVER_STARTING][SERVER][INFO] Removing 4 TConstruct Casting Recipe(s) for <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Black Quartz
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Chest
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Ender Biotite
+[SERVER_STARTING][SERVER][INFO] Adding furnace recipe for <minecraft:quartz_block>
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 1 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Removing 2 recipes
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Tin Gear
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Copper Gear
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Bronze Gear
+[SERVER_STARTING][SERVER][INFO] Adding recipe for Iron Gear
+[SERVER_STARTING][SERVER][INFO] Initialized 'Beyond.zs'
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Iron Gear
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Bronze Gear
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Copper Gear
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Tin Gear
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing furnace recipe for <minecraft:quartz_block>
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Ender Biotite
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Black Quartz
+[SERVER_STARTED][CLIENT][INFO] Restoring 4 TConstruct Casting Recipe(s) for <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 TConstruct Smeltery - Melting Recipe(s) for <liquid:iron> * 720
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for MT Core
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Thick Neutron Reflector
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Advanced Machine Block
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Advanced Machine Block
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 0 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Long Fall Boots
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Tin Plate
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Quantum Storage Unit
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Quantum Tank
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Mob Masher
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Restoring 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Diamond
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Diamond Chip
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Emerald
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Diamond
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing Ender Pearl Powder from ore dictionary entry dustEnderPearl
+[SERVER_STARTED][CLIENT][INFO] Removing Ender Pearl Powder from ore dictionary entry dustEnder
+[SERVER_STARTED][CLIENT][INFO] Removing This Item Is Disabled. from ore dictionary entry nuggetEnderpearl
+[SERVER_STARTED][CLIENT][INFO] Restoring Emerald Shard to ore dictionary entry nuggetEmerald
+[SERVER_STARTED][CLIENT][INFO] Restoring Diamond Shard to ore dictionary entry nuggetDiamond
+[SERVER_STARTED][CLIENT][INFO] Removing Aluminum Nugget from ore dictionary entry nuggetAluminum
+[SERVER_STARTED][CLIENT][INFO] Removing Osmium Nugget from ore dictionary entry nuggetOsmium
+[SERVER_STARTED][CLIENT][INFO] Removing Diamond Nugget from ore dictionary entry nuggetDiamond
+[SERVER_STARTED][CLIENT][INFO] Removing Emerald Nugget from ore dictionary entry nuggetEmerald
+[SERVER_STARTED][CLIENT][INFO] Removing Platinum Nugget from ore dictionary entry nuggetPlatinum
+[SERVER_STARTED][CLIENT][INFO] Removing Nickel Nugget from ore dictionary entry nuggetNickel
+[SERVER_STARTED][CLIENT][INFO] Removing Silver Nugget from ore dictionary entry nuggetSilver
+[SERVER_STARTED][CLIENT][INFO] Removing Lead Nugget from ore dictionary entry nuggetLead
+[SERVER_STARTED][CLIENT][INFO] Removing Tin Nugget from ore dictionary entry nuggetTin
+[SERVER_STARTED][CLIENT][INFO] Removing Copper Nugget from ore dictionary entry nuggetCopper
+[SERVER_STARTED][CLIENT][INFO] Removing Iron Nugget from ore dictionary entry nuggetIron
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Reverting tile.immersiveengineering.ore.aluminum.name to Bauxite Ore
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Oak Bark
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Spruce Bark
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Birch Bark
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Jungle Bark
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Acacia Bark
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Dark Oak Bark
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Sky Stone
+[SERVER_STARTED][CLIENT][INFO] Removing tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@266ca782
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@77cb1baa
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Inscriber Engineering Press
+[SERVER_STARTED][CLIENT][INFO] Removing tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@700cc1cb
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Inscriber Logic Press
+[SERVER_STARTED][CLIENT][INFO] Removing tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@977fceb
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Inscriber Calculation Press
+[SERVER_STARTED][CLIENT][INFO] Removing tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@4e9a28c6
+[SERVER_STARTED][CLIENT][INFO] Removing recipe for Inscriber Silicon Press
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Restoring 1 recipes
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] 
+[SERVER_STARTED][CLIENT][INFO] Initializing 'Beyond.zs'...
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Inscriber Silicon Press
+[SERVER_STARTED][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: minetweaker.mc1102.formatting.FormattedMarkupString@2ddcccd6
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Inscriber Calculation Press
+[SERVER_STARTED][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: minetweaker.mc1102.formatting.FormattedMarkupString@5667b3b0
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Inscriber Logic Press
+[SERVER_STARTED][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: minetweaker.mc1102.formatting.FormattedMarkupString@68a37a91
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Inscriber Engineering Press
+[SERVER_STARTED][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: minetweaker.mc1102.formatting.FormattedMarkupString@3d848b4e
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: minetweaker.mc1102.formatting.FormattedMarkupString@2883f6d5
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Sky Stone
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Dark Oak Bark
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Acacia Bark
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Jungle Bark
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Birch Bark
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Spruce Bark
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Oak Bark
+[SERVER_STARTED][CLIENT][INFO] Translating tile.immersiveengineering.ore.aluminum.name to Aluminum Ore
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding Iron Nugget to ore dictionary entry nuggetIron
+[SERVER_STARTED][CLIENT][INFO] Adding Copper Nugget to ore dictionary entry nuggetCopper
+[SERVER_STARTED][CLIENT][INFO] Adding Tin Nugget to ore dictionary entry nuggetTin
+[SERVER_STARTED][CLIENT][INFO] Adding Lead Nugget to ore dictionary entry nuggetLead
+[SERVER_STARTED][CLIENT][INFO] Adding Silver Nugget to ore dictionary entry nuggetSilver
+[SERVER_STARTED][CLIENT][INFO] Adding Nickel Nugget to ore dictionary entry nuggetNickel
+[SERVER_STARTED][CLIENT][INFO] Adding Platinum Nugget to ore dictionary entry nuggetPlatinum
+[SERVER_STARTED][CLIENT][INFO] Adding Emerald Nugget to ore dictionary entry nuggetEmerald
+[SERVER_STARTED][CLIENT][INFO] Adding Diamond Nugget to ore dictionary entry nuggetDiamond
+[SERVER_STARTED][CLIENT][INFO] Adding Osmium Nugget to ore dictionary entry nuggetOsmium
+[SERVER_STARTED][CLIENT][INFO] Adding Aluminum Nugget to ore dictionary entry nuggetAluminum
+[SERVER_STARTED][CLIENT][INFO] Removing Diamond Shard from ore dictionary entry nuggetDiamond
+[SERVER_STARTED][CLIENT][INFO] Removing Emerald Shard from ore dictionary entry nuggetEmerald
+[SERVER_STARTED][CLIENT][INFO] Adding This Item Is Disabled. to ore dictionary entry nuggetEnderpearl
+[SERVER_STARTED][CLIENT][INFO] Adding Ender Pearl Powder to ore dictionary entry dustEnder
+[SERVER_STARTED][CLIENT][INFO] Adding Ender Pearl Powder to ore dictionary entry dustEnderPearl
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Diamond
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Emerald
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Diamond Chip
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Diamond
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Angel Ring
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Mob Masher
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Quantum Tank
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Quantum Storage Unit
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Tin Plate
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Long Fall Boots
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 0 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Advanced Machine Block
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Advanced Machine Block
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Thick Neutron Reflector
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for MT Core
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <liquid:iron> * 720
+[SERVER_STARTED][CLIENT][INFO] Removing 4 TConstruct Casting Recipe(s) for <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>, <enderio:blockFusedQuartz:2>
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Black Quartz
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Wooden Trapdoor
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Trapped Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Chest
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Ender Biotite
+[SERVER_STARTED][CLIENT][INFO] Adding furnace recipe for <minecraft:quartz_block>
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 1 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Removing 2 recipes
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Tin Gear
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Copper Gear
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Bronze Gear
+[SERVER_STARTED][CLIENT][INFO] Adding recipe for Iron Gear
+[SERVER_STARTED][CLIENT][INFO] Initialized 'Beyond.zs'

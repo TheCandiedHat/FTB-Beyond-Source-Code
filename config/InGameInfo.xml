@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="bottomright">
+        <line>
+            <str>Day {day} - {mctime12} </str>
+            <if>
+                <var>daytime</var>
+                <str>$eDay</str>
+                <str>$8Night</str>
+            </if>
+        </line>
+ 
+    </lines>
+</config>

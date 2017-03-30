@@ -1,0 +1,17 @@
+{
+"forge_marker": 1,
+"defaults": {
+	"model": "minecraft:cube_bottom_top",
+	"transform": "forge:default-block",
+    "textures": {
+      "bottom": "environmentaltech:blocks/lonsdaleite_paver",
+      "top": "environmentaltech:blocks/lonsdaleite_paver",
+      "particle": "environmentaltech:blocks/lonsdaleite_paver",
+      "side": "environmentaltech:blocks/lonsdaleite_paver_slab_side"
+    }
+},
+	"variants": {
+		"half=top,prop=normal": [{ }],
+		"half=bottom,prop=normal": [{ }]
+	}
+}

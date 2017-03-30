@@ -1,0 +1,2229 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: VmrRqAIgAm0FCZViZFzpaP8OfDbN4
+ iY0MyYFuzTMPv8=
+SHA-256-Digest-Manifest: 1ryYI4yGNDNhh4G15/FqoHCZhi0qqVkRx/I3dshcAPc=
+Created-By: 1.8.0_111 (Oracle Corporation)
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassType.class
+SHA-256-Digest: gziVenAwGL7wk28O1PDegkuZcKxIxwa+IDaJC5i8lD4=
+
+Name: codechicken/multipart/asm/StackAnalyser$ArrayLength$.class
+SHA-256-Digest: a2RgV3TFTcc8veaV8echySJ3SzaQSu4EKmEFh8f9DP0=
+
+Name: codechicken/multipart/RedstoneInteractions$.class
+SHA-256-Digest: lzylZy5KtJfXy1vC3sUtmLe9JWwFnn7eArppLcYSeBo=
+
+Name: codechicken/multipart/asm/ScalaSignature$SigEntry$.class
+SHA-256-Digest: 9Z2Y/TtQbaaacrFXbjYI+77d51TQ8K/OIokX1Wqg8Po=
+
+Name: codechicken/microblock/MicroblockRender$$anonfun$renderCuboid$2.
+ class
+SHA-256-Digest: sAXRSjVgdH/lE4QgqVLtq+DuDbCuQe+2uBK2Zg3Znj8=
+
+Name: codechicken/microblock/FaceMicroblockClient.class
+SHA-256-Digest: SshzSeuP8kQf+Mg1KUF82KT4P6Ho0LcY3AvQVGKY/+M=
+
+Name: codechicken/microblock/FacePlacement$.class
+SHA-256-Digest: H5bkz+A85XwEhSkyoD0H0sIHdPrlPesxIBMfi3Mneck=
+
+Name: codechicken/multipart/IScheduledPacketPart.class
+SHA-256-Digest: mtNjBBb2UYVcI6fNx5sOIHn81YY42IpNo+rwumhUX7U=
+
+Name: codechicken/multipart/handler/MultipartPH.class
+SHA-256-Digest: UgW+tr/u7ZbRUekGnlTIJ0Y2mXyIalAnCVLJTQkKvZQ=
+
+Name: codechicken/multipart/MultiPartRegistryClient.class
+SHA-256-Digest: /JQ3p4jLXZH/CmLfCL2VQJ9EerIxsmn0J/2C+Jf8sYs=
+
+Name: codechicken/microblock/HollowMicroFactory$$anonfun$1.class
+SHA-256-Digest: XQFkAJecpmkB1WZRImKFkHLpUVGAnl/mD8KmDAofdz4=
+
+Name: codechicken/microblock/CornerPlacementGrid.class
+SHA-256-Digest: 58QuINSH6Lxec4xeq+HVUlKxMPGrg+9ZzOWBc+zwbAw=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getHollowResult$1.cl
+ ass
+SHA-256-Digest: lPiiEaWfF70GI5hjLB206CVHK22we//XBM+d4Kh7JZU=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$3.class
+SHA-256-Digest: gj/o2rsqx5H3RRKPucjj+gZ4kq9JEMOTH2YhJx3Xdac=
+
+Name: codechicken/microblock/BlockMicroMaterial$$anonfun$createAndRegi
+ ster$1.class
+SHA-256-Digest: J9ZVIlUBcdP8I6+WSaXWN6xPGaqt+OUYT4PJB0jDk+c=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $4$$anonfun$apply$6.class
+SHA-256-Digest: 9CivVakqmPwSXyrWnckmD/DkHUd0M9k2fqEZvNey3RI=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$10.class
+SHA-256-Digest: X9Mgt7j+rFMX/mD8yUmqBal2squZJmk6CORiqaOLZu4=
+
+Name: assets/multipart/lang/tr_TR.lang
+SHA-256-Digest: Tbo6wyFg4ZQMBbI09KPNnICQwfNXkOSfjdUoPdNe2Ts=
+
+Name: codechicken/multipart/TPartialOcclusionPart.class
+SHA-256-Digest: r2Pt0Q7PXwFsNZPjkocY3kWnTT95IQNAXIlzudb4CEA=
+
+Name: codechicken/multipart/asm/ScalaSignature$LongLiteral$.class
+SHA-256-Digest: F/U1+7/f1QQTMbRjAsyqq4By/XVgO/DpLYpVc6aZTvU=
+
+Name: codechicken/multipart/TickScheduler$WorldTickScheduler.class
+SHA-256-Digest: hYQ7lX98M1eUQQclHWNKy8UK5PfRGVH/b8v0P7RbkZ4=
+
+Name: codechicken/multipart/handler/MultipartCompatiblity$.class
+SHA-256-Digest: GWB0vh9sWcPjPHnaDSqoO51n69Ki3nzNzVymnLvqTbY=
+
+Name: codechicken/microblock/CornerMicroFactory$.class
+SHA-256-Digest: CJMVUHVW9HGI7f1jJbwqqa/s6GmA7QmSPaLfQCyL4zg=
+
+Name: codechicken/microblock/EdgeMicroFactory$.class
+SHA-256-Digest: WBIH9gVqg8TV6SSJ/BVS3NVf195jMDNRZ2ghlVi46LQ=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$class.class
+SHA-256-Digest: ztFdTHoCgXAPxm4ImC+FY4tCPzlRWoVjtex8GuxiPOI=
+
+Name: codechicken/microblock/ExecutablePlacement.class
+SHA-256-Digest: fZ76De+HHysDMfI4IK9PrWjZOMvZ51CRg4QQvjQu1D0=
+
+Name: codechicken/multipart/MultiPartRegistryClient$$anonfun$getModelP
+ artContainer$1.class
+SHA-256-Digest: MJ2/u1vHqOaD2WmHkP1jwd/wmdnLdyxDQsh3yL8h+3M=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$onEntityStanding$1.
+ class
+SHA-256-Digest: UAusvxSaRg/DkO1dhof4slC+CMqjPt8X7fvfgGBMdh4=
+
+Name: codechicken/microblock/MicroblockGenerator.class
+SHA-256-Digest: vzlinNP/FCkUlVz7bAixDrEw3xIIAXO/DN3Gsif/xfc=
+
+Name: codechicken/multipart/MultipartStateMapper$.class
+SHA-256-Digest: g+XhBYGZObburGmyOgpEU1vru3eiLZxsHGMd2uWB4To=
+
+Name: codechicken/multipart/TickScheduler$ChunkTickScheduler$$anonfun$
+ loadData$1.class
+SHA-256-Digest: ndGQkOquoCSeBC6Y4JAYEQjNG4NrGSS8VcZzPaGh25M=
+
+Name: codechicken/multipart/IconHitEffects$$anonfun$addDestroyEffects$
+ 1.class
+SHA-256-Digest: 7C7nZOT3LHBlgiEbKQhs4enMGeS4vS5Y8ZczSBDu8jM=
+
+Name: codechicken/microblock/HollowMicroFactory$.class
+SHA-256-Digest: JcRI99KfvWygsreGTnBVorMLV9SMIaJPevJstDOuYPs=
+
+Name: codechicken/multipart/asm/ASMImplicits$.class
+SHA-256-Digest: hVv6garyIanjEavxL7O5liAH6b86LVrIuA/Kyj5w8ds=
+
+Name: codechicken/microblock/EdgePlacementGrid.class
+SHA-256-Digest: wHscQGElI8qZPV1CONqqtsM2QjXtM4tEh7ORQLhxz4w=
+
+Name: assets/multipart/lang/zh_TW.lang
+SHA-256-Digest: 0qEfQK6Z26jBRxFbmjl+R2yYegMdOEc4lTkTW3E/68U=
+
+Name: codechicken/multipart/IDWriter$$anonfun$setMax$2.class
+SHA-256-Digest: 6t64+ekNHO/XFhCJAI4UCvQW98NqIhNgS7frWCgUdkw=
+
+Name: codechicken/multipart/MultipartRenderer.class
+SHA-256-Digest: /ipnCQAA5uA7yBrZZ/tpfQ5TeF6LO2gWFMeKuFA3OXI=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$3.
+ class
+SHA-256-Digest: KVxI4H4A81i6dRyJjF06KapQbg6acxstHaxPEiEgxHc=
+
+Name: codechicken/multipart/minecraft/Content.class
+SHA-256-Digest: 9ZOs2J8R83fNTVu4WSEHopezoVG7+ZsmFxiQ5BWYnkY=
+
+Name: codechicken/multipart/TileCache.class
+SHA-256-Digest: i6oWmaysl68+9LMTd3ertrIFTv8XLTnOj1dKJLQeSF4=
+
+Name: codechicken/microblock/HollowMicroblockClient$$anonfun$render$3.
+ class
+SHA-256-Digest: Ww8UFxjcy3sNbb4CrIKxFG53ufobMvf6DfVJqr3fzgI=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$1.class
+SHA-256-Digest: quwfK/T4t5itMccwDo+Y5sqqlwE1zoSPWldE58nsUEs=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getSaw$1$$anonfun$ap
+ ply$mcVI$sp$1.class
+SHA-256-Digest: pYADCdUq0KqESkyrhzAGpP/OaGF6UKdYtxjdjdITzuo=
+
+Name: codechicken/multipart/asm/StackAnalyser$Cast.class
+SHA-256-Digest: h2kj14tBAC7ELtvVD7T6Xp1tlp5kIh3qindYqSg2/sk=
+
+Name: codechicken/multipart/scalatraits/TRedstoneTile.class
+SHA-256-Digest: nE9wiawJgbgUDB3e0BQ2jUGr8GXtOO5bgkETCb0/pis=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$addPart$1.class
+SHA-256-Digest: M7jep9A7IMvhCClK0HdWDSpy3rza/2+NiJOawRCvv2U=
+
+Name: assets/multipart/lang/cs_CZ.lang
+SHA-256-Digest: bYC+j/OX20enAhem09tvZSIKstPYvBjgRQ23KP+P/VA=
+
+Name: codechicken/multipart/NormalOcclusionTest.class
+SHA-256-Digest: VarnXf4u0R+fcOa7fF/vF9j4+7cDuaH3yUdbtUDfklk=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$getSuper$1.c
+ lass
+SHA-256-Digest: HDYKsu7kDDOgeHmGXzzNkZNe/TMtqsLdosNOZRkbsEI=
+
+Name: codechicken/microblock/FaceMicroFactory.class
+SHA-256-Digest: 9yXbQbZHhSn+J/aW2UdDHRJg/lzL+fBZ1UIL4ArJhRk=
+
+Name: codechicken/multipart/ControlKeyModifer$ControlKeyValue.class
+SHA-256-Digest: BaGUh2Z7F5OXVAxtVl8jj9+LTi+T7IcDc/YqL5qt+KE=
+
+Name: codechicken/multipart/minecraft/MinecraftMultipartMod.class
+SHA-256-Digest: 0uJds7YctqvWDzs6wUgxbqw26niauuQvbxdpQTO0QSk=
+
+Name: codechicken/multipart/scalatraits/TTileChangeTile.class
+SHA-256-Digest: f5swUz/ABFwcI7xZ+OLevKtfvzBjjvZYlvSp6sL5wZs=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$onMoved$1.class
+SHA-256-Digest: YlDJlqkMGHqoVvnaQu3c3AujhbFhb6eA6A3G++MPIBY=
+
+Name: codechicken/multipart/asm/MultipartMixinFactory$$anonfun$1.class
+SHA-256-Digest: tfZQK/na/219YzZqCwYs4R5b8N1zMcFnqGnzEJJ8cEc=
+
+Name: codechicken/microblock/FaceMicroblockClient$class.class
+SHA-256-Digest: 7yxV3MzMycyHcv3LSNTR9mKHhhJgi2FsFezC5tuCvEc=
+
+Name: codechicken/microblock/handler/MicroblockProxy_serverImpl.class
+SHA-256-Digest: 6QO0SeE+yhmwuI2MaUbj7L3CZ6djpLUCsGZw6es878M=
+
+Name: codechicken/multipart/PartialOcclusionTest$$anonfun$fill$1$$anon
+ fun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class
+SHA-256-Digest: wsWSt0dxrxXnaUkRFWIOa7rX/AHXVofwcEFpfb4NJhU=
+
+Name: codechicken/multipart/asm/StackAnalyser$Load$.class
+SHA-256-Digest: mX7De0jyOToCgXrUZcnGH7mHcXt4C57TCyr08eMiDPU=
+
+Name: codechicken/multipart/MultipartGenerator$$anonfun$codechicken$mu
+ ltipart$MultipartGenerator$$traitsForPart$1$$anonfun$apply$1.class
+SHA-256-Digest: eKoBSa8x1Rj+ZkbXrKDOBTwZ4u4hihB61lcM7GP5x8E=
+
+Name: codechicken/microblock/HollowMicroblock$$anonfun$getSubParts$1.c
+ lass
+SHA-256-Digest: xn621ZjbSE8HcqOa5HBdenf4+1gHYOgfpRCUXDh2mAs=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile.class
+SHA-256-Digest: Q1eDwOKjpf5wzzK1d7NVvOv49Z48fWX1EBKUE+slWC4=
+
+Name: codechicken/microblock/MicroOcclusion$.class
+SHA-256-Digest: oaP7Pvegnensj9YZoj4JAy8RQCma56ypsuRPqBlOEv4=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$multiPartChange$1$$
+ anonfun$apply$3.class
+SHA-256-Digest: y0ohYkcGHZoATaIphBoP45C6o/oz3fLFizK4xSpv9d0=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$renderFast$2.
+ class
+SHA-256-Digest: F7xPrXq83nM8myinWFNvHQOgzcLg98HzNlrZvMGI3LE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$8.class
+SHA-256-Digest: ZNsLY7EE8si1AwptauaVneO7zv8YKH46Hf2SxiGIOII=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getGluingResult$1.cl
+ ass
+SHA-256-Digest: WnhBIH/IhwTIa6ev8GtvIy3lJ46BFj5Hjlw/qpdGV0A=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$getAndRegist
+ erParentTraits$1.class
+SHA-256-Digest: HAJiiCgzNH8Xg0rjure+zaRrDfYhTbqD+THpFIUmmLY=
+
+Name: codechicken/multipart/asm/MultipartMixinFactory$$anonfun$generat
+ ePassThroughTrait$1.class
+SHA-256-Digest: OGBwueZWRar7HjJrv1oYKrpPzC1MobEDzdXXRfJGyO4=
+
+Name: codechicken/multipart/scalatraits/TSlottedTile$class.class
+SHA-256-Digest: mL9R+unlEO3KUf6nfx8iq5dFZN1m6Ha54kyd9Plfiu4=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anon$1.class
+SHA-256-Digest: KTTK1NIKDxzFSHhyHTwyM6ABzX3zAbsnaxVM6ipJz2o=
+
+Name: codechicken/microblock/BlockMicroMaterial$.class
+SHA-256-Digest: Xa7XmO1ZRVY+L+etIWK1Y9D9CA20/xy3fhgXv+r5p4Q=
+
+Name: codechicken/microblock/handler/MicroblockMod$.class
+SHA-256-Digest: 5gxlDnw4u9wxk78BqrtleAYjyDVHDEtKgSdZcLiIQEg=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$2$
+ $anonfun$apply$2.class
+SHA-256-Digest: 6nGt1P9z+NbqhZ2T61fe1Rg6w5Hpj/Q8FPi6Lx5sk1w=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$can
+ Fill$1.class
+SHA-256-Digest: L+u3yohogCCFedSzdEA9sq8kxgDfDwPKx2IeaS3IBxo=
+
+Name: codechicken/microblock/MicroblockRender$$anonfun$renderCuboid$2$
+ $anonfun$apply$mcVI$sp$1.class
+SHA-256-Digest: 440XKCitGZf8R5brqGDtaS2XTaFjFOaWd5IXMvRIPdA=
+
+Name: codechicken/microblock/ISidedHollowConnect.class
+SHA-256-Digest: kUOz5CnmXMlUbMgRhfhkfEfx4i1FWwUINxFyPhOKidc=
+
+Name: codechicken/multipart/asm/ScalaSignature$MethodType.class
+SHA-256-Digest: PK36aObK5THaLYK8kC2xDOgMvCGL3IuBWIWxuvDVKfw=
+
+Name: codechicken/multipart/asm/DebugPrinter$$anonfun$1.class
+SHA-256-Digest: pl8Aj5chDQbC5XIdGlvTnU11C5GIEZfme39U1Q7bbMc=
+
+Name: assets/microblockcbe/textures/items/stone_rod.png
+SHA-256-Digest: 4mQb0Tnn9gW3293/PyhZ6xohQ13T49I6L1ntQupOGCM=
+
+Name: codechicken/microblock/TMicroOcclusionClient.class
+SHA-256-Digest: zgic9iBNg7SjNv1xe9X68GP4VdwZuq6ftWVVIftYgAs=
+
+Name: codechicken/microblock/MaterialRenderHelper.class
+SHA-256-Digest: 4Bn+A1UUWk7BZevEjTdflTdzgUF62ZybOSV5CItpuQ4=
+
+Name: codechicken/microblock/PostMicroblockClient.class
+SHA-256-Digest: l1wAYCfUs/rCCJSITlTj/8B92zsIUpaTLs+4zGB+Iy0=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$finishBridge
+ Call$1.class
+SHA-256-Digest: y2Lj8QXS/dEW8/fFNcFj4SIxac4CGEh9eKSLNAEshhM=
+
+Name: codechicken/multipart/asm/MultipartMixinFactory$$anonfun$codechi
+ cken$multipart$asm$MultipartMixinFactory$$methods$1$1.class
+SHA-256-Digest: 1XaTzKHq7E2/2XpGaQAHUo9CkTL2nqJTAU1gQwPPzS4=
+
+Name: codechicken/microblock/CommonMicroblock.class
+SHA-256-Digest: VEEsbbaZxZIyL64B5hSAlLIxkPSQdAs4PlOexO7HrZc=
+
+Name: codechicken/multipart/asm/ScalaSignature$DoubleLiteral.class
+SHA-256-Digest: lViAoZQXR5ONurYtl3OmKqOOAsx2BmjmNJA+fc5mkmU=
+
+Name: codechicken/microblock/PostMicroFactory$$anonfun$2.class
+SHA-256-Digest: 6ylasNLO2DrqVcSh9BhiCIhcYhOOGF/mV2GDenHSkjg=
+
+Name: codechicken/multipart/asm/StackAnalyser$UnaryOp$.class
+SHA-256-Digest: gRP37mGYnxliBHwbDJ9qlNXeO0XX+QStF7dYe5X9QYM=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$multiPartChange$1.c
+ lass
+SHA-256-Digest: Pm0E+XzXzqTcAWdXpUfNY0tI1hOYuTr8luBLPLGzA5s=
+
+Name: codechicken/microblock/HollowMicroblock$class.class
+SHA-256-Digest: U+rnJ/3FVQpws4EI/6nnafB6n7sweV3lppk5tvajJd0=
+
+Name: codechicken/multipart/asm/ScalaSignature$StringLiteral.class
+SHA-256-Digest: rWpYHFFtZYvUEBivMtuMK606A89kQzLNbexE4ErWk2k=
+
+Name: codechicken/multipart/asm/ScalaSignature$ArrayLiteral$.class
+SHA-256-Digest: I/3Qc9XUpAIOP2rHqv5wENkrj6KJj/fZdZzhjczqObU=
+
+Name: codechicken/multipart/scalatraits/TSlottedTile$$anonfun$bindPart
+ $1.class
+SHA-256-Digest: nUwrftZDT1gOrkEZZJKto/um75H+0J0pfQN1n0d0Fnc=
+
+Name: codechicken/multipart/asm/StackAnalyser$CaughtException.class
+SHA-256-Digest: TMPuZVxILqOctXxlLD6fH5tDIDBaRGksVUAkP9FMBV0=
+
+Name: codechicken/multipart/PartialOcclusionTest$$anonfun$fill$1.class
+SHA-256-Digest: 3yBUrHI9gOT5P6t0vt0ByCdO7TYxnVksbGbYTtnLkDc=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$addCollisionBoxToLi
+ st$1.class
+SHA-256-Digest: xnyCa9I1284lgcYHoo3PP2Os4wf7C8e0MG3VSs6o52w=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$getLightValue$1.cla
+ ss
+SHA-256-Digest: L4s8PmvvufjnOuLnsNfyj7G32dwjmO1cRpZNr2nomWE=
+
+Name: codechicken/multipart/asm/ScalaSignature$BooleanLiteral$.class
+SHA-256-Digest: nNgMqPkYesKOCwcdo7Mu3Vm+avUG+5nsSClinssA33s=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$getClassInfo
+ $1.class
+SHA-256-Digest: IGbtd93Jk14Zc0MyyofDGV4gu33EgbxcJvKn8ppANLk=
+
+Name: codechicken/microblock/Microblock$$anonfun$pickItem$1.class
+SHA-256-Digest: 5K8i7oYZKmKRZFPq1NfOImSzoTHRang7rIZz7R0n1N0=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$codechicken$
+ multipart$asm$ASMMixinCompiler$$allParents$1$1.class
+SHA-256-Digest: 8d9+1ltoWSe2tQyB/gqNrzzUpmUkWwz0EXhE/gu+/Hg=
+
+Name: codechicken/multipart/asm/ASMMixinFactory$$anonfun$codechicken$m
+ ultipart$asm$ASMMixinFactory$$checkParent$1$1.class
+SHA-256-Digest: VwxB8G5OE/AhATdgW4c+BF2SsYVBZ3v2AyQl2hq/3FA=
+
+Name: codechicken/multipart/asm/ScalaSignature$TMethodType$$anonfun$jD
+ esc$1.class
+SHA-256-Digest: IvvrtKbuW4k16FF0+ja7ocXXyIXlBgnG633ubg4zeCY=
+
+Name: codechicken/microblock/Saw.class
+SHA-256-Digest: jzOIQc+0QLqnaAh8u4JXSZw1Lp5sxOpSSVQ63qzRJWM=
+
+Name: codechicken/multipart/TileMultipartClient$class.class
+SHA-256-Digest: C/B2ZWJomgLmSiaovT+L3919GVgJig6nZP+o2F6fzy0=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$internalPartChange$
+ 1.class
+SHA-256-Digest: Bvlldz9jjr21WAuaIqbMmghzO5KS3XpmWhzoRjY1nbs=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$listSideOnly
+ $1.class
+SHA-256-Digest: 0rTfj7SY3DUVvrt+xe22y1oA4C8BFnWqFjDoodpAOVY=
+
+Name: codechicken/multipart/MultipartGenerator$$anonfun$codechicken$mu
+ ltipart$MultipartGenerator$$traitsForPart$1$$anonfun$1.class
+SHA-256-Digest: RnDjAlrFdapHUf2jBhE7/EbjjJZsqhd2yy8YTei9QQo=
+
+Name: codechicken/multipart/asm/ScalaSignature$TypeLiteral.class
+SHA-256-Digest: 2FNJV0rYMNxUOOUvrIFk5xEhCQMjS2q8XpWhwJy10zk=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$onChunkLoad$1.class
+SHA-256-Digest: kBOfd7saqhW8WkaF64xVBvlvnKtIv+9r5CFJPGTsq2Q=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$$anonfun$sc
+ alaInfo$1$1.class
+SHA-256-Digest: AYLBDGaUWXRWSoZsLeGcdaZar0b6Mxv/0BcMgsBCKtA=
+
+Name: codechicken/microblock/MicroRecipe.class
+SHA-256-Digest: 4f1dB+Is0K/G1toOV5MWndMowfBrPKHgCtZ7qFMZF1M=
+
+Name: codechicken/microblock/handler/MicroblockCPH$.class
+SHA-256-Digest: n37Yu1fsu+xUIRQ/ycynHGmENDll/11jgmdEQl/FWk4=
+
+Name: codechicken/multipart/minecraft/ButtonPart.class
+SHA-256-Digest: OJ3J7plHnI+Vy2Sewx0nMJXdiwfntmfjpy5uXhV2s2o=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$writeIDMap$1.cl
+ ass
+SHA-256-Digest: 0BR9XxXdSlpA3zt2gc7a8MC7uQ+CyAKjkvUXv/q0H3k=
+
+Name: codechicken/multipart/scalatraits/TRandomDisplayTickTile$$anonfu
+ n$randomDisplayTick$2.class
+SHA-256-Digest: t//9K0gk3BMOmW1sssuowdcTvx0ju9M+6p2PI+8mrvU=
+
+Name: assets/multipart/lang/de_DE.lang
+SHA-256-Digest: vij+8/UdCum86FfyEVOr82AzN/ojz/9T8sXM7vpC+3c=
+
+Name: codechicken/microblock/MicroOcclusion.class
+SHA-256-Digest: DC6VBmWtkif2T6ZOss81HjvxuBYH8wKODVvd1mDMmTY=
+
+Name: codechicken/multipart/IconHitEffects$.class
+SHA-256-Digest: PQnC/5WbihcLTWYEsiuGv1Bv6/Z3HIKIOW3INPI0XV4=
+
+Name: codechicken/multipart/handler/MultipartMod$.class
+SHA-256-Digest: Aswz0YF9qo/bNeCNkcpZw3uUo6O6+6HvoNLiE+TSeCQ=
+
+Name: codechicken/microblock/CornerMicroFactory$$anonfun$1.class
+SHA-256-Digest: 6SkScwWiBtre8pUmLcNewV6gi1kb+X+izarvUBOsaN4=
+
+Name: codechicken/multipart/asm/ScalaSignature$CharLiteral.class
+SHA-256-Digest: lnqbzFh4cncERAGkQpsZvC8i9q4lLiaU1REDRrv+KmI=
+
+Name: codechicken/microblock/CommonMicroblockClient$class.class
+SHA-256-Digest: dtl1wRTIeFaTRx19XNgTvjVRaw4JuFTziXu6gx//Yf8=
+
+Name: codechicken/multipart/asm/ByteCodecs.class
+SHA-256-Digest: IfXrHMFnifZhRHwv+FZIZpmsg2ZVo86VrezBw8n7vsQ=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$5.class
+SHA-256-Digest: Opd6NZX8pKoedRXgYGzJfCz/V18SJaD171MLZwAKjZc=
+
+Name: codechicken/microblock/TopMicroMaterial.class
+SHA-256-Digest: YG16DVoCma6ODxYPUpW92qHpafNkhRlas3EzCaJV8cs=
+
+Name: codechicken/multipart/MultiPartRegistryClient$.class
+SHA-256-Digest: /3rB8+dht9NH6/ubU0IWgMWeZFI9Dm1TIBTJRiA5tA4=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler.class
+SHA-256-Digest: Tp1D7i5ePD1IAFfDXlKy0voPd7uPaMMopnUgjEbpjDk=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$onNeighborBlockChan
+ ge$1.class
+SHA-256-Digest: b2Hmm5ylaD6Mil3cu/4pvLNNOeVeOR+fqyLWtd8Qyp0=
+
+Name: codechicken/multipart/asm/ScalaSignature$ObjectSymbol$.class
+SHA-256-Digest: LcMl5u6JvwwQek7YmCBdM9gvV0uoas0HeFA+ORtDnRw=
+
+Name: codechicken/multipart/handler/MultipartCPH$.class
+SHA-256-Digest: ShULXWGFl+QLZZ4qrSPJEyhXWvMSor9BkU9vD8Z4StQ=
+
+Name: codechicken/microblock/CornerMicroblock$class.class
+SHA-256-Digest: P8A9m3dsOuBMbxD8ycQjTROrXbYTy0BQlsRfGSGh5IE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$MethodInfo.class
+SHA-256-Digest: e+uIe8cPx6s1sgSnr+v/5lYb97XYa+7cnwsJyWAmSwc=
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassType$.class
+SHA-256-Digest: MYX14fm5c0vyxHqTqvdPVjyMXsHTmDwN3mYCPPlWd1k=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$registerConvert
+ er$1.class
+SHA-256-Digest: jP0EwnFct5NevRyPxB6STV0zcIoQQ346xR83YCt5vfo=
+
+Name: codechicken/multipart/NormallyOccludedPart.class
+SHA-256-Digest: 3zx1Se4sFSd6rA68dhRgvh9k+IFZgVNCO4F1EebOTiA=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$useTransform
+ ers$1$1.class
+SHA-256-Digest: dxdK5ZDHmUmmuqgjYYdIDPTNYwQgw9fxEn89+0hiceA=
+
+Name: codechicken/microblock/PostMicroblockClient$$anonfun$recalcBound
+ s$1.class
+SHA-256-Digest: S8D5QDvSfgTy0BtS0ckyv3MxrAOtWdoldEa6xCL9WU0=
+
+Name: codechicken/multipart/asm/StackAnalyser$Param$.class
+SHA-256-Digest: 3Y8sFnRxy7tZjnuBT+eZtTH8gUZVuqV3E9aHPSrKD9E=
+
+Name: codechicken/multipart/asm/ScalaSignature$ThisType$.class
+SHA-256-Digest: AhZITdSX9K6KBGrblpQPN0Ge7Um8OhNfNTsO0FurvTU=
+
+Name: codechicken/multipart/scalatraits/TRandomDisplayTickTile.class
+SHA-256-Digest: bDGcQwNmpj8MmOGyqP9pkSbFnxK7FkoMhKRZDBu1tM4=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$.class
+SHA-256-Digest: uRsK67ws9VbWD5LmuIRyYIwyPe/3KgT8y5TUVAkB4R8=
+
+Name: assets/multipart/lang/pt_BR.lang
+SHA-256-Digest: gH7m15qJj/LY3pt2nLKhiFusyomwntGE0BXvL2hFehw=
+
+Name: codechicken/microblock/CommonMicroblockClient.class
+SHA-256-Digest: oiPB7jU8Mpuzl1XX+AuM3mjQIrSVMqtu0ha5xyz1QiA=
+
+Name: codechicken/microblock/handler/MicroblockProxy_clientImpl$$anon$
+ 1.class
+SHA-256-Digest: 0G2g0RUx/xE707hIyhM9mdrJqP8qKM3N85ewbUDBwpc=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $2.class
+SHA-256-Digest: q12Dth0V8662gcgQScoO32w3OrUS7NhYLuLsfiURKsU=
+
+Name: codechicken/multipart/asm/ScalaSignature$BooleanLiteral.class
+SHA-256-Digest: m8szUJx3J1RZVZ8P6wWFJwLldLLdyx44G0ni0tyqKiQ=
+
+Name: codechicken/microblock/EdgeMicroblock.class
+SHA-256-Digest: f+4L6J/eKnODuAkJcg4d1wQqWaxOtl7kuo4D6aW6kGs=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$$anonfun$getSl
+ otsForFace$1.class
+SHA-256-Digest: mCfuj9CXlECJ50a+arc2b8F3SxMKxcH2zUcePqSSNWU=
+
+Name: codechicken/microblock/ConfigContent$.class
+SHA-256-Digest: Cyz3WGUWNVDS/kWQZ+8riJ2XC1m+V9KREARUxxp2d0Q=
+
+Name: assets/multipart/lang/it_IT.lang
+SHA-256-Digest: O/jpGXGngKsb2IWWtXRW3NPdpCsx5LRpiNPaZQPB4Jc=
+
+Name: codechicken/multipart/asm/ScalaSignature$ShortLiteral.class
+SHA-256-Digest: wc9zoTMd4tZFMmmK14c1J6UpGDaQWAuZts5BQJ61R+c=
+
+Name: codechicken/multipart/asm/ScalaSignature$$anonfun$collect$1.clas
+ s
+SHA-256-Digest: XISkvuVeHGRpWUBQSRzpJ0zG1XxNgpt8HHerenS53bo=
+
+Name: codechicken/multipart/asm/ScalaSignature$SymbolRef$class.class
+SHA-256-Digest: /1fujVY1KmczPTxMawdL9i8OWM8FJxGnBs+zrQ5o1Ek=
+
+Name: codechicken/multipart/asm/StackAnalyser$Store$.class
+SHA-256-Digest: AtJ8QTGjEV/Ffn9UDLihq7b+J9kWkGKvSgtloLqlrlU=
+
+Name: codechicken/multipart/TEdgePart$class.class
+SHA-256-Digest: SIdYs2F1RBfd9mu19evdwUcICm02m70E3CCl+Ch3VZA=
+
+Name: codechicken/microblock/IMicroHighlightRenderer.class
+SHA-256-Digest: oKDueoRHONvEXuyK8NQVV3glyKO7vT8Z1oMnOCLDXdw=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ReflectionC
+ lassInfo$ReflectionMethodInfo$$anonfun$exceptions$1.class
+SHA-256-Digest: MD+GJ2s2PLJs73D7jxHuGCY7t3dhgwf2L90MNumJ7Zs=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$dra
+ in$1.class
+SHA-256-Digest: tJX314x8DC6S8uAnLZX74yW9ybZfhHJ4lCt02BzSIwg=
+
+Name: codechicken/microblock/TMicroOcclusion.class
+SHA-256-Digest: obKcgMD5jCen/PlIlCUaC83anZCSDZWIMAQjHnYJ8bQ=
+
+Name: codechicken/microblock/FacePlacement.class
+SHA-256-Digest: SnWdiqQyDwwnBPppKdPJtblNDf2boD0dW/k7z62W5Tg=
+
+Name: codechicken/microblock/HollowMicroblock$$anonfun$getCollisionBox
+ es$1.class
+SHA-256-Digest: yT5uQuv06kdDS4Rd4MwRhqSpMCpTlUwcB8a/j16zAGc=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$$anonfun$getSl
+ otsForFace$1$$anonfun$apply$2.class
+SHA-256-Digest: M7WIq6NvgEIe5XqUMaNXb57Tz+p1rrFlMtMSqyl0zro=
+
+Name: codechicken/microblock/GrassMicroMaterial.class
+SHA-256-Digest: A/EAfLNGDs+qFUPvLLxnLS9bez2xyPiWjk9XGK7qWd8=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$1.class
+SHA-256-Digest: 9oTv4ezFqgZuU7SFj0R3Yl9NEM9Z7YLJBzYHNBDhs7Y=
+
+Name: codechicken/multipart/IPartConverter.class
+SHA-256-Digest: fQQKk6EK0Kps/hjbRAcdPJgvXhCC4NWPgCubrKNi92Y=
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassSymbolRef$$anonfun
+ $jInterfaces$1.class
+SHA-256-Digest: TA2STYx+7mGgpTXwzxS2IUERmoqnJV/auYZL2lRobRo=
+
+Name: codechicken/multipart/asm/StackAnalyser$NewMultiArray$.class
+SHA-256-Digest: 0pTGgHZUuleMJfBYAHI6b4/eFCJsfQxQ2JyVUDfzzBE=
+
+Name: codechicken/microblock/HollowPlacement$HollowPlacementGrid$.clas
+ s
+SHA-256-Digest: l74yUYzQCYGboa3w/Fjk28lmPzIYsuLt+u2MWNv9E50=
+
+Name: codechicken/multipart/PartialOcclusionTest.class
+SHA-256-Digest: RyJ02iGhInMi7io6vA1l1QMkkjJxRyi742CPeF1XjDQ=
+
+Name: codechicken/multipart/BlockMultipart.class
+SHA-256-Digest: b9ZYX98KGP8Jj5EGOpVjfM/D3s2hewGQNZpnJIy92qM=
+
+Name: codechicken/multipart/asm/ScalaSignature$SingleType$.class
+SHA-256-Digest: JTJcKypZCkHxsKFEBHThbc/GiHME/8iutvPdfFTNYB8=
+
+Name: codechicken/multipart/TickScheduler.class
+SHA-256-Digest: 95TOW00fWGY9Inm+sc2mVZDX0IgSdqzV1VwJs9VGQ44=
+
+Name: codechicken/multipart/asm/StackAnalyser$$anonfun$2.class
+SHA-256-Digest: 9d+TLJNhEVjDf1x/4X/WPO9HKq5EZH23udtFGjAjmA0=
+
+Name: codechicken/multipart/TIconHitEffectsPart$class.class
+SHA-256-Digest: WXEH6cyk7LiTEtDFZTp5Rs8XVhm90nEEzVPlNwc8i9s=
+
+Name: assets/multipart/lang/ko_KR.lang
+SHA-256-Digest: Jh3XzvucnR6EQ01PzLCOUn45oQbLvVxh9zBHiOo+p3A=
+
+Name: codechicken/multipart/asm/ScalaSignature$Flags.class
+SHA-256-Digest: mLA/Ihd9bfXSrIATq2FdLAH70fD+hZoMBYvh2tiNB8k=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$convertBlock$1.
+ class
+SHA-256-Digest: 0qev5FXdRCs8WWOokvNahGaAtHY92Sl1CLXHNFrWhHU=
+
+Name: codechicken/multipart/TCuboidPart$class.class
+SHA-256-Digest: os1FWA9Q9gIQ8+55oodXGA04PtPmKmDj+djlDyLlCZw=
+
+Name: assets/multipart/lang/fr_FR.lang
+SHA-256-Digest: 5Q8rDAsHfkNvkUzhbOJfFZQFs9JJE50H84XUjGDI7XY=
+
+Name: codechicken/multipart/minecraft/RedstoneTorchPart.class
+SHA-256-Digest: ybScJhaeWRy/xt7K8H8dvqSdGhUY3oF7z3wgKOpM7Lw=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$can
+ Drain$1.class
+SHA-256-Digest: SdwwFfbBYondtBEazHd1f+tshbYmrds447fmJOSW9Lw=
+
+Name: codechicken/multipart/asm/ScalaSignature$$anonfun$eval$1.class
+SHA-256-Digest: dnm4ki+qz/Da1T8pF1uRi+GJHJtvWkdKnbYwgu8K5Dk=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$1.
+ class
+SHA-256-Digest: YGRaqYO8FqgyJMjXQaqvLdYr6dFk9UPpB1U7LrTeRfk=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ReflectionC
+ lassInfo.class
+SHA-256-Digest: IjPMkZjNv82UIhLMxnOgIlta7bcl/1kBIXY2aIG7Am4=
+
+Name: codechicken/multipart/asm/ScalaSignature$MethodSymbol$.class
+SHA-256-Digest: 8u3/dKLN788M8/SOhsbn5vMzYItpKS+jlWZQ1bsaRQQ=
+
+Name: codechicken/multipart/asm/ScalaSignature$ObjectSymbol.class
+SHA-256-Digest: W4AZdYUVZsOzXQXZulKKcve8fekL1rbHlzNx+2r+LDA=
+
+Name: codechicken/microblock/handler/MicroblockPH.class
+SHA-256-Digest: lyocIUvVHB3H+lfAow4sy/t5O1qdavh/CR0ZCjvt10g=
+
+Name: codechicken/microblock/DefaultContent$$anonfun$load$1.class
+SHA-256-Digest: iOKXxoPPcr1sEYiauTubcBejluIplvWTiXrslGz/Efg=
+
+Name: codechicken/microblock/FaceEdgeGrid.class
+SHA-256-Digest: b0CGjBN2PnV7sl8noff2zs/RQyJfCuHmM0YLcjohIUA=
+
+Name: codechicken/multipart/PartialOcclusionTest$$anonfun$fill$1$$anon
+ fun$apply$mcVI$sp$1.class
+SHA-256-Digest: 57TOkkjJl4e8W+6GUZxksTVP0Sy4Cw3bw2FPg+crKmU=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$getMateria
+ l$1.class
+SHA-256-Digest: ki/CdIZFLBoikCWOvHsPUFOjK6QK1Zhrow+wO8hZhsk=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$handleDescPacket$1.
+ class
+SHA-256-Digest: kZkTgkB1aZYSj9D/4GZnxFP8+sBAdol4wl1q8j9fieA=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$getExplosionResista
+ nce$1.class
+SHA-256-Digest: NHc4m1umWTP23e+1myxHe/f6jKTZ9DykUTiNDpuCg28=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$FieldMixin.class
+SHA-256-Digest: Q5LLXyZvOYL9XiXsU3cNg4W13A5B8+j4Iu9Btqvpafk=
+
+Name: codechicken/multipart/asm/ScalaSignature.class
+SHA-256-Digest: kNSiIW1srvK+BCjZTxFz+zjlP0/+MGvojyjF1PXvLxY=
+
+Name: codechicken/multipart/handler/MultipartProxy$.class
+SHA-256-Digest: r8IK+rxvjWMa6BCc4Oj09LT+kbkr4JrhCck6d1cQ3mg=
+
+Name: codechicken/multipart/NormalOcclusionTest$$anonfun$apply$1.class
+SHA-256-Digest: a+yWomLcbyHYjVGGVEvKdJgZf65eswWIJ9PeplGuk1c=
+
+Name: codechicken/multipart/TEdgePart.class
+SHA-256-Digest: YfL539dmBDIXXRnJOLY+0lNP0mfaZtVzW2dCUSarDQk=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getSaw$1.class
+SHA-256-Digest: sKOxhWGD+84XmdDHtV6Y2sD28oGPDW52Y0a/REuliRA=
+
+Name: codechicken/microblock/CommonMicroFactory.class
+SHA-256-Digest: curceJVi1NioiAJSbMeMznCDVtiAmCrfWvAfEsdRQdY=
+
+Name: assets/microblockcbe/textures/items/saw_stone.png
+SHA-256-Digest: eMafkoXbpBg2XhOl9uh1lyY+z2Iqysa8I18zBrCq5DQ=
+
+Name: codechicken/multipart/scalatraits/TTileChangeTile$$anonfun$partR
+ emoved$1.class
+SHA-256-Digest: mbww9ZpPpKDAGTFvVv3rjlug4gBVfvxIB8FVB4VL2Oo=
+
+Name: codechicken/multipart/scalatraits/TRedstoneTile$$anonfun$strongP
+ owerLevel$1.class
+SHA-256-Digest: W4N3n/DflZYM/9y8pfyBNsjfjk66m+TxY4LQ+420Ax0=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ReflectionC
+ lassInfo$$anonfun$interfaces$1.class
+SHA-256-Digest: yV67iZhrA5wMtR9CezQnRHcjlr6CCuKqeFWgMAQ/DDk=
+
+Name: codechicken/multipart/scalatraits/TPartialOcclusionTile.class
+SHA-256-Digest: 9xPFLu3/84/H1G1BCmQvmFqsSrg2cwdN8yvMjKfbXig=
+
+Name: codechicken/multipart/asm/ScalaSignature$TypeRefType$.class
+SHA-256-Digest: Uob2ZZHalf1TkAD94NlAMHLxb4gzZkrvgKKb4aDi4e8=
+
+Name: codechicken/microblock/HollowMicroblockClient$class.class
+SHA-256-Digest: ORqzyjTtYMd/jfaN7FWPy0zE+WuVdqoyB5jB9sAfXYI=
+
+Name: codechicken/multipart/asm/MultipartMixinFactory.class
+SHA-256-Digest: YCcfU/FatOD9NGnc5n3oXSutZEzASovnfBbdf08l6BU=
+
+Name: codechicken/multipart/handler/MultipartProxy_clientImpl.class
+SHA-256-Digest: KeLfGFOtrW8Y9u4jSSMAFJieHLaMIOzguuR4OtHtga0=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ClassNodeIn
+ fo$$anonfun$interfaces$2.class
+SHA-256-Digest: Wora5+RDYexE02tJKwkm20q/ErOJgbdBQUSirVLT6ds=
+
+Name: codechicken/multipart/asm/ScalaSignature$AnnotationInfo$.class
+SHA-256-Digest: 6FKSTJWx2o2TZEhN4Z98Xc8ZpXH5sY876TWADUKZvWw=
+
+Name: codechicken/microblock/PlacementGrid.class
+SHA-256-Digest: rRf+3+p34gY10ehuyVZx+ByYV4VcssZ9l58R5zXvjLg=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$$anonfun$pa
+ rentMethods$1.class
+SHA-256-Digest: WvIAViTh2xaZPbdYvCTXrzv3HKIi3n2fiaqqWOipAmo=
+
+Name: codechicken/multipart/MultipartGenerator.class
+SHA-256-Digest: aAMJ6ulmvB7GbiuMw6ZuD8z4fKAjvKj7KqUObAUiHb4=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$$anonfun$sc
+ alaInfo$1$1$$anonfun$apply$1.class
+SHA-256-Digest: pPsQydPse7yNHOYeglw2hvWXHE6OKX5tUgjjo56fxWY=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$fil
+ l$1.class
+SHA-256-Digest: DGy9IA6fJYrtokjLBPtZKMoaQqZsRefXvXAKAua7vHs=
+
+Name: codechicken/multipart/asm/StackAnalyser$LocalEntry.class
+SHA-256-Digest: isgoEL9eu6NlxDyzyE3JEFX9sQR1X5gVww+WxFsddAs=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$dra
+ in$2.class
+SHA-256-Digest: NqUqSSdEVAaKqpEcnWjk+7WjzLQSyHsQjFIx+49cYXQ=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$remPart_do$1.class
+SHA-256-Digest: a0ijcvg1W8y3AxN3jtFEZ1pHLCj57tC6mK8zICYMiGU=
+
+Name: codechicken/multipart/TickScheduler$.class
+SHA-256-Digest: uefpmBAZ+RYSbqsD2H7zBlsup0IXNTZpYmR+5JNvFcU=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$getTileStrea
+ m$1.class
+SHA-256-Digest: a3jJanGxhwLORJVWFy07YtATRycHP8E+q7h5mqxqYEg=
+
+Name: codechicken/multipart/handler/MultipartSaveLoad$.class
+SHA-256-Digest: 7q2Us0aj3Yn9RUDdFAy38I7yeSwxiv2VvwELuUpJBk4=
+
+Name: codechicken/multipart/PacketScheduler$$anonfun$sendScheduled$1.c
+ lass
+SHA-256-Digest: jPEJce81S5C1C2Wp1+e/qzSjixeSB1lBrm2LDfhE/gQ=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$checkNoEntityCollis
+ ion$1.class
+SHA-256-Digest: 1sj2J/9vqTgjTS3NiJZAg19z9JQi6dc3swW1jxN86Xk=
+
+Name: codechicken/microblock/EdgePlacement.class
+SHA-256-Digest: iGlEI3aG9ZFS1scO4w73awjmzgYGHsRW8Q1wEgtcRd8=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$$anonfun$rebui
+ ldSlotMap$2$$anonfun$apply$1.class
+SHA-256-Digest: HzyM29zWV4hVbg7hpVo3qO4Gdoj+esHANyfcuLZluTk=
+
+Name: codechicken/microblock/CornerPlacement$.class
+SHA-256-Digest: oS8870aSORZjx//Z60LxlBL+QbOKbVh5hzd5KEXyL0U=
+
+Name: codechicken/multipart/TickScheduler$WorldTickScheduler$$anonfun$
+ postTick$1.class
+SHA-256-Digest: VOSaGjprPqbYAGTG+vxOuUH+SlsCS7yPGEpn2pAR7Rs=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$readIDMap$1.cla
+ ss
+SHA-256-Digest: hY6i4EPCk1cNO1+meAC1fuiiJ5LtbKc/0W5TPtpj8cw=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$createFromNBT$1.cla
+ ss
+SHA-256-Digest: gphrYSP0RZym6xK2akNOOvdQU9R1r2z1B8ifZoqBYrs=
+
+Name: codechicken/microblock/BlockMicroMaterial.class
+SHA-256-Digest: T0kXCeVOgmlVZ8ta14waeSuckdtKb0xBhc9D+ip4wOc=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$getMateria
+ l$2.class
+SHA-256-Digest: k8NKXg5/vkl9zf3fB1dmBoVKS7A3tMuIRXHPQnO8npQ=
+
+Name: codechicken/multipart/TileMultipartClient.class
+SHA-256-Digest: 8TETjPH9zF8OqNGLJw+LL2rsfuHgS2Vvs85mlwoc98E=
+
+Name: codechicken/multipart/asm/ASMMixinFactory$$anonfun$codechicken$m
+ ultipart$asm$ASMMixinFactory$$concreteParent$1$1.class
+SHA-256-Digest: zhr+0ecZt3C8R8SM+kVlXf95LmKWg+rm0Wa9CM2m+/Q=
+
+Name: codechicken/multipart/asm/StackAnalyser$NewMultiArray.class
+SHA-256-Digest: 7C51JwekNj9+TC0b5PiL0IOeYrIu/v7cZ/CBDocpASU=
+
+Name: codechicken/microblock/FacePlacementGrid.class
+SHA-256-Digest: PYwyb9pNeULrcGPraqUyHNW9inwm8Mu37wy2KY9Hm4U=
+
+Name: codechicken/microblock/MicroblockClient$class.class
+SHA-256-Digest: sEyaJ2XHc8qnYY5FDw8XjhCxQcEUJbuGh1KIBmGYyU8=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$occlusionTest$1.cla
+ ss
+SHA-256-Digest: k0zJ9W2XXMinlJhWSbyZQG5hXQ+QLyw+yC10DEoQGb0=
+
+Name: codechicken/microblock/FacePlacementGrid$.class
+SHA-256-Digest: ia+4MRRCMZXHP9o3O2nB4bCPE5JHGD3Q63AF0kDo2ZI=
+
+Name: codechicken/multipart/scalatraits/TModelRenderTile$$anonfun$rend
+ erStatic$2.class
+SHA-256-Digest: IQQ20uNyBiAfC01gwYaNMUxiEm5vS8UMd6HT376PfmY=
+
+Name: codechicken/microblock/JMicroShrinkRender.class
+SHA-256-Digest: tFO9cRM50bFn/LtKwa7oFdr9awRbluJmAutELkrt2P8=
+
+Name: codechicken/microblock/ItemMicroPart$.class
+SHA-256-Digest: DX1nNVt8nh7y1wm6f5kI+Wz2hDfzVR/ppqyduniY/CQ=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ClassNodeIn
+ fo$MethodNodeInfoSource$.class
+SHA-256-Digest: TPTAhRZCCUKnNYDgk9U4n32GT1AqDJK2Wcw/+sNzpak=
+
+Name: codechicken/microblock/handler/MicroblockProxy$.class
+SHA-256-Digest: cD6ywzINsTpZsk0shX/Vpyp/0Gvr7lCqbtKzXlhrkPk=
+
+Name: codechicken/multipart/asm/ScalaSignature$NoType$.class
+SHA-256-Digest: 7mrPItuIsuoQqm5DmpdhWHUgTMqyLoSFRG0nx/mUmFQ=
+
+Name: codechicken/multipart/scalatraits/TTileChangeTile$$anonfun$onNei
+ ghborTileChange$1.class
+SHA-256-Digest: 5QObg0PI9Rt53mPJUxPPMFK27MnKC5ZMeN2XyfHWawQ=
+
+Name: codechicken/multipart/scalatraits/TRedstoneTile$$anonfun$strongP
+ owerLevel$2.class
+SHA-256-Digest: nqebr3RlglCMTDwgaKPvF1av7kbWaH6ZzYiaM3GqzFk=
+
+Name: codechicken/multipart/IPartFactory.class
+SHA-256-Digest: fAzVoeeE0zZ6OD35qFMI5NROdG0Ff2SexYVA90ZV4iE=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$loadParts$1.class
+SHA-256-Digest: bDxLd9/FnUk4TNC+d7BeTD5vVY7sU8q9GGBdnmFUL8E=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$getAndRegist
+ erParentTraits$2.class
+SHA-256-Digest: uIkVjkSwDHE8hT+eF2qhAqAQ3/6urc3Ca1Zgn5zUwsg=
+
+Name: codechicken/multipart/asm/StackAnalyser$GetField$.class
+SHA-256-Digest: xFGKI67xI56FukPVd69EIqJ8TvesdcvQhk9y90WuBAQ=
+
+Name: codechicken/microblock/HollowPlacement$.class
+SHA-256-Digest: 6XdNHtKrAGxzSjpRjcyD+vbqQz8HfKmNjkx56r2XvHw=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$registerParts$1
+ .class
+SHA-256-Digest: cq+sCecr7aDqb8f0xJray/sR4TqReHH3Uq4PymZNjOw=
+
+Name: codechicken/multipart/TickScheduler$WorldTickScheduler$$anonfun$
+ postTick$2.class
+SHA-256-Digest: Qo8f9ZP+JaqlFevejIWYLCX2KyQbTEEcoxIfcUo+K+o=
+
+Name: codechicken/multipart/handler/MultipartCompatiblity.class
+SHA-256-Digest: 13wuycLvX/4u8e3qbf9X42b6ZzH6762VGEcekWpfzTg=
+
+Name: codechicken/multipart/scalatraits/JInventoryTile.class
+SHA-256-Digest: On7oAavEOxksVFD7HWKtumeR2VI6rrqaGXeZkYfG/AE=
+
+Name: codechicken/microblock/MicroOcclusion$$anonfun$shrink$1.class
+SHA-256-Digest: a17eWeJz47lCVcXDxFpHfEAA8CJTaUD66EnRV7ejx9Y=
+
+Name: codechicken/multipart/TileCache$.class
+SHA-256-Digest: 92sWBFtgqLUeX6P/MUSdFE5LEgmUyyrVaneF5hCDiAE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ScalaClassI
+ nfo.class
+SHA-256-Digest: IcB8iZ+Z/AGnjoifWAaAByMx1gNrUGd1uUq35tz/0Bc=
+
+Name: codechicken/multipart/asm/ScalaSignature$CharLiteral$.class
+SHA-256-Digest: 6jh4LH90BwdCHGwMYJdvsJo+X+OUx5b+XkLPbAdYFuw=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$2$
+ $anonfun$apply$3.class
+SHA-256-Digest: JnFNdSQDnwJK8AA9l1i9BM33SrHx0cynlJyP80Z5rL8=
+
+Name: codechicken/multipart/IFaceRedstonePart.class
+SHA-256-Digest: zrZWCV4qO0HUiylnI7P5yPyZ1UFvA5/IgPIxVZJxo7g=
+
+Name: codechicken/multipart/PartialOcclusionTest$$anonfun$fill$2.class
+SHA-256-Digest: AAlq1fwN5hr1IQwyN4YknOXkAtURiqUEDzTspK+vb50=
+
+Name: codechicken/microblock/TMicroOcclusion$class.class
+SHA-256-Digest: CIn1H5lnbo8o9bwdgUw+nIh39j4cjcK6Pofo/R8t4as=
+
+Name: codechicken/multipart/minecraft/RedstoneTorchPart$BurnoutEntry.c
+ lass
+SHA-256-Digest: mTrtSIiZ/Dob45iqk6IVugx8DvTBGE/yCobJws3Y0DI=
+
+Name: codechicken/multipart/scalatraits/TRandomDisplayTickTile$class.c
+ lass
+SHA-256-Digest: Vefc1YSkRZisQ9aK1p2vCxBhMUYACbZDX8GYoB/WIoo=
+
+Name: codechicken/microblock/FaceMicroFactory$$anonfun$1$$anonfun$appl
+ y$mcVI$sp$1.class
+SHA-256-Digest: +n9I6BfpuQbKH9L5TCpnTxn2gGPumgxElVacUDJ8MMs=
+
+Name: codechicken/microblock/HollowMicroblockClient$$anonfun$render$2.
+ class
+SHA-256-Digest: 8xbz5rWmDA+g36CC/z0f0qSKWHaPfuA3I129TYSis6A=
+
+Name: codechicken/multipart/IDynamicPartFactory.class
+SHA-256-Digest: 6w8k5xNdPdCH3vFA/c1QJSh0HdVNuoHDMhYqEVIA5a8=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$$anonfun$ob
+ tainInfo$1.class
+SHA-256-Digest: tWsD/LQcnGoN9MWYHU+5PCBwqG9RvmAS3D64J9d30ZY=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$5$
+ $anonfun$apply$4.class
+SHA-256-Digest: xthti9Kia+VmZ8jpY89BndYF2cn1YeOXDs85TYG+YSE=
+
+Name: codechicken/multipart/handler/MCPCCompatModule.class
+SHA-256-Digest: 0hgFzdL2mIBDeHAcwAIKY5XUv8/1UzciwDnAy2XQXTY=
+
+Name: codechicken/multipart/handler/MultipartEventHandler.class
+SHA-256-Digest: APPzEMr5AjFC6rR4innuyfBV26VJnmyhIiGjWHrswwM=
+
+Name: codechicken/microblock/FaceMicroblock.class
+SHA-256-Digest: a/hcpM4BB3/RFtXgrBHhayEtii/fQUgXZiA6DTI4+iE=
+
+Name: codechicken/microblock/ItemSawRenderer$.class
+SHA-256-Digest: YPyy3qAtleChyVL0LWq6Q+AihcQYwca3t/mvZR1/g9k=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$MixinInfo$.class
+SHA-256-Digest: YcOg6Xix6rtAS/Nw5mlRjWPUVI464NLgOgCSFfBphG4=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$$anonfun$clear
+ $1.class
+SHA-256-Digest: 8ajcNpel83zdekdezimisE87lOsNlz8o9Ou3aY53xDU=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$hasFastRender
+ er$1.class
+SHA-256-Digest: aanQF+uRhYB4YxpZmRylQxG3/BLYEQHRAwF1Hc1LXOQ=
+
+Name: codechicken/multipart/PacketScheduler$.class
+SHA-256-Digest: PzQs8Z8UcAYDy7/CwfOu2ZSNGR+G3+JFl+3m18VVY90=
+
+Name: codechicken/microblock/ConfigContent.class
+SHA-256-Digest: PR1dy7yZ+eg7C49AG9c1lXB6dEBdGlcGZO0Txa9r5YM=
+
+Name: codechicken/multipart/TNormalOcclusionPart.class
+SHA-256-Digest: RyJ02MHTYwKDl48WMOH9nlutGiDq+BycboXo38QA05s=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$rayTraceAll$1.class
+SHA-256-Digest: afbn6/n+WYuOTrgAuXP27jNDjNWxuu03xXsxQgCi/KY=
+
+Name: codechicken/microblock/ItemMicroPartRenderer$.class
+SHA-256-Digest: XGVM35IQhgMByd5S6iVKBrZOAzsG2naRyU9iuyA8rMg=
+
+Name: codechicken/multipart/TFacePart$class.class
+SHA-256-Digest: eoTv+CY4trtIIPvJ64WQ6mGa1UFXKA02e6Vs3vLNoSw=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$onEntityCollision$1
+ .class
+SHA-256-Digest: jMdahAAu9KnWvn5gHDSYHvJ1Ld99U5F0aMkm0dAaHsI=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile.class
+SHA-256-Digest: TVXg2PhTKt3LyGhHRVmc+Bu/gg7Q6HPua2BiqMM8q9E=
+
+Name: codechicken/multipart/asm/ScalaSignature$.class
+SHA-256-Digest: g//C1TeHbEWhIVemeH8dbCLMYTGQWVScYbJ68OMSHas=
+
+Name: codechicken/microblock/DefaultContent$$anonfun$load$2.class
+SHA-256-Digest: zridotk80/8yW+hLsDqwUuKhRH9IITtLWc7pYxAVonI=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$$anonfun$rebui
+ ldSlotMap$1.class
+SHA-256-Digest: Pc0GPXwkbaatPpXFcQjrVpjJxuyO/M8oQj6El6hxJmc=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$setupIDMap
+ $1.class
+SHA-256-Digest: VVvFlTdoszQnwyY33k1y+Qvrcde+N6BHXWfXL3j1swM=
+
+Name: codechicken/multipart/TRandomUpdateTickPart$class.class
+SHA-256-Digest: Hn6dLz0aQq4vCIpboZzr7vBbCGF0VVubtq606dwanJQ=
+
+Name: codechicken/microblock/MicroMaterialRegistry.class
+SHA-256-Digest: mQruN4aKSz/9+RPXQk4lw+pLboOLxuYX3O5jBlix+y0=
+
+Name: codechicken/microblock/CommonMicroblock$class.class
+SHA-256-Digest: yBBRAJrBZVxvnn0LwHMVYeMi0BV6g7MkaUh4QGLWntk=
+
+Name: codechicken/multipart/MultipartHelper$IPartTileConverter.class
+SHA-256-Digest: c23uIsYpp2gXraexpYO1SfHQrUgmIOrlvk5U4FDn3jc=
+
+Name: codechicken/multipart/asm/ScalaSignature$ExternalSymbol.class
+SHA-256-Digest: KSeDABaPBcgg8ek5Rp3Dwik5WGNKfWCcE8+xaZKc2jI=
+
+Name: codechicken/multipart/asm/ScalaSignature$TMethodType.class
+SHA-256-Digest: 4GIVhaQ+uuefCEpJcRbJTOF6w7RrM1BcTMIRP7OIZgY=
+
+Name: codechicken/multipart/TScheduledPacketPart$class.class
+SHA-256-Digest: kHE3wDKKJyKrzfmALMMs/C7+Av/pWBbTKtcveBIRJXE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$registerJava
+ Trait$2.class
+SHA-256-Digest: X5gcf7pqZUC06xrKJcTty9LBZb7uVmElWycrDLxM3pk=
+
+Name: codechicken/multipart/asm/StackAnalyser$BinaryOp$.class
+SHA-256-Digest: gjKH3jiLP7Vi9MwwcTnzIOlDX7fOQRjBwQI2l+/GYyQ=
+
+Name: codechicken/microblock/ConfigContent$$anonfun$handleIMC$2.class
+SHA-256-Digest: YoP68uXDyOkIDZ0v33cDhWfWhzVeTz3xGe5xyDYwios=
+
+Name: assets/microblockcbe/blockstates/items.json
+SHA-256-Digest: UVfHP5oYZIHrcqwLr3YjStsrabr7HH9ypxyhN/bREsU=
+
+Name: codechicken/multipart/asm/ScalaSignature$ParameterlessType$.clas
+ s
+SHA-256-Digest: ML/ddtmXMWZZbp9QX2fJv5/4fmJwVWgRjtyjuzez6dI=
+
+Name: codechicken/microblock/MicroblockRender$$anonfun$getQuadsList$2.
+ class
+SHA-256-Digest: hgXsjNEgOG7q4AsbtohbsQ3J9BkislXR2nWrldn0ZZw=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$addPart_do$1.class
+SHA-256-Digest: HbEX0FRj+JooF7GUd8cvpmNavnd78FXmX0cZ+VHfgFU=
+
+Name: codechicken/multipart/asm/ScratchBitSet.class
+SHA-256-Digest: 4xTSWGTusMtYDaJ/Zc0NhvVHw/W00ZKJZMqfK6l49F0=
+
+Name: codechicken/multipart/JItemMultiPart.class
+SHA-256-Digest: rryr4+M91fnThtuznb/Q3iJCtnOuokTL0v3tJWsrW2Q=
+
+Name: codechicken/microblock/MicroRecipe$.class
+SHA-256-Digest: 3+jH6MHQnhHTR31r34fI5KDVATxiYDKF0rvZOzEnBqI=
+
+Name: codechicken/multipart/ControlKeyHandler$.class
+SHA-256-Digest: C2paAiXYNk3mm0KwLMWjC18HArL55LH8Sid+QcNm85U=
+
+Name: codechicken/multipart/asm/ASMMixinFactory.class
+SHA-256-Digest: hK5iHln/IQOtB3YeC7nkZukdzfuTnxWujFw/MG+XpfA=
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassSymbol.class
+SHA-256-Digest: dbppVFcUkzd00bPIBJ0U+kOJyUVdPVF6OZSjZvzfRak=
+
+Name: codechicken/microblock/ConfigContent$$anonfun$handleIMC$1.class
+SHA-256-Digest: 0lQQSPugvaA5Ir7aE0UPNbkxajcHGezMs+GImlu1ONg=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$get
+ TankInfo$2$$anonfun$apply$1.class
+SHA-256-Digest: R6F3sPZsdkgluWmQKKfxjgAUJi4KE80Li5S2pk0z3F8=
+
+Name: codechicken/microblock/DefaultContent$$anonfun$load$3.class
+SHA-256-Digest: dUnYayGwAsI8xCghBd4Oc7CC1evTKIlRtnlkHpDlXA0=
+
+Name: assets/multipart/lang/hr_HR.lang
+SHA-256-Digest: FxjsdW6i8AOQbt7jnaDJ7ptNx3lA+/NxC4TztiPMGvk=
+
+Name: codechicken/multipart/TickScheduler$ChunkTickScheduler$$anonfun$
+ saveData$1.class
+SHA-256-Digest: JGPU/xDv9yauFdLCczUF3nqvc1/Ply1lTs29IIDF/Eg=
+
+Name: codechicken/microblock/ItemMicroPart.class
+SHA-256-Digest: 6qW+SA4xO771KO9x/D16LYagWSNQ6rI9V29IBYSZtbc=
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassSymbolRef.class
+SHA-256-Digest: SyrppO7SO80W5pB6ZJ8reVlGoeFjh3Q0ES23mAWV5pg=
+
+Name: codechicken/multipart/ControlKeyHandler.class
+SHA-256-Digest: bqIl7rela0/u0RJz1C4jSQaaLTAwJ6SpdRSPV46Q00Y=
+
+Name: codechicken/multipart/asm/StackAnalyser$ReturnAddress$.class
+SHA-256-Digest: V8fCDYNlxCvfYxRUdmEh4MiNmbtQB2qGdpAJlFZTVZ8=
+
+Name: codechicken/multipart/asm/ByteCodeReader.class
+SHA-256-Digest: 1CCljz+pjELI3jwqMDIBwHZ3lHsAgXVGlMIyp9iQIe0=
+
+Name: codechicken/multipart/asm/ScalaSignature$$anonfun$findObject$1.c
+ lass
+SHA-256-Digest: KPI7OEerxnalGjjzRZWsI+4WaafhaAs8dIulNFqaMmU=
+
+Name: codechicken/multipart/asm/StackAnalyser$This$.class
+SHA-256-Digest: fIj++OjHLbrYMNmiXbFcF193PPoqfbCvMc3oYnMZrSk=
+
+Name: codechicken/multipart/TItemMultiPart.class
+SHA-256-Digest: a7XI6Nt3yRNFBTifWQb4f+mZvWq8v0OawrIgZv6pDVY=
+
+Name: codechicken/multipart/asm/ScalaSignature$SymbolRef.class
+SHA-256-Digest: vKTiN/ZHmBKJleOhWhUH7W/hMrn922BfFUYp8zMDnF4=
+
+Name: codechicken/microblock/HollowMicroblockClient$$anonfun$render$1.
+ class
+SHA-256-Digest: +DDgsgXDz3u0zo1s4WZZRBEfEKLPsynuLTU/qwtGpv0=
+
+Name: assets/multipart/lang/nl_NL.lang
+SHA-256-Digest: jBC3GIkHkGOyH86XoaTab0v6JmDYYPvQc/uQZS9pu/A=
+
+Name: codechicken/microblock/MicroblockRender$$anonfun$getQuadsList$1.
+ class
+SHA-256-Digest: C+0997r8fKCD9bC4UU2GYN7zTHwwG7+7stI8NPM+wOw=
+
+Name: codechicken/multipart/scalatraits/TRedstoneTile$$anonfun$weakPow
+ erLevel$1.class
+SHA-256-Digest: /pnYLDrK2Q98NCbqGyKtP3jttzurTopD5kna7IQ2Gj8=
+
+Name: codechicken/multipart/scalatraits/TRedstoneTile$class.class
+SHA-256-Digest: a77/Lv/9m71ovXQMugJJWiq4+dFMvkALoyMggTUED+E=
+
+Name: codechicken/microblock/DefaultContent$$anonfun$load$4.class
+SHA-256-Digest: a/u4K35PTGBG2vBaHpu6GL9Nf+cGPqvA+Xt9jpE3Qi4=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$addCollisionBoxToLi
+ st$1$$anonfun$apply$1.class
+SHA-256-Digest: kSCRQrfwdvXlHGXTOB/0q3T6kAnK1zj+eap2+svdlzM=
+
+Name: codechicken/multipart/asm/ScalaSignature$MethodSymbol.class
+SHA-256-Digest: M9Tvb00an9WYwTyiNCD/voHcAP8OqOZI/bG5YxQ1YVs=
+
+Name: codechicken/microblock/PostMicroFactory$.class
+SHA-256-Digest: s8pk98Lnm5TsFD720GBYHsXumW+BYn7pxLAUMMJE/HY=
+
+Name: codechicken/multipart/TileCache$FlaggedTile$.class
+SHA-256-Digest: z7A7g5xysKvcHvbMT7Uo81+R1jCXeACwU46TdK2t4NA=
+
+Name: assets/microblockcbe/textures/items/saw.png
+SHA-256-Digest: 3CrybaVwDLyJcprJ8c2M9GUQpdmtBLOVfwhS2Np7pLc=
+
+Name: codechicken/multipart/TScheduledPacketPart.class
+SHA-256-Digest: suvWB3yNUU5dLFW29luk5dllqnSHZPrOvnopuMVveDg=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$writeIDMap
+ $1.class
+SHA-256-Digest: SVCdm32fUw5n2SyVcMyvBM/+R5iVp94viTwUEww2S3E=
+
+Name: codechicken/multipart/asm/StackAnalyser$$anonfun$1.class
+SHA-256-Digest: kpXTh3vxVozVmjD8DBvlx6Bn4291LV6qVPYLON88a+o=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getSplittingResult$1
+ $$anonfun$apply$mcVI$sp$3.class
+SHA-256-Digest: 3pJxGf6YsI+Lvy5Z3vRA8N8jz+11Zi4VhSpa5PcsvHQ=
+
+Name: codechicken/multipart/asm/StackAnalyser$NewArray$.class
+SHA-256-Digest: y5ohuFyDmjV4fG4DdVvj1i2fuYoIPGayYx4rs2SUyZw=
+
+Name: codechicken/microblock/CornerMicroFactory$$anonfun$1$$anonfun$ap
+ ply$mcVI$sp$1.class
+SHA-256-Digest: v80EjgeeN8NVU+lZYo8FC5zElIpM9FZgTQHvNgrja7o=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$readIDMap$
+ 1.class
+SHA-256-Digest: KZ18BBTDBNcjj7CQFwnNhLbmh65BPwuiXnVmRgjo/yM=
+
+Name: codechicken/microblock/handler/MicroblockCPH.class
+SHA-256-Digest: 7mmVPUC+ISUGz6NMDycYLBZA6GvPORtBzfDif9LkXu0=
+
+Name: codechicken/multipart/MultipartGenerator$.class
+SHA-256-Digest: MQLpmUSLJIR9wryZum3XvTlEk5By/jNUkTxZOTT59DA=
+
+Name: codechicken/multipart/MultipartStateMapper.class
+SHA-256-Digest: 7O4RB6WA1dE+9WAZcO3RkfHPFH5t7BTmQceXtN8tplE=
+
+Name: codechicken/microblock/handler/MicroblockMod.class
+SHA-256-Digest: 0nek7R6565XuEPDw+q3NOVkyo44JtpYEjpz4Sj/yCug=
+
+Name: codechicken/multipart/asm/ScalaSignature$NoSymbol$.class
+SHA-256-Digest: i/35Dild1n+SaZwFMRRz0Jf0VOJiAedgbSNg0McTijE=
+
+Name: codechicken/multipart/MultiPartRegistry$.class
+SHA-256-Digest: l0NzCDtgJpVkYbNFhnYnCRS5RWDf/kBhjL/RxWyQoVw=
+
+Name: codechicken/multipart/asm/StackAnalyser$StackEntry.class
+SHA-256-Digest: AavH+gPsc/UbWR3dt9UFrWTtSKTimbaBMHcI+EWTQ3o=
+
+Name: codechicken/multipart/handler/MultipartEventHandler$.class
+SHA-256-Digest: rZ9+0MuDPkT6M9rHPvoCJcTsSH8nzMkQuOSNuhFZdMc=
+
+Name: codechicken/multipart/handler/MultipartSPH.class
+SHA-256-Digest: bqVVn+MheksjEu2J1UcCm1wpKfiNhrC72A9hRc5iME0=
+
+Name: codechicken/microblock/PostMicroblock.class
+SHA-256-Digest: jmUjV7mY01C4XBwynSeWgjv6JLWK73bTozv+jnYjS4E=
+
+Name: codechicken/multipart/asm/ScalaSignature$$anonfun$findClass$1.cl
+ ass
+SHA-256-Digest: R/BQk4TY74O7o672Zr6P/Xuynnj+lnNIMadIShlZLyU=
+
+Name: codechicken/multipart/TPartialOcclusionPart$class.class
+SHA-256-Digest: vRd7cy+xqhNExZbyZrm0MottluIugdBRH/FcRenz2iQ=
+
+Name: codechicken/multipart/MultipartRenderer$.class
+SHA-256-Digest: amNkNK+P/8Zs6OlU94mWnL9D1R0Qboh1DcJSoAGAWW0=
+
+Name: codechicken/multipart/package.class
+SHA-256-Digest: 9/7GeIstn4e13MNVMBI+ElS/5ULPT737olYY1Htk9U4=
+
+Name: codechicken/multipart/asm/ByteCodecs$.class
+SHA-256-Digest: utzRQFaeN8jVWroMao41+bus6MIo5pKFjytZSow8GiE=
+
+Name: codechicken/multipart/asm/ScalaSignature$IntLiteral$.class
+SHA-256-Digest: cBKF8rwtvC3eDs6r/RbHtzQf1um3T+GmvH558NSsrtk=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $1.class
+SHA-256-Digest: 7V7YIUAduYaElwzkpbYHs2MK7DBGJE97s0jjQC+B/Yg=
+
+Name: codechicken/multipart/asm/ScalaSignature$ByteLiteral.class
+SHA-256-Digest: eIDzQHvwscQXez0Lmpov93Z9g5EGsoPh0/cD+bLSlgw=
+
+Name: codechicken/multipart/scalatraits/TSlottedTile$$anonfun$partRemo
+ ved$1.class
+SHA-256-Digest: MnkkxWQNjmLKnT+HXbAW2LoC5PYDKD84cQIAujFWae0=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$listSideOnly
+ $2.class
+SHA-256-Digest: P6l0SG9kKZ8CZojDd2F4Vlw+163aPAx+8isYG/AFiZs=
+
+Name: dependencies.info
+SHA-256-Digest: CTu3DBo2+5mZJeyQYLfwzRLVvhm9fhMZks/yMjwZNLE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$9.class
+SHA-256-Digest: kv3r0/mpCFAYAHVWpsmsxcpyhFdFt5m4wBP2rOjyTyE=
+
+Name: codechicken/multipart/asm/StackAnalyser$UnaryOp.class
+SHA-256-Digest: PByeS2NOPamJfO3bMiDc26UK9mraDUkow8ElRLqMVsY=
+
+Name: codechicken/multipart/TFacePart.class
+SHA-256-Digest: 9RJEgltiI1zR7OCguDb53H1eiTkAkRkRcu4pW48F/Ag=
+
+Name: codechicken/microblock/DefaultContent.class
+SHA-256-Digest: A6uSnq3k3IMEYQxh5jSLn1m5dP1e53JEkSZl3V6M89g=
+
+Name: assets/microblockcbe/textures/items/saw_iron.png
+SHA-256-Digest: L0fEWX2tb/7Zv4fUYbTUkQBtZno7KqDWambkXxJREnU=
+
+Name: assets/multipart/lang/zh_CN.lang
+SHA-256-Digest: SJpYoJPq4drovgviTURGBKWlcU4po5LPSaRh9AZzBOw=
+
+Name: codechicken/microblock/EdgeMicroFactory.class
+SHA-256-Digest: BqlQd7z0o12UEdCgXmPBio8I010O7e65SWvk3NghoRY=
+
+Name: codechicken/multipart/NormalOcclusionTest$.class
+SHA-256-Digest: cWZy1lMCblONdyI1hEjjle5V9ekuYJELvIPoDFCUKWY=
+
+Name: codechicken/microblock/handler/MicroblockSPH.class
+SHA-256-Digest: LYasjYbZTR3bdpCofXWvaTHN7im4kb44jj85+nSrEr0=
+
+Name: codechicken/multipart/handler/MultipartProxy_serverImpl.class
+SHA-256-Digest: YtCqiQmCQewleUvrQ1K1ZBNYcfFIIE5IjH7KpBgwYcU=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$2$
+ $anonfun$apply$1.class
+SHA-256-Digest: XuG5KKJb2epzg0T2XHw1Sm9QA3m43sgQYFCKZc/gLn0=
+
+Name: codechicken/multipart/PartialOcclusionTest$$anonfun$apply$1.clas
+ s
+SHA-256-Digest: M4rTCCYMBbb3EhjFOugWIQpgHzINhrIAwWgxoOhyJxg=
+
+Name: codechicken/multipart/MultipartHelper.class
+SHA-256-Digest: tQt/f44Ev3yGaORp3Cqn8IMnDloOCNtO4+jxpOxGn8U=
+
+Name: codechicken/multipart/scalatraits/TModelRenderTile.class
+SHA-256-Digest: vqG40WkSrYNxuTd+d1ksR/qLPGdoZS2NLVWRxMaizxA=
+
+Name: codechicken/multipart/scalatraits/TRandomDisplayTickTile$$anonfu
+ n$randomDisplayTick$1.class
+SHA-256-Digest: YRKrDRp9sOE+0QGy30L7GDLZ5w51bS3G9bbap+HcwFg=
+
+Name: codechicken/microblock/ConfigContent$$anonfun$loadLine$1.class
+SHA-256-Digest: DSzO1YryTMeCs0cMq6aTFTE9D6P+XJCRCX0bvaDwCT4=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ReflectionC
+ lassInfo$ReflectionMethodInfo.class
+SHA-256-Digest: wIfD55XhpJhuqjepRdh3yIULzjrVcicuhMVgB3YbnWA=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$4.
+ class
+SHA-256-Digest: wjRVIR6EI6deg5MyF0ohIaWWy7jYLZrePRu3RRYR6BI=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$2.class
+SHA-256-Digest: rCkIul2CkhnXrakvut2i8Gng1q9HPABiVxz7oqM2kwI=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$$anonfun$rebui
+ ldSlotMap$2.class
+SHA-256-Digest: 4k8HjrCRTCJg6qT1tcuB4Pg9JTIR4CyrMNCdrSWsRPg=
+
+Name: codechicken/microblock/CornerPlacement.class
+SHA-256-Digest: aJ74ZIVkyGnvyy+3rUQOiDvDQFtrXpxOklyu8hjMol4=
+
+Name: codechicken/multipart/MultiPartRegistry$$anon$1.class
+SHA-256-Digest: QTOG5cblnykEq57PAo+y1qnyqs6if207yFDfos8FeYA=
+
+Name: codechicken/multipart/minecraft/McBlockPart.class
+SHA-256-Digest: i5J6ytvuoL4swvN4qLolPJIoYizew0CpxQiNtFL6G4k=
+
+Name: codechicken/multipart/TCuboidPart.class
+SHA-256-Digest: BWqNSiBXjVQS489gRwon9iVo59Sip1G/4XUjGonvv5c=
+
+Name: codechicken/multipart/IDWriter$$anonfun$setMax$3.class
+SHA-256-Digest: u6PrnUNXTyIjLB/z5u0vCPSXMW3yG8oJaQyoysYDa0w=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$registerJava
+ Trait$1.class
+SHA-256-Digest: /vX3v3sx2CWTtJZDywke33clLq+VJDC3fj/rgfPGXP8=
+
+Name: codechicken/microblock/HollowMicroblockClient$$anonfun$render$4.
+ class
+SHA-256-Digest: AKjMbHbw4fwhEJIuBDvbjCEV1uPCJRfbmlu71MdU4V4=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$getRenderBoun
+ dingBox$1.class
+SHA-256-Digest: 03KLi0tPlB74Z4BhDxaREYYsK5gQ0Ccm0AzW03EktR8=
+
+Name: codechicken/multipart/asm/StackAnalyser.class
+SHA-256-Digest: KF0gYueTDD7TGS6MklX0+pgGLR/GMPKwshLKKnUfY7E=
+
+Name: codechicken/multipart/scalatraits/TTickableTile.class
+SHA-256-Digest: FxRHcO8G1XZ65DxOWZux1csK+0Py09J+BvzWMK0FBcY=
+
+Name: codechicken/multipart/asm/ScalaSignature$TMethodType$class.class
+SHA-256-Digest: rYC9oEw/Smn28JL2XQ+NBWihlhn6d8vn4tUT+GJfOOA=
+
+Name: codechicken/microblock/PlacementProperties.class
+SHA-256-Digest: jKat4ssdTFn6s+6oYuhrHGz67fEP817mFzrcMSvadTY=
+
+Name: codechicken/multipart/asm/StackAnalyser$Const.class
+SHA-256-Digest: uMM2dTn5l4AZ9asvF7Ry0cRR8bTIOIrRYT3Yf+Vqeew=
+
+Name: codechicken/multipart/scalatraits/TModelRenderTile$$anonfun$rend
+ erModel$1.class
+SHA-256-Digest: +K9k1KZW/cSMufyUgebFMJ+49EqReY3+tq7vaTRgUQ4=
+
+Name: codechicken/multipart/asm/ScalaSignature$Bytes.class
+SHA-256-Digest: r/v7nquSbVbQY5BuQhf7Pd5iHOOQ4CwgmnRxub8+wh0=
+
+Name: codechicken/microblock/EdgeMicroFactory$$anonfun$1$$anonfun$appl
+ y$mcVI$sp$1.class
+SHA-256-Digest: +nqjl9ABbC0qgIN9TVfoX51QVZlGCV/DO4L1OizyZe8=
+
+Name: codechicken/multipart/asm/StackAnalyser$ArrayLoad.class
+SHA-256-Digest: A9ugRnsJJoDibtel4Nd8NtT+RVajZGwjzvjRqBa8vNw=
+
+Name: codechicken/multipart/asm/StackAnalyser$BinaryOp.class
+SHA-256-Digest: nNX+/eApE8HEKKYvk7DTjxTVY/cJ9WOQDFKmPTxcquk=
+
+Name: codechicken/microblock/EdgeMicroblock$class.class
+SHA-256-Digest: F/52GXypP+D3123EpG7YtXaBmT5T+NQt2Cm36J/e114=
+
+Name: codechicken/multipart/MultipartStateMapper$$anonfun$putStateMode
+ lLocations$1.class
+SHA-256-Digest: 0mshd0tgCMHlKb1syOw7GP9mQig3c9t9xDhdaxtlYgM=
+
+Name: codechicken/multipart/handler/MultipartCPH.class
+SHA-256-Digest: W3eWJoZbKTNUA/OiK9MhZ2dIdgbZvYDZMVv3rOwJyss=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$setupIDMap
+ $2.class
+SHA-256-Digest: WEgZL55P95azfknciY5Zzp1S9srl5VeBzvyD4JAgJtU=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$rayTraceAll$2.class
+SHA-256-Digest: d0hRZiSi8pCXjW5M+Lg7GD0d3JnSOA6cRmFzU/Tjkz0=
+
+Name: codechicken/multipart/IRedstoneConnectorBlock.class
+SHA-256-Digest: ZAokXii2xFZD1TECQItbFXae0qYlVjhnqLKPB0gqcRY=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ClassNodeIn
+ fo.class
+SHA-256-Digest: bRgauOeZ+Fr1Zzto/Ubh8LSZTtl5MZTNDI8kW7YRVzU=
+
+Name: mcmod.info
+SHA-256-Digest: shWiDlPgWbR7/Osn/6kvFgVDXoXPo6Cxs2etKHLdOCw=
+
+Name: codechicken/microblock/HollowMicroblockClient.class
+SHA-256-Digest: r8BlETTIu5zjyCwfi/n9oM6VLcicQo+vPG3JBYmPRCs=
+
+Name: codechicken/multipart/IModelRenderPart.class
+SHA-256-Digest: KcETS2c2JP/YEX+vu9K9cATKGC1rHbSAP36jIIIGuLc=
+
+Name: codechicken/multipart/package$.class
+SHA-256-Digest: igbR65uwB1OswXdg2nUX9KV6wZFPeXBlFGEEjMZlE+8=
+
+Name: codechicken/multipart/asm/DebugPrinter$.class
+SHA-256-Digest: caOyk0KUa/dXneY70udKnf6IGd5Y1GM7D3jZy4QNPaA=
+
+Name: codechicken/multipart/IDWriter$$anonfun$setMax$1.class
+SHA-256-Digest: 9+Yb7ta+RuSoKIkikew/tG3XerH511iobrKW0yRiKaw=
+
+Name: assets/multipart/lang/ru_RU.lang
+SHA-256-Digest: RAzLZKx4nVSapSJwYxyu2bAQn2arTNMrb0HM0C5ToPs=
+
+Name: codechicken/microblock/PostMicroblockClient$class.class
+SHA-256-Digest: youOpNz5ZWhZ0GLXQt4YTpBzzN/BSEf31DoPMmQlKAw=
+
+Name: codechicken/microblock/FaceMicroblock$class.class
+SHA-256-Digest: Mdw5Q6GCNDO9w2OYly2lX0RQQCqf/XOMHeu6NLepHvk=
+
+Name: codechicken/multipart/MultiPartRegistry.class
+SHA-256-Digest: N0/hP6EpCrQKj+XJ6/LKGfk7WiVqT+BS+ZX8tnWZgfA=
+
+Name: codechicken/multipart/PartRayTraceResult.class
+SHA-256-Digest: SIdMexJnduKZaZI3NWgk9nLaM/gtBai8n0aRNBac8yk=
+
+Name: codechicken/multipart/asm/ASMImplicits$ExtClass$.class
+SHA-256-Digest: u3HTBEB6wjFw54F28LPx2qDTQQ7UPRepfj+Qeggt8Ek=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$loadParts$2.class
+SHA-256-Digest: OiWYX8u3UNQzBEmU4AOdF4LcgytqGcX/tsgBwDkwHgY=
+
+Name: codechicken/microblock/BlockMicroMaterial$$anonfun$loadIcons$1.c
+ lass
+SHA-256-Digest: BB8bYdFHxVq6SXzAlvsYUCs7fG8M3X5P9/VjElLnGAo=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$getTileStrea
+ m$2.class
+SHA-256-Digest: 8jmpfDfT5tPcArQr25eRaxig7gorWeG/JU4t/X0wRKk=
+
+Name: codechicken/multipart/handler/MultipartSPH$MCByteStream.class
+SHA-256-Digest: 9RGSfo/VK1lY0t06EubUyh9uMWViHupCE3fJ1U16QIc=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $3.class
+SHA-256-Digest: HZ45UjwqvBCW79CjFPdUWUBGUhKWlLi6ISZAp+SPxK4=
+
+Name: codechicken/microblock/CommonMicroFactory$.class
+SHA-256-Digest: l6v8TnHRGtlR/3Ewzn8RzroaxBdX7ypN3O36eL0Vr44=
+
+Name: codechicken/microblock/HollowMicroblock.class
+SHA-256-Digest: 8hyF1xADi+GORs3rOaA9lo5F0uZj1u2IL/pMK+A2oCA=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$calcMaxCut
+ tingStrength$1.class
+SHA-256-Digest: P9MjQeaKNz/K9y3uPvKDW3oevUn2P5g7XoqDFuWgsi8=
+
+Name: codechicken/multipart/TickScheduler$ChunkTickScheduler.class
+SHA-256-Digest: q55qH4H4WQLnkCu9BwoXijeCeEIvIX9VfvPXQstSAxE=
+
+Name: codechicken/multipart/asm/ScalaSignature$ParameterlessType.class
+SHA-256-Digest: U+/QqPdS2N2TkqrqSvYN8imO9sklbstMd4yZAaKixAM=
+
+Name: codechicken/multipart/scalatraits/TModelRenderTile$$anonfun$rend
+ erStatic$1.class
+SHA-256-Digest: pvabDE6HFUEb9NcXgnDxa48X++piOdIFo9D416kejBc=
+
+Name: codechicken/microblock/EdgePlacementGrid$.class
+SHA-256-Digest: J2ekAYoeJB/EEkPuJAVYNJYsQXzEvJAQTFe1omalszg=
+
+Name: codechicken/microblock/package.class
+SHA-256-Digest: 6PGfOmcWcl57pplXIuv1UlbriSlhtlwnCmPAwB44s+U=
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassSymbolRef$class.cl
+ ass
+SHA-256-Digest: qrmUbWl6AfA4zgYP32F0L3KE57IgWJA3Jx7prha6nW8=
+
+Name: codechicken/microblock/CornerMicroFactory.class
+SHA-256-Digest: pITegHqpr8kuIOrRIb/8EMqjQkBF0vivMteULdJmtWY=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getThinningResult$1$
+ $anonfun$apply$mcVI$sp$2.class
+SHA-256-Digest: sgszmn04v/Xd9zK2x1fc6Ur8M98MF9oYZQIoVYKS9is=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$2.
+ class
+SHA-256-Digest: qQX2mbMerhn2InqWJHSSlVM1GQEh5c4pUnJlEGnWLlY=
+
+Name: codechicken/microblock/handler/MicroblockProxy_clientImpl$$anonf
+ un$preInit$1.class
+SHA-256-Digest: X+AtgSFGTypeHZq3i2TWYqVOBdnBLBhWPM5VHjl4Y/E=
+
+Name: codechicken/microblock/MicroblockRender$$anonfun$renderCuboid$1.
+ class
+SHA-256-Digest: 0VWabsxTrTZ6zPdTivxtyOtmHfOtpKx2DhCIwlxuruY=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$registerParts$2
+ .class
+SHA-256-Digest: me9XHkVtoPhZHHsr3YYzudilVBBZ4YxlV/JNfkfQqOg=
+
+Name: codechicken/multipart/minecraft/McMultipartSPH.class
+SHA-256-Digest: HnRoy4mb6vrEUUbae4dIBTELcOfET24IA2Dll2dXGnI=
+
+Name: codechicken/multipart/BlockMultipart$.class
+SHA-256-Digest: MGhAiPE+/Xf+gXAuXpnD0mdTL9U2QUvLdp4WrcVgwHA=
+
+Name: codechicken/multipart/minecraft/TorchPart.class
+SHA-256-Digest: +s1akm5ViSJKCE1FotZtHTJ+zK+dSehUFjFPCQD09eM=
+
+Name: codechicken/microblock/ItemSawRenderer.class
+SHA-256-Digest: IF8vbtPzAcVNBxJMdFyPHWv6y5g3xIgGsuxR0C3ccu8=
+
+Name: codechicken/multipart/MultipartGenerator$$anonfun$codechicken$mu
+ ltipart$MultipartGenerator$$traitsForPart$1$$anonfun$apply$2.class
+SHA-256-Digest: 8Ki0a113OPBdGL6CYgECsh/1qZwZwQLsaVLNGmrKVhU=
+
+Name: codechicken/multipart/asm/ASMImplicits$ExtClass.class
+SHA-256-Digest: bjXlBvQRgFtaiCwyOV6w4aRuHwVP8Gf5qFGsZypKYqI=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$registerScal
+ aTrait$1$$anonfun$11.class
+SHA-256-Digest: RZ3rg+ydN/EYQuviuR/z9WJtUkB6Atnzxi00vnlPJvc=
+
+Name: codechicken/multipart/asm/StackAnalyser$Invoke.class
+SHA-256-Digest: 3jlj1MOVGXXb6nlxtwAZQspu6y6aeehieFTchDzB/FA=
+
+Name: codechicken/multipart/scalatraits/JTickableTile.class
+SHA-256-Digest: +Ln4mfPN78RUO7ZDptvmTYm7DJmhCnwXo/gmiThaUAU=
+
+Name: codechicken/multipart/asm/StackAnalyser$Const$.class
+SHA-256-Digest: U2sJEZc99o+w1bUJ5ONYgapeyuJXrjnZ971J4i9vAZ4=
+
+Name: codechicken/microblock/IMicroMaterialRender.class
+SHA-256-Digest: QeeNXJp0Y6Aa30rFUvh1H/cTQvLgH/GBIlEWBff9Hfk=
+
+Name: codechicken/multipart/minecraft/McMetaPart.class
+SHA-256-Digest: wyS23mp+JS5Z+PRANLx+5TISf82NKHNnoYlJsKg4G/0=
+
+Name: codechicken/microblock/BlockMicroMaterial$$anonfun$createAndRegi
+ ster$2.class
+SHA-256-Digest: kbhTPSLgx7SRqISErogLIv1UIOQWM0ZuaglrwuPx4oA=
+
+Name: codechicken/multipart/asm/ScalaSignature$ClassSymbol$.class
+SHA-256-Digest: jjLLttmUKpv4eG7Og6/4jV6FZlKaSejh3WwIjbVy0t0=
+
+Name: codechicken/multipart/asm/ScalaSignature$SingleType.class
+SHA-256-Digest: 6Kurxrbb85q7WXTgoE3o1GBp2COFV+yddKcM7+uIeQM=
+
+Name: codechicken/multipart/asm/MultipartMixinFactory$$anonfun$autoCom
+ pleteJavaTrait$1.class
+SHA-256-Digest: ATJxLsxtZ7su9ENwxN0VTRWWAF+h8oXbcp6pMurRS+8=
+
+Name: codechicken/multipart/asm/StackAnalyser$Load.class
+SHA-256-Digest: EdgmxRK/FyG3hNg9zZDIbQ89aDICYwQH70+BkG+0YiQ=
+
+Name: codechicken/multipart/scalatraits/TIInventoryTile$class.class
+SHA-256-Digest: AuW+q8Y1U+9opuqUltdN+b5N8BE9UsHX5KaVNW6GBmM=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$registerScal
+ aTrait$1.class
+SHA-256-Digest: sa/giXSHVzBX7Ve8TvTUCN1JmZ9oVW2yloIe3mjXlIs=
+
+Name: codechicken/multipart/MultipartHelper$.class
+SHA-256-Digest: NixzP+mHyXjzL4IlKkVCOzIfz1EVfHw0NQJ9Ye8iGeI=
+
+Name: codechicken/multipart/MultipartStateMapper$$anonfun$putStateMode
+ lLocations$2$$anonfun$apply$1.class
+SHA-256-Digest: UzUjfc4EeD53YNTMH2RvmCoye49vz6fMY0+CQmI0xv4=
+
+Name: codechicken/multipart/handler/MultipartCPH$$anonfun$handleCompre
+ ssedTileDesc$1.class
+SHA-256-Digest: E+QrT9WUrkbk4PPax/enknzC06qS01cjXr4vwAkvgNU=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getHollowResult$2.cl
+ ass
+SHA-256-Digest: FNWrUSFHl3ES6mcDM6HOXX+LiWzgQ6ZnrMT2+MKwdeo=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$2.class
+SHA-256-Digest: 64g9ToUP6gXesHYdbB8NiWMIyTOR2G6K6Y5om/oI+ck=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$remPart$1.class
+SHA-256-Digest: oVz4xLAxzx/3HRWexw2TWS1n7WLmN1UgzcA9Yqa4YcM=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$renderFast$1.
+ class
+SHA-256-Digest: Y05L3uhaNl07SHkPZHPzq49lJxKMYs7xg6NG6V+NPRg=
+
+Name: codechicken/multipart/asm/ASMImplicits.class
+SHA-256-Digest: JOEqkxbZ/PkKN6rQEFeWIRYW8M3arAL/wStqxinkoeo=
+
+Name: codechicken/multipart/scalatraits/TSlottedTile$$anonfun$clearPar
+ ts$1.class
+SHA-256-Digest: n2/b5fMYooy04f8E/4/FqdRvforhShU7wTO2csCxHng=
+
+Name: codechicken/multipart/TNormalOcclusionPart$class.class
+SHA-256-Digest: +ULqtHqzy3AXSw72oQNk5g968b1Yj8tJVvaCKEjmNYo=
+
+Name: codechicken/multipart/asm/StackAnalyser$.class
+SHA-256-Digest: kirbnQ/RzNd2wXri8dVImkJZsmShbKcW3eD9nKIroQ0=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$dropItems$1.class
+SHA-256-Digest: xHl6b/yaf45+alaBMRJV/35yWcjFPpZG8+n5pbv1Ekk=
+
+Name: codechicken/multipart/asm/ScalaSigReader$$anonfun$ann$1.class
+SHA-256-Digest: YjNWmnsiKLTCKPJDqWz8yp1+R9KsskbtzRlOTYelVf0=
+
+Name: assets/multipart/lang/en_US.lang
+SHA-256-Digest: TJjyMBgwr1fsOqT0gPrWpzwjbOEzL7rjtBd9PP611VY=
+
+Name: codechicken/multipart/TIconHitEffectsPart.class
+SHA-256-Digest: QWckAySex30ugQNGD/2GqtX1QRKx9X97OzBHxImICLY=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ClassNodeIn
+ fo$MethodNodeInfoSource.class
+SHA-256-Digest: i7YhXyE8oB38BO4GR4WIc4EXGt7c4FLrba0SYKVIwJc=
+
+Name: codechicken/multipart/ControlKeyModifer.class
+SHA-256-Digest: hpDP6BbfU6i1fe7n77rc0Z/QYk5Snt6IMF6Qmix+T9E=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$4.class
+SHA-256-Digest: OnnvX0uaRVGjgK/OiZ5CNaLHE6z5ChxXX/R3zCLB0fE=
+
+Name: assets/multipart/lang/es_ES.lang
+SHA-256-Digest: O7YkRmt//5xHrjaeFEYrPyOJEh73AH6QaQOz7CA6hKM=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$2.class
+SHA-256-Digest: ZwBRoo5efqjDXBKfh1p0Q91z6qUCJT+Lhifd9hYJLF4=
+
+Name: codechicken/multipart/asm/ScalaSignature$ArrayLiteral.class
+SHA-256-Digest: h1zTavkcyVZ2wsl9dsBxMmi9+RHV0r+hOp0U5xN37U0=
+
+Name: codechicken/multipart/asm/ScalaSignature$IntLiteral.class
+SHA-256-Digest: 1npFsJp+X4UCy0OCnJpnbtbMJZ5dETmdzkCA71HmcCA=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$get
+ TankInfo$1.class
+SHA-256-Digest: xakzIGMqi7n2RHfQgpxj+1l+u0yuFTnzHxEG/V1VsUA=
+
+Name: assets/multipart/lang/pl_PL.lang
+SHA-256-Digest: mV1ZIAnFyoumycnh3dgYLSBe+CwdRRGWK/CoVuF5vOk=
+
+Name: codechicken/multipart/asm/ScalaSignature$Flags$class.class
+SHA-256-Digest: 3Bcs56/L7/vRFyCOM/y7QGjGYT7Jxn5Jj6y9PEbUU30=
+
+Name: codechicken/multipart/asm/StackAnalyser$New.class
+SHA-256-Digest: DRWTqEPNL0E9IbKTgErkkQyOO9YCCCJIeO8tzV0S3nk=
+
+Name: codechicken/multipart/asm/ScalaSignature$AnnotationInfo.class
+SHA-256-Digest: yspj4rhTzyCTU7+EmbFeM4/25EhqvZcDuPrg4TI5Sc0=
+
+Name: codechicken/multipart/minecraft/McMultipartCPH.class
+SHA-256-Digest: 3ZkcphqQJyOEKGgIIfi5naQVeQmbXfhMPfE6pxNMzjQ=
+
+Name: codechicken/microblock/package$.class
+SHA-256-Digest: /ObbFObl9P5vkAXzx4ayhU1NQXEM69nUDJRtd6krE1M=
+
+Name: codechicken/multipart/asm/ScalaSignature$DoubleLiteral$.class
+SHA-256-Digest: dkTWlH57ByKeUHqYzGfrz2MpmGiyKrrZO437fFrQ5mY=
+
+Name: codechicken/multipart/TRandomUpdateTickPart.class
+SHA-256-Digest: BuWWLr+HRzbDWqki+HjZ73WdQ0eH9jgMj4AlAfeDhWU=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$renderStatic$
+ 1.class
+SHA-256-Digest: vcM6Rd4iDJ0jlagTi/j3n+LVJCCeWdKn/luWq3xyNGI=
+
+Name: codechicken/multipart/asm/ScalaSignature$ByteLiteral$.class
+SHA-256-Digest: wYiRxpmLphuV1wxyrTChgGXiUhkyRps4okj3DQe1lQw=
+
+Name: codechicken/microblock/ExpandingPlacement.class
+SHA-256-Digest: siwZUQ4nGk3J5v+vAsvWz/IbZeCbvHZ6m1jZdMUOLm8=
+
+Name: codechicken/multipart/IRedstoneTile.class
+SHA-256-Digest: OCjwqAdfqYwghru0FVB37SsJUQN7PXQEO21ATRPnGew=
+
+Name: codechicken/microblock/EdgeMicroFactory$$anonfun$1.class
+SHA-256-Digest: 6smc9Ui220IqIzTKSmC9GulGyhAs5EzehmdbOKWEsWA=
+
+Name: codechicken/microblock/IGeneratedMaterial.class
+SHA-256-Digest: S2QbMl+ausy1niX9iqhvPja7xWv2DcVT+4wV/y6uQpg=
+
+Name: codechicken/multipart/asm/StackAnalyser$NewArray.class
+SHA-256-Digest: dGA15RIcyQmCIgyh1eYOmxK4kYxwCrfFxI1/vHbhTJE=
+
+Name: codechicken/microblock/ItemMicroPart$$anonfun$getSubItems$1.clas
+ s
+SHA-256-Digest: SopvKKCozFWipjPdOWU3eD/rAhk9/MmmG9IGxWC+c1Q=
+
+Name: codechicken/multipart/asm/StackAnalyser$$anonfun$width$1.class
+SHA-256-Digest: quzdsX5nvVam9IG17XY0wj2Th8EoQc8p8b4Kp09j/eA=
+
+Name: codechicken/multipart/IMaskedRedstonePart.class
+SHA-256-Digest: ZRS/jARl7CGS93mYyof+ncCVchz8IGZp3y2WY/i4Etg=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getHollowFillResult$
+ 1.class
+SHA-256-Digest: 0RZy223xX5qVSveBF9oj4bHZoACEv0ucuwUbhLy4+aM=
+
+Name: codechicken/multipart/ControlKeyModifer$.class
+SHA-256-Digest: WTjMt1/KWoNWHvZs71EoMCwQRNYC7Ft8QRP7zsUq5Jg=
+
+Name: assets/microblockcbe/models/saw.obj
+SHA-256-Digest: z2EjfA0IP94/DLpbJ/4DVMQ2U5iH0xts2TmMP0lEGJE=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$1.class
+SHA-256-Digest: Vo0eEvrtBhshlPhb0cirS5ejOC90gPdDvRjD0KMWTkU=
+
+Name: codechicken/multipart/asm/StackAnalyser$ArrayLength.class
+SHA-256-Digest: lFhoRYvsNe7eDVdSbwL6/mV6gnBeottigu3pB0sf/jc=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$.class
+SHA-256-Digest: NSH3LFtTZ0CBDlH3cg0rm2hEij0rn/MRjtabOYgn26Q=
+
+Name: codechicken/multipart/scalatraits/TModelRenderTile$$anonfun$rend
+ erDamage$1.class
+SHA-256-Digest: m0Zx9hzHOoSBrgJq1KYgP1Ev1pXfWDE32n5c9ndEqaw=
+
+Name: codechicken/multipart/TSlottedPart.class
+SHA-256-Digest: xEVcuckULLTwCFVXEQxjXyBTzhFxXCBYj6K3lXY2aUI=
+
+Name: codechicken/multipart/IRedstoneConnector.class
+SHA-256-Digest: yEVAYt1wg2C2snfZkGnKag6zLpgSSbhnUo48YwqT2ZI=
+
+Name: assets/multipart/lang/fr_CA.lang
+SHA-256-Digest: DUV17Uj8NTqIeADGNb0OYUHE2/6E41kN5DOoSn+/bUk=
+
+Name: codechicken/microblock/TMicroOcclusionClient$class.class
+SHA-256-Digest: 5GZpwK1WMjkljMeRJzkRdS0poS+ZVMsyYtLaAIJV5/M=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $4$$anonfun$apply$7.class
+SHA-256-Digest: XDDn1+QfcSGpp5gyrkqutSFdigH02ohCwLuvagVxO7E=
+
+Name: codechicken/multipart/MultipartGenerator$$anonfun$codechicken$mu
+ ltipart$MultipartGenerator$$traitsForPart$1$$anonfun$2.class
+SHA-256-Digest: iVaFPagMtqFvcVXrtHcyOyF10wFZlrhuhjtRowOlxGU=
+
+Name: codechicken/multipart/asm/DebugPrinter.class
+SHA-256-Digest: zfZgfkze/14FKIsvoVkHglh/hCwkNpF13c/bS+hXqow=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$beforeServerSta
+ rt$1.class
+SHA-256-Digest: wnOaaZxWOkbFhGm4COntAddFQ3Ms1xjjhylGp1PLvS8=
+
+Name: codechicken/multipart/asm/ScalaSignature$TypeRefType.class
+SHA-256-Digest: bQlb65Ht9CNcbabFH2yxVoTShfaXr4PZWfJ5oJ5wKWA=
+
+Name: codechicken/multipart/asm/ScalaSignature$$anonfun$1.class
+SHA-256-Digest: RvWIeTQXlx/eS8dk5++8aIv6ORBVcO7+MpifBvYKuQU=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$renderDynamic
+ $2.class
+SHA-256-Digest: uIC/7jHJ2A6zgLSxxRJhMivZBsTliFgF8DOAErfRxuM=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getThinningResult$1.
+ class
+SHA-256-Digest: OfqCRNsGCDh/dpwI8uN/d+UStrqjUQ/PIZDkQ/A0db0=
+
+Name: codechicken/microblock/Microblock$.class
+SHA-256-Digest: u9h4Admm4WjYMStB2sEO0G0f+RQb8/rigo8zSX3Xe+M=
+
+Name: codechicken/microblock/MicroblockClient.class
+SHA-256-Digest: L5TmGJ9iasdM6PQVHwfHmZV41TfTowwiCTg0tZkMFds=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$invalidate$1.class
+SHA-256-Digest: SQ60VF37L23y0RBU0nz80BIrQO4TLtNMhHC5mtu92OI=
+
+Name: codechicken/multipart/asm/ScalaSignature$SigEntry.class
+SHA-256-Digest: H30CPX89HoUNfrrZ4lil+eaxmQjgLHYkfZ3XUJGz7bk=
+
+Name: codechicken/multipart/asm/ScalaSignature$ShortLiteral$.class
+SHA-256-Digest: WwasEPKHa69XwGE1T9opWmby2NxD6ptuWacgHYgShoI=
+
+Name: codechicken/microblock/IMicroMaterial$class.class
+SHA-256-Digest: KuYQvPj/zAb54tKtdzGzjvEMu5wrkulykqVd8ISBqz4=
+
+Name: codechicken/microblock/MicroblockFactory.class
+SHA-256-Digest: eXVyMB3bKyC4OVnz8ugNTGmSMWjXrrHp/M5ImCgRvhc=
+
+Name: codechicken/multipart/asm/ASMImplicits$ExtBitSet.class
+SHA-256-Digest: euKWB4QxWT8PbUL2NphB60S7Key84ZbS5gkPKEuwqRE=
+
+Name: codechicken/multipart/asm/StackAnalyser$ArrayLoad$.class
+SHA-256-Digest: RQdNX7I06ayH/Zhl4sRPoTftt+cvFf+ccgr3lh8BdI0=
+
+Name: codechicken/multipart/handler/MultipartSaveLoad$TileNBTContainer
+ .class
+SHA-256-Digest: mf1xma1862LKS+qH4/DEwNh8QTezmpRd8LN6qvUT1ac=
+
+Name: codechicken/microblock/HollowMicroFactory$$anonfun$1$$anonfun$ap
+ ply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class
+SHA-256-Digest: 3fWp72IlCjP+sDcjnoM2xGX24Eku7Qi7CE1vXQn5p2Q=
+
+Name: codechicken/multipart/scalatraits/TSlottedTile$$anonfun$canAddPa
+ rt$1.class
+SHA-256-Digest: ccNfBUvncp5xKJgjdZyeMSZO5/Y9TFDMGYlWGoAlNdk=
+
+Name: codechicken/microblock/ItemMicroPart$$anonfun$getSubItems$1$$ano
+ nfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class
+SHA-256-Digest: F8WZKt9d3DASS1uYJZqKvbc8xxD4ZCX5vmW+vdOFj14=
+
+Name: codechicken/multipart/asm/ASMImplicits$ExtBitSet$.class
+SHA-256-Digest: FctQWQu9ec3+R983ZhxYtzLS2adG3pwB3p96SzhYs6g=
+
+Name: codechicken/multipart/asm/ScalaSignature$FloatLiteral$.class
+SHA-256-Digest: 8Qn5ok4UGF0QfXbiu7DBeP51wbG5J5tAVwto0aKYKfo=
+
+Name: codechicken/microblock/MicroblockRender.class
+SHA-256-Digest: QQB88SGNVrrrS3DVg/gYz8ZRd9JA9N311V2n5H4RCKg=
+
+Name: codechicken/multipart/handler/MultipartCompatiblity$$anonfun$1.c
+ lass
+SHA-256-Digest: AThMZYN/1Z2t73v/jEaCYtx6b1oU4OQjcT0IrX7DdBw=
+
+Name: codechicken/multipart/IDWriter$$anonfun$setMax$5.class
+SHA-256-Digest: OlmJmmnDYgk/2wkANRW9ci0iUual80tX42Cittok0vQ=
+
+Name: codechicken/multipart/TileMultipart.class
+SHA-256-Digest: 3Ahq8nMZwxUDZaRFg3S1Zg/1Z2Y904v5JfEE4isgb10=
+
+Name: codechicken/multipart/asm/StackAnalyser$PrimitiveCast$.class
+SHA-256-Digest: TytAIscDkfytYQnmkpk/A3kNALkqCVarzjJu602iLd4=
+
+Name: codechicken/microblock/AdditionPlacement.class
+SHA-256-Digest: IBc2wOfV4p8Zo2Hi9TIH7bhZVi/sfORcbrWqqMc1YLQ=
+
+Name: codechicken/multipart/asm/ScalaSigReader$.class
+SHA-256-Digest: 2tzvXhsqKp6a+x5+AN/ho/gVTehJGCcBfRwkWfDNbtY=
+
+Name: codechicken/multipart/scalatraits/TTileChangeTile$class.class
+SHA-256-Digest: AkhGRK+Myaub28SuNA9f62AIlfoq0yhgXJ0ImUyZ7ZE=
+
+Name: codechicken/multipart/TMultiPart$$anonfun$1.class
+SHA-256-Digest: xxjkrIAFX8g+1TBai06HRzlXZfpMWm11Q90cQGWiamk=
+
+Name: codechicken/microblock/HollowMicroFactory.class
+SHA-256-Digest: AU1yboLRPhObC/jCETBp1aF0af2kMJN1LE2aZJRVOak=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $3$$anonfun$apply$5.class
+SHA-256-Digest: V0PHfO5r7O2RWwg8bZLTJK8uxO4EyejS+Xx9xfdY/G0=
+
+Name: codechicken/multipart/asm/ScalaSignature$StringLiteral$.class
+SHA-256-Digest: bNeB7/T5+j8dLfGgdgpVO1SjNWAbPoZtoiJqE8tLQZI=
+
+Name: codechicken/multipart/asm/StackAnalyser$PrimitiveCast.class
+SHA-256-Digest: Xkx8uc7rIxpGJF3Nu1P29Yd9QdR9RTJwak6YUR7vDJQ=
+
+Name: codechicken/microblock/PostMicroFactory.class
+SHA-256-Digest: l7KxRZT5Aau2j3WDvVH7lM95SCxf/X4+LYiTLxUgVvc=
+
+Name: codechicken/multipart/scalatraits/TFluidHandlerTile$$anonfun$get
+ TankInfo$2.class
+SHA-256-Digest: rax+Pge2XkAi5tnIlpUlbQvH/kciRaFxneji9vFsrrQ=
+
+Name: codechicken/multipart/handler/MCPCCompatModule$.class
+SHA-256-Digest: Ny7tw3l84Nku5Fl9jYh16DeCTFjSVaXIiro/g0bBjr4=
+
+Name: codechicken/microblock/MicroblockRender$.class
+SHA-256-Digest: JjwpZzxcH9AOFZ/nP4WxJGLW2wRyFfrHTemrCUTDUwU=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $4.class
+SHA-256-Digest: pOo5vCi5h/hpAr4N2e96+j7X4wefGrr7N+OfRkvRk8A=
+
+Name: codechicken/microblock/handler/MicroblockProxy_clientImpl.class
+SHA-256-Digest: 7Df+hKZ4SXNjzRLbj76Qk/AdZFa+41dLy8gOrAQoNFM=
+
+Name: codechicken/multipart/handler/MultipartSPH$.class
+SHA-256-Digest: AfKBxcIZvJOyeMJx2PqBk+0luAWPEYSkGDtToCYafu0=
+
+Name: codechicken/microblock/MaterialRenderHelper$$anon$1.class
+SHA-256-Digest: bSssensBqQ2NebiaTXHPgrwVQgiwk0OCdJAT8qshHeE=
+
+Name: codechicken/multipart/asm/StackAnalyser$Param.class
+SHA-256-Digest: T4u0CHsax11xKBucf+rSPTadW/6poUGUAtqIrVnzwrY=
+
+Name: codechicken/multipart/asm/ScalaSignature$TypeRef.class
+SHA-256-Digest: 5P3tXi/apG4jQdGEXiL77GsCMHYu/DFWD4xH9TVh/Ts=
+
+Name: codechicken/multipart/PacketScheduler$$anonfun$schedulePacket$1.
+ class
+SHA-256-Digest: uQfi0F/iHLzk5tgU2pCue9z4JmIVp4tbxmlXe5JYm3I=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $2$$anonfun$apply$3.class
+SHA-256-Digest: eLKm7mfzpBa65DnbOkDVdoeqWgN2e1VGLb8yoEyEVDE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$MixinInfo.class
+SHA-256-Digest: FqB5cjQpcHOZlMG4rt2zkTrBWZv4yJoR9n+ZeT99ZG0=
+
+Name: codechicken/multipart/asm/ScalaSignature$FloatLiteral.class
+SHA-256-Digest: D7oovxY8Xn/TmcG3tuzYMyF8jLzKT6nnZzAoV5bUzzw=
+
+Name: codechicken/multipart/PartMap.class
+SHA-256-Digest: l6DnrAWr1mnEAoaYj+10UG6MtTzQFiEo85S0ZKI6VUI=
+
+Name: codechicken/microblock/MaterialRenderHelper$.class
+SHA-256-Digest: 8vO9NlnZN6vL0eNxW3o6sll32a+A1T/5K6UeZmjcATw=
+
+Name: codechicken/multipart/scalatraits/TSlottedTile.class
+SHA-256-Digest: VwVKgBZCdkKLAGCS+75HF+amE+GK8CVsxbK9a9wv1fA=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo.class
+SHA-256-Digest: 42eNWV7D0N7ofz72bMnN+P2DLgHJ8RuOjb+5DPo3EN8=
+
+Name: codechicken/multipart/asm/StackAnalyser$GetField.class
+SHA-256-Digest: P98fgX3GM2dC+NfsrImiJS2LlFXGY2FRsCxH6XCt0bA=
+
+Name: codechicken/microblock/PostMicroFactory$$anonfun$2$$anonfun$appl
+ y$mcVI$sp$2.class
+SHA-256-Digest: fe8eC+MUGwnFxxQx6NkYZtCjwmfq5A/iwHIbhFj8EQs=
+
+Name: codechicken/microblock/MicroblockPlacement.class
+SHA-256-Digest: M6464E9I/sIcZPN2gA/Chysg81oyXH6Mv7nciOAEM7o=
+
+Name: codechicken/multipart/scalatraits/TTickableTile$class.class
+SHA-256-Digest: NgmeTAuyDw22FYE/lJPK7r5qESGf2/SOb8kLR4s9bGc=
+
+Name: codechicken/microblock/handler/MicroblockEventHandler$.class
+SHA-256-Digest: GgXcXTTxIJ1ERHqDT26NrWSmDoUmbwGJM6VOK6mEALA=
+
+Name: codechicken/multipart/asm/ScalaSignature$MethodType$.class
+SHA-256-Digest: 4OnpT0wbAGjuppEN4J7g0PZE138R6UEHGPf1ciL12YY=
+
+Name: codechicken/microblock/MicroMaterialRegistry$$anonfun$loadIcons$
+ 1.class
+SHA-256-Digest: M0kMC4OWC/91TgI6euETSzoxdKEfydXF35qQnY8TsDw=
+
+Name: codechicken/multipart/TileMultipart$.class
+SHA-256-Digest: eKKvGQwxuRc+ZSFRIjhSoRFgIUjFkXtSjzn+AuQBtw0=
+
+Name: codechicken/multipart/TMultiPart.class
+SHA-256-Digest: GLgEu7wMCDBKMjcGLf6Thr4K9ILYQw/JhmBZr8RPiYo=
+
+Name: codechicken/microblock/MicroblockPlacement$.class
+SHA-256-Digest: T/grbisYlZyOAC5wwes56nA6+iAm5vw0WmvMixKo36Q=
+
+Name: codechicken/microblock/handler/MicroblockSPH$.class
+SHA-256-Digest: NXcv3P1UzyfN1pmyAPodBIqoaXgi59owCGb87byvqRI=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$getDrops$1$$anonfun
+ $apply$2.class
+SHA-256-Digest: E3azsL4+LMzdFBrce3VG3TcRnLv4oiKqvg+NpYuYaBs=
+
+Name: codechicken/microblock/ItemMicroPart$$anonfun$getSubItems$1$$ano
+ nfun$apply$mcVI$sp$1.class
+SHA-256-Digest: QiGt/cpI4G73Oeh9mE96PTZLPdUuHgB6uJIjBFF2wZs=
+
+Name: codechicken/microblock/handler/MicroblockProxy.class
+SHA-256-Digest: 5wDEKKGCw87n1khstDbX9018gXPvqgf3hNr7kbYnPcE=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$canPlaceTorchOnTop$
+ 1.class
+SHA-256-Digest: 7gpRPW8dtswlQJpt420D6VxMzUvBBF2Zdn2rYrW6dSA=
+
+Name: codechicken/multipart/handler/MultipartProxy.class
+SHA-256-Digest: 2t+fVN4iUxN+/zl7yb5y3IJQgtu00i5YZKnx3ywHv/4=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onTickEnd$5.
+ class
+SHA-256-Digest: 3PZuJ5hyp6Ck+W05CD1s42OcOJiClvXsHabjuaVRDB4=
+
+Name: codechicken/microblock/PlacementGrid$class.class
+SHA-256-Digest: xQNrMwE65wbfyQxL757CcvdSvFRH7rxSK5DkcSe3WuQ=
+
+Name: codechicken/multipart/MultiPartRegistry$$anonfun$beforeServerSta
+ rt$2.class
+SHA-256-Digest: zJg5nZF4pyzYndfcHUMrvhJ9t5CfJz5jA9bFxCadjkw=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $2$$anonfun$apply$2.class
+SHA-256-Digest: kE0K8Q0/9hKNTR32qbgIxmXXyKIiJ99ScZR5ckOcV8I=
+
+Name: codechicken/multipart/asm/StackAnalyser$Invoke$.class
+SHA-256-Digest: 4WFSTVsovC9SjrG79mHQaV4mfGH7hY/iAAoa2VSkbHE=
+
+Name: codechicken/microblock/ItemMicroPartRenderer.class
+SHA-256-Digest: rrT9yUJBTNiUGZqVaIAKMSK4dz8wfrKJ+SwMlNZTW/k=
+
+Name: codechicken/multipart/PacketScheduler.class
+SHA-256-Digest: KQNC0kDEsq24TMdRbRYNloNOAYNBUXZX4FYdG1H8sgw=
+
+Name: codechicken/multipart/IDWriter.class
+SHA-256-Digest: HhfAEJ0QfzbGZmm7qD/syE9IRiA2Y7ojr7Yuu33Tqm4=
+
+Name: codechicken/multipart/minecraft/EventHandler.class
+SHA-256-Digest: SuFo6q/TMYUscCB+dO1TavvMSNkBmY4Xcga4Je9eykQ=
+
+Name: codechicken/microblock/HollowMicroFactory$$anonfun$1$$anonfun$ap
+ ply$mcVI$sp$1.class
+SHA-256-Digest: CHrGJeizhvj7OneBiIY3CLL1mRTlkSfkG/0L4oa0btY=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ReflectionC
+ lassInfo$ReflectionMethodInfo$.class
+SHA-256-Digest: DXIkkrEj4Bvu19Qa6IPnQBZRPve4qYgo1XFy0yBvXRw=
+
+Name: codechicken/multipart/asm/ScalaSignature$ExternalSymbol$.class
+SHA-256-Digest: mhiO3CI/Vq+a4ZN+HEhIF1mJTV/NDsgz/7lJHdQ3l3M=
+
+Name: codechicken/microblock/PostMicroblock$class.class
+SHA-256-Digest: GK3bzrJXzln217MCTMMcAoRbxKN/U/oXHy4BEbV6haY=
+
+Name: codechicken/microblock/handler/MicroblockEventHandler.class
+SHA-256-Digest: 5vptpJL+UENt+qdgGRWUCTP8kKx3LRuz8UzkLw/CW9k=
+
+Name: codechicken/multipart/IDWriter$$anonfun$setMax$4.class
+SHA-256-Digest: jc85unFamAC8uRfaIERrq5bwPx0xQ9q/Bg4cjWOzGwI=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getRemainingItems$1.
+ class
+SHA-256-Digest: 37xMVtjEfcHr1vlP9MkVQw4uJPtw4yBb4TbC+IB6z7Q=
+
+Name: codechicken/multipart/TItemMultiPart$class.class
+SHA-256-Digest: WnfyaBJGJi5k8NgS1fl1G+HcL7IreNxd7aBcE8Wgdik=
+
+Name: codechicken/multipart/asm/ScalaSignature$EnumLiteral.class
+SHA-256-Digest: eN3sdjxfQfXej5VDP4ngnL5O1cqb6sgswxcHP4flMgM=
+
+Name: codechicken/multipart/NormalOcclusionTest$$anonfun$apply$1$$anon
+ fun$apply$2.class
+SHA-256-Digest: vbfAFTXN2nhBOwM3Vkzyrm2FyU2Segm95+2AqVR2dlE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$7.class
+SHA-256-Digest: uDWEdYeDOt+BVOirHbtxYjJQcYRNkaXWxyYV1pS70y4=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$1.class
+SHA-256-Digest: U2Ry8NslJNuuhSK81UsY7rJTM9WOoF9HDiC+FweKK3I=
+
+Name: codechicken/multipart/asm/ScalaSignature$NullLiteral$.class
+SHA-256-Digest: WfbcjIn8Y82AZmt4q/BAJqm7PeTl5kMO64kfgDCxMCI=
+
+Name: codechicken/multipart/asm/ScratchBitSet$class.class
+SHA-256-Digest: PoLW3HLuC1/Z47lnbaGdrlGe9769fWnAbNXQmIJT8gs=
+
+Name: codechicken/multipart/asm/ScalaSignature$Bytes$.class
+SHA-256-Digest: ytCwF6IqZVoYpT0CAoDiHupBylus7FZiXTKsO5H1rBQ=
+
+Name: codechicken/microblock/Microblock.class
+SHA-256-Digest: CBSt9YjrtcPMk0OxNK+jzM2Z2lxDInha+ulwedHhuaU=
+
+Name: codechicken/multipart/asm/StackAnalyser$Cast$.class
+SHA-256-Digest: CDuQazd0Nc2noRZqQNJDqJnXGKA0S5iCSyQA8B52z2E=
+
+Name: codechicken/microblock/IMicroMaterial.class
+SHA-256-Digest: t0N6W5HE1rS8H6QaU4XybrwHBwDdV4ZU/EXMEzoq22A=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$MixinInfo$$anonfun$li
+ nearise$1.class
+SHA-256-Digest: Wu/I8/RGey/qnY45kislQBzhwlvU26qNwvk+vKgWD9s=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$FieldMixin$.class
+SHA-256-Digest: CC0F3YsIYQzoW4GkFPCpXKHXf/cvW+ouX1nI6CH7l8Q=
+
+Name: codechicken/multipart/asm/StackAnalyser$$anonfun$popArgs$1.class
+SHA-256-Digest: R+AwDnX3T1lu149igjJQ+genvP8RxvRjl5D9GQYtz7o=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$writeToNBT$1.class
+SHA-256-Digest: q/nUKkwYn/3FOXvSBmW1xmpdefBI6eYEK6JT8hLy02c=
+
+Name: codechicken/multipart/asm/ScalaSignature$LongLiteral.class
+SHA-256-Digest: wWoS4d5oohgdPj86X+0QWo3ve+b3iEbXbNsg1e1aZeg=
+
+Name: codechicken/multipart/asm/StackAnalyser$CaughtException$.class
+SHA-256-Digest: MIGZ7v0+P59/sP5i+MMhmJyP5ZmDR86Rk2IThdkQChA=
+
+Name: codechicken/microblock/MicroMaterialRegistry$.class
+SHA-256-Digest: zk2tTFjs2aJxm0RgjQ2g9USHLPdOQzU5b5IAWTjClbY=
+
+Name: codechicken/multipart/minecraft/LeverPart.class
+SHA-256-Digest: sGQcI6nWxjYH2uSopMebUVtxrFDXhhS3P6mzvR2zpKA=
+
+Name: codechicken/multipart/TickScheduler$ChunkTickScheduler$$anonfun$
+ processTicks$1.class
+SHA-256-Digest: 8FegiRBWznt4IBUPWVUP96/8S3PG5uesWS8gA96EcTM=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $2$$anonfun$apply$3$$anonfun$6$$anonfun$apply$4.class
+SHA-256-Digest: AxkHdMnKTt6ASaznqjJqRNwpoLt9B/52mWlhmMrTMH4=
+
+Name: codechicken/multipart/INeighborTileChangePart.class
+SHA-256-Digest: V23fjl45zu7DB2vNIir4bEZ+v/1leybfP1fiMoDwr6k=
+
+Name: codechicken/microblock/Microblock$$anonfun$getDrops$1.class
+SHA-256-Digest: ch1lpzZfMaSHLzGvJTcUeNsXBCCupCh7bKBI3knVS2g=
+
+Name: codechicken/multipart/minecraft/McSidedMetaPart.class
+SHA-256-Digest: /WwGwW9Iomf1DbmYG6WcZdiYSv3orn0ImTiWSrTVoBU=
+
+Name: codechicken/multipart/scalatraits/TModelRenderTile$class.class
+SHA-256-Digest: oavGW5hmX0j5LZujdYCieh/lejpbK/bIDilWRZtGN1M=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$writeDesc$1.class
+SHA-256-Digest: /hlAWvQGtaKINx4y7aO83nFvGakQ055lmQQzjNlwf5I=
+
+Name: codechicken/microblock/HollowPlacement.class
+SHA-256-Digest: WKlrZoafxOV3pAUvYTe0JF+CWE0wokNFBWXxhcHUcMs=
+
+Name: codechicken/multipart/TileCache$FlaggedTile.class
+SHA-256-Digest: mnbxl6lBmA2xwR9aw9TZgy4AXA12VbV7W8udF119+jc=
+
+Name: codechicken/multipart/handler/MultipartSPH$$anonfun$onChunkWatch
+ $1.class
+SHA-256-Digest: s50Ld9UZqZCqcoEGOU89JJ5oViTbBcO3WuY5C/uQFVE=
+
+Name: codechicken/multipart/handler/MultipartSaveLoad$$anonfun$1.class
+SHA-256-Digest: Jyv1KICtUyr6fWnN/Hw3oM1Zi0XMEwAaMcdoBpFKcCk=
+
+Name: codechicken/microblock/Saw$class.class
+SHA-256-Digest: i66lXsCA3CfDae8LR30Rp9q8sb/WpJyA+wD5YIF6Vok=
+
+Name: codechicken/multipart/IconHitEffects.class
+SHA-256-Digest: j+NwvAumPNcG+ezHrCbKP/ujkrzciIK4SyKvk8MfEk4=
+
+Name: codechicken/multipart/MultipartStateMapper$$anonfun$putStateMode
+ lLocations$2.class
+SHA-256-Digest: 0CkXHoClh+oT3+N2IU64XrNdLme8GkG12+4rmM0a0wQ=
+
+Name: codechicken/multipart/asm/MultipartMixinFactory$.class
+SHA-256-Digest: N0KoPJ2QC9txlAOj86x0xF+vguSGf448Ehah6DF6uqo=
+
+Name: codechicken/multipart/handler/MultipartMod.class
+SHA-256-Digest: AgassWSXNwkHCIdGbW721V6r5rlhXrh5nQ4n9arqFVs=
+
+Name: codechicken/multipart/handler/MultipartSaveLoad.class
+SHA-256-Digest: i9WtdoWNkWM3hybmFj/nBwXfBYLLE9/2C+zwXQ5pEYU=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$getDrops$1.class
+SHA-256-Digest: ANw5h1DuYtuwWe+agW3WE2O/wq2sRBSbIV33qrN5Uho=
+
+Name: codechicken/multipart/asm/ScalaSignature$TypeLiteral$.class
+SHA-256-Digest: zs7MPoBsp5oRZfpxEoqf+2ZL/lLCbf0ETrhiI7jDVSk=
+
+Name: codechicken/multipart/RedstoneInteractions.class
+SHA-256-Digest: +KQGrQuu8wgVFBTtE/u6oYLaUyNNp5NULlTL7H6Uy4U=
+
+Name: codechicken/multipart/asm/ScalaSignature$Literal.class
+SHA-256-Digest: /6fGmFJTV/rFO11WG9YyZO2IDIlRMIG701umD7KSbW8=
+
+Name: codechicken/multipart/asm/ScalaSignature$ThisType.class
+SHA-256-Digest: UvHuVuAZMJDb31dfDNcC4bAb+ahDVDU1gjLYwT5nC/o=
+
+Name: codechicken/multipart/TileMultipartClient$$anonfun$renderDynamic
+ $1.class
+SHA-256-Digest: wdqSHty9WTR4hsIprre2QGWMZeyT3TJfAVTSczjfMiQ=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$$anonfun$fi
+ ndPublicImpl$1.class
+SHA-256-Digest: ReaI2Yz12USpox/z3uXgxn/aWu5z5nGr6snjWYURFe0=
+
+Name: codechicken/microblock/CornerMicroblock.class
+SHA-256-Digest: T1H4vtTq6rjvuHxGcWxd2x9HbtO4xlksCsYytiefOWQ=
+
+Name: assets/microblockcbe/textures/items/saw_diamond.png
+SHA-256-Digest: EYYDmliiezGzzEfBEe3+z2cWrjDdxmB8uOVCACsyvrE=
+
+Name: codechicken/multipart/asm/StackAnalyser$New$.class
+SHA-256-Digest: fWHEsTPQcn2N8vOuMHCGWrqavxG/jNN0mAQOMrHWRXM=
+
+Name: codechicken/multipart/asm/ScalaSignature$EnumLiteral$.class
+SHA-256-Digest: S+IFCECuPVU3QCmrSa2VhcfbcQG1W2jlesdo9pEA/g0=
+
+Name: codechicken/microblock/FaceMicroFactory$.class
+SHA-256-Digest: lYfUzwnDjWGt+nFrBaUAaPOzL/iiYGd7LgDBxd38GOc=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$loadFrom$1.class
+SHA-256-Digest: nYHW9PrLFoYxVwM8CjJK0Hmk+YgoQsQ11fLrwTj/iU4=
+
+Name: codechicken/multipart/asm/StackAnalyser$Store.class
+SHA-256-Digest: 9TY78jKqAyTUpefv5zsl02QyHHZLk2CFs0tp7r/CXz4=
+
+Name: codechicken/microblock/ItemSaw.class
+SHA-256-Digest: /yIWD1/1dQT9LwJtZuXd8A3pITTCDDFgCjDPOZo6wBM=
+
+Name: codechicken/multipart/IDWriter$$anonfun$setMax$6.class
+SHA-256-Digest: Ro3M5cE+DqhhOE3QH3H1tJpf7icm3q7bRyNlA0prnyk=
+
+Name: codechicken/multipart/asm/StackAnalyser$ReturnAddress.class
+SHA-256-Digest: EHcIbfowoW7u2HDwzdZsBLJcVLQvGuZtvClZ1J1UbWg=
+
+Name: codechicken/multipart/asm/ScalaSigReader.class
+SHA-256-Digest: vk/VEF8g9Ps4ara4OGOOGNdqdUE6hy+qUX9lKMgcEE0=
+
+Name: codechicken/microblock/CornerPlacementGrid$.class
+SHA-256-Digest: ZKWBJ8UWKl+EObWcDCuDBJF1FufLR88816tv+1oGpD0=
+
+Name: codechicken/microblock/DefaultContent$.class
+SHA-256-Digest: SrfYd0oM742RxJUSSECCjR2WMIgnZsmtnmJ+1wUNKwM=
+
+Name: codechicken/multipart/IMultipartStateMapper.class
+SHA-256-Digest: uXWRtyo/wJkDa/Q/kklLMV01irPIXv5ufs5MMb5XyOk=
+
+Name: codechicken/microblock/EdgePlacement$.class
+SHA-256-Digest: uoMCptUdpRRxka/4KtEhwjA67ovMgGmDNWhpqlxXXvI=
+
+Name: codechicken/microblock/MicroblockRender$$anonfun$getQuadsList$2$
+ $anonfun$apply$mcVI$sp$2.class
+SHA-256-Digest: nN0rw/axzeQvEcg74X55y9xmxEZzwRaKrE5LR2aDA6A=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$$anonfun$mixinClasses
+ $2$$anonfun$apply$3$$anonfun$6.class
+SHA-256-Digest: ahqPb9TyyYfcPzS8WGcWAPd4R0A2qV1uXdW+PYYMyw4=
+
+Name: codechicken/microblock/MicroblockGenerator$.class
+SHA-256-Digest: 07WAEwfOeQcbtHUYzcLoTvUo1C08E8Ye7C/DbXCxV4s=
+
+Name: codechicken/multipart/asm/ScalaSignature$TypeRef$class.class
+SHA-256-Digest: Y7UBWGz6AuWX3/Kg6Mk506Aqk3rcCnw5O3ibjvZRSs4=
+
+Name: codechicken/multipart/MultipartGenerator$$anonfun$codechicken$mu
+ ltipart$MultipartGenerator$$traitsForPart$1.class
+SHA-256-Digest: m1urSv+Yrn147yTeHaohYG8ljz0FtdMVD+YQ0dPZXv8=
+
+Name: codechicken/multipart/asm/StackAnalyser$This.class
+SHA-256-Digest: FkKpLvEIxfB3M15owsZPCB1Bk9ClCSuZ5og1qUHNpXQ=
+
+Name: codechicken/multipart/TileMultipart$$anonfun$onChunkUnload$1.cla
+ ss
+SHA-256-Digest: DB+PV395EeCZrX7ffudPD9WXb/vuFa0sJLf5RYrTXOE=
+
+Name: codechicken/multipart/asm/StackAnalyser$$anonfun$visitInsn$1.cla
+ ss
+SHA-256-Digest: tC5O5woLOgoygGOUq8kTc+7k8qyVF9v6jeDyVcTsLVc=
+
+Name: codechicken/multipart/MultipartGenerator$$anonfun$setTraits$1.cl
+ ass
+SHA-256-Digest: 5FyKrCmdUS9qGQwuXp13IJmm+zgS9kVXTTwIJWoE/nA=
+
+Name: codechicken/microblock/FaceMicroFactory$$anonfun$1.class
+SHA-256-Digest: 5VFQvJXACNAZmRXG1cmlkKZlNoK3WbMPh0K8ANagOkY=
+
+Name: codechicken/multipart/IRedstonePart.class
+SHA-256-Digest: mY+Mynej2rkGrLYvjBVdlVKecVUi9rxpuBGjQUVVwdg=
+
+Name: codechicken/microblock/MicroRecipe$$anonfun$getSplittingResult$1
+ .class
+SHA-256-Digest: WeGHheyFQIe+Cb+lsONNyQahdq3sjYQOmb+t61ASZYY=
+
+Name: codechicken/multipart/IRandomDisplayTickPart.class
+SHA-256-Digest: KqEGhXbGHcfkfRixUrBA+43c8kDODJX9ZR6qc/fCn4c=
+
+Name: codechicken/multipart/TickScheduler$PartTickEntry.class
+SHA-256-Digest: T0KxGeUmFhCzsnSAzSz0rN8tN9fmncQVKI7DFoMEJAE=
+
+Name: codechicken/multipart/asm/ASMMixinCompiler$ClassInfo$ScalaClassI
+ nfo$$anonfun$interfaces$3.class
+SHA-256-Digest: ayHPg1gZfvHnJHazRPBZcyfWPjdbDJ/gop0tBbuYQ9k=
+
+Name: codechicken/multipart/scalatraits/TRedstoneTile$$anonfun$getConn
+ ectionMask$1.class
+SHA-256-Digest: R5eFQGX4XiVMh+d0syVLhqpBEOJLpPJ/gt7SrTvIlOg=
+

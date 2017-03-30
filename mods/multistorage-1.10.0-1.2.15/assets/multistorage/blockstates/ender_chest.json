@@ -1,0 +1,25 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "uvlock": false,
+        "model": "multistorage:enderchest_base",
+        "textures": {
+            "particle": "spcommon:space",
+            "stars": "spcommon:space",
+            "band": "multistorage:blocks/enderlink/bands",
+            "top": "multistorage:blocks/enderlink/top",
+            "middle": "multistorage:blocks/enderlink/middle",
+            "side": "multistorage:blocks/enderlink/side"
+        }
+    },
+    "variants": {
+        "personal": {
+            "true": { "textures": { "type": "multistorage:blocks/enderlink/type_private" } },
+            "false": { "textures": { "type": "multistorage:blocks/enderlink/type_normal" } }
+        },
+        "static": {
+            "true": { "model": "multistorage:enderchest_base" },
+            "false": { "model": "multistorage:enderchest_lid" }
+        }
+    }
+}

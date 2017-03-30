@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "deepresonance:blocks/tankside",
+    "down": "deepresonance:blocks/tankbottom",
+    "up": "deepresonance:blocks/tanktop",
+    "north": "deepresonance:blocks/tankside",
+    "east": "deepresonance:blocks/tankside",
+    "south": "deepresonance:blocks/tankside",
+    "west": "deepresonance:blocks/tankside"
+  }
+}

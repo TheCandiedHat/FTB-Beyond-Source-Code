@@ -1,0 +1,477 @@
+Manifest-Version: 1.0
+CCTransformerExclusions: codechicken.enderstorage.FingerprintChecker
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/purple.png
+SHA-256-Digest: VxyESp+8sTNpq2spsgqhJQo3dyfEPA5r4qeGiHRG7rQ=
+
+Name: codechicken/enderstorage/network/TankSynchroniser$TankState.clas
+ s
+SHA-256-Digest: T1Uitl5/bjCvZ+RjqIOur/NKpsOoImG9Aa658D1FYzo=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/red.png
+SHA-256-Digest: dv3Y6yxBblLPjqvO/SAIDHK7TM6A0M8AbAxVtUjggJ0=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/green.png
+SHA-256-Digest: +bO4V93tKRXZqtCY1JGM8BV6GgQiM0wzf9ygkO6DKr4=
+
+Name: codechicken/enderstorage/network/TankSynchroniser$PlayerItemTank
+ Cache.class
+SHA-256-Digest: 34OPA0piKvW0mNakAPUB4R5uZSE0nmWqoJhBfJbR3II=
+
+Name: codechicken/enderstorage/storage/EnderItemStorage$1.class
+SHA-256-Digest: aJnrxSju1L8ne2qqtstpRFV3F004DxgrTQibbreW5mw=
+
+Name: codechicken/enderstorage/client/model/ModelEnderChest.class
+SHA-256-Digest: 7dcC8CjTp9z9WgT31d30WAN5AnYdYyg7jaE9PxFo+XI=
+
+Name: codechicken/enderstorage/plugin/EnderLiquidStoragePlugin.class
+SHA-256-Digest: iqTwXaH+VNf2mZn8llvzYErWTeb+4wyvnXhx2I/AJig=
+
+Name: codechicken/enderstorage/item/ItemEnderChestDummy.class
+SHA-256-Digest: hPbg900adprWZtDp2tvDxoi9Ztqr5xr8LkFwqYknRQQ=
+
+Name: codechicken/enderstorage/misc/EnderKnobSlot.class
+SHA-256-Digest: S+sGRg+jGnsxmZd/pDtlBnW28zVnmeU0bTOPqhn1Eks=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/white.png
+SHA-256-Digest: ZaP+Xrh7sMcm8pvnWHw0PudU3ygL+SUaKBpaYjFkN+c=
+
+Name: assets/enderstorage/textures/enderpouch.png
+SHA-256-Digest: q2g+aT/ADussbgYJMeg988qGVJGbUZkW/bHIUeKNgPc=
+
+Name: codechicken/enderstorage/client/render/entity/TankLayerRenderer.
+ class
+SHA-256-Digest: Kuef2l04tCDRx63ULM4WQQEJpY7vj4RGD4fLKykwd2w=
+
+Name: assets/enderstorage/lang/zh_TW.lang
+SHA-256-Digest: SEBNyNX9KSm2o5HAOuFR3OK8NYveM9yKNgpg25vpXj4=
+
+Name: assets/enderstorage/lang/ko_KR.lang
+SHA-256-Digest: z7gDgrX8KWLVhia5CRv4JGsn5U4KyAkJ3O7mvMxkoUc=
+
+Name: codechicken/enderstorage/network/EnderStorageSPH.class
+SHA-256-Digest: 85IF8q1lvLZdHvQn0/UNR4hGAmwzvD3gYyfHJdXc8Nk=
+
+Name: codechicken/enderstorage/network/TankSynchroniser$PlayerItemTank
+ State.class
+SHA-256-Digest: e3lmL9DV9qYXokKFHRu+H1nCpte7SoJCScfTnYOF4hc=
+
+Name: codechicken/enderstorage/client/EnderPouchBakery.class
+SHA-256-Digest: lcxDakyDTvOXyyuyj7Fmr4Zdi1v3oo2h1HACdXl20K0=
+
+Name: codechicken/enderstorage/reference/VariantReference.class
+SHA-256-Digest: 73AdgNSWCvE6E2EFrcWbqqyiu58Ksldg0xblgGVWJfI=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/yellow.pn
+ g
+SHA-256-Digest: ToY80lrowkYrAMJw/U1L4eLIn5lSKzss0ycBAzGeHCQ=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/purple.pn
+ g
+SHA-256-Digest: NIF8sEpMEg6WJeWc1s16me6pC+Dx3enNBsKAKsW1de4=
+
+Name: codechicken/enderstorage/plugin/EnderItemStoragePlugin.class
+SHA-256-Digest: rJH3EOlQ+Ja+DARuwKJm8q/yZFdQW75flbGwhRG88I4=
+
+Name: codechicken/enderstorage/misc/EnderDyeButton.class
+SHA-256-Digest: N2VCFLrtvakQY6nchhbejL19jawEcfN7nJbv9r717js=
+
+Name: codechicken/enderstorage/api/EnderStoragePlugin.class
+SHA-256-Digest: NH6Kai4FlNfnqau1qWIKTHLalGc42/WtnvLa9Nye+mM=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/light_blue
+ .png
+SHA-256-Digest: khcOSi6STjVCZtsn25cbVxa70qNH7VPvKF1DcyJSRo8=
+
+Name: codechicken/enderstorage/network/EnderStorageCPH.class
+SHA-256-Digest: tQKevhhxRt01UmhANVyV6lBLBJd75Pqp/U2HpBSAdgo=
+
+Name: codechicken/enderstorage/command/sub/ClearCommand$3.class
+SHA-256-Digest: rAC/g1yB3Vmk2KzVqp26tOiWUH7PhkXvVo64cyjxgKY=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/green.png
+SHA-256-Digest: qI0mxysVo2E2LRqfzkn2nZkioOI6qCBOpm/6Fd+t7g4=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/lime.png
+SHA-256-Digest: UAXfCwYApPGiZJh89NI7OrPxhnuRtNOwp/AyrR5AJTk=
+
+Name: codechicken/enderstorage/init/ModRecipes.class
+SHA-256-Digest: J+NIaUmx4UP7yG5PdDhor0xCSDUa7NeXGP3PgQh4bzE=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/gray.png
+SHA-256-Digest: cYI6/vwsdpYhrDnhgUXdZ5+dZBPMp79x/L/I609/aVQ=
+
+Name: codechicken/enderstorage/tile/TileFrequencyOwner.class
+SHA-256-Digest: TRfUvN6s/jUVCOF/T1htEyc7+BSQErhN3myyGVrwz+c=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/yellow.png
+SHA-256-Digest: tP/HEHfYO9Umln9N1msjSrUxTjBtGU2dcSQjHoTbioU=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/gray.png
+SHA-256-Digest: owgvcsCH35mfofOWhEKKITApZ19ANaa1JkY+ToaHk+k=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/lime.png
+SHA-256-Digest: X8OudQ/rQYizTCTT20tb1hMsctI5wFM/L2qHGT76yGs=
+
+Name: codechicken/enderstorage/init/ModItems.class
+SHA-256-Digest: FbVBPfegkzbHWjQvgwvzVC5tEQIEL7J4pdIpCjKIoqE=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/black.pn
+ g
+SHA-256-Digest: gOS8kDeelJ9GJgL4yu4JgOsxzAavp2iCvWI4Xs0p35E=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/cyan.png
+SHA-256-Digest: rpNNGuZkiQ/VZDVfCExMBz/Xg6qAe62u6v3jBfLcV6w=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/pink.png
+SHA-256-Digest: pQGDTgSOQajeUwQV9CqqvdNGBnmjul5wN2bqtyWNuUQ=
+
+Name: codechicken/enderstorage/client/render/item/EnderChestItemRender
+ .class
+SHA-256-Digest: wKJV4D+Ezb2MvntAt3QoJQLmf16qIg6BMGpNm+BhJ6c=
+
+Name: codechicken/enderstorage/handler/ConfigurationHandler.class
+SHA-256-Digest: s9JZSNuxouo6dQ4M+QI+B7YEueNqhfvNoFCrWOSS5uY=
+
+Name: assets/enderstorage/lang/it_IT.lang
+SHA-256-Digest: P3rLTkjwPZYouGnpEAzJVZV0omjrezS61Tf7TlvkK8E=
+
+Name: codechicken/enderstorage/storage/EnderLiquidStorage.class
+SHA-256-Digest: 77BdabyoTnHb0imhjZpDbyJxEUbgw5tXhVCWK2R74uI=
+
+Name: assets/enderstorage/textures/buttons.png
+SHA-256-Digest: pe0ykSjS7Vm5H4aVFU6WcQp9rWJCvvOi0JdHE8b8/dI=
+
+Name: codechicken/enderstorage/handler/EventHandler.class
+SHA-256-Digest: rilukTFiqn4C0jTLOCs4Q2axaHDmCX9phqeAU9k7pGA=
+
+Name: codechicken/enderstorage/tile/TileEnderTank$PressureState.class
+SHA-256-Digest: vUZ48TuPvYoT7thk9PetuYtMzXe9FmmY1EFDrNmBslw=
+
+Name: assets/enderstorage/lang/tr_TR.lang
+SHA-256-Digest: cJXXKXbo/WSb+/BFWqQR2Q+YiuQbmFgty5nWvbVsJXs=
+
+Name: codechicken/enderstorage/FingerprintChecker.class
+SHA-256-Digest: lq9iVAIBgh6lo5BWPigTm/dYEgwfyuH9rQ/DQI1LtgE=
+
+Name: codechicken/enderstorage/command/sub/ClearCommand.class
+SHA-256-Digest: znLfj9tgS/+UrtMcsPczH6mEgthf8VDFpeO38b/M/l0=
+
+Name: codechicken/enderstorage/command/sub/ClearCommand$4.class
+SHA-256-Digest: tTOf7u1/STP/sr2HoU4zOakVOMDhnO99b1k8URaeQFI=
+
+Name: codechicken/enderstorage/client/model/ButtonModelLibrary.class
+SHA-256-Digest: yLCwU8SnOOEzXoCwdjwfWrz3Brh8M7d8v0ejX67U76o=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/orange.pn
+ g
+SHA-256-Digest: D/UD7lCq06fkb3dcEMhS/HCjzjJB2OL6O+dydDhEqr8=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/blue.png
+SHA-256-Digest: Mer/+IiWoaa7s3lg3Ytwp5711jqL6mg/Ym2Is2PgpC8=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/black.png
+SHA-256-Digest: fC4JWZlcuCEMIfDOv9yiW9KpyUD+tvhux9Mi0SXVJPo=
+
+Name: codechicken/enderstorage/client/render/item/EnderTankItemRender.
+ class
+SHA-256-Digest: BfQ0tVMDi0bz3WgX7m6Pc+OrWah25jzyvs7UPla+SHc=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/magenta.p
+ ng
+SHA-256-Digest: 5wKrwvE8Tt1RGP0dDrR/JDynJGcf1+ZyjR8M1kmUmTg=
+
+Name: codechicken/enderstorage/command/help/ColourHelp.class
+SHA-256-Digest: N/MLfqvd3o5B1SMN/XCnW4Dt1LN7ZMSRmkLfUnu3Gzc=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/white.png
+SHA-256-Digest: px3W5bbGWFeOzT3QT12xNm7bj5uKGeaa6FsvqChSMj0=
+
+Name: assets/enderstorage/lang/cs_CZ.lang
+SHA-256-Digest: WqdVTSvYh7ybUVsF+GxdaZJDCPxPadH+DtXgilvK6Wc=
+
+Name: assets/enderstorage/lang/pl_PL.lang
+SHA-256-Digest: HBHksAzp22ErcRlENTWmIqnxSmcNEePFtaEcNMmIMGU=
+
+Name: assets/enderstorage/textures/items/pouch/owned_closed.png
+SHA-256-Digest: k1s9ViFtxF622HsH7lAFz2cOgnmd3t88AfhoRz65jRw=
+
+Name: codechicken/enderstorage/tile/TileEnderTank.class
+SHA-256-Digest: sH7gnB5Jl2Frw9j7/J2Z7NMUJWT5yEaiJO6aMQYbkwc=
+
+Name: assets/enderstorage/lang/fr_FR.lang
+SHA-256-Digest: dbtY+Dtuz4/0g1/blz33bmiMKEMn635xbED7LIYc9uk=
+
+Name: assets/enderstorage/textures/hedronmap.png
+SHA-256-Digest: hmMxBVcMxKqzVLPK1Ls6j89qqNCHYTETMMbgG7y6tT4=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/cyan.png
+SHA-256-Digest: RpSz26mjLbiS6an7SylZ19u+W81GD5UpdLWDPwL3wdo=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/brown.png
+SHA-256-Digest: VWqQz8lDAlnl+jp4Vzg2wrhhktOkUlicAFMn5Gy6C10=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/blue.png
+SHA-256-Digest: yudSBSLFWz2CHJ3lVAD9+VirFP9pqAG1e7VWYB9i7h8=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/white.pn
+ g
+SHA-256-Digest: OP6H4Ing2e8wO9iTPYkh5MiBS4rK0eC/fbISlEqb15o=
+
+Name: codechicken/enderstorage/command/help/FrequencyHelp.class
+SHA-256-Digest: poac3q+dPOzJPUDMzn59F4lcCeOC2NVwSO+oYv32Tcc=
+
+Name: assets/enderstorage/lang/pt_BR.lang
+SHA-256-Digest: XsG2b8/Ik21q9vqOk79vOsjC20fBl06y7fQ5uWr/2eY=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/light_gray
+ .png
+SHA-256-Digest: xJqa79qZQSIaY0pIX+BJRhxpfI9X9KGcL6OoKV6tZ/s=
+
+Name: codechicken/enderstorage/command/EnderStorageCommand.class
+SHA-256-Digest: 7rXxHmYho+98wU9fR9cSkzvizjALTAdJtvU9IbXWDfY=
+
+Name: codechicken/enderstorage/manager/EnderStorageManager$EnderStorag
+ eSaveHandler.class
+SHA-256-Digest: ZV2IM7989+VDAbNtokbdCjD0Ek14OjmM+AwwqL6uUkU=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/brown.png
+SHA-256-Digest: I8r+UJt6idDetxaX07nkh9vaAHlmqZ24RNJ+RPY+0Ys=
+
+Name: codechicken/enderstorage/command/help/ValidStorageHelp.class
+SHA-256-Digest: 6xMRODJBAo4iX7ogZY/TLNRgFZ8zzmR5hm7TpBptjXw=
+
+Name: codechicken/enderstorage/handler/GuiHandler.class
+SHA-256-Digest: IUmb3NuqtVQTMcl1ht+dmzsksmH194+anFtvF/GSl8w=
+
+Name: codechicken/enderstorage/tile/TileEnderChest.class
+SHA-256-Digest: dsYx+Vd/P9XTkhY3GMMDda5Il4jmQhWJD19V2vyeM8I=
+
+Name: codechicken/enderstorage/client/render/tile/RenderTileEnderTank.
+ class
+SHA-256-Digest: WCH+WHOpWhP8sRnM+DLcxUo1qL7Y6TWs1lij7coA7xc=
+
+Name: assets/enderstorage/lang/en_US.lang
+SHA-256-Digest: xrl6I9FAs3jE0Y0Y/zXkfyd6FpFf6dzlvOEu7Z0hlgA=
+
+Name: codechicken/enderstorage/command/ICCCommand.class
+SHA-256-Digest: ADUyn5kUU1Hss5EQAG46BlE4UK4s6zXdHWXYQBCWF/A=
+
+Name: codechicken/enderstorage/proxy/ClientProxy.class
+SHA-256-Digest: X/SP9QOTY+xW+HPq5DMhm61yOQtPXpIV4n1c8wBoFZQ=
+
+Name: assets/enderstorage/lang/sv_SE.lang
+SHA-256-Digest: BjdbMQ2kb3n1nQGQBDnVYd9KpIcd2SFygDU3XiwtKpY=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/pink.png
+SHA-256-Digest: AA82nrDm05Rx5AL0zn5qHJret+V0I4yKR9wJIEdpqlU=
+
+Name: codechicken/enderstorage/init/ModBlocks.class
+SHA-256-Digest: aM6XzaovP5okhCrzMX8feNbgXDvPfThu6l3+d7b+grY=
+
+Name: assets/enderstorage/lang/sk_SK.lang
+SHA-256-Digest: i8m8/eOI3oMu6duDkB3zQH1lC/Nu4pREVBrEzF7ALi8=
+
+Name: assets/enderstorage/lang/de_DE.lang
+SHA-256-Digest: Gqh+kXtEVXBob9e6eV3fPeqZ3yjNqAE2Rl7iC5rX8Es=
+
+Name: mcmod.info
+SHA-256-Digest: 86zqCerd+1r2ttwHlnPkaalwBwjC7AMdw0KBlkE8UBg=
+
+Name: assets/enderstorage/textures/EnderPouch.psd
+SHA-256-Digest: TMhxPren9z+oglpGBmBhRCQlwnsODrZO4neNaVWBqfs=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/black.png
+SHA-256-Digest: SkaJJaOhFY/Tk/+t40RHTm3DVyUPjR9F6mOIYzuAnE0=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/pink.png
+SHA-256-Digest: mV5D7PtSpAqJJlNdIoKZe3XQFpyOTLEv7Uz6T3EB6Lg=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/purple.p
+ ng
+SHA-256-Digest: +Z9f2tEKeAMI86n7SCcTVLBz2NYKtlE+oEp5N/mwD8M=
+
+Name: codechicken/enderstorage/command/sub/ClearCommand$2.class
+SHA-256-Digest: x7qPkBBMdia+MjNbP4Lt1BIzzbICM9XOIBt7RudVGtg=
+
+Name: codechicken/enderstorage/api/Frequency.class
+SHA-256-Digest: 9zZnJNFeFSF5Bk7E4Wb7JfdjmTSZtgDl9tFm6yC5C7Y=
+
+Name: codechicken/enderstorage/reference/EnumGuiID.class
+SHA-256-Digest: J9M8ftf3RimwvZGXsCU+KYF9UD4D2vR1YmnCLsDpJKo=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/gray.png
+SHA-256-Digest: IcLHFMcFfxAdx4k+OzSXHw17gP2tpQLo1vDMXqzyzDI=
+
+Name: assets/enderstorage/lang/ja_JP.lang
+SHA-256-Digest: Y0qqmQ3incZC8yBkTIArCe1G4NDDqPNzZg3MJA7dsGI=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/blue.png
+SHA-256-Digest: OchA6IABVySAKBkshOEyfeFF8uP+ADYqLCo1BDrz68w=
+
+Name: assets/enderstorage/lang/fr_CA.lang
+SHA-256-Digest: gADoUy3JSqnHBWhIxJR/FaKMVLJIOfgGohbOSrgBnes=
+
+Name: codechicken/enderstorage/tile/TileEnderTank$1.class
+SHA-256-Digest: /+ZYpEKgNPxeo+ZCLSVTzmeqvFnNbQ8SShJppU0/xf4=
+
+Name: codechicken/enderstorage/item/ItemEnderStorage$1.class
+SHA-256-Digest: xceMx3171W/DC18+qigwINSnM4FrCE0FMZyVAfiE+wM=
+
+Name: codechicken/enderstorage/network/TankSynchroniser.class
+SHA-256-Digest: FHjHm7eTXKa6xvGjq2uBvBmE5aguqE2tgVhYDm7k7R4=
+
+Name: codechicken/enderstorage/tile/TileEnderTank$EnderTankState.class
+SHA-256-Digest: PGTqgHuOnQVN/ENwsVB+Lfdw86nhkVSnauRQU3IlxTM=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/magenta.pn
+ g
+SHA-256-Digest: aKWbUU0F1PUEQK5Q76sFtGKxDhIJXiTq+14icwr61jE=
+
+Name: codechicken/enderstorage/command/sub/ClearCommand$5.class
+SHA-256-Digest: Y9lNDDb6BDEdZMH19TDURl2Fbx0Q5xc/nNTtGhitK3Q=
+
+Name: assets/enderstorage/lang/pt_PT.lang
+SHA-256-Digest: Y9S5JQmL/kq3ULP5hPJgD6rb4d12MzeLuXAYhPzLEnU=
+
+Name: assets/enderstorage/models/endertank.obj
+SHA-256-Digest: 2aXADcbOr4UUgrhNQ1Qh6gT+I/qon8OFgVihAbrx3l4=
+
+Name: codechicken/enderstorage/command/help/IHelpPage.class
+SHA-256-Digest: OUIcrfB4yLlQ2ve1YcY7zmF4ZsR8UZEhmB1GjWoVhAA=
+
+Name: codechicken/enderstorage/EnderStorage.class
+SHA-256-Digest: tkZZxNt7voknK0/Ww7m9t+u/o0GfvY7EQ/aO8tiE5Qo=
+
+Name: codechicken/enderstorage/block/BlockEnderStorage.class
+SHA-256-Digest: PkLFEKqQhTou+tM9NcxzLRFAL7J6SqZngsCcH8o4YDA=
+
+Name: codechicken/enderstorage/storage/EnderItemStorage.class
+SHA-256-Digest: j3hthHP7PQ3i+vFc6rzE4QN8GNTEs+OKTEuT61GI1zU=
+
+Name: assets/enderstorage/textures/endertank.png
+SHA-256-Digest: 4AFFkaow1WlJJl5dKfUgEB6aOxPWEKiD23Nhx7pnpq0=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/light_gr
+ ay.png
+SHA-256-Digest: oq0BQ45dVVVpIUS9p5YBlflJmLPslt5URWK1n0LwLRc=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/light_gra
+ y.png
+SHA-256-Digest: TvsB6EyzyoArymywaT06p+SQq8c3qAgG6XOWpiFdhy0=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/red.png
+SHA-256-Digest: hxaOqFx7d2UXbwzK04QSjZKkF835Vl1XWTnaMJKBWHU=
+
+Name: codechicken/enderstorage/proxy/CommonProxy.class
+SHA-256-Digest: H48vme9TJ9w8koPoQmRCtGbBZXHRlP/pcMrj7DH5Uco=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/lime.png
+SHA-256-Digest: lRisffvBQK8B4XI4WbpBO51P9g32dS9tnphR045EFvI=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/cyan.png
+SHA-256-Digest: ZisL9Z/Mm8MB6tdAXDPscqveSOjFL57hr9VajdZq+xo=
+
+Name: codechicken/enderstorage/api/AbstractEnderStorage.class
+SHA-256-Digest: B7DDca3oz4rhK2W2D7sY0KNbTbLbWRW7AkHC7na1MU0=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/yellow.p
+ ng
+SHA-256-Digest: 7GKc7e97xFEr4OwgCyUCaAT62MkYZ1rDag7D3BGQrUY=
+
+Name: codechicken/enderstorage/client/gui/GuiEnderItemStorage.class
+SHA-256-Digest: hm03YUWEyZKMytab7Kv9rxKaXAJF+gXs7fGbNtVdIOw=
+
+Name: assets/enderstorage/textures/hedronmap.psd
+SHA-256-Digest: 5Ox3hokFI+Y6yPG8MHX91hY4JknlNwfrHrY1O7mBC1A=
+
+Name: assets/enderstorage/textures/items/pouch/open.png
+SHA-256-Digest: kvpcz8Ft2csGhaUavxM4KGcevw0YXVJsWCUqBLwlStc=
+
+Name: codechicken/enderstorage/item/ItemEnderPouch.class
+SHA-256-Digest: rKO1f9NTN/roQxYLomSxSA3us+fNImRZR7oHihTjVAY=
+
+Name: assets/enderstorage/textures/enderchest.png
+SHA-256-Digest: 3UzpmyOJ0nFuD24YyYR0HiDryPc0SJ2m/k4o0dt0ACQ=
+
+Name: codechicken/enderstorage/manager/EnderStorageManager.class
+SHA-256-Digest: aIP0nfb0NPdqRSEn3PadrDWJ01LuwrqoNP3oVkuB1Xo=
+
+Name: assets/enderstorage/textures/items/pouch/closed.png
+SHA-256-Digest: eH0I1Ufb5Co4S0vR5iJjKu+5dT40JLGCad+KbPHjugw=
+
+Name: assets/enderstorage/lang/zh_CN.lang
+SHA-256-Digest: 3KRFGCPQo+WB4/GviGmRxSYZMPy59icfO43bsdX8x48=
+
+Name: codechicken/enderstorage/container/ContainerEnderItemStorage.cla
+ ss
+SHA-256-Digest: GimvyKMQTzHVCf3Y0vpmAx3ccRJI1LTQ+zxeEfAMSKw=
+
+Name: codechicken/enderstorage/client/render/RenderCustomEndPortal.cla
+ ss
+SHA-256-Digest: ZkYh6X/ullw16keIf8DGBhJLTRe78OeOCc27ZFv5g3w=
+
+Name: assets/enderstorage/textures/items/pouch/owned_open.png
+SHA-256-Digest: VRX/vjgPArb7DbogB5jdCagqcD0j2lsAFjXKzKEpF4A=
+
+Name: codechicken/enderstorage/reference/Reference.class
+SHA-256-Digest: 5efjd37ri07Zbn3EwGRS7P6uzVCpS3DOiOMArbGE3y0=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/red.png
+SHA-256-Digest: F5BeBWW3i2D5l/4HAlCHK8MeXqivC3BwQ1Yt8xx3GiA=
+
+Name: codechicken/enderstorage/util/LogHelper.class
+SHA-256-Digest: 8Evqznl3ZJQ8midl57f6Oy1VuWqMVFIYdNSaMR1mM1g=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/left/orange.png
+SHA-256-Digest: wDBbsXWtckshcCmMOBARCcTp0W7B4djwoQX6cC4wAWs=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/brown.pn
+ g
+SHA-256-Digest: 6tYavZKlCpvkd/hqnLy1NLLKHWkdmV6v3ZL7dcdzzK4=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/magenta.
+ png
+SHA-256-Digest: eA81o8aWTXGzOIRYX5wvPTeIZzfNMYmyDgy61KvIVjA=
+
+Name: codechicken/enderstorage/storage/EnderLiquidStorage$Tank.class
+SHA-256-Digest: fB/w5uee7SHgxKm2UumkRjwK+YjAkwWPsN5yrCq46UQ=
+
+Name: codechicken/enderstorage/init/EnderStorageRecipe.class
+SHA-256-Digest: 7lZgWPKR2/MYgRYk+HOh2Qr0guS73mdQBal6C052vmY=
+
+Name: codechicken/enderstorage/client/render/tile/RenderTileEnderChest
+ .class
+SHA-256-Digest: JnNQ1Llux4/XqPJBS6Jxr2S9lqrqlFyLhF4+PKkzFtg=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/light_bl
+ ue.png
+SHA-256-Digest: 9Y45qyHmW5gTtworNkfXJZ03Ud5jXBYQlm5hQAuxqb4=
+
+Name: assets/enderstorage/lang/ru_RU.lang
+SHA-256-Digest: 8nNfKcICXxLO/gFCfvBXKMx3nw6bOFTRrB7u52GnkOM=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/green.pn
+ g
+SHA-256-Digest: d84JsEy+row7CThfO3O3okZzZmDigs1EYh868UxDANw=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/right/light_blu
+ e.png
+SHA-256-Digest: WTHE+gvSSJROu5tFBsDZQToLbE6YanaN4gxo5JBqLx4=
+
+Name: codechicken/enderstorage/command/sub/ClearCommand$1.class
+SHA-256-Digest: eeGoF383tvA97mcajhDNTexjWjavGKZW5BmI2uYTz8g=
+
+Name: codechicken/enderstorage/command/sub/HelpCommand.class
+SHA-256-Digest: /ZlEzVtyUq1xnGzA1OnSjt9avgX18XVbYSkh+gKQARQ=
+
+Name: codechicken/enderstorage/item/ItemEnderStorage.class
+SHA-256-Digest: w24N22hqO3CTLQLqK+8qLj+7geWYHbuwzTJZA4oyCfo=
+
+Name: assets/enderstorage/textures/items/pouch/buttons/middle/orange.p
+ ng
+SHA-256-Digest: ZBpboXmIJ2NJDc3R+B+yyyU16oYOXuMAVsxkRN5m25I=
+
+Name: codechicken/enderstorage/init/ModItems$1.class
+SHA-256-Digest: 9HUEjjlHVJo+gW+japR0WoJFgejX5SP/HsEZBzulbss=
+

@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "usefulnullifiers:fluidvoidnullifier"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

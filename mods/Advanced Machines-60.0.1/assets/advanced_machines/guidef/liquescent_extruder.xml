@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+
+    <slot name="input" x="50" y="17"/>
+
+	<image x="110" y="30" src="advanced_machines:textures/gui/overlay/centrifuge_extractor_output"/>
+    <slotgrid name="output" x="113" y="35" rows="1" style="plain"/>
+
+    <slot name="discharge" x="50" y="52"/>
+    <environment name="game">
+    	<slotgrid name="upgrade" x="120" y="60" rows="1"/>
+   	</environment>
+    <energygauge x="55" y="37"/>
+    <gauge name="progress" x="74" y="34" style="progress_extruder"/>
+    <playerInventory x="7" y="83"/>
+
+	<text x="10" y="26">{advanced_machines.gui.temp}</text>
+	<text x="10" y="36">%base.getHeat()%%%</text>
+</gui>

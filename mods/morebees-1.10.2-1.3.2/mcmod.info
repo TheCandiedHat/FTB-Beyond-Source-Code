@@ -1,0 +1,16 @@
+[
+{
+  "modid": "morebees",
+  "name": "More Bees",
+  "description": "Adds more bees to forestry",
+  "version": "1.10.2-1.3.2",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lach_01298, Dannerick"],
+  "credits": "Forestry team for making Forestry",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Forestry"]
+}
+]

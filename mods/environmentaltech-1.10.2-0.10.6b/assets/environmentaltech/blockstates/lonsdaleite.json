@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=normal": { "model": "environmentaltech:lonsdaleite_normal" },
+        "type=paver": { "model": "environmentaltech:lonsdaleite_paver" },
+        "type=bricks": { "model": "environmentaltech:lonsdaleite_bricks" },
+        "type=tiles": { "model": "environmentaltech:lonsdaleite_tiles" }
+    }
+}

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+FMLAT: defaultoptions_at.cfg
+FMLCorePlugin: net.blay09.mods.defaultoptions.coremod.DefaultOptionsLo
+ adingPlugin
+FMLCorePluginContainsFMLMod: true
+

@@ -1,0 +1,139 @@
+#it_IT
+
+death.attack.blizz=%1$s ha incontrato un destino gelido!
+death.attack.cryotheum.player=%1$s è morto congelato cercando di scappare da %2$s!
+death.attack.cryotheum=%1$s è morto congelato!
+death.attack.flux.player=%1$s è stato fluxato fino alla morte da %2$s!
+death.attack.flux=%1$s è stato dilanato dal flux!
+death.attack.mana.player=%1$s è entrato in un altro stato di cercare di scappare da %2$s!
+death.attack.mana=%1$s è stato mutilato da mana grezza!
+death.attack.pyrotheum.player=%1$s è bruciato vivo cercando di scappare %2$s!
+death.attack.pyrotheum=%1$s ha scambiato piroteo per acqua!
+
+fluid.coal=Carbone liquifatto
+fluid.cryotheum=Crioteo gelido
+fluid.ender=Omega risonante
+fluid.glowstone=Luminite energizata
+fluid.mana=Mana primaria
+fluid.petrotheum=Tectonic Petrotheum
+fluid.pyrotheum=Piroteo fiammeggiante
+fluid.redstone=Pietrarossa destabilizata
+fluid.steam=Vapore
+
+gui.thermalfoundation.lexicon.study=Vocabolario - Conoscenza
+gui.thermalfoundation.lexicon.transmute=Vocabolario - Trasmutazione
+
+item.thermalfoundation.material.crystalCinnabar.name=Cinabro
+
+item.thermalfoundation.material.dustBlizz.name=Polvere di Folata
+item.thermalfoundation.material.dustBronze.name=Miscuglio di bronzo
+item.thermalfoundation.material.dustCharcoal.name=Carbonella polverizata
+item.thermalfoundation.material.dustCoal.name=Carbone polverizato
+item.thermalfoundation.material.dustCopper.name=Rame polverizato
+item.thermalfoundation.material.dustCryotheum.name=Polvere di crioteo
+item.thermalfoundation.material.dustElectrum.name=Miscuglio di elettro
+item.thermalfoundation.material.dustEnderium.name=Miscuglio d'omeghio
+item.thermalfoundation.material.dustGold.name=Oro polverizato
+item.thermalfoundation.material.dustInvar.name=Miscuglio di invar
+item.thermalfoundation.material.dustIron.name=Ferro polverizato
+item.thermalfoundation.material.dustLead.name=Piombo polverizato
+item.thermalfoundation.material.dustLumium.name=Miscuglio di luminio
+item.thermalfoundation.material.dustMana.name=Polvere di mana
+item.thermalfoundation.material.dustMithril.name=Metallo infuso di mana polverizato
+item.thermalfoundation.material.dustNickel.name=Metallo ferroso polverizato
+item.thermalfoundation.material.dustNiter.name=Salnitro
+item.thermalfoundation.material.dustObsidian.name=Ossidiana polverizata
+item.thermalfoundation.material.dustPetrotheum.name=Petrotheum Dust
+item.thermalfoundation.material.dustPlatinum.name=Metallo scintillante polverizato
+item.thermalfoundation.material.dustPyrotheum.name=Polvere di piroteo
+item.thermalfoundation.material.dustSignalum.name=Miscuglio di signalo
+item.thermalfoundation.material.dustSilver.name=Argento polverizato
+item.thermalfoundation.material.dustSulfur.name=Zolfo
+item.thermalfoundation.material.dustTin.name=Stagno polverizato
+
+item.thermalfoundation.material.gearBronze.name=Ingranaggio di bronzo
+item.thermalfoundation.material.gearCopper.name=Ingranaggio di rame
+item.thermalfoundation.material.gearElectrum.name=Ingranaggio di elettro
+item.thermalfoundation.material.gearEnderium.name=Ingranaggio d'omeghio
+item.thermalfoundation.material.gearGold.name=Ingranaggio d'oro
+item.thermalfoundation.material.gearInvar.name=Ingranaggio di invar
+item.thermalfoundation.material.gearIron.name=Ingranaggio di ferro
+item.thermalfoundation.material.gearLead.name=Ingranaggio di piombo
+item.thermalfoundation.material.gearLumium.name=Ingranaggio di lumio
+item.thermalfoundation.material.gearMithril.name=Ingranaggio di metallo infuso di mana
+item.thermalfoundation.material.gearNickel.name=Ingranaggio ferroso
+item.thermalfoundation.material.gearPlatinum.name=Ingranaggio di metallo scintillante
+item.thermalfoundation.material.gearSignalum.name=Ingranaggio di signalo
+item.thermalfoundation.material.gearSilver.name=Ingranaggio d'argento
+item.thermalfoundation.material.gearTin.name=Ingranaggio di stagno
+
+item.thermalfoundation.material.ingotBronze.name=Lingotto di bronzo
+item.thermalfoundation.material.ingotCopper.name=Lingotto di rame
+item.thermalfoundation.material.ingotElectrum.name=Lingotto di elettro
+item.thermalfoundation.material.ingotEnderium.name=Lingotto d'omeghio
+item.thermalfoundation.material.ingotInvar.name=Lingotto di invar
+item.thermalfoundation.material.ingotLead.name=Lingotto di piombo
+item.thermalfoundation.material.ingotLumium.name=Lingotto di lumio
+item.thermalfoundation.material.ingotMithril.name=Lingotto di metallo infuso di mana
+item.thermalfoundation.material.ingotNickel.name=Lingotto ferroso
+item.thermalfoundation.material.ingotPlatinum.name=Lingotto di metallo scintillante
+item.thermalfoundation.material.ingotSignalum.name=Lingotto di signalo
+item.thermalfoundation.material.ingotSilver.name=Lingotto d'argento
+item.thermalfoundation.material.ingotTin.name=Lingotto di stagno
+
+item.thermalfoundation.material.nuggetBronze.name=Pepita di bronzo
+item.thermalfoundation.material.nuggetCopper.name=Pepita di rame
+item.thermalfoundation.material.nuggetElectrum.name=Pepita di elettro
+item.thermalfoundation.material.nuggetEnderium.name=Pepita d'omeghio
+item.thermalfoundation.material.nuggetInvar.name=Pepita di invar
+item.thermalfoundation.material.nuggetIron.name=Pepita di ferro
+item.thermalfoundation.material.nuggetLead.name=Pepita di piombo
+item.thermalfoundation.material.nuggetLumium.name=Pepita di lumio
+item.thermalfoundation.material.nuggetMithril.name=Pepita di metallo infuso di mana
+item.thermalfoundation.material.nuggetNickel.name=Pepita ferrosa
+item.thermalfoundation.material.nuggetPlatinum.name=Pepita di metallo scintillante
+item.thermalfoundation.material.nuggetSignalum.name=Pepita di signalo
+item.thermalfoundation.material.nuggetSilver.name=Pepita d'argento
+item.thermalfoundation.material.nuggetTin.name=Pepita di stagno
+
+item.thermalfoundation.material.rodBlizz.name=Verga di Folata
+
+item.thermalfoundation.tome.lexicon.empowered.name=Vocabolario Forge (Potenziato)
+item.thermalfoundation.tome.lexicon.name=Vocabolario Forge
+
+itemGroup.thermalfoundation.creativeTabArmor=Thermal Foundation: armature
+itemGroup.thermalfoundation.creativeTabTools=Thermal Foundation: attrezzi
+
+tab.thermalfoundation.lexicon.study.0=Consulta la conoscenza del mondo e altera il tuo destino.
+tab.thermalfoundation.lexicon.study.1=Dai potere al Vocabolario per forzare il mondo ad obbedirti.
+tab.thermalfoundation.lexicon.transmute.0=Trasmuta oggetti equivalenti secondo regole arcane decise da potenze superiori.
+tab.thermalfoundation.lexicon.transmute.1=Placa il Vocabolario per lasciare la padronanza sul mondo.
+
+tile.thermalfoundation.fluid.cryotheum.name=Crioteo gelido
+tile.thermalfoundation.fluid.ender.name=Omega risonante
+tile.thermalfoundation.fluid.glowstone.name=Luminite energizata
+tile.thermalfoundation.fluid.mana.name=Mana primaria
+tile.thermalfoundation.fluid.pyrotheum.name=Piroteo fiammeggiante
+tile.thermalfoundation.fluid.redstone.name=Pietrarossa destabilizata
+
+tile.thermalfoundation.ore.copper.name=Rame grezzo
+tile.thermalfoundation.ore.lead.name=Piombo grezzo
+tile.thermalfoundation.ore.mithril.name=Mithril grezzo
+tile.thermalfoundation.ore.nickel.name=Nichel grezzo
+tile.thermalfoundation.ore.platinum.name=Platino grezzo
+tile.thermalfoundation.ore.silver.name=Argento grezzo
+tile.thermalfoundation.ore.tin.name=Stagno grezzo
+
+tile.thermalfoundation.storage.bronze.name=Blocco di bronzo
+tile.thermalfoundation.storage.copper.name=Blocco di rame
+tile.thermalfoundation.storage.electrum.name=Blocco di elettro
+tile.thermalfoundation.storage.enderium.name=Blocco d'omeghio
+tile.thermalfoundation.storage.invar.name=Blocco di invar
+tile.thermalfoundation.storage.lead.name=Blocco di piombo
+tile.thermalfoundation.storage.lumium.name=Blocco di lumio
+tile.thermalfoundation.storage.mithril.name=Blocco di metallo infuso di mana
+tile.thermalfoundation.storage.nickel.name=Blocco ferroso
+tile.thermalfoundation.storage.platinum.name=Blocco di metallo scintillante
+tile.thermalfoundation.storage.signalum.name=Blocco di signalo
+tile.thermalfoundation.storage.silver.name=Blocco d'argento
+tile.thermalfoundation.storage.tin.name=Blocco di stagno

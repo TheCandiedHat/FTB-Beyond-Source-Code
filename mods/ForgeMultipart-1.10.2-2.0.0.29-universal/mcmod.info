@@ -1,0 +1,29 @@
+[
+{
+  "modid": "forgemultipartcbe",
+  "name": "Forge Multipart CBE",
+  "description": "Open source library for facilitation of multiple functional parts in the one block space.",
+  "version": "2.0.0.29",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/Chicken-Bones/ForgeMultipart",
+  "authors": [ "ChickenBones" ]
+},
+{
+  "modid": "minecraftmultipartcbe",
+  "name": "Minecraft Multipart Plugin",
+  "description": "Provides multipart versions of some vanilla blocks like torches and buttons.",
+  "version": "2.0.0.29",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/Chicken-Bones/ForgeMultipart",
+  "authors": [ "ChickenBones" ]
+},
+{
+  "modid": "microblockcbe",
+  "name": "Forge Microblocks",
+  "description": "Microblocks for Forge MultipartCBE.",
+  "version": "2.0.0.29",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/Chicken-Bones/ForgeMultipart",
+  "authors": [ "ChickenBones" ]
+}
+]

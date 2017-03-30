@@ -1,0 +1,11 @@
+{
+	"name": "Carved Spruce Wood",
+	"id": "quark:carved_spruce_wood",
+	"type": "wood",
+	"hardness": 2.0,
+	"resistance": 5.0,
+	"textures": "quark:blocks/carved_spruce_wood",
+	"blocks": {
+		"full": { "id": "quark:carved_wood", "meta": 1 }
+	}
+}

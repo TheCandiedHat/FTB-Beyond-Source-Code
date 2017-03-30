@@ -1,0 +1,30 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "rftools:rftoolsbackblock",
+    "textures": {
+      "front": "rftools:blocks/machinefront",
+      "back": "rftools:blocks/machineredstoneout"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90},
+      "up": {"x": -90},
+      "down": {"x": 90}
+    },
+    "level": {
+      "0": { "textures": { "front": "rftools:blocks/machinefrontliquid" } },
+      "1": { "textures": { "front": "rftools:blocks/machinefrontliquid_0" } },
+      "2": { "textures": { "front": "rftools:blocks/machinefrontliquid_1" } },
+      "3": { "textures": { "front": "rftools:blocks/machinefrontliquid_2" } },
+      "4": { "textures": { "front": "rftools:blocks/machinefrontliquid_3" } },
+      "5": { "textures": { "front": "rftools:blocks/machinefrontliquid_4" } }
+    }
+  }
+}

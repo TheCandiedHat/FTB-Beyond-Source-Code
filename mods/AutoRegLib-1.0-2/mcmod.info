@@ -1,0 +1,17 @@
+[
+{
+  "modid": "AutoRegLib",
+  "name": "AutoRegLib",
+  "description": "Automatically item, block, and model registration for mods.",
+  "version": "1.0-2",
+  "mcversion": "1.10",
+  "logoFile": "",
+  "url": "http://www.vazkii.us",
+  "updateUrl": "",
+  "authorList": ["Vazkii"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

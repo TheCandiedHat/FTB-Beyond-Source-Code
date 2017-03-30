@@ -1,0 +1,83 @@
+Manifest-Version: 1.0
+
+Name: net/minecraftforge/mercurius/Config.class
+SHA-256-Digest: oAQ1tikfa3ITZ6Z92I5LGK0pmbi5zTiWG1gwy1DhT58=
+
+Name: net/minecraftforge/mercurius/IMinecraftBinding.class
+SHA-256-Digest: FTteps+cK+szhoY1xDLErU8mkFKOrOGUvCDBDkzG1J4=
+
+Name: net/minecraftforge/mercurius/StatsMod$GuiFactory.class
+SHA-256-Digest: PtQ9S8yhBIfHL5GN/gXIXUQertxnPU+ft4aOcMclBL4=
+
+Name: net/minecraftforge/mercurius/utils/Commands.class
+SHA-256-Digest: gdlq0Ahds5oNdomlCaOGtTQzUIOw7cbse1GHmxdadVc=
+
+Name: net/minecraftforge/mercurius/Sender$2.class
+SHA-256-Digest: FUnm95aMqTPIoh68in27UmJODnmLaazHUXyl6rXz6/c=
+
+Name: net/minecraftforge/mercurius/utils/FieldUtils.class
+SHA-256-Digest: 31HiMgR0LWHE1K6AIjFBsndZVjwlWKC3Z7DdhuQrgC4=
+
+Name: net/minecraftforge/mercurius/binding/StatsCollectionEvent.class
+SHA-256-Digest: kSNdhemssosZOLW6oNKagT79i0G1CDPox0Y8ucYfmvY=
+
+Name: net/minecraftforge/mercurius/binding/ServerBinding.class
+SHA-256-Digest: 1CuoW4HL4Ce39qPWVCoZMDt13T84/REdO2j0kULCOjc=
+
+Name: net/minecraftforge/mercurius/helpers/StatsConstants.class
+SHA-256-Digest: 4bqoyz4Qks+EjOj6kjJo+SxzKedhAnck8OSbWpSwYcQ=
+
+Name: net/minecraftforge/mercurius/utils/GameEnvironment.class
+SHA-256-Digest: aUPOVj0BGQd24Ep02TSQo4wqOw6Vyni9azVHv3hnvh8=
+
+Name: net/minecraftforge/mercurius/dataModels/StatsStartModel.class
+SHA-256-Digest: Q4hDWYDw9S9AUEO/vavYJsVBtli5OkZROBtOjXepwrk=
+
+Name: net/minecraftforge/mercurius/binding/ClientBinding.class
+SHA-256-Digest: dFGQuG0lefUK9G9Jq1HByVF6+eoy7LlmAN3G1HsEBtw=
+
+Name: net/minecraftforge/mercurius/ModInfo.class
+SHA-256-Digest: Wreu6LGktHFR8u6XeGCR6I03sU8SUdnbmn+Y9K7UVQQ=
+
+Name: net/minecraftforge/mercurius/binding/CommonBinding.class
+SHA-256-Digest: /gt3SU1Wdb/EQBVl30omtx2Q0lTQBKt5FC3L9FnScPk=
+
+Name: net/minecraftforge/mercurius/Mercurius.class
+SHA-256-Digest: j7ahNysfwygyhK8O8uuTEMezx7lRITSlzg372txfjNM=
+
+Name: net/minecraftforge/mercurius/dataModels/StatsPingModel.class
+SHA-256-Digest: ZUBjTmXjxvtN4jiGty6wNyO+LYhQ43R+1WhIAsyNQHY=
+
+Name: net/minecraftforge/mercurius/StatsMod$ConnectionEvents.class
+SHA-256-Digest: qcqp/toNj+EZFCPC3EUr29ZAhrKaQJuYT4wM5YCy8dE=
+
+Name: net/minecraftforge/mercurius/binding/ModConfigGui.class
+SHA-256-Digest: hulC5I9UK8tOaLEPhmeyjm2oN3V3kuwmbMk20O/3RAQ=
+
+Name: net/minecraftforge/mercurius/Sender.class
+SHA-256-Digest: BlniPDQ1xYM2m3cINR+PHwz6CQppNHE+MUnIkx/UGfk=
+
+Name: net/minecraftforge/mercurius/StatsMod.class
+SHA-256-Digest: ssL/fZGlr5l/9v6wkiC1juMDkzUMYpRPOahhecSWdBs=
+
+Name: net/minecraftforge/mercurius/utils/LauncherCachingHack.class
+SHA-256-Digest: AVzBL7CXMMAhoQvKZkSR29pIkYZz8EjAWxcll3UkvxI=
+
+Name: net/minecraftforge/mercurius/GlobalConfig.class
+SHA-256-Digest: 4XjyFksk92QM2bSyDj2AteSuONWF6T5L+FRtdqsxnAs=
+
+Name: net/minecraftforge/mercurius/helpers/DataHelper.class
+SHA-256-Digest: uEyreEHP5fSsgUcUmYvXQeLS8LJAUQzcfi5XPwGm3+k=
+
+Name: net/minecraftforge/mercurius/utils/LogHelper.class
+SHA-256-Digest: gDWlVuT7fnAdJHxPrdvxPyrDzsd1hQPLuJ1e1PiyyAQ=
+
+Name: net/minecraftforge/mercurius/Sender$1.class
+SHA-256-Digest: 4tI9XZ4x4E+DqvRqn/7UA4ZDdE4bjct0jhu01eC9a6A=
+
+Name: net/minecraftforge/mercurius/Config$OptOuts.class
+SHA-256-Digest: cMPLevepMCWbv/bzKRv14RqcyHkPR+fMVaJHuJgaTe8=
+
+Name: mcmod.info
+SHA-256-Digest: ZvGQJMZa1XS2uWj8GNV4DOSeZTPpNmFXsBno5bNEjZs=
+

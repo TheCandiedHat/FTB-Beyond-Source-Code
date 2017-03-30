@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when only one side is connected.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "environmentaltech:blocks/glass_clear/glass_clear0C",
+        "down": "environmentaltech:blocks/glass_clear/glass_clear0C",
+		"up": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"north": "environmentaltech:blocks/glass_clear/glass_clear1C_u",
+		"south": "environmentaltech:blocks/glass_clear/glass_clear1C_u",
+		"west": "environmentaltech:blocks/glass_clear/glass_clear1C_u",
+		"east": "environmentaltech:blocks/glass_clear/glass_clear1C_u"
+    }
+}

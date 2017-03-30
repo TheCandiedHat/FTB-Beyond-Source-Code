@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+FMLAT: chisel_at.cfg
+FMLCorePlugin: team.chisel.common.asm.ChiselCorePlugin
+

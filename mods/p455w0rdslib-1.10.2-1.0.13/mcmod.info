@@ -1,0 +1,16 @@
+[
+{
+  "modid": "p455w0rdlib",
+  "name": "p455w0rd's Library",
+  "description": "Library component for all of p455w0rd's mods",
+  "version": "1.10.2-1.0.13",
+  "mcversion": "1.10.2",
+  "url": "http://p455w0rd.net/",
+  "updateUrl": "",
+  "authorList": ["TheRealp455w0rd"],
+  "credits": "TheRealp455w0rd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,135 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "multistorage:stacking_base",
+        "textures": { "particle": "multistorage:blocks/stacking/cloud_back_single" }
+    },
+    "variants": {
+        "facing": {
+            "north": { "y": 0 },
+            "east": { "y": 90 },
+            "south": { "y": 180 },
+            "west": { "y": 270 }
+        },
+        "variant": {
+            "stackable_single": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom",
+                "front": "multistorage:blocks/stacking/cloud_front_single",
+                "back": "multistorage:blocks/stacking/cloud_back_single",
+                "side": "multistorage:blocks/stacking/cloud_side_single",
+                "doors": "multistorage:blocks/stacking/cloud_doors_single"
+            } },
+            "stackable_top": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom",
+                "front": "multistorage:blocks/stacking/cloud_front_top",
+                "back": "multistorage:blocks/stacking/cloud_back_top",
+                "side": "multistorage:blocks/stacking/cloud_side_top",
+                "doors": "multistorage:blocks/stacking/cloud_doors_top"
+            } },
+            "stackable_middle": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom",
+                "front": "multistorage:blocks/stacking/cloud_front_middle",
+                "back": "multistorage:blocks/stacking/cloud_back_middle",
+                "side": "multistorage:blocks/stacking/cloud_side_middle",
+                "doors": "multistorage:blocks/stacking/cloud_doors_middle"
+            } },
+            "stackable_bottom": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom",
+                "front": "multistorage:blocks/stacking/cloud_front_bottom",
+                "back": "multistorage:blocks/stacking/cloud_back_bottom",
+                "side": "multistorage:blocks/stacking/cloud_side_bottom",
+                "doors": "multistorage:blocks/stacking/cloud_doors_bottom"
+            } },
+            "chameleon": {
+                "model": "cube_all",
+                "textures": { "all": "multistorage:blocks/chameleon_cloud" }
+            },
+            "junkbox_top": {
+                "model": "multistorage:junkbox_upper",
+                "textures": {
+                    "bottom": "multistorage:blocks/junkbox_top_cloud",
+                    "top": "multistorage:blocks/junkbox_top_cloud",
+                    "side": "multistorage:blocks/junkbox_side_cloud",
+                    "front": "multistorage:blocks/junkbox_front_cloud"
+                }
+            },
+            "junkbox_bottom": {
+                "model": "multistorage:junkbox_lower",
+                "textures": {
+                    "bottom": "multistorage:blocks/junkbox_top_cloud",
+                    "top": "multistorage:blocks/junkbox_top_cloud",
+                    "side": "multistorage:blocks/junkbox_side_cloud",
+                    "front": "multistorage:blocks/junkbox_front_cloud"
+                }
+            },
+            "junkbox_double": {
+                "model": "multistorage:junkbox_full",
+                "textures": {
+                    "bottom": "multistorage:blocks/junkbox_top_cloud",
+                    "top": "multistorage:blocks/junkbox_top_cloud",
+                    "side": "multistorage:blocks/junkbox_side_cloud",
+                    "front": "multistorage:blocks/junkbox_front_cloud"
+                }
+            },
+            "dense_stackable_single": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom_dense",
+                "front": "multistorage:blocks/stacking/cloud_front_single",
+                "back": "multistorage:blocks/stacking/cloud_back_single_dense",
+                "side": "multistorage:blocks/stacking/cloud_side_single_dense",
+                "doors": "multistorage:blocks/stacking/cloud_doors_single_dense"
+            } },
+            "dense_stackable_top": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom_dense",
+                "front": "multistorage:blocks/stacking/cloud_front_top",
+                "back": "multistorage:blocks/stacking/cloud_back_top_dense",
+                "side": "multistorage:blocks/stacking/cloud_side_top_dense",
+                "doors": "multistorage:blocks/stacking/cloud_doors_top_dense"
+            } },
+            "dense_stackable_middle": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom_dense",
+                "front": "multistorage:blocks/stacking/cloud_front_middle",
+                "back": "multistorage:blocks/stacking/cloud_back_middle_dense",
+                "side": "multistorage:blocks/stacking/cloud_side_middle_dense",
+                "doors": "multistorage:blocks/stacking/cloud_doors_middle_dense"
+            } },
+            "dense_stackable_bottom": { "textures": {
+                "top": "multistorage:blocks/stacking/cloud_top-bottom_dense",
+                "front": "multistorage:blocks/stacking/cloud_front_bottom",
+                "back": "multistorage:blocks/stacking/cloud_back_bottom_dense",
+                "side": "multistorage:blocks/stacking/cloud_side_bottom_dense",
+                "doors": "multistorage:blocks/stacking/cloud_doors_bottom_dense"
+            } },
+            "dense_chameleon": {
+                "model": "cube_all",
+                "textures": { "all": "multistorage:blocks/chameleon_cloud_dense" }
+            },
+            "dense_junkbox_top": {
+                "model": "multistorage:junkbox_upper",
+                "textures": {
+                    "bottom": "multistorage:blocks/junkbox_top_cloud_dense",
+                    "top": "multistorage:blocks/junkbox_top_cloud_dense",
+                    "side": "multistorage:blocks/junkbox_side_cloud_dense",
+                    "front": "multistorage:blocks/junkbox_front_cloud"
+                }
+            },
+            "dense_junkbox_bottom": {
+                "model": "multistorage:junkbox_lower",
+                "textures": {
+                    "bottom": "multistorage:blocks/junkbox_top_cloud_dense",
+                    "top": "multistorage:blocks/junkbox_top_cloud_dense",
+                    "side": "multistorage:blocks/junkbox_side_cloud_dense",
+                    "front": "multistorage:blocks/junkbox_front_cloud"
+                }
+            },
+            "dense_junkbox_double": {
+                "model": "multistorage:junkbox_full",
+                "textures": {
+                    "bottom": "multistorage:blocks/junkbox_top_cloud_dense",
+                    "top": "multistorage:blocks/junkbox_top_cloud_dense",
+                    "side": "multistorage:blocks/junkbox_side_cloud_dense",
+                    "front": "multistorage:blocks/junkbox_front_cloud"
+                }
+            }
+        }
+    }
+}

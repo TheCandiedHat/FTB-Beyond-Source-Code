@@ -1,0 +1,13 @@
+{
+    "__comment": "Model file for four connected sides in a cross shape.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "environmentaltech:blocks/glass_clear/glass_clear0C",
+        "down": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"up": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"north": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"south": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"west": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"east": "environmentaltech:blocks/glass_clear/glass_clear4C"
+    }
+}

@@ -1,0 +1,183 @@
+Manifest-Version: 1.0
+
+Name: com/github/lunatrius/core/client/renderer/GeometryMasks$Line.cla
+ ss
+SHA-256-Digest: km0L97FkTrhuBFl6OElYn6TGxKPzVFbbRnv3CkJnzxw=
+
+Name: com/github/lunatrius/core/util/vector/Vector3f.class
+SHA-256-Digest: U+50si9RNiYV5J3qU4VsWDjj4n3naaEdZ1PKPnzIrMY=
+
+Name: assets/core/lang/en_US.lang
+SHA-256-Digest: b61hkR4j0PLkTEtYOTog+XkrZLExZA8/XlGpkBui8bw=
+
+Name: com/github/lunatrius/core/reference/Names$Config$Category.class
+SHA-256-Digest: pvsWx/qW1r+E0ql6SWZl/JpLUAtxFowQMJrS1xPZaxE=
+
+Name: com/github/lunatrius/core/handler/DelayedGuiDisplayTicker.class
+SHA-256-Digest: jVr0WHO8MAougOr4SFpYRLaIa5hmkohH+1XplycP5DI=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper$3.class
+SHA-256-Digest: sCsIIJnNrrV5uPPJ+MxCHBZKx1T4iH2Yv5EfHPKJUjk=
+
+Name: com/github/lunatrius/core/client/renderer/GeometryTessellator.cl
+ ass
+SHA-256-Digest: hzc4zA2rVa892nH9NBJyCT793WQ1lr5FfyZbB7N+7jc=
+
+Name: com/github/lunatrius/core/exceptions/LocalizedException.class
+SHA-256-Digest: 04M8fWLcZv3/PiuGcUp0a1mZ03xXLKTiUOuI7OTYXfY=
+
+Name: com/github/lunatrius/core/version/VersionChecker$ModData$1.class
+SHA-256-Digest: zdR/v+6Qc9Qr1PVx0Hq9ak14PAMkvWgEI56je1iqdwQ=
+
+Name: com/github/lunatrius/core/entity/EntityHelper.class
+SHA-256-Digest: AZjI05enrGsCJg8WPSnPvqHSDw11+ifPvtGpMV99/no=
+
+Name: com/github/lunatrius/core/util/vector/Vector2f.class
+SHA-256-Digest: WpSzHAbIsaxbWyWU/ibnkb3CVFM/M8iIPzW0WIwhpqo=
+
+Name: assets/core/lang/de_DE.lang
+SHA-256-Digest: le+YiwzmEXqtxBVCIR3NYcBDTCH+/j0TxX1zlj2m368=
+
+Name: com/github/lunatrius/core/reference/Names$Config.class
+SHA-256-Digest: Bp6mE9UCFI78H889lbfGrmYPuaJI8aFXKh29bk43sA8=
+
+Name: assets/core/lang/fr_FR.lang
+SHA-256-Digest: 4tcMmrHsiQvLfKHU5DBW8LrSkChKEakem3YdxIhXv+o=
+
+Name: com/github/lunatrius/core/client/gui/FontRendererHelper.class
+SHA-256-Digest: Zw5pukNs2RHmmH0q8Dzv7FugPOkF0a48sP8p0/rNLbE=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper$2$1.class
+SHA-256-Digest: wYPrcLcWxiQrXcMNoOj7cn67zl/kKyMnBdUH6dKYOF0=
+
+Name: com/github/lunatrius/core/util/vector/Vector2i.class
+SHA-256-Digest: 8h4iZJsaDxAy4Juryk8S9SueY3Bvvb+z9YUIiUTdts0=
+
+Name: com/github/lunatrius/core/client/gui/config/GuiConfigComplex.cla
+ ss
+SHA-256-Digest: 4sjeWb/UkF98fpE2G54JgKCMkRjy868aqR2RUdqF4wI=
+
+Name: pack.mcmeta
+SHA-256-Digest: wfy2Br0Y7JGYzwrCmBhDWEGkJUll/K7KG1W1i8Da1Xw=
+
+Name: assets/core/lang/ru_RU.lang
+SHA-256-Digest: oM+sKqx7zXdrrN39JZJ+uOzn30bwSa34RQJhSwzaAn8=
+
+Name: com/github/lunatrius/core/reference/Reference.class
+SHA-256-Digest: 7wC6A9Hlnaf46xOupAIkiLcSy8zFlRH9T07EM1LHdMY=
+
+Name: com/github/lunatrius/core/client/gui/config/GuiFactory$GuiModCon
+ fig.class
+SHA-256-Digest: Ot1FP3X+j5lWqU+e+XQnO39MgEAPtav1+cH1x39lKfg=
+
+Name: com/github/lunatrius/core/util/vector/Vector2d.class
+SHA-256-Digest: rN/drcVeU32X7wekw8cZn8WjHhU/t0ZTEAQ6QPycv6Y=
+
+Name: com/github/lunatrius/core/reference/Names$ModId.class
+SHA-256-Digest: r0gYZ2xZqhoOahxKXabBADk6C4mwZSRjO10EVSMFiyU=
+
+Name: com/github/lunatrius/core/client/gui/GuiHelper.class
+SHA-256-Digest: CoVZ4YZdULT4GoSkJUPexB6n8bCkQHXQlqx071ZdLEU=
+
+Name: com/github/lunatrius/core/proxy/ServerProxy.class
+SHA-256-Digest: ifySZYvM8jOtmXUA+JQaMhCEO3enJc5ClPGu0mFDcxI=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper$1.class
+SHA-256-Digest: oJ0M1GbZSEV3UQYk0vK223pAYNhTmTA1p4OfsAK4aCs=
+
+Name: com/github/lunatrius/core/version/VersionChecker$ModData.class
+SHA-256-Digest: uTaPyD8qhMJwsVSnWUykvJ8hsnVyRw5CRghHv/cJyU0=
+
+Name: com/github/lunatrius/core/util/vector/Vector3d.class
+SHA-256-Digest: 7rQtQysSz1WX3SUA42CwVoRtL21TysvJZtNOuIX3Bzo=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper.class
+SHA-256-Digest: eG9mMfnXfFI/0CriXkSFexQpD/V7osx9XrjRvmpN9GE=
+
+Name: com/github/lunatrius/core/util/vector/Vector4f.class
+SHA-256-Digest: QyIAck8Ubw0CKPusPFKk2rVj8TEm8eBj2t402rsbxiU=
+
+Name: com/github/lunatrius/core/reference/Names.class
+SHA-256-Digest: 9zHohT9oThRWd2UQTIARWduvYKSEb4QbgZkIak7iHTk=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper$2.class
+SHA-256-Digest: 3pIZ3JDutlfrz7dB/q34FzhsE5skx003wzUNgvuu/Jw=
+
+Name: mcmod.info
+SHA-256-Digest: nmab2N01oKgXXQ0HcDChi6s8jlPKfSDjj/8PN6++T7g=
+
+Name: com/github/lunatrius/core/client/renderer/GeometryMasks$Quad.cla
+ ss
+SHA-256-Digest: t4MiBRc56U0Ao2iervs0ocyoGcXAuVH4b+dq52Zd19U=
+
+Name: com/github/lunatrius/core/client/gui/config/GuiFactory.class
+SHA-256-Digest: +pxpCE8zUJlQk9aGfwWhDMxlNb/+ixaHAB+Cnz1waOM=
+
+Name: com/github/lunatrius/core/util/vector/Vector4i.class
+SHA-256-Digest: 7SwFwqWY1Y8wJ2thJ+D+BOS/E3FqgSWjC74epvqJkDc=
+
+Name: com/github/lunatrius/core/util/vector/Vector4d.class
+SHA-256-Digest: pGoof+RhBTLID0EIDe6cjCfKhksCWlNjAQwmtpL+pSk=
+
+Name: com/github/lunatrius/core/proxy/CommonProxy.class
+SHA-256-Digest: DRx9+Tt1PzAzhYvB2xeeECBIJMvRR4eAx46XvmtDxmQ=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper$1$1.class
+SHA-256-Digest: LTG3LzwyP4QPDMmrmHulHFsu1WUo/0i4zCFQgB64S2E=
+
+Name: com/github/lunatrius/core/client/gui/GuiScreenBase.class
+SHA-256-Digest: pv3GDkkzhhy3kBXmJ01Fp/V2cf0JunVMSaQv2wEiW0Q=
+
+Name: com/github/lunatrius/core/handler/ConfigurationHandler.class
+SHA-256-Digest: QBtG7/v2//qWUv8oAIlJk25fP2tkrfQ5NJucqHNOB5Y=
+
+Name: com/github/lunatrius/core/world/chunk/ChunkHelper.class
+SHA-256-Digest: X0XzRCRMFg0TWO2OgUFG65OnMDpf4lXx7s1eISplS1E=
+
+Name: com/github/lunatrius/core/version/VersionChecker.class
+SHA-256-Digest: E2sJg7TtGVoKe2febN15Fo/mgxF7Ve4r71hMQNJhiTY=
+
+Name: com/github/lunatrius/core/LunatriusCore.class
+SHA-256-Digest: Q4da8dKn5P8LdVpeB9Gpn1XkXJ1a0lHIt46PZABmlw8=
+
+Name: assets/core/lang/zh_CN.lang
+SHA-256-Digest: 80/frszznRYSa58Gni0dQYJFZ8+zyKnUMS29PmqzEHQ=
+
+Name: com/github/lunatrius/core/client/gui/config/GuiConfigSimple.clas
+ s
+SHA-256-Digest: 1BqJ4W1NuBD5xBdy5e5pNqs15/IsKVgJC34kMQg1cv0=
+
+Name: com/github/lunatrius/core/util/vector/Vector3i.class
+SHA-256-Digest: J3VV79mlJbf9t+NdAtXqAoBj9yTG/dToYoA2HOKQ7Yc=
+
+Name: com/github/lunatrius/core/util/math/BlockPosHelper$3$1.class
+SHA-256-Digest: 1L6HzwfhYoERzkc4flg72XVATM5a33HIXzqn5yaYsoM=
+
+Name: com/github/lunatrius/core/version/VersionChecker$BuildData.class
+SHA-256-Digest: xJtUv82AZvLoFvKGo8xfr/clRpO53p8CsXWDki7Q/8U=
+
+Name: com/github/lunatrius/core/util/math/MBlockPos.class
+SHA-256-Digest: FsEL8fBfUU4mmozRI1m2DCU9KFykPpyC32xG/rbTZbk=
+
+Name: com/github/lunatrius/core/version/VersionChecker$1.class
+SHA-256-Digest: uTMdKj1pf2e9Y1XJcxoQ/fFJz3BXwTGCKbui5wS0F34=
+
+Name: com/github/lunatrius/core/proxy/ClientProxy.class
+SHA-256-Digest: EJljbdglV7SF6J5urBMMvqYwxg5YWjPO3/I/UIgjC+Y=
+
+Name: com/github/lunatrius/core/client/renderer/GeometryMasks.class
+SHA-256-Digest: yteogAyEGKneBM7rlgxyf8oUjF2LNC7D3E/SRPmkUbM=
+
+Name: com/github/lunatrius/core/version/VersionChecker$VersionData.cla
+ ss
+SHA-256-Digest: j8HywZ7j5CEm8hSz0R1OFaSc1Z3I6BoSxguycinkYQk=
+
+Name: com/github/lunatrius/core/version/ForgeVersionCheck.class
+SHA-256-Digest: EM5uYMfEkVJwT5O7whk2zNvzRgpUxH1IVt8remeRn68=
+
+Name: com/github/lunatrius/core/client/gui/GuiNumericField.class
+SHA-256-Digest: JYcZTvvfy/xIlTr8mTlH2eXbH5SYw1/lpbddUNcKmRY=
+
+Name: com/github/lunatrius/core/util/FileUtils.class
+SHA-256-Digest: Luyz2T9eDAPCCeTC2swXjFX6ZuURXXoFGsoljW9X+vU=
+

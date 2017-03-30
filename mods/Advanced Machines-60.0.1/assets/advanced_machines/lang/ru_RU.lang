@@ -1,0 +1,33 @@
+advanced_machines.machines.rotary_macerator=Вращающийся дробитель
+advanced_machines.machines.singularity_compressor=Сингулярный компрессор
+advanced_machines.machines.centrifuge_extractor=Центробежный экстрактор
+advanced_machines.machines.compacting_recycler=Уплотняющий утилизатор
+advanced_machines.machines.liquescent_extruder=Растворяющий экструдер
+advanced_machines.machines.impellerized_roller=Крыльчатый каток
+advanced_machines.machines.water_jet_cutter=Водоструйный резак
+advanced_machines.machines.thermal_washer=Термический промыватель
+
+advanced_machines.sharp_plate=Заострённая железная пластина
+
+advanced_machines.gui.temp=Нагрев:
+advanced_machines.gui.speed=Скорость:
+advanced_machines.gui.speed.rot_unit=об/мин
+advanced_machines.gui.speed.vel_unit=см/с
+advanced_machines.gui.pressure=Давление:
+advanced_machines.gui.pressure.unit=Гиббл
+
+
+#TODO
+tile.advmachine.canner.name=Вакуумный наполнитель
+
+tile.advmachine.arraycable.name=Массивный провод
+tile.advmachine.arraysolar.name=Массивная солнечная панель
+tile.advmachine.arraywind.name=Массивный ветрогенератор
+tile.advmachine.arraywater.name=Массивный гидрогенератор
+tile.advmachine.arraycontroller.name=Массивный контроллер
+advmachine.arraycontroller.rclick01=--- МАССИВНЫЙ КОНТРОЛЛЕР ---
+advmachine.arraycontroller.rclickRR=Частота обновления: каждые %s тиков (проверка %s блоков)
+advmachine.arraycontroller.rclickSP=%s беспрепятственных солнечных панелей
+advmachine.arraycontroller.rclickWA=%s EU/т от ветрогенераторов
+advmachine.arraycontroller.rclickWI=%s EU/т от ветрогенераторов (сейчас)
+advmachine.arraycontroller.rclickCP=Текущая выработка: %s EU/t

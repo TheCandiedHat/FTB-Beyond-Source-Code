@@ -1,0 +1,137 @@
+[
+	{
+	"id": "TOC",
+	"title": "MultiStorage",
+	"type": "toc",
+	"linklist": [ "vaultDoor", "vaultConcrete", "vaultCorer", "enderLinkBag", "enderLinkChest", "stackingStorageEarth", "hiddenStorageEarth", "junkboxEarth", "storageUpgradeEarth" ]
+	},
+	
+	{
+	"id": "vaultDoor",
+	"title": "Vault Door",
+	"type": "crafting",
+	"output": "multistorage:vault:0",
+	"text": "Vaults are useful for creating an area for you and people you allow in.<BR>You will need vault Concrete.<BR>Place the door last to finalize the vault.<BR>Doors can fit in a 2x2 or 3x3 space.<BR>\u00A7eShift+Right-Click\u00A7r on the door to set up access rules or remove the door."
+	},
+	
+	{
+	"id": "vaultConcrete",
+	"title": "Vault Concrete",
+	"type": "crafting",
+	"output": "multistorage:vault:100",
+	"text": "Pour the concrete onto iron bars to create a block.<BR>By default concrete blocks can not be removed without silktouch or loss.<BR>Valuts must be cubic and can be anywhere from 4x4x4 to 16x16x16.",
+	"linknext": "vaultConcrete2"
+	},
+	
+	{
+	"id": "vaultConcrete2",
+	"title": "Vault Concrete",
+	"type": "text",
+	"text": "Whether concrete blocks can be picked up or crafted is changeable in the config. Either way once the vault has been finalized by adding a door the concrete is indestructible until door removal by owner.<BR>Pour concrete onto the following for special wall pieces; glass for liquid, hopper for items, redstone block for signals, and conduit for power."
+	},
+
+	{
+	"id": "vaultCorer",
+	"title": "Vault Corer",
+	"type": "crafting",
+	"output": "multistorage:vault:15",
+	"text": "The Corer enables the changing of vault walls on an active vault.<BR>Requires fuel, vault concrete, and a new core. [a base block, or normal/broken vault wall]"
+	},
+	
+	{
+	"id": "enderLinkBag",
+	"title": "Ender Link Bag",
+	"type": "crafting",
+	"output": "multistorage:ender_bag:0",
+	"text": "Used to access an Ender Link Chest of the same color.<BR>\u00A7eShift+Right-Click\u00A7r on a chest with the bag to link them.",
+	"linknext": "enderBag"
+	},
+	
+	{
+	"id": "enderBag",
+	"title": "Ender Bag",
+	"type": "crafting",
+	"output": "multistorage:ender_bag:2",
+	"text": "Used to access Minecraft's ender chest remotly."
+	},
+	
+	{
+	"id": "enderLinkChest",
+	"title": "Ender Link Chest",
+	"type": "crafting",
+	"output": "multistorage:ender_chest:0",
+	"text": "\u00A7eRight-Click\u00A7r on the bands with dye to change the color.<BR>\u00A7eRight-Click\u00A7r with a diamond to make it a private network.<BR>\u00A7eRight-Click\u00A7r with ender pearls to expand space(up to a double chest)."
+	},
+	
+	{
+	"id": "stackingStorageEarth",
+	"title": "Stacking Storage",
+	"type": "crafting",
+	"output": "multistorage:stone_storage:1",
+	"text": "Place one down then \u00A7eRight-Click\u00A7r on top with another and they will connect and share an inventory.<BR>Stacks up to three tall.<BR>Singles can also be placed without connecting by not clicking on an existing one while placing.",
+	"linknext": "stackingStorageCloud"
+	},
+	
+	{
+	"id": "stackingStorageCloud",
+	"title": "Stacking Storage Cloud",
+	"required_mod": "terraqueous",
+	"type": "crafting",
+	"output": "multistorage:cloud_storage:1",
+	"text": "Place one down then \u00A7eRight-Click\u00A7r on top with another and they will connect and share an inventory.<BR>Stacks up to three tall.<BR>Singles can also be placed without connecting by not clicking on an existing one while placing."
+	},
+	
+	{
+	"id": "hiddenStorageEarth",
+	"title": "Hidden Storage",
+	"type": "crafting",
+	"output": "multistorage:stone_storage:3",
+	"text": "Place on a block to copy that locations appearance.<BR>To change the location click the arrows icon in the gui. \u00A7eShift+Right-Click\u00A7r to open chest, \u00A7eRight-Click\u00A7r to open the linked UI.",
+	"linknext": "hiddenStorageCloud"
+	},
+	
+	{
+	"id": "hiddenStorageCloud",
+	"title": "Hidden Storage Cloud",
+	"required_mod": "terraqueous",
+	"type": "crafting",
+	"output": "multistorage:cloud_storage:3",
+	"text": "Place on a block to copy that locations appearance.<BR>To change the location click the arrows icon in the gui. \u00A7eShift+Right-Click\u00A7r to open chest, \u00A7eRight-Click\u00A7r to open the linked UI."
+	},
+	
+	{
+	"id": "junkboxEarth",
+	"title": "Junkbox",
+	"type": "crafting",
+	"output": "multistorage:stone_storage:5",
+	"text": "Used to loosely store large amounts of items.<BR>Although you don't physically lose items they may be hard to find.<BR>You'll need to either dig through the items or shake the box to see more.",
+	"linknext": "junkboxCloud"
+	},
+	
+	{
+	"id": "junkboxCloud",
+	"title": "Junkbox Cloud",
+	"required_mod": "terraqueous",
+	"type": "crafting",
+	"output": "multistorage:cloud_storage:5",
+	"text": "Used to loosely store large amounts of items.<BR>Although you don't physically lose items they may be hard to find.<BR>You'll need to either dig through the items or shake the box to see more."
+	},
+	
+	{
+	"id": "storageUpgradeEarth",
+	"title": "Storage Upgrade",
+	"type": "crafting",
+	"output": "multistorage:stone_storage:0",
+	"text": "\u00A7eShift+Right-Click\u00A7r on a Hidden Storage, Stacking Chest, or Junkbox to double it's capacity.",
+	"linknext": "storageUpgradeCloud"
+	},
+	
+	{
+	"id": "storageUpgradeCloud",
+	"title": "Storage Upgrade Cloud",
+	"required_mod": "terraqueous",
+	"type": "crafting",
+	"output": "multistorage:cloud_storage:0",
+	"text": "\u00A7eShift+Right-Click\u00A7r on a Hidden Storage, Stacking Chest, or Junkbox to double it's capacity."
+	}
+]

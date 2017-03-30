@@ -1,0 +1,8 @@
+{
+    "id": "minecraft:prismarine_rough",
+    "blocks": {
+        "stairs": "quark:prismarine_stairs",
+        "slab": "quark:prismarine_slab",
+        "wall": { "id": "quark:prismarine_rough_wall", "meta": 0 }
+    }
+}

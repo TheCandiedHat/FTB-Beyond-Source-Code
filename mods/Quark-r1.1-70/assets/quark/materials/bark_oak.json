@@ -1,0 +1,12 @@
+{
+	"name": "Oak Bark",
+	"id": "quark:bark_oak",
+	"type": "wood",
+	"hardness": 2.0,
+	"resistance": 5.0,
+	"textures": "minecraft:blocks/log_oak",
+	"blocks": {
+		"full": { "id": "quark:bark", "meta": 0 },
+		"wall": { "id": "quark:bark_oak_wall", "meta": 0 }
+	}
+}

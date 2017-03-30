@@ -1,0 +1,3 @@
+JMH S 45 pl.asie.foamfix.tests.BenchmarkResourceLookup S 100 pl.asie.foamfix.tests.generated.BenchmarkResourceLookup_resourceExistsAndGetStreamFastCached_jmhTest S 36 resourceExistsAndGetStreamFastCached S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 45 pl.asie.foamfix.tests.BenchmarkResourceLookup S 94 pl.asie.foamfix.tests.generated.BenchmarkResourceLookup_resourceExistsAndGetStreamFast_jmhTest S 30 resourceExistsAndGetStreamFast S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 45 pl.asie.foamfix.tests.BenchmarkResourceLookup S 94 pl.asie.foamfix.tests.generated.BenchmarkResourceLookup_resourceExistsAndGetStreamSlow_jmhTest S 30 resourceExistsAndGetStreamSlow S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 

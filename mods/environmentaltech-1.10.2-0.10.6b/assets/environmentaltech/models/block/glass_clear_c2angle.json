@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when two adgacent sides are connected.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "environmentaltech:blocks/glass_clear/glass_clear0C",
+        "down": "environmentaltech:blocks/glass_clear/glass_clear1C_e",
+		"up": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"north": "environmentaltech:blocks/glass_clear/glass_clear2C_uw",
+		"south": "environmentaltech:blocks/glass_clear/glass_clear2C_ue",
+		"west": "environmentaltech:blocks/glass_clear/glass_clear1C_u",
+		"east": "environmentaltech:blocks/glass_clear/glass_clear4C"
+    }
+}

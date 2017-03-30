@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when three adjacent sides connected sides in a T shape.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "environmentaltech:blocks/glass_clear/glass_clear0C",
+        "down": "environmentaltech:blocks/glass_clear/glass_clear2C_we",
+		"up": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"north": "environmentaltech:blocks/glass_clear/glass_clear3C_uwe",
+		"south": "environmentaltech:blocks/glass_clear/glass_clear3C_uwe",
+		"west": "environmentaltech:blocks/glass_clear/glass_clear4C",
+		"east": "environmentaltech:blocks/glass_clear/glass_clear4C"
+    }
+}

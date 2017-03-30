@@ -1,0 +1,13 @@
+{
+	"name": "Thatch",
+	"id": "quark:thatch",
+	"type": "plant",
+	"hardness": 0.5,
+	"resistance": 0.8333333,
+	"textures": "quark:blocks/thatch",
+	"blocks": {
+		"full": "quark:thatch",
+		"stairs": "quark:thatch_stairs",
+		"slab": { "id": "quark:thatch_slab", "meta": 0 }
+	}
+}

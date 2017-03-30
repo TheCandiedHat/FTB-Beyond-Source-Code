@@ -1,0 +1,9 @@
+tile.enderChest.name=Сундук Края
+tile.enderTank.name=Цистерна Края
+item.enderPouch.name=Сумка Края
+enderstorage.serverop=Оператор
+
+enderstorage.command.usage=enderstorage <частота>|(<цвет> <цвет> <цвет>) [владелец]
+enderstorage.command.no_arguments=Неверное число аргументов
+enderstorage.command.no_freq=Неверная частота
+enderstorage.command.no_colour=Неверный цвет: %s

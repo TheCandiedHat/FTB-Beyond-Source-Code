@@ -1,0 +1,76 @@
+#fr_CA
+
+config.Client.tooltip=Configurer les options du côté client seulement.
+config.Common.tooltip=Configurer les options générales.
+config.Core.tooltip=Configurer les options du module du noyau.
+config.Loot.tooltip=Configurer les options du module du loot.
+
+enchant.cofh.holding=Contenu
+enchant.cofh.multishot=Multi-tirs
+
+fluid.tile.lava=Lave
+fluid.tile.water=Eau
+
+info.cofh.access=Accès
+info.cofh.accessMode=Mode d'accès
+info.cofh.accessPrivate=Privé
+info.cofh.accessPublic=Public
+info.cofh.accessRestricted=Restreint
+info.cofh.all=Tout
+info.cofh.amount=Quantité
+info.cofh.anotherplayer=Un autre joueur
+info.cofh.blank=Vierge
+info.cofh.capacity=Capacité
+info.cofh.contents=Contenu
+info.cofh.controlStatus=Statut de contrôle
+info.cofh.damageAttack=Dégâts d'attaque
+info.cofh.damageFlux=Dégâts de flux
+info.cofh.disabled=Désactivé
+info.cofh.dry=Sèche
+info.cofh.duration=Durée
+info.cofh.empty=Vide
+info.cofh.enabled=Activé
+info.cofh.energy=Énergie
+info.cofh.energyConsume=Consommation
+info.cofh.energyProduce=Production
+info.cofh.energyStored=Énergie stockée
+info.cofh.fluid=Fluide
+info.cofh.fluids=Fluides
+info.cofh.forDetails=pour avoir des détails
+info.cofh.frequency=Fréquence
+info.cofh.hasInfo=Contient de l'information
+info.cofh.high=Fort
+info.cofh.hold=Maintenez
+info.cofh.ignored=Ignoré
+info.cofh.item=Objet
+info.cofh.items=Objets
+info.cofh.level=Niveau
+info.cofh.locked=Verrouillée
+info.cofh.low=Faible
+info.cofh.maxPower=Énergie maximum
+info.cofh.none=Rien
+info.cofh.owner=Propriétaire
+info.cofh.perUse=par utilisation
+info.cofh.press=Appuyez sur
+info.cofh.receive=Reçoit
+info.cofh.receiving=Reçoit
+info.cofh.redstoneControl=Ctrl. de redstone
+info.cofh.security=Securité
+info.cofh.send=Envoie
+info.cofh.sending=Envoie
+info.cofh.shift=Maj
+info.cofh.signalRequired=Signal requis
+info.cofh.soaked=Mouillée
+info.cofh.source=infinie
+info.cofh.stored=Stocké
+info.cofh.strength=Force
+info.cofh.success=Succès !
+info.cofh.transfer=Transférer
+info.cofh.tutorial.fluxRequired=Requiert un flux de redstone pour fonctionner.
+info.cofh.tutorial.tabAugment=L'onglet Augmentation permet des ajouts de modules.
+info.cofh.tutorial.tabRedstone=L'onglet Contrôle de redstone configure comment cet appareil réagit aux signaux de redstone.
+info.cofh.tutorial.tabSecurity=L'onglet Sécurité permet au propriétaire de contrôler qui peut accéder à l'appareil.
+info.cofh.tutorial=Tutoriel
+info.cofh.unlocked=Déverouillée
+
+item.invalid.name=Objet invalide (détruire)
